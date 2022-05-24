@@ -1,4 +1,4 @@
-#### <u>AI Lab Notes</u>
+## <u>AI Lab Notes</u>
 
 ##### **1.  Adding symbolic AI programming to Jetson deep neural network development systems**
 
