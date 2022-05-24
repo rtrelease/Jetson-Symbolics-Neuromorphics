@@ -6,7 +6,7 @@ Several decades after its inception, artificial intelligence (AI) development is
 
 In large part, this AI renaissance has been powered by NVIDIA GPU cards and systems, with their latest Jetson embedded processors providing real-time computer vision, machine learning, natural language, and autonomous machine capabilities in compact low-power systems.
 
-*Given their teraOPs GPU processing speed and a solid base of proven DNN software resources, one could ask why ‘Python friendly’ Jetson developers might want to add ‘old traditional’ symbolic programming tools to their JetPack L4T environments.* 
+*Given their teraOPs GPU processing speeds and a solid base of proven DNN software resources, one could ask why ‘Python friendly’ Jetson developers might want to add ‘old traditional’ symbolic programming tools to their JetPack L4T environments.* 
 
 Simply put, with continually [evolving AI methods](http://aima.cs.berkeley.edu/index.html), newer hybrid [neural-symbolic](https://arxiv.org/abs/1905.06088) (or neurosymbolic) programming is being increasingly adopted for enhancing explainability of DNN-based functions, efficiency of machine learning, and availability of complementary new methods for inference. https://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai/fulltext
 
