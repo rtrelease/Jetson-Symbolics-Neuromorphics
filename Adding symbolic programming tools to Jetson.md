@@ -22,7 +22,7 @@ Each line represents a molecular process rule firing report, showing one gene ac
 
  A detailed account of this simulation's symbolic knowledge base and related molecular biology qualitative process modeling experiments can be found here:  https://www.sciencedirect.com/science/article/pii/S0933365799000214
 
-!(Screenshot from 2022-02-28 17-50-13.png)
+![Screenshot from 2022-02-28 17-50-13](https://user-images.githubusercontent.com/71346897/170128766-643d6a91-907b-4655-a479-9165013e0f15.png)
 
 
 <u>The second screen capture image</u> (below) demonstrates the CLIPSJNI IDE running another gene regulation experiment simulation in a multi-concept verbose mode, listing the initial conditions for the experimental system (actors etc.) as well as process rule firings' logic.  
