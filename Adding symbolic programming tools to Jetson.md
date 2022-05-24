@@ -25,7 +25,6 @@ Each line represents a molecular process rule firing report, showing one gene ac
 ![Screenshot from 2022-02-28 17-50-13](Screenshot from 2022-02-28 17-50-13.png)
 
 
-
 <u>The second screen capture image</u> (below) demonstrates the CLIPSJNI IDE running another gene regulation experiment simulation in a multi-concept verbose mode, listing the initial conditions for the experimental system (actors etc.) as well as process rule firings' logic.  
 
 The screen displays CLIPSIDE.jar IDE views of a REPL (command line) window (left) and CLIPS Lisp/Scheme like process rule code text window (right).  The background CLIPSIDE window menu bar supports point-click  files loading, editing, environment functions, execution commands and debug features. 
