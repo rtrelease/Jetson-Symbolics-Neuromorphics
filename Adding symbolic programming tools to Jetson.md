@@ -31,6 +31,6 @@ The screen displays CLIPSIDE.jar IDE views of a REPL (command line) window (left
 
 This experiment uses the same basic CLIPS-format symbolic knowledge base (biological molecules concepts and genetic signalling process rules) as the experiment shown above. This demonstrates that a different set of initial biological conditions results in a different pattern of process activations for a proviral gene.
 
-!(Screenshot from 2022-03-25 20-28-19.png)
+![Screenshot from 2022-03-25 20-28-19](https://user-images.githubusercontent.com/71346897/170128984-4a60f656-8cde-483d-8c8d-beadd2889da4.png)
 
 Robert B. Trelease, Ph.D.  03/31/2022
