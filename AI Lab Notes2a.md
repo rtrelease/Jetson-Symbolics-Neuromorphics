@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-##### **2.  Making symbolic AI progamming (and other things) *go-faster* on Jetsons** with *GraalVM*, its LLVM, polyglot languages resources, and GPUs
+#### **2.  Making symbolic AI progamming (and other things) *go-faster* on Jetsons** with *GraalVM*, its LLVM, polyglot languages resources, and GPUs
 
 The previous [AI Lab Notes](https://www.seeedstudio.com/blog/2022/04/10/ai-lab-notes-adding-symbolic-ai-programming-to-nvidia-jetson-powered-deep-neural-network-development-systems/) covered adding *open source* symbolic programming tools to the Jetson Xavier NX L4T/Ubuntu Linux for developing new *neural-symbolic* edge applications with NVIDIA's excellent GPU-based deep neural networks resources environments.   Prime emphasis was placed on inter-operating well with NV's powerful Python deep learning resources, including Jupyter Notebooks.
 
@@ -16,10 +16,7 @@ The larger software collection also supports our lab legacy 3D/4D biomedical res
 
 See the following GraalVM software stack diagram (from [NVIDIA's Tech Blog](https://developer.nvidia.com/blog/grcuda-a-polyglot-language-binding-for-cuda-in-graalvm/)).
 
-
-
-![Architecture-of-grCUDA-in-the-GraalVM-Stack](/Users/trelease/NVidiaAI/SymbolicOnNX/Architecture-of-grCUDA-in-the-GraalVM-Stack.png)
-
+![Architecture-of-grCUDA-in-the-GraalVM-Stack](https://user-images.githubusercontent.com/71346897/170131013-0a28c820-ba66-4b73-b28a-ad771d925639.png)
 
 
 [Java owner Oracle developed and continues to release new GraalVM upgrades](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066).  It ultimately collaborated with NVIDIA to develop the [grCUDA](https://github.com/NVIDIA/grcuda) polyglot bindings library 'top layer' for <u>compiling GPU kernel code with any supported language</u>.
