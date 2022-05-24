@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-##### **1.  Adding symbolic AI programming to Jetson deep neural network development systems**
+#### **1.  Adding symbolic AI programming to Jetson deep neural network development systems**
 
 Several decades after its inception, artificial intelligence (AI) development is now driven by widely useful *connectionist* systems, deep neural network (DNN) simulations that depend on large-scale parallel computing with graphics processing units (GPUs). It is truly the age of high perormance GPU computing, from gaming, 3D simulation, and robotics, through professional design, scientific research, and medicine.
 
