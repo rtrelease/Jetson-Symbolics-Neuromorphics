@@ -22,7 +22,7 @@ Each line represents a molecular process rule firing report, showing one gene ac
 
  A detailed account of this simulation's symbolic knowledge base and related molecular biology qualitative process modeling experiments can be found here:  https://www.sciencedirect.com/science/article/pii/S0933365799000214
 
-(Screenshot from 2022-02-28 17-50-13.png)
+!(Screenshot from 2022-02-28 17-50-13.png)
 
 
 <u>The second screen capture image</u> (below) demonstrates the CLIPSJNI IDE running another gene regulation experiment simulation in a multi-concept verbose mode, listing the initial conditions for the experimental system (actors etc.) as well as process rule firings' logic.  
@@ -31,6 +31,6 @@ The screen displays CLIPSIDE.jar IDE views of a REPL (command line) window (left
 
 This experiment uses the same basic CLIPS-format symbolic knowledge base (biological molecules concepts and genetic signalling process rules) as the experiment shown above. This demonstrates that a different set of initial biological conditions results in a different pattern of process activations for a proviral gene.
 
-![Screenshot from 2022-03-25 20-28-19.png]
+!(Screenshot from 2022-03-25 20-28-19.png)
 
 Robert B. Trelease, Ph.D.  03/31/2022
