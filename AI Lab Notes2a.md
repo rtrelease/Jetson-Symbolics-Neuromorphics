@@ -36,7 +36,7 @@ The screen capture image below demonstrates GraalVM running the previously featu
 
 Each of these independent Java processes was launched and tested from its own Terminal shell, with individual sessions I/O shown in the screen image.  
 
-Starting on the left bottom, PATH and JAVA_HOME are first set to the GraalVM installation */bin* directory, so ImageJ.jar will use GrallVM.  After launch, a digital pathology slide is loaded through the GUI File menu, displaying a microscopic image of stained gland tissues, from those used in our CLARA AGX research and development.
+Starting on the left bottom, PATH and JAVA_HOME are first set to the GraalVM installation */bin* directory, so ImageJ.jar will use GraalVM.  After launch, a digital pathology slide is loaded through the GUI File menu, displaying a microscopic image of stained gland tissues, from those used in our CLARA AGX research and development.
 
 In the middle-bottom shell, with JAVA_HOME/PATH set to 'graal/bin', *clojure .jar*  is launched from its own download directory, and the Clojure command line REPL awaits code input at the *user=>* prompt.
 
