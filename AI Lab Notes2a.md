@@ -1,4 +1,4 @@
-#### <u>AI Lab Notes</u>
+## <u>AI Lab Notes</u>
 
 ##### **2.  Making symbolic AI progamming (and other things) *go-faster* on Jetsons** with *GraalVM*, its LLVM, polyglot languages resources, and GPUs
 
