@@ -31,7 +31,8 @@ The very next step was to download the newest 22.1 release of [GraalVM Community
 
 The screen capture image below demonstrates GraalVM running the previously featured symbolic gene regulation modeling system in **CLIPS** (JNI/IDE; top center/right), together with the **ImageJ** biomedical image processing app (left) and the **Clojure** programming language REPL in a terminal window (lower center).  
 
-![Screenshot from 2022-05-09 20-35-15](/Users/trelease/NVidiaAI/SymbolicOnNX/Screenshot from 2022-05-09 20-35-15.png)
+![Screenshot from 2022-05-09 20-35-15](https://user-images.githubusercontent.com/71346897/170131257-44aa3557-aea2-4a2c-a4bc-d4e4740ac8a9.png)
+
 
 Each of these independent Java processes was launched and tested from its own Terminal shell, with individual sessions I/O shown in the screen image.  
 
