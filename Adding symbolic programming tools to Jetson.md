@@ -10,7 +10,7 @@ In large part, this AI renaissance has been powered by NVIDIA GPU cards and syst
 
 Simply put, with continually [evolving AI methods](http://aima.cs.berkeley.edu/index.html), newer hybrid [neural-symbolic](https://arxiv.org/abs/1905.06088) (or neurosymbolic) programming is being increasingly adopted for enhancing explainability of DNN-based functions, efficiency of machine learning, and availability of complementary new methods for inference. https://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai/fulltext
 
-Over the past two years, the author has worked on assembling a set of compatible open source *symbolic* AI programming tools and utility applications that will integrate well with the Jetsons' Arm64 L4T (Ubuntu) operating system.  These include amd64 Ubuntu 18.04 versions for the EGX-class Xeon 20 + RTX GPU workstation that is the Jetsons’ JetPack SDK host and NGC development archive container manager.
+Over the past two years, the author has worked on assembling a set of compatible open source *symbolic* AI programming tools and utility applications that integrate well with the Jetsons' Arm64 L4T (Ubuntu) operating system.  These include amd64 Ubuntu 18.04 versions for the EGX-class Xeon 20 + RTX GPU workstation that is the Jetsons’ JetPack SDK host and NGC development archive container manager.
 
 ***The images below show first tests of a newly compiled CLIPS 6.40 (2/21) <u> Lisp/Scheme like symbolic programming environment </u> running qualitative  process simulations on a Jetson Xavier NX.***  CLIPS is executing though the OpenJDK Java virtual machine via a .*jar* app launched from a REPL command line. The required CLIPS Java/C .*so* function library was compiled for Jetson's specific arm64 OpenJDK 11 installation.
 
