@@ -1,7 +1,9 @@
 # Jetson-Symbolics
 **_Adding Symbolic Programming Tools to the NVIDIA Jetson GPU DNN/ML Environment_**
 
- ![image](https://user-images.githubusercontent.com/71346897/172037459-ceeb21c4-8f24-4882-b87f-e4eeaaa07608.png)
+
+![OrinModAI0](https://user-images.githubusercontent.com/71346897/173687571-8bab58be-31dd-42e9-b14b-c3642acd0388.png)
+
 
 
 **AI Lab Notes**
