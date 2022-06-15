@@ -54,7 +54,7 @@ Most remarkable for this developer was the downloaded grCUDA /examples [file tha
 
 For projects aimed at neural-symbolic development, this opens up polyglot code pipelining and GPU-accelerated convolutional network model training and enhanced symbolic inference with NVIDIA  Jetsons!  It is also a testament to the amazing collaborative open source work by many gifted developers over the years in the Jetson developer environment.
 
-At let us not forget that NVIDIA finally [announced open-sourcing their Linux GPU drivers](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1) this month:  More GPU power now, in whatever language(s) work(s) best for the task.
+And let us not forget that NVIDIA finally [announced open-sourcing their Linux GPU drivers](https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1) this month:  More GPU power now, in whatever language(s) work(s) best for the task.
 
 Stay tuned! 
 
