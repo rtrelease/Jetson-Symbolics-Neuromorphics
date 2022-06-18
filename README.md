@@ -11,4 +11,5 @@
  2. [Making symbolic AI programming (and other things) *go-faster* on Jetsons with *GraalVM* and grCUDA](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI%20Lab%20Notes2a.md)
 3. **The Neuroscientist's Edge HPC**: AGX Xavier and Orin + Neurosymbolic and Neurobiological Modeling Tools
 
-![image](https://user-images.githubusercontent.com/71346897/174226949-457e18e2-73c2-4f44-895b-1395d62452e5.png)
+![image](https://user-images.githubusercontent.com/71346897/174419239-78e7a17f-f9f2-4553-99a6-a08dbf99f544.png)
+
