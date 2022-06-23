@@ -16,7 +16,7 @@ The larger software collection also supports our lab legacy 3D/4D biomedical res
 
 See the following GraalVM software stack diagram (from [NVIDIA's Tech Blog](https://developer.nvidia.com/blog/grcuda-a-polyglot-language-binding-for-cuda-in-graalvm/)).
 
-![Architecture-of-grCUDA-in-the-GraalVM-Stack](https://user-images.githubusercontent.com/71346897/170131013-0a28c820-ba66-4b73-b28a-ad771d925639.png)
+![image](https://user-images.githubusercontent.com/71346897/175220131-8be31411-65f2-43a8-9e24-b3526d2cef48.jpeg)
 
 
 [Java owner Oracle developed and continues to release new GraalVM upgrades](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066).  It ultimately collaborated with NVIDIA to develop the [grCUDA](https://github.com/NVIDIA/grcuda) polyglot bindings library 'top layer' for <u>compiling GPU kernel code with any supported language</u>.
