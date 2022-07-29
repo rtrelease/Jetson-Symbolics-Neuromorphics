@@ -4,7 +4,7 @@
 
 The previous [AI Lab Notes](https://www.seeedstudio.com/blog/2022/04/10/ai-lab-notes-adding-symbolic-ai-programming-to-nvidia-jetson-powered-deep-neural-network-development-systems/) covered adding *open source* symbolic programming tools to the Jetson Xavier NX L4T/Ubuntu Linux for developing new *neural-symbolic* edge applications with NVIDIA's excellent GPU-based deep neural networks resources environments.   Prime emphasis was placed on inter-operating well with NV's powerful Python deep learning resources, including Jupyter Notebooks.
 
-We showed the latest **[CLIPS](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/)** (C Language Interpretive Production System) ARM64 binaries running symbolic *qualitative process models* on the Jetson Xavier NX.  Their Java Native Interface (JNI) .jars execute through the Ubuntu/L4T default ARM64 *OpenJDK 11 virtual machine* (VM).  
+We showed the latest **[CLIPS](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/)** (C Language Interpretive Production System) ARM64 binaries running symbolic *qualitative process models* on the Jetson Xavier NX.  Their Java Native Interface (JNI) .jars execute through the Ubuntu/L4T default aarch64 *OpenJDK 11 virtual machine* (VM).  
 
 CLIPS code like this also provides a transitional evolutionary path for symbolic programming development using **Clojure**, an evolved functional Lisp executing through Java or OpenJDK VM.
 
@@ -23,7 +23,7 @@ See the following GraalVM software stack diagram (from [NVIDIA's Tech Blog](http
 
 Having missed the joint presentation on GraalVM and grGUDA at GTC 2020, I checked out [NVIDIA's archives](https://resources.nvidia.com/events/GTC2020s21269?lx=RowcGr&contentType=Demo) and reviewed the [presentation video](https://developer.nvidia.com/gtc/2020/video/s21269-vid).  
 
-The very next step was to download the newest 22.1 release of [GraalVM Community Edition ARM64 binaries](https://www.graalvm.org/downloads/) and [grCUDA](https://github.com/NVIDIA/grcuda).
+The very next step was to download the newest 22.1 release of [GraalVM Community Edition aarch64 binaries](https://www.graalvm.org/downloads/) and [grCUDA](https://github.com/NVIDIA/grcuda).
 
 
 
