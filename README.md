@@ -13,4 +13,5 @@
  7. **The Neuroscientist's Edge HPC**: AGX Xavier and Orin + Neurosymbolic and Neurobiological Modeling Tools
 
 ![image](https://user-images.githubusercontent.com/71346897/174419239-78e7a17f-f9f2-4553-99a6-a08dbf99f544.png)
+![EdgeLab1s](https://user-images.githubusercontent.com/71346897/182501143-b3709537-affc-4975-a45c-dde770825814.png)
 
