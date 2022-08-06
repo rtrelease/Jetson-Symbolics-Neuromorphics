@@ -26,7 +26,7 @@ https://forums.developer.nvidia.com/t/apt-install-cuda-profiler-api-11-4-failed/
 A recommended archive version number edit (34.0 to 34.1) was easily applied to setup configuration files (etc
 /apt/sources.list), and the apt install of JetPack 5.0 then went as expected
        
-The evolution of direct JetPack installation and upgrades from apt archives seemed worth sustaining in installing and maintaining  the Java base system. 
+The evolution of direct JetPack installation and upgrades from apt archives seemed worth sustaining in installing and maintaining the Java base system - 
  
 		 sudo apt install default-jdk
 
