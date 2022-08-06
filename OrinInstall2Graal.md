@@ -38,7 +38,7 @@ To complete the Clojure base with a project manager, Leiningen was also installe
 
 		sudo ap   install leiningen
 
-After all this AI Lab symbolic software was thoroughly tested, activities focused on running and testing the Orin-updated NVIDIA  “Hello AI World” machine vision deep learning software suite. 
+After all this AI Lab symbolic software was thoroughly run-tested, activities focused on running and testing the Orin-updated NVIDIA  “Hello AI World” machine vision deep learning software suite. 
 
 Keeping with the direct-Edge software download theme,these were downloaded/cloned from https://github.com/dusty-nv/jetson-inference
 
@@ -48,4 +48,6 @@ Just WOW…
 
 During all this, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
 
-Looking Onward
+![image](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
+
+***Looking Onward***
