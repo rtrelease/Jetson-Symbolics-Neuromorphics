@@ -8,13 +8,12 @@ The first big difference from prior AGX Xavier installations, when L4T and JetPa
 
 The basic Ubuntu/L4T system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.
 
-Then, after 
- 
- sudo apt update && sudo apt upgrade
+Then, after  
+		sudo apt update && sudo apt upgrad
 
-of this initial setup, the new JetPack 5 software suite then 	only required
+of this initial setup, the new JetPack 5 software suite then only required
  
- sudo apt install nvidia-jetpack
+ 		sudo apt install nvidia-jetpack**
 
 for direct installation.
 
