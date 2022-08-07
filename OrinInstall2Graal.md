@@ -53,7 +53,7 @@ Just WOW…
 
 Sometime during all this Orin net-building flow, a new 22.2 update of GraalVM Community Edition (CE) was released, so the new aarch64 .jar was soon downloaded from Oracle at https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0, and further installed to its own directory under ~/Home.
 
-It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.  This and other language and LLVM compiler GraalVM extension modules will contribute vital interoperability to a new polyglot neurosymbolic development environment growing out of established Jetson .py and .cpp deep neural net resources.
+It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.  This and other language and LLVM compiler Graal extension modules will contribute vital interoperability to a new polyglot neurosymbolic development environment growing out of established Jetson .py and .cpp deep neural net resources.
 
  --| Running ImageJ and displaying a DICOM MRI stack using GraalVM 22.2 |--
 ![imageJ](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
