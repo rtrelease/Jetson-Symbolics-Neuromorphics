@@ -18,7 +18,7 @@ of this initial setup, the new JetPack 5 software suite required only
 
 for direct installation.
 
-Unfortunately, this install command failed on a script file load error when first run.
+Unfortunately, this install command failed on a script file load url error when first run.
 
 Fortunately, attention had been directed to this in the NV Developer Jetson Forums 
 https://forums.developer.nvidia.com/t/apt-install-cuda-profiler-api-11-4-failed/218634/19. 
