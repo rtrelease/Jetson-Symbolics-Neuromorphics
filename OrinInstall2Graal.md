@@ -9,6 +9,7 @@ The first big difference from prior AGX Xavier installations, when L4T and JetPa
 *The basic Ubuntu/L4T operating system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, and DP-capable VESA monitor on first power-up.*
 
 So after
+
 		sudo apt update && sudo apt upgrade
 
 of this initial setup, the new JetPack 5 software suite required only
