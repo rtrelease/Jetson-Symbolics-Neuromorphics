@@ -32,7 +32,7 @@ The evolution of edge-direct NVIDIA JetPack installation and upgrades from apt a
 
  initially installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
 
-Prior tested Jetson AGX Xavier aarch64 builds of CLIPS(JNI), Clojure, and ImageJ were then simply copied to the AGX Orin ~/Home, and all the Java applications performed as expected when launched.
+Prior tested Jetson AGX Xavier, aarch64 builds of CLIPS(JNI), Clojure, ImageJ, and Protege directories were then simply USB-clip-copied to the AGX Orin ~/Home, and all the Java applications performed as expected when launched.
 
 To complete the Clojure base with a project manager, Leiningen was also installed by 
 
