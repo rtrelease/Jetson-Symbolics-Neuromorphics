@@ -20,7 +20,7 @@ for direct installation.
 
 Unfortunately, this install command failed on a script file load url error when first run.
 
-Fortunately, attention had been directed to this in the NV Developer Jetson Forums 
+Fortunately, early attention had been directed to this in the NV Developer Jetson Forums 
 https://forums.developer.nvidia.com/t/apt-install-cuda-profiler-api-11-4-failed/218634/19. 
 
 A recommended archive version number edit (34.0 to 34.1) was easily applied to setup configuration files (etc/apt/sources.list), and the apt install of JetPack 5.0 then went as expected
