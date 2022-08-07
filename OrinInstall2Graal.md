@@ -30,19 +30,19 @@ The evolution of edge-direct NVIDIA JetPack installation and upgrades from apt a
  
 		sudo apt install default-jdk
 
- initially installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
+initially installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
 
-Prior tested Jetson AGX Xavier, aarch64 builds of CLIPS(JNI), Clojure, ImageJ, and Protege directories were then simply USB-clip-copied to the AGX Orin ~/Home, and all the Java applications performed as expected when launched.
+Tested Jetson AGX Xavier aarch64 build directories for CLIPS(JNI), Clojure, ImageJ, and Protege were then simply USB-clip-copied to the AGX Orin ~/Home, and all the Java applications performed as expected when launched.
 
 To complete the Clojure base with a project manager, Leiningen was also installed by 
 
 		sudo apt install leiningen
 
-After all this AI Lab symbolic software was thoroughly run-tested, activities focused on running and testing the Orin-updated NVIDIA  “Hello AI World” machine vision deep learning software suite. Busy week!
+After all this AI Lab symbolic software was thoroughly run-tested, activities focused on running and testing the Orin-updated NVIDIA “Hello AI World” machine vision deep learning software suite. It made for a very busy week!
 
-Keeping with the direct-to-edge device software download theme, all the newest trusty Dusty source code was downloaded/cloned on the AGX Orin DK from https://github.com/dusty-nv/jetson-inference.
+Keeping with new NVIDIA direct-to-edge device software download theme, all the newest trusty Dusty source code was downloaded/cloned on the AGX Orin DK from https://github.com/dusty-nv/jetson-inference.
 
-All the various imagenet, segnet, posenet, SSD-Mobilenet, Cityscapes, DeepScene networks .cpp and .py applications examples were then built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception-v4, and VGG...
+All the various imagenet, segnet, posenet, SSD-Mobilenet, Cityscapes, DeepScene networks plus .cpp and .py applications examples were then built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception-v4, and VGG.
 
   *--| Running image recognition with ResNet-18 on sample data plus my own hummer |--*
 ![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
@@ -51,7 +51,7 @@ All the various imagenet, segnet, posenet, SSD-Mobilenet, Cityscapes, DeepScene 
 Just WOW…
 
 
-Sometime during all this Orin net-building flow, a new 22.2 update of GraalVM Community Edition (CE) was released, so the new aarch64 .jar was soon downloaded from Oracle at https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0, and further installed to its own directory under ~/Home.
+Sometime during all this Orin net-building flow, a new 22.2 update of GraalVM Community Edition (CE) was released. So its new aarch64 .jar was soon downloaded from Oracle at https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0, and further installed to its own directory under ~/Home.
 
 It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.  This and other language and LLVM compiler Graal extension modules will contribute vital interoperability to a new polyglot neurosymbolic development environment growing out of established Jetson .py and .cpp deep neural net resources.
 
