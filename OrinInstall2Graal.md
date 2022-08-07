@@ -1,10 +1,10 @@
 ## <u>AI Lab Notes</u>
 
-#### **3. Bringing up the AI Lab symbolic software suite on the Jetson AGX Orin: To Graal and beyond**
+#### **3. Bringing up the AI Lab symbolic software suite on the Jetson AGX Orin DK: To Graal and beyond**
        
 My turn in the great 2022 AGX Orin Developer Kit launch/delivery queue came in early June, so initial hardware/OS setup had to precede new symbolic applications installations on the latest Ubuntu 20.04 ARM/aarch64 L4T operating system.
 
-The first big difference from prior AGX Xavier installations, when L4T and JetPack 4.# were installed via serial connection with a Xeon/Ubuntu workstation running NVIDIA SDK Manager. 
+The first big difference from prior AGX Xavier installations, when L4T and JetPack 4.# were installed via serial connection with a Xeon/Ubuntu workstation running NVIDIA SDK Manager:
 
 The basic Ubuntu/L4T system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.
 
@@ -12,7 +12,7 @@ Then, after
 
 	sudo apt update && sudo apt upgrade
 
-of this initial setup, the new JetPack 5 software suite then only required
+of this initial setup, the new JetPack 5 software suite required only
  
  	sudo apt install nvidia-jetpack
 
@@ -48,7 +48,7 @@ Just WOW…
 
 During all this, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
 
-Running ImageJ and displaying a DICOM MRI stack using GraalVM 22.2
+ --| Running ImageJ and displaying a DICOM MRI stack using GraalVM 22.2 |--
 ![imageJ](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
 
 ***Looking Onward***
