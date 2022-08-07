@@ -63,4 +63,6 @@ Although our Jetson Xaviers have been tested successfully with other implementat
 We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press.  This has provided historical research backgrounds and insights on evolving newer methods for integrating symbolic reasoning methods with current deep neural networks and machine learning systems.
 
 ....
+
 Robert B. Trelease, Ph.D. 08/06/2022
+
