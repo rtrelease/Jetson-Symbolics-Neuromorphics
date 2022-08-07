@@ -53,14 +53,14 @@ Just WOW…
 
 Sometime during all this Orin net-building flow, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
 
-It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.
+It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.  This and other language and LLVM compiler GraalVM extension modules will contribute vital interoperability to a new polyglot neurosymbolic development environment growing out of established Jetson .py and .cpp deep neural net resources.
 
  --| Running ImageJ and displaying a DICOM MRI stack using GraalVM 22.2 |--
 ![imageJ](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
 
 ***Looking Onward***
 
-Although our Jetson Xaviers have been tested successfully with other implementations of Lisp for symbolic programming, including eMACS Lisp, Armed Bear Common Lisp (ABCL), and others using JVMs like Kotlin, we have settled on Clojure.  This provides the best migration pathway for our previously published symbolic modeling experiment environment running the Lisp-like CLIPS production rules.
+Although our Jetson Xaviers have been tested successfully with other implementations of Lisp for symbolic programming, including eMACS Lisp, Armed Bear Common Lisp (ABCL), and others using JVMs for execution like Kotlin, we have settled on Clojure.  This provides the best migration pathway for our previously published symbolic modeling experiment environment running the Lisp-like CLIPS production rules.
 
 We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press.  This has provided historical research backgrounds and insights on evolving newer methods for integrating symbolic reasoning methods with current deep neural networks and machine learning systems.
 
