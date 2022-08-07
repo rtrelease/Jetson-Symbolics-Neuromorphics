@@ -6,7 +6,7 @@ My turn in the great 2022 AGX Orin Developer Kit launch/delivery queue came in e
 
 The first big difference from prior AGX Xavier installations, when L4T and JetPack 4.# were installed via serial connection with a Xeon/Ubuntu workstation running NVIDIA SDK Manager:
 
-The basic Ubuntu/L4T system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.
+*The basic Ubuntu/L4T system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.*
 
 So after
 
@@ -23,7 +23,7 @@ Unfortunately, this install command failed with an error when first run.
 Fortunately, attention had been directed to this in the NV Developer Jetson Forums 
 https://forums.developer.nvidia.com/t/apt-install-cuda-profiler-api-11-4-failed/218634/19. 
 
-A recommended archive version number edit (34.0 to 34.1) was easily applied to setup configuration files (etc /apt/sources.list), and the apt install of JetPack 5.0 then went as expected
+A recommended archive version number edit (34.0 to 34.1) was easily applied to setup configuration files (etc/apt/sources.list), and the apt install of JetPack 5.0 then went as expected
        
 The evolution of edge-direct NVIDIA JetPack installation and upgrades from apt archives seemed worth sustaining by apt installing and maintaining the symbolic proramming systems' Java base system - 
  
