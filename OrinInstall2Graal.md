@@ -43,7 +43,7 @@ Keeping with the direct-Edge software download theme, this was downloaded/cloned
 
 All the various imagenet, segnet, and **net .cpp and .py applications examples werethen built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception, nd vpp...
 
-  --| Running imagenet IDs with ResNet-18, sample data, plus my own |--
+  --| Running imagenet IDs with ResNet-18 on sample data plus my own hummer |--
 ![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
 
 
