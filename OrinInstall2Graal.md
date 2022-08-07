@@ -36,13 +36,13 @@ Prior tested Jetson AGX Xavier aarch64 builds of CLIPS(JNI), Clojure, and ImageJ
 
 To complete the Clojure base with a project manager, Leiningen was also installed by 
 
-		sudo ap   install leiningen
+		sudo apt install leiningen
 
-After all this AI Lab symbolic software was thoroughly run-tested, activities focused on running and testing the Orin-updated NVIDIA  “Hello AI World” machine vision deep learning software suite. 
+After all this AI Lab symbolic software was thoroughly run-tested, activities focused on running and testing the Orin-updated NVIDIA  “Hello AI World” machine vision deep learning software suite. Busy week!
 
-Keeping with the direct-Edge software download theme,these were downloaded/cloned from https://github.com/dusty-nv/jetson-inference
+Keeping with the direct-Edge software download theme, this was downloaded/cloned from https://github.com/dusty-nv/jetson-inference
 
-All the various imagenet, segnet, and **net .cpp and .py applications examples built and tested with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception, nd vpp...
+All the various imagenet, segnet, and **net .cpp and .py applications examples werethen built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception, nd vpp...
 
   --| Running imagenet IDs with ResNet-18, sample data, plus my own |--
 ![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
