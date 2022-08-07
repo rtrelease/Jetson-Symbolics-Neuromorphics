@@ -9,16 +9,16 @@ The first big difference from prior AGX Xavier installations, when L4T and JetPa
 *The basic Ubuntu/L4T operating system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.*
 
 So after
-
-	sudo apt update && sudo apt upgrade
+		sudo apt update && sudo apt upgrade
 
 of this initial setup, the new JetPack 5 software suite required only
  
- 	sudo apt install nvidia-jetpack
+ 
+		sudo apt install nvidia-jetpack
 
 for direct installation.
 
-Unfortunately, this install command failed on a script file load url error when first run.
+*Unfortunately, this install command failed on a script file load url error when first run.*
 
 Fortunately, early attention had been directed to this in the NV Developer Jetson Forums 
 https://forums.developer.nvidia.com/t/apt-install-cuda-profiler-api-11-4-failed/218634/19. 
@@ -27,9 +27,9 @@ A recommended archive version number edit (34.0 to 34.1) was easily applied to s
        
 The evolution of edge-direct NVIDIA JetPack installation and upgrades from apt archives seemed worth supporting by apt installing and maintaining the symbolic proramming systems' Java VM base system - 
  
-		 sudo apt install default-jdk
+		sudo apt install default-jdk
 
-initially installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
+ initially installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
 
 Prior tested Jetson AGX Xavier aarch64 builds of CLIPS(JNI), Clojure, and ImageJ were then simply copied to the AGX Orin ~/Home, and all the Java applications performed as expected when launched.
 
