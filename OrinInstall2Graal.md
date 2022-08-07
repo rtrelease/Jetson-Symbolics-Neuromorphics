@@ -26,7 +26,7 @@ https://forums.developer.nvidia.com/t/apt-install-cuda-profiler-api-11-4-failed/
 A recommended archive version number edit (34.0 to 34.1) was easily applied to setup configuration files (etc
 /apt/sources.list), and the apt install of JetPack 5.0 then went as expected
        
-The evolution of direct JetPack installation and upgrades from apt archives seemed worth sustaining in installing and maintaining the Java base system - 
+The evolution of edge-direct NVIDIA JetPack installation and upgrades from apt archives seemed worth sustaining in installing and maintaining the symbolic proramming systems' Java base system - 
  
 		 sudo apt install default-jdk
 
@@ -48,6 +48,7 @@ Just WOW…
 
 During all this, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
 
-![image](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
+Running ImageJ and displaying a DICOM MRI stack using GraalVM 22.2
+![imageJ](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
 
 ***Looking Onward***
