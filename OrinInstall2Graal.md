@@ -64,7 +64,7 @@ Although our Jetson Xaviers have been tested successfully with other implementat
 
 This provides the best migration pathway for the simplified framework of our previously published symbolic modeling experiment environment running with updated Lisp-like CLIPS production rules.
 
-We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press. This has provided historical research backgrounds and important insights on evolving newer methods for integrating symbolic reasoning and semantic knowledge with current GPU-based deep neural networks and machine learning systems in edge applications.
+We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press. This has provided historical research backgrounds and important insights on evolving newer methods for integrating symbolic reasoning and semantic knowledge with current GPU-based deep neural networks and machine learning systems on HPC edge systems.
 
 ....
 
