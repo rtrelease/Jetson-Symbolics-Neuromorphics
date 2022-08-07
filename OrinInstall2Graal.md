@@ -44,7 +44,12 @@ Keeping with the direct-Edge software download theme,these were downloaded/clone
 
 All the various imagenet, segnet, and **net .cpp and .py applications examples built and tested with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception, nd vpp...
 
+  --| Running imagenet IDs with ResNet-18, sample data, plus my own |--
+![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
+
+
 Just WOW…
+
 
 During all this, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
 
@@ -52,3 +57,7 @@ During all this, a new update of GraalVM (22.2) Community Edition (CE) was relea
 ![imageJ](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
 
 ***Looking Onward***
+
+Although the Jetson Xaviers have been tested successfully with other implementation of Lisp for symbolic programming, including eMACS Lisp, Armed Bear Common Lisp ABCL), and others using JVMs like Kotlin, we have settled on Clojure to provide the best migration pathway for our previously published symbolic modeling experiment environment...
+
+We are currently reviewing which has provided insights on evolving methods for integrating symbolic reasoning methods with existing deep neural networks and machine learning onstate-of-the-art Jetson edge systems....
