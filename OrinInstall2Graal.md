@@ -6,7 +6,7 @@ My turn in the great 2022 AGX Orin Developer Kit launch/delivery queue came in e
 
 The first big difference from prior AGX Xavier installations, when L4T and JetPack 4.# were installed via serial connection with a Xeon/Ubuntu workstation running NVIDIA SDK Manager:
 
-*The basic Ubuntu/L4T system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.*
+*The basic Ubuntu/L4T operating system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, DP-capable VESA monitor on first power-up.*
 
 So after
 
@@ -29,7 +29,7 @@ The evolution of edge-direct NVIDIA JetPack installation and upgrades from apt a
  
 		 sudo apt install default-jdk
 
-installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
+initially installed aarch64 OpenJDK 11.0.14, essentially the same default Java version available for the other Jetsons under Jetpack 4.N.
 
 Prior tested Jetson AGX Xavier aarch64 builds of CLIPS(JNI), Clojure, and ImageJ were then simply copied to the AGX Orin ~/Home, and all the Java applications performed as expected when launched.
 
