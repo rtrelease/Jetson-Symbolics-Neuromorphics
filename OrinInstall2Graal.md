@@ -51,7 +51,7 @@ All the various imagenet, segnet, posenet, SSD-Mobilenet, Cityscapes, DeepScene 
 Just WOW…
 
 
-Sometime during all this Orin net-building flow, a new 22.2 update of GraalVM Community Edition (CE) was released. So its new aarch64 .jar was soon downloaded from Oracle at https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0, and further installed to its own directory under ~/Home.
+Sometime during all this Orin net-building *flow*, a new 22.2 update of GraalVM Community Edition (CE) was released. So its new aarch64 .jar was soon downloaded from Oracle at https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0, and further installed to its own directory under ~/Home.
 
 It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.  This and other language and LLVM compiler Graal extension modules will contribute vital interoperability to a new polyglot neurosymbolic development environment growing out of established Jetson .py and .cpp deep neural net resources.
 
@@ -64,7 +64,7 @@ Although our Jetson Xaviers have been tested successfully with other implementat
 
 This provides the best migration pathway for the simplified framework of our previously published symbolic modeling experiment environment running with updated Lisp-like CLIPS production rules.
 
-We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press. This has provided historical research backgrounds and important insights on evolving newer methods for integrating symbolic reasoning and semantic knowledge with current GPU-based deep neural networks and machine learning systems on HPC edge systems.
+We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7), from IOS Press. This has provided historical research backgrounds and important insights on evolving newer methods for integrating symbolic reasoning and semantic knowledge with current GPU-based deep neural networks and machine learning systems on HPC edge systems.
 
 ....
 
