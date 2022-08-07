@@ -40,7 +40,7 @@ To complete the Clojure base with a project manager, Leiningen was also installe
 
 After all this AI Lab symbolic software was thoroughly run-tested, activities focused on running and testing the Orin-updated NVIDIA  “Hello AI World” machine vision deep learning software suite. Busy week!
 
-Keeping with the direct-to-edge device software download theme, this was downloaded/cloned on the AGX Orin DK from https://github.com/dusty-nv/jetson-inference.
+Keeping with the direct-to-edge device software download theme, all the newest trusty Dusty source code was downloaded/cloned on the AGX Orin DK from https://github.com/dusty-nv/jetson-inference.
 
 All the various imagenet, segnet, and **net .cpp and .py applications examples were then built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception, and vgg...
 
