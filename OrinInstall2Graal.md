@@ -44,14 +44,16 @@ Keeping with the direct-Edge software download theme, this was downloaded/cloned
 
 All the various imagenet, segnet, and **net .cpp and .py applications examples were then built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception, and vgg...
 
-  --| Running imagenet IDs with ResNet-18 on sample data plus my own hummer |--
+  *--| Running imagenet IDs with ResNet-18 on sample image data plus my own hummer |--*
 ![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
 
 
 Just WOW…
 
 
-During all this, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
+Sometime during all this Orin net-building flow, a new update of GraalVM (22.2) Community Edition (CE) was released, so the new aarch64 .jar was downloaded from Oracle https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0 and further installed to AGX Orin ~/Home.
+
+It has been particularly instructive to use the new **native-image** GraalVM extension to compile fast Linux native apps from existing jars.
 
  --| Running ImageJ and displaying a DICOM MRI stack using GraalVM 22.2 |--
 ![imageJ](https://user-images.githubusercontent.com/71346897/183269422-764967e2-0585-47ea-bf83-8ecf548a85bc.png)
