@@ -58,9 +58,9 @@ During all this, a new update of GraalVM (22.2) Community Edition (CE) was relea
 
 ***Looking Onward***
 
-Although our Jetson Xaviers have been tested successfully with other implementations of Lisp for symbolic programming, including eMACS Lisp, Armed Bear Common Lisp (ABCL), and others using JVMs like Kotlin, we have settled on Clojure.  This provides the best migration pathway for our previously published symbolic modeling experiment environment...
+Although our Jetson Xaviers have been tested successfully with other implementations of Lisp for symbolic programming, including eMACS Lisp, Armed Bear Common Lisp (ABCL), and others using JVMs like Kotlin, we have settled on Clojure.  This provides the best migration pathway for our previously published symbolic modeling experiment environment running the Lisp-like CLIPS production rules.
 
-We are currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press, which has provided historical backgrounds and insights on evolving methods for integrating symbolic reasoning methods with current deep neural networks and machine learning systems....
+We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) from IOS Press.  This has provided historical research backgrounds and insights on evolving newer methods for integrating symbolic reasoning methods with current deep neural networks and machine learning systems.
 
-
+....
 Robert B. Trelease, Ph.D. 08/06/2022
