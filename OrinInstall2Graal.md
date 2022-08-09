@@ -62,7 +62,9 @@ It has been particularly instructive to use the new **native-image** GraalVM ext
 
 Although our Jetson Xaviers have been tested successfully with other implementations of Lisp for symbolic programming, including eMACS Lisp, Armed Bear Common Lisp (ABCL), and considered with others using JVMs for execution like Kotlin, we have settled on Clojure. 
 
-This provides the best direct migration pathway for evolving the simplified framework of our published symbolic modeling experiment system environment now running with updated Lisp-like CLIPS production rules.
+Clojure provides the best direct migration pathway for evolving the simplified framework of our published symbolic modeling experiment system environment now running with updated Lisp-like CLIPS production rules.
+
+For those special needs for legacy AI logic programming, SWI-Prolog and SWI-Prolog-java bindings can also be apt installed on AGX Orin.  We had no difficulties with the installation, but we are leaving it alone at present.
 
 We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The State of the Art](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7), from IOS Press. This has provided historical research backgrounds and important insights on evolving newer methods for integrating symbolic reasoning and semantic knowledge with current GPU-based deep neural networks and machine learning systems on HPC edge systems.
 
