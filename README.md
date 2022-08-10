@@ -12,5 +12,5 @@
  6. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: Reflections on personal research lab HPC/AI in the Age of Big Data Sciences and Teams in *The Cloud*
  7. **The Neuroscientist's Edge HPC**: AGX Xavier and Orin + Neurosymbolic and Neurobiological Modeling Tools
 
-![image](https://user-images.githubusercontent.com/71346897/184026541-31927a1d-02f9-4b75-8e82-9be98780dc73.jpeg)
+![image](https://user-images.githubusercontent.com/71346897/184028318-3d9a5a78-ea45-4e0a-bcce-dd69264c6cdc.jpeg)
 ![EdgeLab1s](https://user-images.githubusercontent.com/71346897/182501143-b3709537-affc-4975-a45c-dde770825814.png)
