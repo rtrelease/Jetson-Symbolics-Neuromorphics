@@ -47,8 +47,7 @@ All the various imagenet, segnet, posenet, SSD-Mobilenet, Cityscapes, DeepScene 
   *--| Running image recognition with ResNet-18 on sample data plus my own hummer |--*
 ![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
 
-
-Just WOW…
+WOW…
 
 
 Sometime during all this Orin net-building *flow*, a new 22.2 update of GraalVM Community Edition (CE) was released. So its new aarch64 .jar was soon downloaded from Oracle at https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.2.0, and further installed to its own Orin directory under ~/Home.
