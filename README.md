@@ -12,6 +12,6 @@
  6. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: Reflections on personal research lab HPC/AI in the Age of Big Data Sciences and Teams in *The Cloud*
  7. **The Neuroscientist's Edge HPC**: AGX Xavier and Orin + Neurosymbolic and Neurobiological Modeling Tools
 
-*=---> Anatomical pose analysis, on the way to neurosymbolic reasoning applications*
+*=---> Anatomical reasoning and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
 ![EdgeLab1s](https://user-images.githubusercontent.com/71346897/182501143-b3709537-affc-4975-a45c-dde770825814.png)
