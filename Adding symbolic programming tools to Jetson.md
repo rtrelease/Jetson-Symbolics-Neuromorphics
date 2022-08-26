@@ -34,4 +34,4 @@ This experiment uses the same basic CLIPS-format symbolic knowledge base (biolog
 
 ![Screenshot from 2022-03-25 20-28-19](https://user-images.githubusercontent.com/71346897/170128984-4a60f656-8cde-483d-8c8d-beadd2889da4.png)
 
-Robert B. Trelease, Ph.D.  03/31/2022
+RBT 03/31/2022
