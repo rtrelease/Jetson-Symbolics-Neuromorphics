@@ -69,5 +69,5 @@ We are also currently reviewing [Neuro-Symbolic Artificial Intelligence: The Sta
 
 ....
 
-Robert B. Trelease, Ph.D. 08/06/2022
+RBT 08/06/2022
 
