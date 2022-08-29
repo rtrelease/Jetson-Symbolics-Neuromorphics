@@ -4,5 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/71346897/187091386-6ad07ff7-f5f2-41d8-9c0c-b53b2735e622.jpeg)
 
+To answer the Gedanken question, can a machine vision system study its own pro...
 
-Several decades after inception, artificial intelligence (AI)  TBC
+*To be continued*
