@@ -4,6 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/71346897/187091386-6ad07ff7-f5f2-41d8-9c0c-b53b2735e622.jpeg)
 
-To show the Gedanken question, can a Turing machine vision system study its own pro...
+To pose a Gedanken question, can a Turing machine vision system study its own pro...
 
 *To be continued*
