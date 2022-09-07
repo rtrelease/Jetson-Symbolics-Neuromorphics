@@ -11,7 +11,7 @@ As an academic neuroscientist and long-time symbolic coder also impressed by PDP
 
 Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with commercial deep learning systems such as NVIDIA CLARA.  
 
-Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF and XML formats representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) and funded by the National Institutes of Health. 
+Meanwhile, major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF/XML and other format representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) and funded by the National Institutes of Health. 
 
 ***The focus of this current set of projects is to implement more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***  The task at hand here is to evaluate which current anatomical ontology might be best used for enhancing structural identifications and segmentation by NV GPU networks.
 
