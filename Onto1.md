@@ -4,7 +4,7 @@
 
 In a prior [scientific journal article](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), I reviewed the concepts underlying anatomical reasoning and application of AI and symbolic programming for inference applications with large-scale ontologies.
 
-The decade-plus following saw the rapid rise of deep neural networks and machine learning methods, as presaged by the seminal 1987 work on parallel distributed processing and recurrent multilevel networks.  
+The decade-plus following saw the rapid rise of deep neural networks and machine learning methods, as presaged by the seminal 1987 work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilevel networks.  
 
 Across the same time frame, application of ontologies has tapered off, so that effective anatomical inference from medical imaging is now associated with deep learning systems like NVIDIA CLARA.
 
