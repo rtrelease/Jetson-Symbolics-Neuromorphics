@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### **Gedanken Experiment 1:** Ontologies for semantic linking with deep neural networks' neuroanatomical structure identifications in brain magnetic resonance images
+#### **Gedanken Experiment 1:** Ontologies for semantic linking with deep neural network neuroanatomical structure identifications in brain magnetic resonance images
 
 
 In a prior [scientific journal article](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), I reviewed the concepts underlying anatomical reasoning and application of AI and symbolic programming for biostructural inference applications with large-scale ontologies.
