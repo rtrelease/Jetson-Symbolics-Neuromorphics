@@ -15,7 +15,7 @@ Meanwhile, major [Open ontologies](https://bioportal.bioontology.org) have large
 
 ***A focus of this current AI Lab sub-project is to investigate more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***  The task at hand here is to evaluate which current anatomical ontology might be best used adding semantic bindings and advanced inference capabilities for structural identification and segmentation nets.
 
-And since massive government research funding, academic training programs, teams, publications, and commercial development have already been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems, *we'll stick with the deeper basic aspects of neurosymbolic fusion for edge laboratory applications and research.*
+And since massive government research funding, academic training programs, teams, publications, and commercial development have already been dedicated to widescale adoption of intelligent ($$valuable) clinical radiology systems, *we'll stick with the deeper basic aspects of neurosymbolic fusion for edge laboratory applications and research.*
 
 
 ##### ***FMA and OpenGALEN revisited in 2022***
