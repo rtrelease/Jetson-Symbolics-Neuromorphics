@@ -11,15 +11,20 @@ Across the same time frame, enthusiasm for the application of ontologies moderat
 
 Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF and XML formats representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) funded by the National Institutes of Health. 
 
-The focus of the current set of projects is to implement more **research-oriented** symbolic enhancement of brain imaging network applications, inasmuch as massive government research funding, academic training programs, and commercial development have been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems.
+The focus of the current set of projects is to implement more **research-oriented** symbolic enhancement of brain imaging network applications.  
 
- =--> ImageJ shows a DICOM MRI section with cross-hairs, and Protege displays the appropriate FMA.owl ontology search and left optic nerve entity information
+And since massive government research funding, academic training programs, and commercial development have been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems, we'll stick with the deeper basic aspects of neurosymbolic fusion development.
+
+
+##### ***FMA and OpenGALEN revisited in 2022***
+
+ =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate FMA.owl ontology search and left optic nerve entity information
 ![image](https://user-images.githubusercontent.com/71346897/188732792-8c14cda3-7b15-4db0-93ed-8a51517c24fe.png)
 
 
 
 
- =--> ImageJ shows a DICOM MRI section with cross-hairs, and Protege displays the appropriate OpenGalen.owl ontology search and left optic nerve entity information
+ =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate OpenGalen.owl ontology search and left optic nerve entity information
 ![image](https://user-images.githubusercontent.com/71346897/188733109-e45b467a-b5aa-43c5-922a-04d69dbdf5fc.png)
 
 To be continued...
