@@ -7,13 +7,13 @@ In a prior [scientific journal article](https://anatomypubs.onlinelibrary.wiley.
 
 The decade-plus following this work saw the rapid rise of deep neural networks and machine learning methods, as presaged by the seminal 1987 PDP Group work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilevel networks.  
 
-As an academic neuroscientist and long-time symbolic coder also impressed by PDP (1987), I had also begun studying ANN development with MatLab on NV Kepler-class GPUs.
+As an academic neuroscientist and long-time symbolic coder also impressed by PDP (1987), I had begun studying ANN development with MatLab on NV Kepler-class GPUs.
 
 Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with commercial deep learning systems such as NVIDIA CLARA.  
 
 Meanwhile, major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF/XML and other format representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) and funded by the National Institutes of Health. 
 
-***The focus of this current set of projects is to implement more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***  The task at hand here is to evaluate which current anatomical ontology might be best used for enhancing structural identifications and segmentation by NV GPU networks.
+***A focus of AI Lab's current project is to investigate more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***  The task at hand here is to evaluate which current anatomical ontology might be best used for enhancing structural identifications and segmentation.
 
 And since massive government research funding, academic training programs, teams, and commercial development have already been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems, *we'll stick with the deeper basic aspects of neurosymbolic fusion for edge laboratory applications.*
 
