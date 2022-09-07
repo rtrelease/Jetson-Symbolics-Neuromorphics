@@ -20,6 +20,10 @@ And since massive government research funding, academic training programs, teams
 
 ##### ***FMA and OpenGALEN revisited in 2022***
 
+
+https://reader.elsevier.com/reader/sd/pii/S0169023X03001253
+
+
  =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate FMA.owl ontology search and left optic nerve entity information
 ![image](https://user-images.githubusercontent.com/71346897/188732792-8c14cda3-7b15-4db0-93ed-8a51517c24fe.png)
 
