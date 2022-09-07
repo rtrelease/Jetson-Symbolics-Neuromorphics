@@ -9,7 +9,7 @@ The decade-plus following this work saw the rapid rise of deep neural networks a
 
 As an academic neuroscientist and long-time symbolic coder also impressed by PDP (1987), I had begun studying ANN development with MatLab on NV Kepler-class GPUs.
 
-Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with deep learning systems such as NVIDIA CLARA.  
+Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with commercial deep learning systems such as NVIDIA CLARA.  
 
 Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF and XML formats representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) funded by the National Institutes of Health. 
 
