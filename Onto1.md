@@ -7,11 +7,13 @@ In a prior [scientific journal article](https://anatomypubs.onlinelibrary.wiley.
 
 The decade-plus following this work saw the rapid rise of deep neural networks and machine learning methods, as presaged by the seminal 1987 work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilevel networks.  
 
-Across the same time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with deep learning systems like NVIDIA CLARA.  
+As a neuroscientist and long-time symbolic coder also impressed by PDP earlier in 1987, I had begun studying ANN development with MatLab on NV Kepler-class GPUs.
+
+Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with deep learning systems like NVIDIA CLARA.  
 
 Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF and XML formats representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) funded by the National Institutes of Health. 
 
-The focus of the current set of projects is to implement more **research-oriented** symbolic enhancement of brain imaging network applications.  
+***The focus of the current set of projects is to implement more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***
 
 And since massive government research funding, academic training programs, and commercial development have been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems, we'll stick with the deeper basic aspects of neurosymbolic fusion development.
 
