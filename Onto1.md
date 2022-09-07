@@ -8,7 +8,7 @@ The decade-plus following this work saw the rapid rise of deep neural networks a
 
 Across the same time frame, enthusiasm for the application of ontologies moderated, and effective anatomical inference with medical imaging is now associated with deep learning systems like NVIDIA CLARA.  Surviving major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implemenations to flatter Web Ontology Language (OWL), RDF and XML formats representations. 
 
-The purpose of the current project is to implement more research-oriented symbolic enhancement of brain imaging network applications, although much research funding and commercial development have gone into widescale adoption intelligent clinical radiology systems.
+The focus of the current set of projects is to implement more **research-oriented** symbolic enhancement of brain imaging network applications, inasmuch as massive government research funding, academic training programs, and commercial development have been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems.
 
 ![image](https://user-images.githubusercontent.com/71346897/188732792-8c14cda3-7b15-4db0-93ed-8a51517c24fe.png)
 
