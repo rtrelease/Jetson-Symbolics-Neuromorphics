@@ -24,7 +24,7 @@ And since massive government research funding, academic training programs, and c
 
 
 
- =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate OpenGalen.owl ontology search and left optic nerve entity information
+ =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate OpenGalen.owl ontology search and optic nerve entity information
 ![image](https://user-images.githubusercontent.com/71346897/188733109-e45b467a-b5aa-43c5-922a-04d69dbdf5fc.png)
 
 To be continued...
