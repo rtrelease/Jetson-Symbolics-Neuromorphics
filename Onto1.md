@@ -13,9 +13,9 @@ Across this same post-millennial time frame, enthusiasm for the application of o
 
 Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era SQL database implementations to flatter Web Ontology Language (OWL), RDF and XML formats representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) funded by the National Institutes of Health. 
 
-***The focus of the current set of projects is to implement more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***
+***The focus of this current set of projects is to implement more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***
 
-And since massive government research funding, academic training programs, and commercial development have been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems, we'll stick with the deeper basic aspects of neurosymbolic fusion development.
+And since massive government research funding, academic training programs, and commercial development have been dedicated to widescale adoption of intelligent (and commercially valuable) clinical radiology systems, we'll stick with the deeper basic aspects of neurosymbolic fusion for edge laboratory applications.
 
 
 ##### ***FMA and OpenGALEN revisited in 2022***
