@@ -9,7 +9,7 @@
  3. [Bringing up the AI Lab symbolic software suite on Jetson AGX Orin: To Graal and *beyond*](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinInstall2Graal.md)
  4. [Research Review](https://github.com/rtrelease/Jetson-Symbolics/blob/main/NS-SOTA-2021.md) -- [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) IOS Press, 2021
  5. [**Gedanken Experiment 1:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) Ontologies for semantic linking with deep neural network neuroanatomical structure identifications in brain magnetic resonance images
- 6. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: Reflections on personal research lab HPC/AI in the Age of Big Data Sciences and Teams in *The Cloud*
+ 6. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: Reflections on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  7. **The Neuroscientist's Edge HPC**: AGX Xavier and Orin + Neurosymbolic and Neurobiological Modeling Tools
 
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
