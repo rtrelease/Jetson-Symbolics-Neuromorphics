@@ -24,13 +24,13 @@ And since massive government research funding, academic training programs, teams
 https://reader.elsevier.com/reader/sd/pii/S0169023X03001253
 
 
- =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate FMA.owl ontology search and left optic nerve entity information
+ =--> ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate FMA.owl specific left optic nerve entity information
  ![image](https://user-images.githubusercontent.com/71346897/189554130-b5340f6f-9657-45da-bfd2-9266f33c0307.png)
 
 
 
 
- =--> ImageJ shows a DICOM MRI section with cross-hair pointer, and Protege displays the appropriate OpenGalen.owl ontology search and optic nerve entity information
+ =--> ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate OpenGalen.owl ontology search and general optic nerve entity information
 ![image](https://user-images.githubusercontent.com/71346897/189554214-dd2d7983-48fc-4f83-97c8-c6b2ae4dc975.png)
 
 
