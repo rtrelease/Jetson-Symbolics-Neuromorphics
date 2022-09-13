@@ -17,7 +17,7 @@ Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved 
 
 [An informative 2014 study](https://reader.elsevier.com/reader/sd/pii/S1532046414001555) has studied the integration of several ontologies for a comparable task labeling medical imaging structures for producing anatomy-based model simulations.
 
-Since massive government research funding, academic training programs, teams, publications, and commercial development have already been dedicated to widescale adoption of intelligent ($valuable$) and highly regulated clinical radiology systems, *we'll stick with the deeper basic aspects of neurosymbolic fusion for edge laboratory AI applications and research.*
+Since massive government research funding, academic training programs, teams, publications, and commercial development have already been dedicated to widescale adoption of intelligent ($valuable$) and highly regulated clinical radiology systems, *we'll stick here with the deeper basic aspects of neurosymbolic fusion for edge laboratory AI applications and research.*
 
 
 ##### ***FMA and OpenGALEN revisited in 2022***
