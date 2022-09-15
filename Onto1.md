@@ -5,7 +5,7 @@
 
 In a prior [2006 scientific journal article](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), I reviewed the concepts underlying anatomical reasoning and application of AI research and symbolic programming methods to biostructural inference with large-scale ontologies.
 
-The decade-plus following this work saw the rapid rise of deep neural networks and machine learning methods, presaged by the seminal 1987 PDP Group work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilevel networks.  
+The decade-plus following this work saw the rapid rise of deep neural networks and machine learning methods, presaged by the seminal 1987 PDP Group work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilayer networks.  
 
 As an academic neuroscientist and long-time symbolic coder also influenced by PDP (1987) concepts, I had begun studying ANN development with MatLab on NV Kepler-class GPUs.
 
@@ -17,7 +17,7 @@ Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved 
 
 [An informative 2014 paper](https://reader.elsevier.com/reader/sd/pii/S1532046414001555) has studied the integration of several ontologies for a comparable task labeling medical imaging structures for producing anatomy-based model simulations.
 
-Since massive government research funding, academic training programs, teams, publications, and commercial development have already been dedicated to widescale adoption of intelligent ($valuable$) and highly regulated clinical radiology systems, *we'll stick here with the deeper basic aspects of neurosymbolic fusion for edge laboratory AI applications and research.*
+Since massive government research funding, academic training programs, corporate teams, publications, and commercial development have already been dedicated to widescale adoption of 'AI' (=$valuable$) for highly regulated clinical radiology systems, *we'll stick here with the deeper basic aspects of neurosymbolic fusion for edge laboratory AI applications and research.*
 
 
 ##### ***FMA and OpenGALEN revisited in 2022***
@@ -28,13 +28,16 @@ Since massive government research funding, academic training programs, teams, pu
 To my memory, the original SQL-based knowlege base of FMA presented exactly the same way in Protege, as it does now with the current OWL representation.
 
 
- =--> Fig. 1: ImageJ displays a DICOM MRI section with cross-hair pointer placed over the optic nerve, and Protege shows the appropriate FMA.owl specific left optic nerve entity information
+ =--> Fig. 1: ImageJ displays a DICOM MRI section with cross-hair pointer placed over the optic nerve, and Protege shows the appropriate FMA.owl specific *left optic nerve* entity information
  ![image](https://user-images.githubusercontent.com/71346897/189554130-b5340f6f-9657-45da-bfd2-9266f33c0307.png)
 
+As demonstrated in the Protege entity ontology graph, the left optic nerve is its own entity near the top of the root for the anatomy knowledge mapping...
 
 
 
- =--> ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate OpenGalen.owl ontology search and general optic nerve entity information
+
+
+ =--> Fig 2: ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate OpenGalen.owl ontology search and general optic nerve entity information
 ![image](https://user-images.githubusercontent.com/71346897/189554214-dd2d7983-48fc-4f83-97c8-c6b2ae4dc975.png)
 
 
