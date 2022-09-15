@@ -23,10 +23,10 @@ Since massive government research funding, academic training programs, teams, pu
 ##### ***FMA and OpenGALEN revisited in 2022***
 
 
-https://reader.elsevier.com/reader/sd/pii/S0169023X03001253
+[The Foundational Model of Anatomy (FMA)](https://reader.elsevier.com/reader/sd/pii/S0169023X03001253) is the premier international professional consensus ontology for structures and relationships in human anatomy, a major base component of the National Library of Medicine's Universal Medical Language System (UMLS). 
 
 
- =--> ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate FMA.owl specific left optic nerve entity information
+ =--> Fig. 1: ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate FMA.owl specific left optic nerve entity information
  ![image](https://user-images.githubusercontent.com/71346897/189554130-b5340f6f-9657-45da-bfd2-9266f33c0307.png)
 
 
