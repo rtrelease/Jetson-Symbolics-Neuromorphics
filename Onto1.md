@@ -29,7 +29,8 @@ To my memory, the original SQL-based knowlege base of FMA presented exactly the 
 
 
  =--> Fig. 1: ImageJ displays a DICOM MRI section with cross-hair pointer placed over the optic nerve, and Protege shows the appropriate FMA.owl specific *left optic nerve* entity information
- ![image](https://user-images.githubusercontent.com/71346897/189554130-b5340f6f-9657-45da-bfd2-9266f33c0307.png)
+![image](https://user-images.githubusercontent.com/71346897/190932716-14f41129-bffe-410e-a4ef-d9179c180775.png)
+
 
 As demonstrated in the Protege entity ontology graph, the left optic nerve is its own entity near the top of the root for the anatomy knowledge mapping...
 
