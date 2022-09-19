@@ -7,11 +7,11 @@ In a prior [2006 scientific journal article](https://anatomypubs.onlinelibrary.w
 
 The decade-plus following this work saw the rapid rise of deep neural networks and machine learning methods, presaged by the seminal 1987 PDP Group work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilayer networks.  
 
-As an academic neuroscientist and long-time symbolic coder also influenced by PDP (1987) concepts, I had begun studying ANN development with MatLab on NV Kepler-class GPUs.
+As an academic neuroscientist and long-time symbolic coder also influenced by PDP (1987) concepts, I had begun studying ANN development with MatLab on a Xeon workstation with NV Kepler-class GPUs.
 
 Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, while effective anatomical inference in medical imaging has become associated with commercial deep learning systems such as NVIDIA CLARA.  
 
-Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era frame-based SQL database implementations to flatter descriptive Web Ontology Language (OWL), RDF/XML and other format representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) and funded by the National Institutes of Health. 
+Major [Open ontologies](https://bioportal.bioontology.org) have largely evolved from 2000s-era frame-based SQL database implementations to descriptive Web Ontology Language (OWL), RDF/XML and other format representations, with archive resources supported by the [National Center for Biomedical Ontology](https://ncbo.bioontology.org/ncbo-summary) and funded by the National Institutes of Health. 
 
 ***A focus of this current AI Lab sub-project is to investigate more*** **research-oriented** ***symbolic enhancement of brain imaging network applications.***  The task at hand here is to evaluate which current anatomical ontology might be best used for adding semantic bindings and advanced inference capabilities for structural identification and segmentation nets.
 
