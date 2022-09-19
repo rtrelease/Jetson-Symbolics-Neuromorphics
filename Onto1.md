@@ -28,7 +28,7 @@ Since massive government research funding, academic training programs, corporate
 To my memory, the original SQL-based knowlege base of FMA presented exactly the same way in Protege, as it does now with the current OWL representation.
 
 
- *=--> Fig. 1: ImageJ displays a DICOM MRI section with cross-hair pointer placed over the optic nerve, and Protege shows the ontology search and appropriate specific FMA.owl *left optic nerve* entity information*
+ *=--> **Fig. 1:** ImageJ displays a DICOM MRI section with cross-hair pointer placed over the optic nerve, and Protege shows the ontology search and appropriate specific FMA.owl *left optic nerve* entity information*
 ![image](https://user-images.githubusercontent.com/71346897/190932716-14f41129-bffe-410e-a4ef-d9179c180775.png)
 
 
@@ -38,7 +38,7 @@ As demonstrated in the Protege entity ontology graph, the left optic nerve is it
 
 
 
- *=--> Fig 2: ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate OpenGalen.owl general optic nerve entity information*
+ *=--> **Fig 2:** ImageJ shows a DICOM MRI section with cross-hair pointer over the left optic nerve, and Protege displays the appropriate OpenGalen.owl general optic nerve entity information*
 ![image](https://user-images.githubusercontent.com/71346897/189554214-dd2d7983-48fc-4f83-97c8-c6b2ae4dc975.png)
 
 
