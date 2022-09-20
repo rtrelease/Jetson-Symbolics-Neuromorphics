@@ -7,7 +7,7 @@ In a prior [2006 scientific journal article](https://anatomypubs.onlinelibrary.w
 
 The decade-plus following this work saw the rapid rise of deep neural networks and machine learning methods, presaged by the seminal 1987 PDP Group work on [parallel distributed processing](https://mitpress.mit.edu/9780262680530/parallel-distributed-processing/) and recurrent multilayer networks.  
 
-As an academic neuroscientist and long-time symbolic coder also influenced by PDP (1987) concepts, I had begun studying ANN development with MatLab on a Xeon workstation with NV Kepler-class GPUs.
+As an academic neuroscientist and long-time symbolic coder influenced by PDP (1987) concepts, I had also begun studying ANN development with MatLab on a Xeon workstation with NV Kepler-class GPUs.
 
 Across this same post-millennial time frame, enthusiasm for the application of ontologies moderated, while effective anatomical inference in medical imaging has become associated with commercial deep learning systems such as NVIDIA CLARA.  
 
