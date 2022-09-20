@@ -23,7 +23,7 @@ Since massive government research funding, academic training programs, corporate
 ##### ***FMA and OpenGALEN revisited in 2022***
 
 
-[The Foundational Model of Anatomy (FMA)](https://reader.elsevier.com/reader/sd/pii/S0169023X03001253) is the premier international professional consensus domain ontology for concepts, structures and relationships in human anatomy, a major base component of the National Library of Medicine's Unified Medical Language System (UMLS). 
+[The Foundational Model of Anatomy (FMA)](https://reader.elsevier.com/reader/sd/pii/S0169023X03001253) is the premier professional consensus domain ontology for concepts, structures and relationships in human anatomy, a major base component of the National Library of Medicine's Unified Medical Language System (UMLS). 
 
 To my memory, the original SQL-based knowlege base of FMA presented exactly the same way in Protege, as it does now with the current OWL representation.
 
