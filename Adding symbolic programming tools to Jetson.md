@@ -2,7 +2,7 @@
 
 #### **1.  Adding symbolic AI programming to Jetson deep neural network development systems**
 
-Several decades after inception, artificial intelligence (AI) research and development are now driven by widely useful *connectionist* systems, deep neural network (DNN) simulations/models that depend on large-scale parallel computing with graphics processing units (GPUs). It is truly the age of high performance GPU computing, from gaming, 3D simulation, and robotics, through professional design, scientific research, and medical applications.
+Several decades after inception, artificial intelligence (AI) research and development are now driven by widely useful *connectionist* systems, deep neural network (DNN) simulations/models that depend on large-scale parallel computing with graphics processing units (GPUs). It is truly the age of high performance GPU/CUDA computing, from gaming, 3D simulation, and robotics, through professional design, scientific research, and medical applications.
 
 In large part, this AI renaissance has been powered by NVIDIA GPU cards and systems, with their latest Jetson embedded processors providing real-time computer vision, machine learning, natural language, and autonomous machine capabilities in compact low-power systems.
 
