@@ -1,6 +1,9 @@
 Testing 1 2 ...  
-AGX Orin DK trains DenseNet with MedNIST data in 2 h 18+ m on CPU, 12 cores @ 50W
-![image](https://user-images.githubusercontent.com/71346897/192125792-f9600888-2ed7-4384-89e4-4be9fa0d7b47.png)
+AGX Orin DK trains DenseNet with MedNIST data in 11+ m on GPU + CPU, 12 cores @ 50W
+![Screenshot from 2022-09-30 17-18-09](https://user-images.githubusercontent.com/71346897/193375578-34716c93-7bd8-4a4c-87c4-2976e406b65d.png)
 
-Xeon RTX workstation trains DenseNet with MedNIST data in 1 h 55+ m on CPU, 20 cores @ 300W
-![image](https://user-images.githubusercontent.com/71346897/192125960-ebe8ec71-497c-42b0-b085-febd0911b687.png)
+
+Xeon workstation trains DenseNet with MedNIST data in 12+ m on RTX Titan GPU + CPU, 20 cores @ 300W
+![Screenshot from 2022-09-27 12-33-33](https://user-images.githubusercontent.com/71346897/193376165-4a6616a2-89cb-46b2-bb8f-fcc8371e511e.png)
+
+
