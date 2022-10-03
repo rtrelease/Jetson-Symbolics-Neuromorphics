@@ -14,7 +14,7 @@ Over the past two years, the author has worked on assembling a set of compatible
 
 ***The images below show first tests of a newly compiled CLIPS 6.40 (2/21) <u> Lisp/Scheme like symbolic programming environment </u> running qualitative  process simulations on a Jetson Xavier NX.***  CLIPS is executing though the OpenJDK Java virtual machine via a .*jar* app launched from a REPL command line. The required CLIPS Java/C .*so* function library was compiled for Jetson's specific aarch64 OpenJDK 11 installation.
 
-<u>In the first screen capture image</u>, the upper left *bash* terminal session shows  the end of a successful run of the classic AI 'monkey and bananas' cognitive decision-making simulation https://www.sciencedirect.com/science/article/abs/pii/S0364021377800086  from test code provided with the CLIPS source.
+<u>In the first screen capture image</u>, the upper left *bash* terminal session shows  the end of a successful run of the [classic AI 'monkey and bananas' cognitive decision-making simulation ](https://www.sciencedirect.com/science/article/abs/pii/S0364021377800086)from test code provided with the CLIPS source.
 
 The lower part of the same terminal screen (below the green/blue command lines) shows loading and running an experiment from the author's legacy gene regulation process simulation code.  
 
