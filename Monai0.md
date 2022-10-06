@@ -9,3 +9,4 @@ Xeon workstation trains DenseNet with MedNIST data in 12+ m on RTX Titan/Turing 
 Xeon workstation trains a 3D SegResNet model network with BraTS data on RTX Titan/Turing GPU + CPU, 20 cores @ 300 W
 ![image](https://user-images.githubusercontent.com/71346897/193698288-293ea78d-d9c5-4537-89a9-3dbfc594d165.png)
 
+![image](https://user-images.githubusercontent.com/71346897/194192615-dffba655-b05c-4a2f-97f6-3f5dd48530e5.png)
