@@ -44,7 +44,7 @@ Keeping with the new NVIDIA direct-to-edge device software download theme, all t
 
 All the various imagenet, segnet, posenet, SSD-Mobilenet, Cityscapes, DeepScene networks plus .cpp and .py applications examples were then built and tested on the Orin with the available network models and data at all available ‘layer-counts’, including GoogleNet, ResNet, Inception-v4, and VGG.
 
-  *--| Running image recognition with ResNet-18 on sample data plus my own hummer |--*
+  *--| Running image recognition with ResNet-18 on sample data plus my fave hummer |--*
 ![image](https://user-images.githubusercontent.com/71346897/183269986-70e0d642-5e32-4cd9-a05e-4cdc10c507d4.png)
 
 WOW…
