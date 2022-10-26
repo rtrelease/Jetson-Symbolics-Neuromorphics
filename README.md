@@ -11,7 +11,7 @@
  5. [**Gedanken Experiment 1:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) Ontologies for semantic linking with deep neural network identifications of neuroanatomical structures in brain magnetic resonance images
  6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding another build chain for neurosymbolic fusion
  7. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: Reflections on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 8. **The Neuroscientist's Edge HPC**: AGX Xavier/Orin + Neurosymbolic and Neurobiological Modeling Tools
+ 8. **The Neuroscientist's Edge HPC**: RTX GPUs, AGX Xavier Orin + Neurosymbolic and Neurobiological Modeling Tools
 
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
