@@ -1,4 +1,4 @@
-#### **AGX Orin DK A/V Tactical Exoskeleton in action: Sound and Vision**
+#### **AGX Orin DK A/V Exoskeleton in action: Sound and Vision**
 
 The basic exoskeleton 'hypercube' frame was built from 100 mm lengths of MakerBeam XL (15 mm; top/bottom) and MakerBeam (10 mm; verticals) extruded aluminum beams with XL cube corners.
 
