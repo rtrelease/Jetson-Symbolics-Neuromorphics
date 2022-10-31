@@ -6,4 +6,5 @@ A single 'generic' 150 mm 2020 'Euro V Rail' (20 mm) is attached to the top rail
 
 The 'NATO' standard rail 1/4" + 3/8" threaded quick release clamps and 'adjustable friction power articulating magic arm' with 1/4" thread are from Small Rig.
 
-![image](https://user-images.githubusercontent.com/71346897/198909287-bd210bab-ecef-41b4-887b-99960ba6a6f9.jpeg)
+![image](https://user-images.githubusercontent.com/71346897/199114648-1add2491-efd3-4e05-8f1f-0130d5086735.jpeg)
+
