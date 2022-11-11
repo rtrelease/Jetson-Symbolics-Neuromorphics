@@ -20,5 +20,4 @@
 ![image](https://user-images.githubusercontent.com/71346897/189025287-12f64115-7108-43a8-b5db-c03ffbf62075.jpeg)           
 [Canonical neocortex circuit](https://academic.oup.com/book/24640)           
 ![EdgeLab1s](https://user-images.githubusercontent.com/71346897/198853015-1dd3763c-1a5b-4120-a26f-c5e07234a858.png)
-
 [Mr Potato Head's AI library](https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md)
