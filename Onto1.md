@@ -28,7 +28,7 @@ Since massive government research funding, academic training programs, corporate
 To my memory, the original SQL-based knowlege base of FMA presented exactly the same way in Protege, as it does now with the current OWL representation.
 
 
- *=--> **Fig. 1:** ImageJ displays a DICOM MRI section with cross-hair pointer placed over an optic nerve, and Protege shows the ontology search and appropriate specific FMA.owl *left optic nerve* entity information.  AGX Orin: arm64*
+ *=--> **Fig. 1:** ImageJ displays a DICOM MRI section with cross-hair pointer placed over an optic nerve, and Protege shows the ontology search and appropriate specific FMA.owl *left optic nerve* entity information.  AGX Orin: aarch64*
 ![image](https://user-images.githubusercontent.com/71346897/190932716-14f41129-bffe-410e-a4ef-d9179c180775.png)
 
 
