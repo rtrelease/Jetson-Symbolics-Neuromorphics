@@ -13,7 +13,7 @@
  7. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Sound and Vision
  8. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  9. **The Neuroscientist's Edge HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
- 10.  Seventy-two and counting: Neurosymbolic development as a Scheibel-Diamond gero-protective agent process
+ 10.  Seventy-two and counting: Neurosymbolic development as a Scheibel-Diamond gero-protective agent/process
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
