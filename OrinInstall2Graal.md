@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### **3. Bringing up the AI Lab symbolic software suite on the Jetson AGX Orin DK: To Graal and beyond**
+#### **3. Bringing up the AI Lab symbolic software suite on Jetson AGX Orin DK: To Graal and beyond**
        
 My turn in the great 2022 AGX Orin Developer Kit launch delivery queue came in early June, so initial hardware/OS setup had to precede new symbolic applications installations on the latest Ubuntu 20.04 ARM/aarch64 L4T operating system.
 
