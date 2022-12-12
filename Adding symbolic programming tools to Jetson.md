@@ -8,7 +8,7 @@ In large part, this AI renaissance has been powered by NVIDIA GPU cards and syst
 
 *Given their teraOPs GPU processing speeds and a solid base of proven DNN software resources, one could ask why ‘Python friendly’ Jetson developers might want to add ‘old traditional’ symbolic programming tools to their JetPack L4T environments.* 
 
-Simply put, with continually [evolving AI methods](http://aima.cs.berkeley.edu/index.html), newer hybrid [neural-symbolic](https://arxiv.org/abs/1905.06088) (or neurosymbolic) programming methods are increasingly being adopted for enhancing explainability of DNN-based functions, efficiency of machine learning, and availability of complementary new methods for inference. https://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai/fulltext
+Simply put, with continually [evolving AI methods](http://aima.cs.berkeley.edu/index.html), newer hybrid [neural-symbolic](https://arxiv.org/abs/1905.06088) (or neurosymbolic) programming is increasingly being adopted for enhancing explainability of DNN-based functions, efficiency of machine learning, and availability of complementary new methods for inference. https://cacm.acm.org/magazines/2022/4/259402-toward-a-broad-ai/fulltext
 
 Over the past two years, the author has worked on assembling a set of compatible **open source *symbolic* AI programming tools** and utility applications that integrate well with the Jetsons' Arm64 L4T (Ubuntu aarch64) operating system.  These include amd64 Ubuntu 18.04 versions for the EGX-class Xeon 20 + RTX GPU workstation that is the Jetsons’ JetPack SDK host and NGC development archive container manager.
 
