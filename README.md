@@ -9,7 +9,7 @@
  3. [Bringing up the AI Lab symbolic software suite on Jetson AGX Orin: To Graal and *beyond*](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinInstall2Graal.md)
  4. [Research Review](https://github.com/rtrelease/Jetson-Symbolics/blob/main/NS-SOTA-2021.md) -- [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) IOS Press, 2021
  5. [**Gedanken Experiment 1:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) Ontologies for semantic linking with deep neural network identifications of neuroanatomical structures in brain magnetic resonance images
- 6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding another build chain for neurosymbolic fusion
+ 6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding another build chain for *neurosymbolic fusion*
  7. Beyond artificial 'neural networks': Adding **neuromorphic modeling** capabilities
  8. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Sound and Vision
  9. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**: [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
