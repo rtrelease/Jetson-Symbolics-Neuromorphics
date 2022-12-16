@@ -46,7 +46,7 @@ Finally in the lower right shell, with settings made, CLIPSJNI IDE launches with
 
 **Execution speed considerations, grCUDA examples and TensorRT**
 
-As expected, all .jar applications peformed well using GraalVM, and each first launch was prompt without exceptional delay.  Without time data, it's difficult to report that each app launched faster than with the default-jdk VM.  However, the Oracle team has already provided some more meaningful technical facts and [execution speed increase data for GraalVM 22.1](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066).  
+As expected, all .jar applications performed well using GraalVM, and each first launch was prompt without exceptional delay.  Without time data, it's difficult to report that each app launched faster than with the default-jdk VM.  However, the Oracle team has already provided some more meaningful technical facts and [execution speed increase data for GraalVM 22.1](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066).  
 
 Perhaps more important than simple program launch speed, **grCUDA** and GraalVM open up *direct GPU kernel processing* to binaries compiled from the more popular programming languages, as thoroughly presented in Dr. Rene Mueller's 2019  [NVIDIA Tech Blog](https://developer.nvidia.com/blog/grcuda-a-polyglot-language-binding-for-cuda-in-graalvm/).  
 
