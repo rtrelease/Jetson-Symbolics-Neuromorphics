@@ -12,6 +12,8 @@ Not only *that*, but it prepared the development systems for *hybrid computing* 
 
 Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with the THAT microcontroller via USB, the ARM Jetsons sidestep issues of x86-specific data acquisition system drivers for communicating with these neuronal simulators.
 
+When the Arduino hardware is finally integrated with THAT systems, this will enable new hybrid computing synergies between digital AI deep learning methods and analog computer models' dynamical data.
+
 
 ###### A straightforward  *apt install Arduino* and downloaded THAT controller code was loaded on the IDE on the AGX Orin DK; ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
 ![image](https://user-images.githubusercontent.com/71346897/209422743-8bd2314a-04fa-46f0-9b8c-a72afa013f2d.png)
