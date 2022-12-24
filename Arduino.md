@@ -2,7 +2,7 @@
 
 #### **Controlling *neuronal* hardware simulators:** Gearing up for Arduino microcontrollers and all **THAT** analog modeling
 
-One of the objectives of all this development is also to support ongoing AI research into new neuromorphic or biomimetic network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially [cortical microcircuits](https://academic.oup.com/book/24640). 
+One of the objectives of all this development is also to support ongoing AI research into new neuromorphic or biomimetic neural network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially [cortical microcircuits](https://academic.oup.com/book/24640). 
 
 A decade ago, I was working on another platform with a simulator that used 16 Arduino Micros to model networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
 
