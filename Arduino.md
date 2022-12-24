@@ -4,9 +4,9 @@
 
 One of the objectives of all this development is also to support ongoing AI research into new network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially [cortical microcircuits](https://academic.oup.com/book/24640). 
 
-About 10 years ago, I was working on another platform with a simulator that used 16 Arduino Micros to model individual spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
+A decade ago, I was working on another platform with a simulator that used 16 Arduino Micros to model networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
 
-A relatively simple *apt install* of the Arduino IDE to the existing Java environments for both the current Xeon RTX workstation and the ARM64 Jetson AGX Orin Developer Kit gave access to this original legacy simulator programming and its Arduino Mega 2560 microcontroller.
+Today, a simple *apt repository install* of the Arduino IDE in the existing Java environments for both the current Xeon RTX workstation and the ARM64 Jetson AGX Orin Developer Kit gave access to this original legacy simulator programming and its Arduino Mega 2560 microcontroller.
 
 Not only *that*, but it prepared for *hybrid computing* with a new open source analog computer -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of realtime modeling of dynamically spiking cortical microcircuit neurons.  
 
