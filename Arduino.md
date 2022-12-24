@@ -10,9 +10,9 @@ Today, a simple trusted *apt repository install* of the Arduino IDE in the Java 
 
 Not only *that*, but it prepared the development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime modeling of dynamically spiking](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) cortical microcircuit neurons.  
 
-Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid issues of x86-specific data acquisition system drivers for communicating with these neuronal simulators.
+Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition system drivers being available for use with these neuronal simulators.
 
-When the Arduino hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI deep learning methods and analog computer models' dynamical data.
+When the Arduino hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data.
 
 
 ###### A straightforward  *apt install Arduino*, and downloaded THAT controller code was loaded on the IDE on the AGX Orin DK; ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
