@@ -8,7 +8,7 @@ A decade ago, I was working on another platform with a simulator that used 16 Ar
 
 Today, a simple *apt repository install* of the Arduino IDE in the existing Java environments of both the current Xeon RTX workstation and the ARM64 Jetson AGX Orin Developer Kit gave access to this original legacy simulator programming and its Arduino Mega 2560 microcontroller.
 
-Not only *that*, but it prepared the development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of realtime modeling of dynamically spiking cortical microcircuit neurons.  
+Not only *that*, but it prepared the development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime modeling of dynamically spiking](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) cortical microcircuit neurons.  
 
 Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with the THAT microcontroller via USB, the ARM Jetsons sidestep issues of x86-specific data acquisition system drivers for communicating with these neuronal simulators.
 
