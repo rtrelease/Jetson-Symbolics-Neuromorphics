@@ -12,7 +12,7 @@
  6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding another build chain for *neurosymbolic fusion*
  7. **Beyond artificial 'neural networks':** Adding [**neuromorphic modeling**](https://neuroml-db.org/gallery) capabilities
  8. **Biological neurons as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html)**: Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models
- 9. [Controlling *neuronal* hardware simulators:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md) Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) modeling
+ 9. [Controlling *neuronal* hardware simulators:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md) Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling
  10. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  11. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  12. **The Neuroscientist's Edge HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
