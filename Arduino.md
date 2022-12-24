@@ -10,7 +10,7 @@ Today, a simple *apt repository install* of the Arduino IDE in the existing Java
 
 Not only *that*, but it prepared for *hybrid computing* with a new open source analog computer -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of realtime modeling of dynamically spiking cortical microcircuit neurons.  
 
-Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a [hybrid controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  With the Arduino IDE  communicating with the THAT microcontroller via USB, the ARM Jetsons sidesteps issues of x86-specific data acquisition system drivers for data acquisition systems.
+Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a [hybrid controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with the THAT microcontroller via USB, the ARM Jetsons sidestep issues of x86-specific data acquisition system drivers for communicating with these neuronal simulators.
 
 
 ###### A straightforward apt install and the Arduino IDE and downloaded THAT controller code was up on the AGX Orin DK, ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
