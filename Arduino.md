@@ -8,9 +8,9 @@ A decade ago, I was working on another platform with a simulator that used 16 Ar
 
 Today, new access to the original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted *apt repository installs* of the Arduino IDE in the Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
-Not only *that*, but this prepared the development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of spiking](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) cortical microcircuit neurons.  
+Not only *that*, but this prepared the development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.  
 
-Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition system drivers being available for use with these neuronal simulators.
+Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition (DAQ) system drivers being available.
 
 When the Arduino microcontroller hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data.
 
