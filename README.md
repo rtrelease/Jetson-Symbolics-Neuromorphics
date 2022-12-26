@@ -13,11 +13,11 @@
  7. **Beyond artificial 'neural networks':** Adding [**neuromorphic modeling**](https://neuroml-db.org/gallery) capabilities
  8. **Biological neurons as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html)**: Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models
  9. [Controlling *neuronal* modeling hardware:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md) Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling
- 10.  Holidays' reading and Homework: [Analog Computing](https://www.degruyter.com/document/doi/10.1515/9783110787740/html), Analog and Hybrid Computing, 
- 10. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
- 11. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 12. **The Neuroscientist's Edge HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
- 13.  **Seventy-two and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
+ 10.  Holidays' reading and Homework: [Analog Computing](https://www.degruyter.com/document/doi/10.1515/9783110787740/html), Analog and Hybrid Computing, [Analog Paradigm Model 1.1 User Manual](https://analogparadigm.com/downloads/handbook.pdf),
+ 11. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
+ 12. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
+ 13. **The Neuroscientist's Edge HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
+ 14.  **Seventy-two and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
