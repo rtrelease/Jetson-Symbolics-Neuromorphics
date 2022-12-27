@@ -6,7 +6,7 @@ One of the objectives of all this development is also to support ongoing AI Lab 
 
 A decade ago, I was working on MacOS with an experimental simulator that used 16 Arduino Micros to model dynamics of synaptically networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
 
-Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted *apt repository installations* of the Arduino IDE in the Ubuntu *enhanced* OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
+Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted ***apt repository installations*** of the Arduino IDE in the Ubuntu *enhanced* OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
 Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new Open Source ***analog computer*** from **Anabrid** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.
 
@@ -16,7 +16,7 @@ Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided t
 
 When this initial Arduino 2560 microcontroller hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data.
 
-A continuing review of Dr. Ulmann's Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and processing speed than the Mega 2560.
+A continuing review of Dr. Ulmann's Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M controller system with greater analog and digital I/O capabilities and processing speed than the 8 bit Atmel atMega 2560.
 
 This might be a 'Mega-footprint' MCU like the Arduino Due controller used in my prior Teensy 3.1 ARM M4F hardware version of the original Arduino Micro neocortical microcircuit simulator mentioned above.
 
