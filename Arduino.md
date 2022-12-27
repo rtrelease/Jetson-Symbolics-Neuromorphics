@@ -6,7 +6,7 @@ One of the objectives of all this development is also to support ongoing AI Lab 
 
 A decade ago, I was working on MacOS with an experimental simulator that used 16 Arduino Micros to model dynamics of synaptically networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
 
-Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted ***apt repository installations*** of the Arduino IDE in the Ubuntu *enhanced* OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
+Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted ***apt repository installations*** of the **Arduino IDE** in the Ubuntu *enhanced* OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
 Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new Open Source ***analog computer*** from **Anabrid** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.
 
