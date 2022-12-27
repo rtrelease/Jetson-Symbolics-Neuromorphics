@@ -16,7 +16,7 @@ When this initial Arduino 2560 microcontroller hardware is finally integrated wi
 
 A continuing review of Dr. Ulmann's Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and processing speed than the Mega 2560.
 
-This might be a 'Mega-fooprint' MCU like the Arduino Due used in my prior Teeny 3.1 hardware version of the original Arduino Micro neocortical microcircuit simulator mentioned above.
+This might be a 'Mega-fooprint' MCU like the Arduino Due controller used in my prior Teeny 3.1 hardware version of the original Arduino Micro neocortical microcircuit simulator mentioned above.
 
 **To be continued...**
 
