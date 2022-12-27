@@ -14,7 +14,7 @@ Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided t
 
 When this initial Arduino 2560 microcontroller hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data.
 
-A continuing review of Dr. Ulmann's Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and speed than the Mega 2560.
+A continuing review of Dr. Ulmann's Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and processing speed than the Mega 2560.
 
 This might be a 'Mega-fooprint' MCU like Arduino Due used in the prior Teeny 3.1 hardware version of the original Arduino Micro neocortical microcircuit simulator mentioned above.
 
