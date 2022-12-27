@@ -2,19 +2,19 @@
 
 #### **Controlling *neuronal* modeling hardware:** Gearing up for Arduino microcontrollers and all **THAT** analog modeling
 
-One of the objectives of all this development is also to support ongoing AI research into new neuromorphic or biomimetic neural network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially [cortical microcircuits](https://academic.oup.com/book/24640). 
+One of the objectives of all this development is also to support ongoing AI research into new neuromorphic or biomimetic neural network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially for [cortical microcircuits](https://academic.oup.com/book/24640). 
 
-A decade ago, I was working on another platform with a simulator that used 16 Arduino Micros to model networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
+A decade ago, I was working on another platform with an experimental simulator that used 16 Arduino Micros to model networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
 
 Today, new access to the original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted *apt repository installs* of the Arduino IDE in the Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
-Not only *that*, but this prepared the development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.  
+Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.  
 
 Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition (DAQ) system drivers being available.
 
 When this initial Arduino 2560 microcontroller hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data.
 
-A continuing review of Analog Paradigms advanced Hybrid Controller module documentation  indicates that there is a reasonable upgrade path for a THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and speed.
+A continuing review of Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and speed.
 
 This might be an Arduino Leonardo like the one used in the prior Teeny 3.1 hardware version of the original Arduino Micro neocortical microcicuit simulator.
 
