@@ -28,7 +28,4 @@ Of course, beyond serving as hybrid controller for an analog computer and neuron
 ###### A straightforward  *apt install Arduino*, and downloaded THAT controller code was loaded on the IDE on the AGX Orin DK; ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
 ![image](https://user-images.githubusercontent.com/71346897/209422743-8bd2314a-04fa-46f0-9b8c-a72afa013f2d.png)
 
-![image](https://user-images.githubusercontent.com/71346897/209604689-dc7c352c-21a1-4eb7-838a-89012f02ff05.jpeg)
-
-
 RBT 26 December 2022
