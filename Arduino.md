@@ -8,7 +8,7 @@ A decade ago, I was working on another platform with an experimental simulator t
 
 Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted *apt repository installs* of the Arduino IDE in the enhanced Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
-Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new open source ***analog computer*** from **Anabrid** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.
+Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new Open Source ***analog computer*** from **Anabrid** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.
 
 THAT has a built-in hybrid computing interface with 16 pin DIP header, along with connectors for parallel-chaining multiple THATs for a large analog computing array.
 
