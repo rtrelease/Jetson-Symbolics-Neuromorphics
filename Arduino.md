@@ -10,13 +10,13 @@ Today, new access to the original legacy simulator programming and its Arduino M
 
 Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new open source ***analog computer*** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.  
 
-Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition (DAQ) system drivers being available.
+Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 design and code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) he designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition (DAQ) system drivers being available.
 
 When this initial Arduino 2560 microcontroller hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data.
 
-A continuing review of Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and speed.
+A continuing review of Analog Paradigms advanced [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf)  indicates that there is a reasonable upgrade path for an Open Source THAT hardware interface that includes a 32 bit ARM Cortex M4 controller system with greater analog and digital I/O capabilities and speed than tne Mega 2560.
 
-This might be an Arduino Leonardo like the one used in the prior Teeny 3.1 hardware version of the original Arduino Micro neocortical microcicuit simulator.
+This might be a 'Mega-fooprint' MCU like Arduino Leonardo used in the prior Teeny 3.1 hardware version of the original Arduino Micro neocortical microcicuit simulator mentioned above.
 
 **To be continued...**
 
@@ -24,3 +24,4 @@ This might be an Arduino Leonardo like the one used in the prior Teeny 3.1 hardw
 ###### A straightforward  *apt install Arduino*, and downloaded THAT controller code was loaded on the IDE on the AGX Orin DK; ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
 ![image](https://user-images.githubusercontent.com/71346897/209422743-8bd2314a-04fa-46f0-9b8c-a72afa013f2d.png)
 
+26 Decenber 2022
