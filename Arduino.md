@@ -20,7 +20,7 @@ A continuing review of Dr. Ulmann's Analog Paradigms advanced [Hybrid Controller
 
 This might be a 'Mega-footprint' MCU, like the Arduino Due controller used in my prior Teensy 3.1 ARM M4F hardware redesign of the original Arduino Micro neocortical microcircuit simulator.
 
-Of course, beyond serving as hybrid controller for an analog computer and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 16 channels of A/D, 16 digital I/O channels and 2 channels of base D/A suitable for many other laboratory data acquisition and control applications, such as robotics and 3D printer control.
+Of course, beyond serving as hybrid controller for an analog computer and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 12 channels of A/D, 52 digital I/O channels and 2 channels of base D/A suitable for many other laboratory data acquisition and control applications, such as robotics and 3D printer control.
 
 **To be continued...**
 
