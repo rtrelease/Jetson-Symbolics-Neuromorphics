@@ -10,7 +10,7 @@ Today, new access to my original legacy simulator programming and its Arduino Me
 
 Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new Open Source ***analog computer*** from **Anabrid** -- [The Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.
 
-THAT has a built-in hybrid computing interface with 16 pin DIP header, along with connectors for parallel-chaining multiple THATs for a large analog computing array.
+THAT has a built-in hybrid computing interface with 16 pin DIP cable header, along with connectors for parallel-chaining multiple THATs for a large analog computing array.
 
 Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) he designed for THAT.  Since the Arduino IDE  communicates with THAT's microcontroller via USB, the ARM Jetsons avoid obstacles of only x86-specific data acquisition (DAQ) system drivers being available.
 
