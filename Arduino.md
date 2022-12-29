@@ -25,7 +25,7 @@ Of course, beyond serving as hybrid controller for an analog computer and neuron
 **To be continued...**
 
 
-###### A straightforward  *apt install arduino*, and downloaded THAT controller code was loaded on the IDE on the AGX Orin DK; ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
+###### A straightforward  *apt install arduino*, then downloaded THAT controller code was loaded on the IDE on the AGX Orin DK; ready to go for a new Mega 2560 hybrid controller, THAT, and brain microcircuit modeling!
 ![image](https://user-images.githubusercontent.com/71346897/209422743-8bd2314a-04fa-46f0-9b8c-a72afa013f2d.png)
 
 RBT 26 December 2022
