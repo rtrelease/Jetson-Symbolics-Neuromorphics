@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### **Controlling *neuronal* dynamic modeling hardware:** Gearing up for Arduino microcontrollers and all **THAT** analog modeling
+#### **Controlling dynamic *neuronal* modeling hardware:** Gearing up for Arduino microcontrollers and all **THAT** analog modeling
 
 One of the objectives of all this development is also to support ongoing AI Lab research into new neuromorphic or biomimetic neural network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially in [cortical microcircuits](https://academic.oup.com/book/24640). 
 
