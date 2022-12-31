@@ -12,9 +12,9 @@ Not only *that*, but this prepared the Jetson development systems for *hybrid co
 
 THAT has a built-in hybrid computing interface with 16 pin DIP cable header, along with connectors for parallel-chaining multiple THATs for a larger analog computing array.
 
-Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) he designed for THAT.  Since the Arduino IDE serial communicates with THAT's microcontroller via USB, the ARM Jetsons can sidestep obstacles of only x86-specific data acquisition (DAQ) systems/drivers being available.
+Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) he designed for THAT.  Since the Arduino IDE serial communicates with THAT's microcontroller via USB, the ARM Jetsons can sidestep obstacles of only x86-specific data acquisition (DAQ) systems/drivers availability.
 
-When this initial Arduino Mega 2560 microcontroller hardware is finally integrated with THAT systems, it will enable new hybrid computing synergies between digital AI, deep learning methods and analog computer models' dynamical data outputs.
+When this initial Arduino Mega 2560 microcontroller hardware is finally integrated with theplanned THAT systems 'cluster', it will enable new hybrid computing synergies between the workstation and Jetson digital AI, deep learning methods and analog computer models' dynamical data outputs.
 
 A continuing review of Dr. Ulmann's Analog Paradigms advanced 32 A+D I/O channels [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf) indicates that there may be a reasonable upgrade path for a comparable Open Source THAT hardware interface that can include a 32 bit ARM Cortex M controller system with greater analog and digital I/O capabilities and processing speed than the 8 bit Atmel atMega 256.
 
