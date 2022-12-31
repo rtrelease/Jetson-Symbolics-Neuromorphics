@@ -20,7 +20,7 @@ Considering further Dr. Ulmann's Analog Paradigms advanced 32 channel I/O A+D [H
 
 This might be a 'Mega-footprint' MCU, like the Arduino Due controller used in my prior Teensy 3.1 ARM M4F hardware redesign of the original Arduino Micro neocortical microcircuit simulator.
 
-Of course, beyond serving as hybrid controller for an analog computer and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 12 channels of A/D, 52 digital I/O channels and 2 channels of base D/A suitable for many other laboratory data acquisition and control applications.
+Of course, beyond serving as hybrid controller and data logger for dynamical analog computer models and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 12 channels of A/D, 52 digital I/O channels and 2 channels of base D/A suitable for many other laboratory data acquisition and control applications.
 
 **To be continued...**
 
