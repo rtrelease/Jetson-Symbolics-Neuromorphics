@@ -14,7 +14,7 @@ THAT has a built-in hybrid computing interface with 16 pin DIP cable header, alo
 
 Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided the Arduino Mega 2560 code for a simple [hybrid computing controller and data logger](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) he designed for THAT.  Since the Arduino IDE serial communicates with THAT's microcontroller via USB, the ARM Jetsons can sidestep obstacles of only x86-specific data acquisition (DAQ) systems/drivers availability.
 
-When this initial Arduino Mega 2560 microcontroller hardware is finally integrated with theplanned THAT systems 'cluster', it will enable new hybrid computing synergies between the workstation and Jetson digital AI, deep learning methods and analog computer models' dynamical data outputs.
+When this initial Arduino Mega 2560 microcontroller hardware is finally integrated with the planned THAT systems 'cluster', it will enable new hybrid computing synergies between the workstation and Jetson digital AI, deep learning methods and analog computer models' dynamical data outputs.
 
 Considering further Dr. Ulmann's advanced **Analog Paradigms** 32 channel I/O A+D [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf), it seemed there could also be a reasonable *upgrade* path for a *comparably advanced* Open Source THAT hardware controller, using a 32 bit ARM Cortex M controller system with greater analog and digital I/O capabilities and processing speed than the 8 bit Atmel atMega 256.
 
