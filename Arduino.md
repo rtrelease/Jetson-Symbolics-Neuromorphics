@@ -4,7 +4,7 @@
 
 One of the objectives of all this development is also to support ongoing AI Lab research into new neuromorphic or biomimetic neural network models that operate *unclocked in realtime*, like analog integrating 'spiking' biological neurons, especially in [cortical microcircuits](https://academic.oup.com/book/24640). 
 
-A decade ago, I was working on MacOS with an experimental simulator that used 16 Arduino Micros to model dynamics of synaptically networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit.  
+A decade ago, I was working on MacOS with an experimental simulator that used 16 Arduino Micros to model dynamics of synaptically networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit *(bottom image)*.  
 
 Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller were provided by now trusted ***apt repository installations*** of the **Arduino IDE** in the *enhanced* Ubuntu OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
@@ -18,7 +18,7 @@ When this initial Arduino Mega 2560 microcontroller hardware is finally integrat
 
 Considering further Dr. Ulmann's advanced **Analog Paradigms** 32 channel I/O A+D [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf), it seemed there could also be a reasonable *upgrade* path for a *comparably advanced* Open Source THAT hardware controller, using a 32 bit ARM Cortex M controller system with greater analog and digital I/O capabilities and processing speed than the 8 bit Atmel atMega 256.
 
-This might be a 'Mega-footprint' MCU, like the Arduino Due controller used in my prior Teensy 3.1 ARM M4F hardware redesign of the original Arduino Micro neocortical microcircuit simulator.
+This might be a *drop-in* 'Mega-footprint' MCU, like the Arduino Due controller used in my prior Teensy 3.1 ARM M4F hardware redesign of the original Arduino Micro neocortical microcircuit simulator.
 
 Of course, beyond serving as hybrid controller and data logger for dynamical analog computer models and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 12 channels of A/D, 52 digital I/O channels and 2 channels of base D/A suitable for many other edge laboratory data acquisition and control applications.
 
