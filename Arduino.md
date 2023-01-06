@@ -6,7 +6,7 @@ One of the objectives of all this development is also to support ongoing AI Lab 
 
 A decade ago, I was working on MacOS with an experimental simulator that used 16 Arduino Micros to model dynamics of synaptically networked, spiking, analog threshold-triggered pyramidal cells and interneurons in a simple neocortical microcircuit *(bottom image)*.  
 
-Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller was provided by installations of the **Arduino IDE** in the *enhanced* Ubuntu OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
+Today, new access to my original legacy simulator programming and its Arduino Mega 2560 microcontroller was provided by new installations of the **Arduino IDE** in the *enhanced* Ubuntu OpenJDK Java environments of both the Xeon RTX GPU workstation and the ARM64 Jetson AGX Orin DK.
 
 Not only *that*, but this prepared the Jetson development systems for *hybrid computing* with a new Open Source ***analog computer*** from **Anabrid** -- [THe Analog Thing](https://the-analog-thing.org/wiki/) (THAT) -- capable of [realtime dynamical modeling of action potential bursting](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) of cortical microcircuit neurons.
 
@@ -22,7 +22,7 @@ This might be a *drop-in* 'Mega-footprint' MCU, like the Arduino Due controller 
 
 Of course, beyond serving as hybrid controller and data logger for dynamical analog computer models and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 12 channels of A/D, 52 digital I/O channels and 2 channels of base D/A suitable for many other edge laboratory data acquisition and control applications.
 
-**To be continued...**
+**To be continued as *Sorting the IDEs*...**
 
 
 ![image](https://user-images.githubusercontent.com/71346897/209889908-8d574842-ea6e-4cb0-b197-3d137982b8dc.jpeg)
