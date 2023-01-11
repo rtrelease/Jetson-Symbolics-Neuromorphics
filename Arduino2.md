@@ -1,3 +1,2 @@
-#### Sorting the IDEs 
-of MCUs, *AVRs to ARMs*
+#### Sorting the IDEs of MCUs, from *AVRs* to *ARMs*
 
