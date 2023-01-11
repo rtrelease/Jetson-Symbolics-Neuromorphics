@@ -16,7 +16,7 @@ Analog computing master expert Dr. Bernd Ulmann of Anabrid has kindly provided t
 
 When this initial Arduino Mega 2560 microcontroller hardware is finally integrated with the planned THAT systems 'cluster', it will enable new hybrid computing synergies between the workstation and Jetson digital AI, deep learning methods and analog computer models' dynamical data outputs.
 
-Considering further Dr. Ulmann's advanced **Analog Paradigm** 32 channel I/O A+D [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf), it seemed there could also be a reasonable *upgrade* path for a *comparably advanced* Open Source THAT hardware controller, using a 32 bit ARM Cortex M controller system with greater analog and digital I/O capabilities and processing speed than the 8 bit Atmel atMega 256.
+Considering further Dr. Ulmann's advanced **Analog Paradigm** 32 channel I/O A+D [Hybrid Controller module documentation](https://analogparadigm.com/downloads/hc_handbook.pdf), it seemed there could also be a reasonable *upgrade* path for a *comparably advanced* Open Source THAT hardware controller, using a 32 bit ARM Cortex M-series MCU with greater analog and digital I/O capabilities and processing speed than the 8 bit Atmel atMega 256.
 
 This might be a *drop-in* 'Mega-footprint' MCU, like the Arduino Due controller used in my prior Teensy 3.1 ARM M4F hardware redesign of the original Arduino Micro neocortical microcircuit simulator.
 
