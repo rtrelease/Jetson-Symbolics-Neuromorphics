@@ -1,6 +1,6 @@
 #### Sorting the IDEs of MCUs, from *AVRs* to *ARMs*
 
-Earlier Lab Notes highlighted NVIDIA's 2022 commitment to direct ***apt*** installation of Jetson AGX Orin JetPack software in lieu of the prior NV SDK installs from a workstation.
+Earlier Lab Notes highlighted NVIDIA's 2022 commitment to direct ***apt*** installation of Jetson AGX Orin JetPack software in lieu of the prior standard installs from a NV SDK workstation.
 
 In that 'spirit', despite years of strong dev recommendations to install the latest binaries directly from the Arduino.cc web site, I initially chose *apt install arduino* to get the IDE up on both Xeon workstation and AGX Xavier dev kit.
 
