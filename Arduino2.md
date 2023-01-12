@@ -1,3 +1,5 @@
+## <u>AI Lab Notes</u>
+
 #### Sorting the IDEs of MCUs, from *AVRs* to *ARMs*
 
 Earlier Lab Notes highlighted NVIDIA's 2022 commitment to direct ***apt*** installation of Jetson AGX Orin JetPack software in lieu of the prior standard installs from a NV SDK workstation.
@@ -10,7 +12,7 @@ The image immediately below shows the Orin loading the standard Blink example.
 
 ![image](https://user-images.githubusercontent.com/71346897/211944288-7e1ea393-f51b-4129-800b-24fb36ffc5ff.jpeg)
 
-It sure looked and worked like the *good old Arduino* IDE I had used for nearly 20 years an Macs for a variety of projects.  
+It sure looked and worked like the *good old Arduino* IDE I had used for nearly 20 years on Macs for a variety of projects.  
 
 *Everything looked fine for programming the planned analog computer hybrid interface*, **until I tried to add new hardware definitions via URL as for earlier projects.**
 
