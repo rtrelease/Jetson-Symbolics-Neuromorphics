@@ -15,7 +15,7 @@ It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had use
 
 *Everything looked fine for programming the proposed advanced [analog computer hybrid interface](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)*, **until I tried to add new MCU hardware libraries via URL as required for earlier non-Arduino board projects.**
 
-*There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference Window element for entering URLs for additional boards and processors.*
+*There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference Window element for entering URLs for additional boards and processor libraries.*
 
 Hence, no way to load the other non-Arduino libraries I had used for my prior work with non-Arduino AVR and ARM Cortex M boards.
 
