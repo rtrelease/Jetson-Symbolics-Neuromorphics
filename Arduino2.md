@@ -4,7 +4,7 @@
 
 Earlier Lab [Notes](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinInstall2Graal.md) highlighted NVIDIA's 2022 commitment to direct ***apt*** installation of Jetson AGX Orin JetPack software in lieu of the prior standard installs from a NV SDK workstation.
 
-So in that 'spirit', despite years of strong dev recommendations to install the latest binaries directly from the Arduino.cc web site, I initially chose to test *apt install arduino*for getting the IDE up on both Xeon workstation and AGX Orin Dev Kit.
+So in that 'spirit', despite years of strong dev recommendations to install the latest binaries directly from the Arduino.cc web site, I initially chose to test *apt install arduino* for getting the IDE up on both Xeon workstation and AGX Orin Dev Kit.
 
 The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based systems neatly, and both installed apps could immediately detect a USB-connected Arduino Mega 2560, compile, load, and run new code on it through the standard IDE drop down menus.
 
