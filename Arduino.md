@@ -22,7 +22,7 @@ This might be a *drop-in* 'Mega-footprint' MCU, like the Arduino Due controller 
 
 Of course, beyond serving as hybrid controller and data logger for dynamical analog computer models and neuronal circuit behavior simulations, these well-supported maker-popular Arduino IDE compatible MCU systems can provide up to 12 channels of A/D, 52 digital I/O channels and 2 channels of base D/A suitable for many other edge laboratory data acquisition and control applications.
 
-**To be continued as *Sorting the IDEs*...**
+**To be continued as [*Sorting the IDEs*](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md)...**
 
 
 ![image](https://user-images.githubusercontent.com/71346897/209889908-8d574842-ea6e-4cb0-b197-3d137982b8dc.jpeg)
