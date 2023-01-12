@@ -11,7 +11,7 @@ The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based s
 ##### *This shows the* apt-installed *Orin loading and running the standard Arduino Blink example:*
 ![image](https://user-images.githubusercontent.com/71346897/211949994-44ac7020-c0b0-4852-8e20-7837a2a7ff54.jpeg)
 
-It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had used for nearly 20 years on Macs for a variety of projects, even though it was a newer 2.0 program (supposedly) completely rewritten in TypeScript/Javascript...
+It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had used for nearly 20 years on Macs for a variety of projects, even though it was a newer 2.0 seriesprogram (supposedly) completely rewritten in TypeScript/Javascript...
 
 *Everything looked fine for programming an advanced version of an [analog computer hybrid interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller)*, **until I tried to add new MCU hardware libraries via URL as required for earlier projects.**
 
@@ -21,7 +21,7 @@ Hence, no way to load the other non-Arduino libraries that I had used for proces
 
 So lessons learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's](https://www.arduino.cc/en/software) and [Ubuntu's](https://ubuntu.com/tutorials/install-the-arduino-ide) best instructions for installing IDE packages for amd64 and aarch64 Linux systems.
 
-Consistent with Lab goals, I chose to start with the available latest ARM64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd64 for the workstation.  Among other things, this gave me code and performance comparisons of the IDEs on three platforms.
+Consistent with Lab goals, I chose to start with installing the latest legacy ARM64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd64 for the workstation.  Among other things, this gave me code and performance comparisons of the IDEs on three platforms.
 
 **Note that the latest stabile version of the IDE was 2.0.3 at Arduino.cc, compared to 2.1.0.5 claimed by the original apt install...**
 
