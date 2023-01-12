@@ -15,7 +15,7 @@ It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had use
 
 *Everything looked fine for programming an advanced version of an [analog computer hybrid interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller)*, **until I tried to add new MCU hardware libraries via URL as required for earlier non-Arduino board projects.**
 
-*There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference Window element for entering URLs for additional boards and processor libraries.*
+*There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference window element for entering URLs for additional boards and processor libraries.*
 
 Hence, no way to load the other non-Arduino libraries that I had used for my prior work with non-Arduino AVR and ARM Cortex M boards...
 
