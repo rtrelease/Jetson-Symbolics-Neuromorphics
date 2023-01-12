@@ -10,7 +10,7 @@ The Apt Repository served up Arduino IDE 2.1.0.5 for both systems neatly, and bo
 
 The image immediately below shows the Orin loading the standard Blink example.
 
-![image](https://user-images.githubusercontent.com/71346897/211944288-7e1ea393-f51b-4129-800b-24fb36ffc5ff.jpeg)
+![image](https://user-images.githubusercontent.com/71346897/211949994-44ac7020-c0b0-4852-8e20-7837a2a7ff54.jpeg)
 
 It sure looked and worked like the *good old Arduino* IDE I had used for nearly 20 years on Macs for a variety of projects.  
 
