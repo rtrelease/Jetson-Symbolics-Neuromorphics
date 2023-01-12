@@ -21,6 +21,8 @@ Hence, no way to load the other boards libaries I had used for my prior work wit
 
 So lesson learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's best instructions](https://www.arduino.cc/en/software) for installing IDE packages for amd64 and aarch64 Linux systems.
 
+Consistent with Lab goals, I chose to start with the available latest aarch64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd63 for the workstation.  Among other things,thisgave me code and performance comparisons of the IDE on three platforms.
+
 
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
 
