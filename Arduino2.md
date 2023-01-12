@@ -13,11 +13,11 @@ The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based s
 
 It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had used for nearly 20 years on Macs for a variety of projects, even though it was a newer 2.0 program (supposedly) completely rewritten in TypeScript/Javascript...
 
-*Everything looked fine for programming an advanced version of an [analog computer hybrid interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller)*, **until I tried to add new MCU hardware libraries via URL as required for earlier non-Arduino board projects.**
+*Everything looked fine for programming an advanced version of an [analog computer hybrid interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller)*, **until I tried to add new MCU hardware libraries via URL as required for earlier projects.**
 
-*There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference window element for entering URLs for additional boards and processor libraries.*
+*There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference window element for entering URLs.*
 
-Hence, no way to load the other non-Arduino libraries that I had used for my prior work with non-Arduino AVR and ARM Cortex M boards...
+Hence, no way to load the other non-Arduino libraries that I had used for processing with non-Arduino AVR and ARM Cortex M boards...
 
 So lessons learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's](https://www.arduino.cc/en/software) and [Ubuntu's](https://ubuntu.com/tutorials/install-the-arduino-ide) best instructions for installing IDE packages for amd64 and aarch64 Linux systems.
 
@@ -27,7 +27,7 @@ Consistent with Lab goals, I chose to start with the available latest ARM64 .tar
 
 Anyway, the version 1.8.19 installs gave the proper Board Manager and Preferences access to all the non-Arduino AVR and ARM Cortex M MCU boards I had been using over the last decade.
 
-##### The next images show the standard Preferences URL setup and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on a IDE first configured for the Arduino Mega 2560 board.  Functionality was identical on the Xeon workstation.
+##### The next images show the standard Preferences URL entry dialog and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on a IDE first configured for the Arduino Mega 2560 board.  Functionality was identical on the Xeon workstation.
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
 
 ##### The 'drop-in' Mega-footprint *Grand Central M4* will run Arduino Mega 2560 code[ (e.g.)](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) as-is, while supporting the option of running equivalent CircuitPython code and from Jupyter Notebooks.
