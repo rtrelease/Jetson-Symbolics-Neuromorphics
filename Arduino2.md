@@ -6,7 +6,7 @@ Earlier Lab Notes highlighted NVIDIA's 2022 commitment to direct ***apt*** insta
 
 In that 'spirit', despite years of strong dev recommendations to install the latest binaries directly from the Arduino.cc web site, I initially chose *apt install arduino* to get the IDE up on both Xeon workstation and AGX Xavier dev kit.
 
-The Apt Repository served up Arduino IDE 2.1.0.5 for both Ubuntu-based systems neatly, and both installed apps could immediately detect a USB-connected Arduino Mega 2560, compile, load, and run new code on it through the standard IDE drop down menus.
+The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based systems neatly, and both installed apps could immediately detect a USB-connected Arduino Mega 2560, compile, load, and run new code on it through the standard IDE drop down menus.
 
 ##### *This shows the Orin loading and running the standard Blink example:*
 ![image](https://user-images.githubusercontent.com/71346897/211949994-44ac7020-c0b0-4852-8e20-7837a2a7ff54.jpeg)
@@ -21,8 +21,13 @@ Hence, no way to load the other boards libaries I had used for my prior work wit
 
 So lesson learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's best instructions](https://www.arduino.cc/en/software) for installing IDE packages for amd64 and aarch64 Linux systems.
 
-Consistent with Lab goals, I chose to start with the available latest aarch64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd63 for the workstation.  Among other things,thisgave me code and performance comparisons of the IDE on three platforms.
+Consistent with Lab goals, I chose to start with the available latest aarch64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd63 for the workstation.  Among other things,this gave me code and performance comparisons of the IDE on three platforms.
 
+**Note that the latest stabile version of Arduino IDE was 2.0.3 at Arduino.cc, compared to 2.1.05 claimed by the original apt install...**
+
+Anyway, the version 1.8.19 installs gave the proper Board Manager and Preferences access to all the non-Arduino AVR and ARM Cortex M MCU boards I had been using over the last decade.
+
+The next images show the Preferences URL setup and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on a IDE first configured for the Arduino Mega 2560 board.
 
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
 
