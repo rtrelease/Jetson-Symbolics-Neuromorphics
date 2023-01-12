@@ -27,7 +27,7 @@ Consistent with Lab goals, I chose to start with the available latest aarch64 .t
 
 Anyway, the version 1.8.19 installs gave the proper Board Manager and Preferences access to all the non-Arduino AVR and ARM Cortex M MCU boards I had been using over the last decade.
 
-The next images show the expected Preferences URL setup and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on a IDE first configured for the Arduino Mega 2560 board.  Function was identical on the Xeon workstation.
+The next images show the standard Preferences URL setup and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on a IDE first configured for the Arduino Mega 2560 board.  Function was identical on the Xeon workstation.
 
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
 
