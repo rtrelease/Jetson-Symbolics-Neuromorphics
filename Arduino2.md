@@ -8,7 +8,7 @@ In that 'spirit', despite years of strong dev recommendations to install the lat
 
 The Apt Repository served up Arduino IDE 2.1.0.5 for both systems neatly, and both installed apps could immediately detect a USB-connected Arduino Mega 2560, compile, load, and run new code through the standard IDE drop down menus.
 
-The image immediately below shows the Orin loading the standard Blink example.
+*This image shows the Orin loading and running the standard Blink example.*
 ![image](https://user-images.githubusercontent.com/71346897/211949994-44ac7020-c0b0-4852-8e20-7837a2a7ff54.jpeg)
 
 It sure looked and worked like the *good old Arduino* IDE I had used for nearly 20 years on Macs for a variety of projects.  
