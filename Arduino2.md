@@ -23,7 +23,7 @@ So lessons learned, the next step was ***sudo apt remove arduino*** on two syste
 
 Consistent with Lab goals, I chose to start with the available latest ARM64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd64 for the workstation.  Among other things, this gave me code and performance comparisons of the IDE on three platforms.
 
-**Note that the latest stabile version of Arduino IDE was 2.0.3 at Arduino.cc, compared to 2.1.0.5 claimed by the original apt install...**
+**Note that the latest stabile version of the IDE was 2.0.3 at Arduino.cc, compared to 2.1.0.5 claimed by the original apt install...**
 
 Anyway, the version 1.8.19 installs gave the proper Board Manager and Preferences access to all the non-Arduino AVR and ARM Cortex M MCU boards I had been using over the last decade.
 
