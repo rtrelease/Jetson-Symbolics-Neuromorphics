@@ -19,7 +19,7 @@ It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had use
 
 Hence, no way to load the other non-Arduino libraries that I had used for my prior work with non-Arduino AVR and ARM Cortex M boards...
 
-So lesson learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's](https://www.arduino.cc/en/software) and [Ubuntu's](https://ubuntu.com/tutorials/install-the-arduino-ide) best instructions for installing IDE packages for amd64 and aarch64 Linux systems.
+So lessons learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's](https://www.arduino.cc/en/software) and [Ubuntu's](https://ubuntu.com/tutorials/install-the-arduino-ide) best instructions for installing IDE packages for amd64 and aarch64 Linux systems.
 
 Consistent with Lab goals, I chose to start with the available latest ARM64 .tar of 1.8.19 for the Orin, with 1.8.19 and the 2.0.3 .tars for x86-64/amd64 for the workstation.  Among other things, this gave me code and performance comparisons of the IDE on three platforms.
 
