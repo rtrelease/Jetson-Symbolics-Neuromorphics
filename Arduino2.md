@@ -17,7 +17,7 @@ It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had use
 
 *There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference Window element for entering URLs for additional boards and processor libraries.*
 
-Hence, no way to load the other non-Arduino libraries I had used for my prior work with non-Arduino AVR and ARM Cortex M boards...
+Hence, no way to load the other non-Arduino libraries that I had used for my prior work with non-Arduino AVR and ARM Cortex M boards...
 
 So lesson learned, the next step was ***sudo apt remove arduino*** on two systems, then follow [Arduino.cc's](https://www.arduino.cc/en/software) and [Ubuntu's](https://ubuntu.com/tutorials/install-the-arduino-ide) best instructions for installing IDE packages for amd64 and aarch64 Linux systems.
 
