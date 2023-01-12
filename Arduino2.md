@@ -15,3 +15,6 @@ It sure looked and worked like the *good old Arduino* IDE I had used for nearly 
 
 *Everything looked fine for programming the planned analog computer hybrid interface*, **until I tried to add new hardware definitions via URL as for earlier projects.**
 
+
+![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
+
