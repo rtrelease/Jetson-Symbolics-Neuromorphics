@@ -19,7 +19,7 @@ It sure looked and worked like the *good old Arduino* 1.n IDE I had used for nea
 
 Hence, no way to load the other boards libaries I had used for my prior work with non-Arduino AVR and ARM Cortex M boards...
 
-So the next step was sudo apt remove arduino on two systems, and follow Arduino.cc's best instructions for installing IDE packages for Linux systems.
+So the next step was ***sudo apt remove arduino*** on two systems, and follow [Arduino.cc's best instructions](https://www.arduino.cc/en/software) for installing IDE packages for amd64 and aarch64 Linux systems.
 
 
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
