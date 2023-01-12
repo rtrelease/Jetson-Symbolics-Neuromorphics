@@ -13,7 +13,7 @@ The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based s
 
 It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had used for nearly 20 years on Macs for a variety of projects, even though it was a newer 2.0 program (supposedly) completely rewritten in TypeScript/Javascript...
 
-*Everything looked fine for programming the planned analog computer hybrid interface*, **until I tried to add new hardware definitions via URL as required for earlier non-Arduino board projects.**
+*Everything looked fine for programming the proposed advanced [analog computer hybrid interface](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)*, **until I tried to add new MCU hardware libraries via URL as required for earlier non-Arduino board projects.**
 
 *There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference Window element for entering URLs for additional boards and processors.*
 
