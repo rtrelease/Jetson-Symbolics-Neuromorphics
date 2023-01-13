@@ -13,7 +13,7 @@ The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based s
 
 It sure looked and worked like the *good old Arduino* Java/C++ 1.n IDE I had used for nearly 20 years on Macs for a variety of projects, even though it was a newer 2.0 series program (supposedly) completely rewritten in TypeScript/Javascript... 
 
-*Everything looked fine for programming an advanced version of an [analog computer hybrid interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller)*, **until I tried to add new MCU hardware libraries via URL as required for earlier projects.**
+*Everything looked fine for programming an advanced version of an [analog computer hybrid interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller)*, **until I tried to add new MCU hardware libraries via URL as required for earlier projects.** Only a basic list of standard Arduinos, including the Mega 2560, was available through the Boards Menu item.
 
 *There was no standard Board Manager selection on the 2.1.0.5 IDE Tools Menu, and there was no Preference window element for entering URLs.*
 
@@ -30,7 +30,7 @@ Anyway, the version 1.8.19 installs gave the proper Board Manager and Preference
 ##### The next images show the standard Preferences URL entry dialog and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on an IDE first configured for the Arduino Mega 2560 board.  Functionality was identical on the Xeon workstation.
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
 
-##### The 'drop-in' Mega-footprint *Grand Central M4* will run Arduino Mega 2560 code[ (e.g.)](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) as-is, while supporting the option of running equivalent CircuitPython code and from Jupyter Notebooks.
+##### The 'drop-in' Mega-footprint *Grand Central M4* will run Arduino Mega 2560 code[ (e.g.)](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) as-is, while supporting the option of running equivalent CircuitPython code and using it with Jupyter Notebooks.
 ![image](https://user-images.githubusercontent.com/71346897/211956806-2b375334-26c8-40af-86b1-85cbf9144777.jpeg)
 
 
