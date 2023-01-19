@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### M4 Controller - Cortical Microcircuit Model Layout Setup
+#### M4 Hybrid Controller - M0 Cortical Microcircuit Model Initial Layout
 
 ![image](https://user-images.githubusercontent.com/71346897/213342217-7e24bc1d-c19f-424b-afc0-eeecefebce39.jpeg)
 
