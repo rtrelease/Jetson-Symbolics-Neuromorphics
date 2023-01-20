@@ -25,7 +25,7 @@ Consistent with Lab goals, I chose to start with installing the latest legacy AR
 
 **Note that the latest stabile version of the IDE was 2.0.3 at Arduino.cc, compared to 2.1.0.5 claimed by the original apt install...**
 
-Anyway, the version 1.8.19 installs gave the proper Board Manager and Preferences access to all the non-Arduino AVR and ARM boards I had been using over the last decade.
+Anyway, the version 1.8.19 installations gave the proper Board Manager and Preferences access to all the non-Arduino AVR and ARM boards I had been using over the last decade.
 
 ##### The next images show the standard Preferences URL entry dialog and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on an IDE first configured for the Arduino Mega 2560 board.  Functionality was identical on the Xeon workstation.
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
