@@ -15,6 +15,6 @@ Rather than carry on more about the significance of cellular automata like Conwa
 
 [Cellular Automaton @ ConwayLife wiki](https://conwaylife.com/wiki/Cellular_automaton)
 
-
+[GollyGang Rule Table Repository for Cellular Automata](https://github.com/GollyGang/ruletablerepository)
 
 ![image](https://user-images.githubusercontent.com/71346897/213844621-43f4ffbc-285d-440c-a119-4e444e5627bd.png)
