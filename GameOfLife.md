@@ -1,4 +1,7 @@
 
+
+**Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
+
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 [Cellular Automata, according to Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/cellular-automata/)
