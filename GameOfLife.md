@@ -6,7 +6,9 @@ When topic map maven and dev friend Jack Park first alerted me to [Ryjo's new si
 
 After all, it just ***had*** to work on the AGX Orin with the latest version of CLIPS in the AI Lab Jetson software suite.  And so many of our efforts had been directed at modeling and simulation, with ***cellular automata*** like *Life* being classical rule-based process models.
 
-Sure enough, it was a pretty straightforward task to make it run from a CLIPS terminal command line (see image at bottom).  Thanks Ryjo!  And yet again, thanks Jack!
+Sure enough, it was a pretty straightforward task to make it run from a CLIPS terminal command line (see image at bottom).  
+
+Thanks Ryjo!  And yet again, thanks Jack!
 
 Rather than carry on more about the significance of cellular automata like Conway's Game of Life in computational theory, rule-based processes, and instantiating *Turing machines*, links are provided below to some very well written references about the most important details.
 
