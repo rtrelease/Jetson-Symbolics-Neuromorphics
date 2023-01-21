@@ -1,16 +1,20 @@
 ## <u>AI Lab Notes</u>
 
-#### **Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
+### **Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
 
+When topic map maven Jack Park alerted me to [Ryjo's new simple CLIPS implemention](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html) of the venerable cellular automaton Conway's *Game of Life*, I downloaded the in-text code ASAP. 
 
+It just had to work on the AGX Orin with the latest version of CLIPS in the AI Lab Jetson software suite.  Sure enough...
+
+Rather than carry on about the significance of cellular automata like Conway's Game of Life in computational theory, including *Turing machines*, links are provided below to some very well written references about the most important details.
 
 
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 [Cellular Automata, according to Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/cellular-automata/)
 
-[Cellular Automaton Conway Life wiki](https://conwaylife.com/wiki/Cellular_automaton)
+[Cellular Automaton @ ConwayLife wiki](https://conwaylife.com/wiki/Cellular_automaton)
 
-[Ryjo.codes simple implementation of Life with CLIPS](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html)
+
 
 ![image](https://user-images.githubusercontent.com/71346897/213844621-43f4ffbc-285d-440c-a119-4e444e5627bd.png)
