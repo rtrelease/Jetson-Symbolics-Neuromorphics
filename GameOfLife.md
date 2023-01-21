@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-### **Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
+### **Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**
 
 When topic map maven and dev friend Jack Park first alerted me to [Ryjo's new simple CLIPS implemention](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html) of Conway's *Game of Life*, that blog's in-text code was copied and assemble-edited **ASAP**. 
 
