@@ -1,6 +1,9 @@
+## <u>AI Lab Notes</u>
+
+#### **Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
 
 
-**Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
+
 
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
