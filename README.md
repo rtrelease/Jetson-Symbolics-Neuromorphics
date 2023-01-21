@@ -13,7 +13,7 @@
  7. **Beyond artificial 'neural networks':** Adding [**neuromorphic modeling**](https://neuroml-db.org/gallery) capabilities
  8. **Biological neurons as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html)**: Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models
  9. **[Controlling dynamic *neuronal* modeling hardware:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)** Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling
- 10.  [**2022 Holidays break reading and homework:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
+ 10.  [**2022 Holidays break reading and homework**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
  11. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
  12. **ARM M4 hybrid controller and M0 analog spiking neocortical microcircuit modeling** with AGX Orin DK
  13. **Cellular automata, Turing machines and the *Game of Life* with Jetson CLIPS**
