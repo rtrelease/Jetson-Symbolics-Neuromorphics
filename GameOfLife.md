@@ -5,4 +5,6 @@
 
 [Cellular Automaton Conway Life wiki](https://conwaylife.com/wiki/Cellular_automaton)
 
+[Ryjo.codes simple implementation of Life with CLIPS](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html)
+
 ![image](https://user-images.githubusercontent.com/71346897/213844621-43f4ffbc-285d-440c-a119-4e444e5627bd.png)
