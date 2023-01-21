@@ -4,14 +4,15 @@
 
 When topic map maven and dev friend Jack Park first alerted me to [Ryjo's new simple CLIPS implemention](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html) of Conway's *Game of Life*, that blog's in-text code was copied and assemble-edited **ASAP**. 
 
-After all, it just ***had*** to work on the AGX Orin with the latest version of CLIPS in the AI Lab Jetson software suite.  And so many of our efforts had been directed at modeling and simulation, with ***cellular automata*** like *Life* being classical rule-based process models.
+After all, it just ***had*** to work on the AGX Orin with the latest version of CLIPS in the AI Lab Jetson software suite.  And so many of our efforts had been directed at modeling and simulation, with ***cellular automata*** like *Life* being classical rule-based process models...
 
 Sure enough, it was a pretty straightforward task to make Life run from a CLIPS terminal command line (see image at bottom).  
 
 Thanks Ryjo!  And yet again, thanks Jack!
 
-Rather than carry on more about the significance of cellular automata like Conway's Game of Life in computational theory, rule-based processes, and instantiating *Turing machines*, links are provided below to some very well written references about the most important details.
+Rather than carry on too much more about the significance of cellular automata like Conway's Game of Life in computational theory, rule-based processes, and instantiating *Turing machines*, links are provided below to some very well written references about the most important details.
 
+Many devoted researchers and developers have contributed to growing community resources for these  dynamic 'a-life' models, such as glider-guns and pulsars.
 
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
