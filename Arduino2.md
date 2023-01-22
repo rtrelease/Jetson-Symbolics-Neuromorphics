@@ -30,7 +30,7 @@ Anyway, the version 1.8.19 installations gave the proper Board Manager and Prefe
 ##### The next images show the standard Preferences URL entry dialog and the Board Manager on the Orin confirming connection to an Adafruit Grand Central M4, on an IDE first configured for the Arduino Mega 2560 board.  Functionality was identical on the Xeon workstation.
 ![image](https://user-images.githubusercontent.com/71346897/211956552-4c7c4c3b-9cd2-4a77-b062-a73a1468c0d6.png)
 
-##### The 'drop-in' Mega-footprint *Grand Central M4* will run Arduino Mega 2560 code[ (e.g.)](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) as-is, while supporting the option of running equivalent CircuitPython code and using it with Jupyter Notebooks.
+##### The 'drop-in' Mega-footprint [*Grand Central M4*](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) will run Arduino Mega 2560 code[ (e.g.)](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) as-is, while supporting the option of running equivalent CircuitPython code and using it with Jupyter Notebooks.
 ![image](https://user-images.githubusercontent.com/71346897/211956806-2b375334-26c8-40af-86b1-85cbf9144777.jpeg)
 
 
