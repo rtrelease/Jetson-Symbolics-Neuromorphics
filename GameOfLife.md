@@ -6,11 +6,11 @@ When topic map maven and wise dev friend Jack Park first alerted me to [Ryjo's n
 
 After all, it just ***had*** to work on the AGX Orin with the latest ARM/aarch64 Ubuntu binary of CLIPS 6.4 in the AI Lab Jetson software suite. And so many of our efforts had been directed at modeling and simulation, with ***cellular automata*** like *Life* being exemplary rule-based process models...
 
-Sure enough, it was a pretty straightforward task to make *Life* run from a CLIPS terminal command line (see image at bottom).  
+Sure enough, it was a pretty straightforward task to make basic *Life* run from a CLIPS terminal command line (see image at bottom).  
 
 Thanks Ryjo!  And yet again, thanks Jack!
 
-Rather than carry on too much more about the significance of cellular automata like Conway's Game of Life in mathematics and computational theory, rule-based processing, and instantiating *Turing machines*, links are provided below to some very well written references covering the most important details.
+Rather than carry on too much more about the significance of cellular automata, like Conway's Game of Life in mathematics and computational theory, rule-based processing, and instantiating *Turing machines*, links are provided below to some very well written references covering the most important details.
 
 Many devoted researchers and developers have contributed to growing community resources for these dynamic 'a-life' models, automata such as glider-guns, pulsars, and rock-paper-scissors.
 
