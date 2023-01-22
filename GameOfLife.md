@@ -10,7 +10,7 @@ Sure enough, it was a pretty straightforward task to make *Life* run from a CLIP
 
 Thanks Ryjo!  And yet again, thanks Jack!
 
-Rather than carry on too much more about the significance of cellular automata like Conway's Game of Life in mathematics and computational theory, rule-based processing, and instantiating *Turing machines*, links are provided below to some very well written references about the most important details.
+Rather than carry on too much more about the significance of cellular automata like Conway's Game of Life in mathematics and computational theory, rule-based processing, and instantiating *Turing machines*, links are provided below to some very well written references covering the most important details.
 
 Many devoted researchers and developers have contributed to growing community resources for these dynamic 'a-life' models, automata such as glider-guns, pulsars, and rock-paper-scissors.
 
