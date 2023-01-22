@@ -2,7 +2,7 @@
 
 ### **Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**
 
-When topic map maven and dev friend Jack Park first alerted me to [Ryjo's new simple CLIPS implemention](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html) of Conway's *Game of Life*, that blog's in-text code was copied and assemble-edited **ASAP**. 
+When topic map maven and wise dev friend Jack Park first alerted me to [Ryjo's new simple CLIPS implemention](https://ryjo.codes/articles/conways-game-of-life-written-in-clips.html) of Conway's *Game of Life*, that blog's in-text code was copied and assemble-edited **ASAP**. 
 
 After all, it just ***had*** to work on the AGX Orin with the latest ARM/aarch64 Ubuntu version of CLIPS in the AI Lab Jetson software suite. And so many of our efforts had been directed at modeling and simulation, with ***cellular automata*** like *Life* being classical rule-based process models...
 
