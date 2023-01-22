@@ -23,5 +23,5 @@ Many devoted researchers and developers have contributed to growing community re
 [GollyGang Rule Table Repository for Cellular Automata](https://github.com/GollyGang/ruletablerepository)
 
 
-Clockwise from upper left: 
+=--> *CW from upper left: oscillators, pulsar, simple space ship, and gliders automata*
 ![Screenshot from 2023-01-21 17-26-37](https://user-images.githubusercontent.com/71346897/213896784-2693497e-cea8-4ba7-b85e-a4264654a1b9.png)
