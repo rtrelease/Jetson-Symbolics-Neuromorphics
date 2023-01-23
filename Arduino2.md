@@ -6,7 +6,7 @@ Earlier Lab [Notes](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Orin
 
 So in that 'spirit', despite years of strong dev recommendations to install the latest binaries directly from the Arduino.cc web site, I initially chose to test *apt install arduino* for getting the IDE up on both Xeon workstation and AGX Orin Dev Kit.
 
-The Apt Repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based systems neatly, and both installed apps could immediately detect a USB-connected Arduino Mega 2560, compile, load, and run new code on it through the standard IDE drop down menus.
+The APT repository served up Arduino IDE ***"2.1.0.5"*** for both Ubuntu-based systems neatly, and both installed apps could immediately detect a USB-connected Arduino Mega 2560, compile, load, and run new code on it through the standard IDE drop down menus.
 
 ##### *This shows the* apt-installed *Orin loading and running the standard Arduino Blink example:*
 ![image](https://user-images.githubusercontent.com/71346897/211949994-44ac7020-c0b0-4852-8e20-7837a2a7ff54.jpeg)
