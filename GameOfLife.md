@@ -22,6 +22,8 @@ Many devoted researchers and developers have contributed to growing community re
 
 [GollyGang Rule Table Repository for Cellular Automata](https://github.com/GollyGang/ruletablerepository)
 
+[A Clojure implementation of Game of Life](https://github.com/gbouknecht/conway-life)
+
 [**Efficient execution of cellular automata on GPU**](https://www.sciencedirect.com/science/article/pii/S1569190X22000259)
 
 
