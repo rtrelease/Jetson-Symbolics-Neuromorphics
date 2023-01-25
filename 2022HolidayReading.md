@@ -7,5 +7,4 @@
 ##### Repurposed Mega 2560 board for [hybrid controller interface](https://github.com/anabrid/hardware/tree/main/the-analog-thing/arduino_2650_hybrid_controller) and Grand Central M4 Express ![image](https://user-images.githubusercontent.com/71346897/210679000-bfd3f1fc-ebe5-4372-9982-6e39dd0dce28.png)
 
 
-##### From Lab archive: 2014 experiment with simple analog networked neocortical microcircuit 'cell' of 4 Trinket AVR MCUs
-(https://user-images.githubusercontent.com/71346897/214718695-37f22baf-9944-4955-8abc-35d6ab9d4e02.jpeg)
+##### From Lab archive: 2014 experiment with simple analog networked neocortical microcircuit 'cell' of 4 Trinket AVR MCUs ![image](https://user-images.githubusercontent.com/71346897/214720775-a89f6d4c-dcf8-4ec9-babd-69f6814e644a.jpeg)
