@@ -6,9 +6,6 @@
 
 ![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
-![DSCN1722](https://user-images.githubusercontent.com/71346897/215295273-123bb490-b083-42bb-9906-a81785aaa2ef.JPG)
-##### Basic M0 microcircuit and M4 microcontroller before synaptic connections patching
-![DSCN1727](https://user-images.githubusercontent.com/71346897/215299784-6b2410bc-091e-4b5f-bebc-d55c62ec0277.JPG)
 
 ##### Basic M0 microcircuit and M4 microcontroller: First synaptic connections patch
 ![M4-M0-CorticalMicrocircuitPathc1](https://user-images.githubusercontent.com/71346897/215925797-4eb34376-645c-459d-be25-55eb02077cc4.jpg)
