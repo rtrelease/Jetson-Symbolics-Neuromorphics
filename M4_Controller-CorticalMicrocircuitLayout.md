@@ -9,8 +9,7 @@
 
 ##### Basic M0 microcircuit and M4 microcontroller: First synaptic connections patch
 ![M4-M0-CorticalMicrocircuitPathc1](https://user-images.githubusercontent.com/71346897/215925797-4eb34376-645c-459d-be25-55eb02077cc4.jpg)
-
-
+##### Gratitude to Lady Ada, whose excellent designs have made this all possible!
 ![image](https://user-images.githubusercontent.com/71346897/211956806-2b375334-26c8-40af-86b1-85cbf9144777.jpeg)
 
 
