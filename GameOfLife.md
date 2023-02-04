@@ -26,16 +26,16 @@ Many devoted researchers and developers have contributed to growing community re
 
  
 
-##### =--> To get [golly](https://sourceforge.net/projects/golly/0), a full-featured Game of Life + cellular automata GUI app, do ***sudo apt install golly*** on workstation or Jetson.
+##### =---> To get [golly](https://sourceforge.net/projects/golly/0), a full-featured Game of Life + cellular automata GUI app, do ***sudo apt install golly*** on workstation or Jetson.
 
 [GollyGang Rule Table Repository for Cellular Automata](https://github.com/GollyGang/ruletablerepository)
 
 
 
-=--> CW from upper left: oscillators, pulsar, gliders, and simple space ship automata
+=---> CW from upper left: oscillators, pulsar, gliders, and simple space ship automata
 ![Screenshot from 2023-01-21 17-26-37](https://user-images.githubusercontent.com/71346897/213896784-2693497e-cea8-4ba7-b85e-a4264654a1b9.png)
 
-=--> Golly on the AGX Orin: Fireworks, a Generations cellular automaton after 2188 generations
+=---> Golly on the AGX Orin: Fireworks, a Generations cellular automaton after 2188 generations
 ![Screenshot from 2023-02-03 15-58-11](https://user-images.githubusercontent.com/71346897/216734608-39ca0b72-eaea-488e-8e59-919ffef38566.png)
 
 RBT 01/21/2023
