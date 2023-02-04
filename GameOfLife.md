@@ -26,7 +26,7 @@ Many devoted researchers and developers have contributed to growing community re
 
  
 
-##### =---> To get [golly](https://sourceforge.net/projects/golly/0), a full-featured Game of Life + cellular automata GUI app, do ***sudo apt install golly*** on workstation or Jetson.
+##### =---> To get [golly](https://sourceforge.net/projects/golly/), a full-featured Game of Life + cellular automata GUI app, do ***sudo apt install golly*** on Ubuntu workstation or Jetson.
 
 [GollyGang Rule Table Repository for Cellular Automata](https://github.com/GollyGang/ruletablerepository)
 
