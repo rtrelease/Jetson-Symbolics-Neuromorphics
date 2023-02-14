@@ -4,7 +4,7 @@
 
 ##### In media res...
 
-[Canonical cortical microcircuit from Martin and Douglas (2017)](https://academic.oup.com/book/24640/chapter/187974834)
+**Canonical cortical microcircuit** from [Martin and Douglas (2017)](https://academic.oup.com/book/24640/chapter/187974834)
 ![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
 
