@@ -12,6 +12,7 @@
 
 
 ##### =--->Designing a GCM4 *analog (A0) action potential* on AGX Orin with Arduino IDE: Scoping the wave
-![image](https://user-images.githubusercontent.com/71346897/218601528-675b434c-c798-403d-8846-c364b42cf098.png)
+![Screenshot from 2023-02-13 20-12-33](https://user-images.githubusercontent.com/71346897/218638127-e3ac2aa9-6aaa-4fed-b939-558f0ebaeef3.png)
+
 
 ##### Gratitude to *Lady Ada*, whose excellent designs have made this all possible!
