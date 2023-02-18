@@ -15,7 +15,7 @@
 ##### =---> Designing an M4GC *analog (A0) action potential* on AGX Orin with Arduino IDE: Scoping the wave
 ![Screenshot from 2023-02-13 20-12-33](https://user-images.githubusercontent.com/71346897/218638127-e3ac2aa9-6aaa-4fed-b939-558f0ebaeef3.png)
 
-##### =---> Designing MO (A0) action potentials* on AGX Orin with Arduino IDE: Scaling the wave
+##### =---> Designing MO *analog (A0) action potentials* on AGX Orin with Arduino IDE: Wave scaling
 ![image](https://user-images.githubusercontent.com/71346897/219840406-94709ca3-eabd-46e3-b1c0-5e4feafe03de.png)
 
 ##### Gratitude to *Lady Ada*, whose excellent designs have made this all possible!
