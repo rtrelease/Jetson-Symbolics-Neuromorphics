@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### M4 Hybrid Controller - M0 Neocortical Microcircuit Model Initial Layout
+#### **ARM M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**, initial layout
 
 ##### In media res...
 
