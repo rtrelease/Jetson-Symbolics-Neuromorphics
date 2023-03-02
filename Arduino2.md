@@ -34,4 +34,4 @@ Anyway, the version 1.8.19 installations gave the proper Board Manager and Prefe
 ![image](https://user-images.githubusercontent.com/71346897/211956806-2b375334-26c8-40af-86b1-85cbf9144777.jpeg)
 
 
-#### To be continued...
+#### [To be continued...](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md)
