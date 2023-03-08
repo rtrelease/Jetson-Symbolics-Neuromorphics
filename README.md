@@ -17,7 +17,7 @@
  11. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
  12. [**ARM Cortex M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
  13. [**Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/GameOfLife.md)
- 14. **Modeling Analog Spiking Neocortical Microcircuits with Microcontroller Processors:**  Cellular Neural Network Theory Revisited
+ 14. **Modeling Analog Spiking Neocortical Microcircuits with Microcontroller Processors:**  [Cellular Neural Networks](https://link.springer.com/book/10.1007/978-94-017-0261-4) Theory Revisited
  15. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  16. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  17. **The Neuroscientist's Edge HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
