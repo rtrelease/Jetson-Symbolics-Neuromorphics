@@ -15,7 +15,7 @@
  9. **[Controlling dynamic *neuronal* modeling hardware:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)** Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling
  10.  [**2022 Holidays break reading and homework**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
  11. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
- 12. [**ARM M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
+ 12. [**ARM Cortex M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
  13. [**Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/GameOfLife.md)
  14. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  15. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
