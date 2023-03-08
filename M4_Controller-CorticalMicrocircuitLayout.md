@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### **ARM M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**, initial layout
+#### **ARM Cortex M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**, initial layout
 
 ##### In media res...
 
@@ -18,7 +18,7 @@
 ##### =---> Designing MO *analog (A0) action potentials* on AGX Orin with Arduino IDE: Wave scaling
 ![image](https://user-images.githubusercontent.com/71346897/219840406-94709ca3-eabd-46e3-b1c0-5e4feafe03de.png)
 
-##### =---> MO cortical microcircuit prototype analog 'neuron', series 2: [Cellular Neural Networks](https://link.springer.com/book/10.1007/978-94-017-0261-4) processor?
+##### =---> MO cortical microcircuit prototype analog 'neuron', series 2: An instance of a [Cellular Neural Networks](https://link.springer.com/book/10.1007/978-94-017-0261-4) processor?
 ![image](https://user-images.githubusercontent.com/71346897/223613398-c2f15247-6b5f-4831-a03a-b33556b60fea.jpeg)
 
 ##### Gratitude to *Lady Ada*, whose excellent designs have made this all possible!
