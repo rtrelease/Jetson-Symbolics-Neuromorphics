@@ -20,7 +20,7 @@
  14. **Modeling analog spiking neocortical microcircuits with microcontroller processors:**  [Cellular neural networks](https://link.springer.com/book/10.1007/978-94-017-0261-4) theory revisited
  15. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  16. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 17. **The Neuroscientist's Edge HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
+ 17. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
  18.  **LXXII and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
