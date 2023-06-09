@@ -27,6 +27,6 @@ Of course, beyond serving as hybrid controller and data logger for dynamical ana
 
 ![image](https://user-images.githubusercontent.com/71346897/209889908-8d574842-ea6e-4cb0-b197-3d137982b8dc.jpeg)
 
-###### *=--> Back in The Day* - Integrating analog synapses between 16 Arduino Micros modeling cortical microcircuit neurons' behaviors ![IMG_0121cl](https://user-images.githubusercontent.com/71346897/210705977-b663c69d-4f2c-41f7-a47c-8f900ec28b8f.jpg)
+###### *=--> Back in The Day (2012)* - Integrating analog synapses between 16 Arduino Micros modeling cortical microcircuit neurons' behaviors ![IMG_0121cl](https://user-images.githubusercontent.com/71346897/210705977-b663c69d-4f2c-41f7-a47c-8f900ec28b8f.jpg)
 
 RBT 26 December 2022
