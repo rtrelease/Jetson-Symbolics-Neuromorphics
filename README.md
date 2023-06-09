@@ -11,8 +11,8 @@
  5. [**Gedanken Experiment 1:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) **Ontologies** for semantic linking with deep neural network identifications of neuroanatomical structures in brain magnetic resonance images
  6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding another build chain for *neurosymbolic fusion*
  7. *Tools for integrating* ***symbolic reasoning*** *with* **Python-based DNN build chains**
- 8. **Beyond artificial 'neural networks':** Adding [**neuromorphic modeling**](https://neuroml-db.org/gallery) capabilities
- 9. **Biological neurons as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html)**: Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models
+ 8. **Beyond artificial 'neural networks':** Adding [**neuromorphic modeling**](https://arxiv.org/pdf/2105.05956.pdf) capabilities
+ 9. **[Biological neurons](https://neuroml-db.org/gallery) as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html)**: Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models
  10. **[Controlling dynamic *neuronal* modeling hardware:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)** Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling
  11.  [**2022 Holidays break reading and homework**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
  12. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
