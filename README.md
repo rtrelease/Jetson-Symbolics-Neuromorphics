@@ -1,4 +1,4 @@
-# Jetson-Symbolics
+# Jetson-Symbolics +
 **Integrating Symbolic AI Programming and Neuromorphic Processing with NVIDIA Jetson and GPU-based Deep Neural Network Systems for Edge Research Labs**
 
 
