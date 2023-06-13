@@ -3,11 +3,11 @@
 #### **ARM Cortex M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**, initial layout
 
 - ***Microcircuit simulator can run autonomously on (solar and) rechargeable battery packs***, as well as via the direct USB connection to AGX Orin or RTX workstation that supports MCU data logging and artificial neuron programming
-- 
+- Each MCU represents a single neuron that communicates with others via analog spike trains and multiple synaptic inputs
 
 ##### In media res...
 
-**Canonical cortical microcircuit** from [Douglas and Martin (2017)](https://academic.oup.com/book/24640/chapter/187974834)
+**Canonical cortical microcircuit** connectivity diagram from [Douglas and Martin (2017)](https://academic.oup.com/book/24640/chapter/187974834)
 ![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
 
