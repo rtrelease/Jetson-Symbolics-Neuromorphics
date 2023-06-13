@@ -1,5 +1,5 @@
 # Jetson-Symbolics
-**_Integrating Symbolic AI Programming Tools and Neuromorphic Processing with NVIDIA Jetson and GPU-based Deep Neural Network Systems for Edge Research Laboratories_**
+**Integrating Symbolic AI Programming Tools and Neuromorphic Processing with NVIDIA Jetson and GPU-based Deep Neural Network Systems for Edge Research Laboratories**
 
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
