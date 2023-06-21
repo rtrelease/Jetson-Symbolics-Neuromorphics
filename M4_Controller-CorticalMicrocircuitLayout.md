@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
 
-##### =---> Basic AGX Orin-interfaced, 4 M0 MCUs neocortical microcircuit Seties 1 prototype with M4 Metro Grand Central hybrid simulation microcontroller: Successful burst generator code test (thalamic input)
+##### =---> Basic AGX Orin-interfaced, 4 M0 MCUs neocortical microcircuit Series 1 prototype with M4 Metro Grand Central hybrid simulation microcontroller: Successful burst generator code test (thalamic input)
 ![DSCN1733e](https://user-images.githubusercontent.com/71346897/216524293-94225fb1-044e-4652-b653-15d748d52b5f.jpg)
 
 
@@ -25,7 +25,7 @@
 ![image](https://github.com/rtrelease/Jetson-Symbolics/assets/71346897/1de5ac09-6661-4615-a3e2-b14bae1ed1b4)
 
 
-##### =---> MO cortical microcircuit prototype analog 'neurons', Series 3: Before synaptic patching
+##### =---> MO cortical microcircuit prototype analog 'neurons', compact Series 3: Before synaptic patching
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/e3032959-2d41-4705-a965-892bd5fb7d97)
 
 
