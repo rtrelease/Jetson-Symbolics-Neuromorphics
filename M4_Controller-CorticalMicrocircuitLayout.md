@@ -2,7 +2,7 @@
 
 #### **ARM Cortex M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**, initial layout
 
-- ***Microcircuit simulator can run autonomously on (solar and) rechargeable battery packs***, as well as via the direct USB connection to AGX Orin or RTX workstation that supports MCU data logging and artificial neuron programming
+- ***Microcircuit simulator can run autonomously on (solar and) rechargeable battery packs***, as well as via the direct USB connection to AGX Orin or RTX workstation that supports Arduino IDE-based MCU artificial neuron programming and data logging
 - Each MCU represents a single neuron that communicates with others via analog spike trains and multiple synaptic inputs
 
 ##### In media res...
