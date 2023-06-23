@@ -1,6 +1,6 @@
 
 
-Synaptic programming interface prototype for hybrid controller
+Synaptic programming interface prototype for basic hybrid controller
 ![image](https://github.com/rtrelease/Jetson-Symbolics/assets/71346897/ec588d02-4183-44e8-a41f-2fba8ce86774)
 
 Mega adapter mods for M4 GC hybrid controller 1: Analog spike input synapses for cortical microcircuit model
