@@ -20,7 +20,7 @@
  14. [**Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/GameOfLife.md)
  15. **Modeling analog spiking neocortical microcircuits with microcontroller processors:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
  16. [**Hybrid Controller - Analog Synaptic Programming Interface Design**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
- 17. **Parse this: *Neuromorpho-symbolic AI***
+ 17. **Parse this: Reifying *neuromorpho-symbolic AI***
  18. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  19. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  20. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
