@@ -17,7 +17,7 @@
  11.  [**2022 Holidays break reading and homework**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
  12. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
  13. [**Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/GameOfLife.md) 
- 14. **A Physical Computing Approach to Neuromorphic Brain Microcircuit Modeling**
+ 14. **A *physical computing* approach to neuromorphic brain microcircuit modeling** 
  15. [**ARM Cortex M0 analog spiking neocortical microcircuit modeling with M4 hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
  16. **Functional characteristics of local modules in microcontroller-based neocortical microcircuit models:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
  17. [**Hybrid Controller - Analog Synaptic Programming Interface Design**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
