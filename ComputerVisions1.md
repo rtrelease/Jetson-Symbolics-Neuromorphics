@@ -4,5 +4,5 @@ please create an image of a Jetson Xavier NX computer vision system running an I
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/edda8734-d3e4-4f4d-8c07-df8b0f5c946b)
 
 
-**Computing Anatomy Thirty Years On**
+**Anatomy Computing Anatomy: Ontogenetics still builds what humans cannot.**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/1dea49a6-e39e-4bb1-b2a9-5af97c75434c)
