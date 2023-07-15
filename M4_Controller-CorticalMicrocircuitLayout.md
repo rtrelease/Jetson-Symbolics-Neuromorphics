@@ -25,8 +25,9 @@
 ![image](https://github.com/rtrelease/Jetson-Symbolics/assets/71346897/1de5ac09-6661-4615-a3e2-b14bae1ed1b4)
 
 
-##### =---> MO cortical microcircuit prototype analog 'neurons', compact Series 3: Before synaptic patching
-![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/e3032959-2d41-4705-a965-892bd5fb7d97)
+##### =---> MO cortical microcircuits prototype analog 'neurons', compact Series 3: Before synaptic patching
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/165d44a6-abe2-4330-aadd-e40b0c3333d8)
+
 
 
 ##### Gratitude to *Lady Ada*, whose excellent Adafruit hardware designs and dedicated production team have made this all possible!
