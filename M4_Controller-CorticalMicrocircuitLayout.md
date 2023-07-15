@@ -29,4 +29,4 @@
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/e3032959-2d41-4705-a965-892bd5fb7d97)
 
 
-##### Gratitude to *Ladyada*, whose excellent Adafruit hardware designs and dedicated production team have made this all possible!
+##### Gratitude to *Lady Ada*, whose excellent Adafruit hardware designs and dedicated production team have made this all possible!
