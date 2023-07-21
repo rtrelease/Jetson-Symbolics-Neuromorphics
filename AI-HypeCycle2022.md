@@ -3,5 +3,5 @@
 [Gartner source](https://www.gartner.com.au/en/articles/what-is-new-in-artificial-intelligence-from-the-2022-gartner-hype-cycle)
 
 **No, wait...**
-![image](https://github.com/rtrelease/Jetson-Symbolics/assets/71346897/63eac720-3e0e-43c8-810e-84be671d0f8c)
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/62c268ef-0326-499e-82e7-fcc7ba83f342)
 [Gartner source](https://www.gartner.com/en/articles/4-emerging-technologies-you-need-to-know-about)
