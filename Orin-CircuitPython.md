@@ -1,6 +1,6 @@
 **Extending the Jetson Python environment for programming and data acquisition with CircuitPython and ARM microcontrollers**
 
-Previous Lab Notes have covered the use of AGX Orin with USB interfaced microcontrollers for modeling, stimulation and process control applicarions.
+Previous Lab Notes have covered the use of AGX Orin with USB interfaced microcontrollers for modeling, stimulation and process control applications.
 
 Install native Ubuntu *screen* application for USB-tty communications:
 sudo apt install screen
