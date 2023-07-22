@@ -17,3 +17,7 @@ Testing *screen* application for communications and CircuitPython access with a 
 
 		ls /dev/ttyACM0
 
+![Orin-M4Express-ttyACM0](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/fcfa814c-4edf-4ed5-8ec4-06222ddb95ae)
+
+![Orin-M4Express-ttyACM0-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/eb6c09e1-3e39-486a-83ae-b3218458583b)
+
