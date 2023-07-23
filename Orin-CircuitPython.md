@@ -13,7 +13,7 @@ Install native Ubuntu *screen* application for standard USB-tty communications:
 
 Install native Ubuntu *tio* application for auto-resetting USB-tty communications:
 
-		sudo apt install screen
+		sudo apt install tio
 
 Testing *screen* application for communications and CircuitPython access with a USB-connected M4F MCU:
 
