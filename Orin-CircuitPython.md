@@ -2,7 +2,7 @@
 
 #### Extending the Jetson Python environment for programming and data acquisition with CircuitPython and ARM microcontrollers
 
-Previous Lab Notes covered using AGX Orin with USB-interfaced ARM Cortex M microcontrollers for modeling, stimulation, and process control applications.
+Previous Lab Notes covered using AGX Orin with USB-interfaced AVR he.g., Arduino)ARM Cortex M microcontrollers for modeling, stimulation, and process control applications.
 
 Initial work focused on integrating the legacy Arduino IDE with the aarch64 Ubuntu-based Linux for Jetson (L4J) environment.  
 
