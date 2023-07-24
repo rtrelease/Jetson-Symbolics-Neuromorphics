@@ -46,5 +46,8 @@ Externally edited main.py programs are written to the MCU's RAM, which appears a
 
 ##### Intalling Miniforge with Conda and Spyder IDE
 
-Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge .n a Jetson Nan,  for an aarch64 *conda* python environment, one that works quite well on AGX Orin
+Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge on a Jetson Nano, for an aarch64 *conda* python environment.  This process works quite well on AGX Orin, and I'll synopsize it below:
+
+- wget miniforge from its github archive:
+  
 ...
