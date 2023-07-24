@@ -33,7 +33,7 @@ So we first followed [Adafruit's basic setup and testing recommendations](https:
 - Start the screen console with the serial line name and baud rate:
 
 		screen /dev/ttyACM0 115200
-  On startup, the console screen is blank.  Pressing *Return* will halt any resident CircuitPython program running on the MCU, then display the microcontroller's version information and the familiar CircuitPython REPL prompt >>>.  
+  On startup, the console screen is blank.  Pressing *Return* will halt any resident CircuitPython program running on the MCU, then display the microcontroller's version information and the familiar CircuitPython REPL prompt **>>>** .  
   
 ![Orin-M4Express-ttyACM0-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/eb6c09e1-3e39-486a-83ae-b3218458583b)
 
