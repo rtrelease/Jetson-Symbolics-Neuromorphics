@@ -14,7 +14,7 @@ However, given the extensive use of well-integrated Python in NVIDIA's Jetson ma
 
 For *'good old' basic programming methods*, Python and CircuitPython can certainly be coded with a plain text editor and tested with a serial console/terminal connected to the target MCU board.  
 
-So we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Miniforge and Spyder for an aarch64 conda environment and scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
+So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Miniforge and Spyder for an aarch64 conda environment and scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
 
 From the top:
 
