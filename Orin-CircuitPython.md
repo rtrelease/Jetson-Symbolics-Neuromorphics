@@ -44,9 +44,9 @@ Beyond interactively programming with standard Python code, CircuitPython gives 
 
 Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the filesystem and files manager.
 
-##### Intalling Miniforge with Conda and Spyder IDE
+##### Intalling Miniforge with Conda and Jupyter; Spyder IDE
 
-Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge3, conda, and Jupyter on a Jetson Nano, for an aarch64 *conda* python environment.  This process works quite well on AGX Orin, and I'll synopsize it below:
+Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge3, conda, and Jupyter on a Jetson Nano aarch64 python environment.  This main process works quite well on AGX Orin, and I'll synopsize it below:
 
 - wget miniforge from its github archive:
   
