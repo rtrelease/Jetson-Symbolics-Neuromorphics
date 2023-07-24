@@ -44,4 +44,6 @@ Beyond interactively programming with standard Python code, CircuitPython gives 
 
 Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the filesystem and files manager.
 
+##### Intalling Miniforge with Conda and Spyder IDE
+
 
