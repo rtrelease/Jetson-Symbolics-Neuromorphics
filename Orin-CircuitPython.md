@@ -46,4 +46,4 @@ Externally edited main.py programs are written to the MCU's RAM, which appears a
 
 ##### Intalling Miniforge with Conda and Spyder IDE
 
-
+Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/)
