@@ -16,6 +16,7 @@ For *'good old' basic programming methods*, Python and CircuitPython can certain
 
 So we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to installing Python Miniforge and Spyder for a scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
 
+From the top:
 
 - Install the native Ubuntu *screen* serial console application for standard USB-tty communications:
 
