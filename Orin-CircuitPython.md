@@ -4,7 +4,7 @@
 
 Previous Lab Notes covered using AGX Orin with USB-interfaced AVR (Arduino) and ARM Cortex M [microcontrollers for modeling, stimulation,](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and process control applications.
 
-Initial work focused on integrating the legacy Arduino IDE with the aarch64 Ubuntu-based Linux for Jetson (L4J) environment.  
+Initial work focused on [integrating the legacy Java-based Arduino IDE](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) with the aarch64 Ubuntu-based Linux for Jetson (L4J) environment.  
 
 The Arduino IDE on AGX Orin communicated directly with the microcontroller via USB using TTY on /dev/ttyACM0, and C based "sketches" could be debugged, loaded directly into MCU RAM and run. Program process output was directed to the IDE's builtin serial console.
 
