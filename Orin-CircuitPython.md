@@ -27,7 +27,7 @@ So we first followed [Adafruit's basic setup and testing recommendations](https:
 - Test the *screen* console for communications and CircuitPython access with a USB-**connected** MCU board configured with CircuitPython:
 
 		ls /dev/ttyACM0
-  This should return /dev/ttyACM0 if the MCU is active or an error message if there is no connection.
+  This should return */dev/ttyACM0* if the MCU is active or an error message if there is no connection.
 
   
 - Start the *screen* console with the MCU's serial line name and baud rate:
