@@ -24,12 +24,16 @@ So we first followed [Adafruit's basic setup and testing recommendations](https:
 
 		sudo apt install tio
 
-- Test the *screen* console for communications and CircuitPython access with a USB-**connected** M4F MCU:
+- Test the *screen* console for communications and CircuitPython access with a USB-**connected** M4F MCU configured with CircuitPython:
 
 		ls /dev/ttyACM0
+  This should return /dev/ttyACM0 if the MCU is active or an error message if there is no connection.
 
+  
+- Start the screen console with the serial line name and baud rate:
 
-![Orin-M4Express-ttyACM0](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/fcfa814c-4edf-4ed5-8ec4-06222ddb95ae)
-
+		screen /dev/ttyACM0 115200
+  On startup, the console screen is blank.  Pressing *Return* will halt any resident CircuitPython program running on the MCU, then display the microcontroller's version information and the familiar CircuitPython REPL prompt >>>.  
+  
 ![Orin-M4Express-ttyACM0-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/eb6c09e1-3e39-486a-83ae-b3218458583b)
 
