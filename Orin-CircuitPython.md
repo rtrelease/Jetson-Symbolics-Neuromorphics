@@ -6,7 +6,7 @@ Previous AI Lab Notes covered using AGX Orin with USB-interfaced AVR (Arduino) a
 
 Initial work focused on [integrating the legacy Java-based Arduino IDE](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) with the aarch64 Ubuntu-based Linux for Jetson (L4J) environment.  
 
-The Arduino IDE on AGX Orin communicated directly with microcontrollers via USB using serial TTY protocol via **/dev/ttyACM0**, and C based "sketches" could be debugged, loaded directly into MCU RAM and run. Program process output was directed to the IDE's built-in serial console.
+The Arduino IDE on AGX Orin communicated directly with microcontrollers via USB using serial TTY protocol on **/dev/ttyACM0**, and C based "sketches" could be debugged, loaded directly into MCU RAM and run. Program process output was directed to the IDE's built-in serial console.
 
 In fact, the ARM Cortex M series MCUs used in our work shipped with CircuitPython installed for board programming, which could be reversibly 'overwritten' for using Arduino IDE C sketches.
 
