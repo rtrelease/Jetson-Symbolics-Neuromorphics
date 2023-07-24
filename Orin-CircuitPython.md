@@ -40,7 +40,7 @@ So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and 
 Standard Python code can then be interactively executed on the MCU's CircuitPython interpreter, as seen below:
 ![Orin-M4Express-ttyACM0-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/eb6c09e1-3e39-486a-83ae-b3218458583b)
 
-Beyond interactively programming with standard Python code, CircuitPython gives direct access to the range of analog and digital I/O pins on the specific MCU board, including available ADC, DAC, SPI, I2C, MOSI/MISO/SCK, and timers.
+Beyond interactively programming with standard Python, CircuitPython gives direct access to the range of analog and digital I/O pins on the specific MCU board, including available ADC, DAC, SPI, I2C, MOSI/MISO/SCK, and timers.
 
 Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the Jetson Linux filesystem and files manager.
 
