@@ -12,7 +12,11 @@ The ARM Cortex M series MCUs used in our work shipped with CircuitPython install
 
 However, given the extensive use of well-integrated Python in NVIDIA's Jetson machine learning and computer vision development resource frameworks, it seemed worthwhile to evolve new Python-CircuitPython programs to run on the AGX Orin-connected MCUs.
 
-https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux
+In 'good old basic programming', Python and CircuitPython can certainly be coded with a plain text editor and a serial console/terminal connected to the target MCU board.  
+
+Thus, we followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for its CircuitPython MCUs, then proceeded to installing Python Spyder for a scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.
+
+
 
 Install native Ubuntu *screen* application for standard USB-tty communications:
 
