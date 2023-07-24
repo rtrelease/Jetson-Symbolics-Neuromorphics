@@ -24,7 +24,7 @@ As an alternative console, install native Ubuntu *tio* application for auto-rese
 
 		sudo apt install tio
 
-Testing *screen* application for communications and CircuitPython access with a USB-connected M4F MCU:
+Test *screen* application for communications and CircuitPython access with a USB-connected M4F MCU:
 
 		ls /dev/ttyACM0
 
