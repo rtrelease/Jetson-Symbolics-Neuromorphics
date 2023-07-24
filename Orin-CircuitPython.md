@@ -42,12 +42,13 @@ Standard Python code can then be interactively executed on the MCU's CircuitPyth
 
 Beyond interactively programming with standard Python code, CircuitPython gives direct access to the range of analog and digital I/O pins on the specific MCU board, including available ADC, DAC, SPI, I2C, MOSI/MISO/SCK, and timers.
 
-Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the filesystem and files manager.
+Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the Jetson Linux filesystem and files manager.
 
-##### Intalling Miniforge with Conda and Jupyter; Spyder IDE
+##### Installing Miniforge with Conda and Jupyter; Spyder IDE
 
 Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge3, conda, and Jupyter on a Jetson Nano aarch64 python environment.  This main process works quite well on AGX Orin, and I'll synopsize it below:
 
 - wget miniforge from its github archive:
   
 ...
+[Installing Spyder with conda](https://docs.spyder-ide.org/current/installation.html#install-conda)
