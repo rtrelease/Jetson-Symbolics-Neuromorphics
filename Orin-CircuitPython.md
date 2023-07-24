@@ -30,7 +30,7 @@ So we first followed [Adafruit's basic setup and testing recommendations](https:
   This should return /dev/ttyACM0 if the MCU is active or an error message if there is no connection.
 
   
-- Start the *screen* console with the serial line name and baud rate:
+- Start the *screen* console with the MCU's serial line name and baud rate:
 
 		screen /dev/ttyACM0 115200
   On startup, the console screen is blank.  Pressing *Return* will halt any resident CircuitPython program running on the MCU, then display the microcontroller's version information and the familiar CircuitPython REPL prompt **>>>** .  
