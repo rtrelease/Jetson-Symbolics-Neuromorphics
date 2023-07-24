@@ -14,7 +14,7 @@ However, given the extensive use of well-integrated Python in NVIDIA's Jetson ma
 
 For *'good old' basic programming methods*, Python and CircuitPython can certainly be coded with a plain text editor and tested with a serial console/terminal connected to the target MCU board.  
 
-So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Miniforge and Spyder for an aarch64 conda environment and scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
+So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Conda Miniforge3 and Spyder for an aarch64 conda environment and scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
 
 From the top:
 
@@ -46,7 +46,7 @@ Externally edited main.py programs are written to the MCU's RAM, which appears a
 
 ##### Intalling Miniforge with Conda and Spyder IDE
 
-Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge on a Jetson Nano, for an aarch64 *conda* python environment.  This process works quite well on AGX Orin, and I'll synopsize it below:
+Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge3, conda, and Jupyter on a Jetson Nano, for an aarch64 *conda* python environment.  This process works quite well on AGX Orin, and I'll synopsize it below:
 
 - wget miniforge from its github archive:
   
