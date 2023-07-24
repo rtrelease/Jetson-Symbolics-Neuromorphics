@@ -16,15 +16,15 @@ In *'good old' basic programming methods*, Python and CircuitPython can certainl
 
 So we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for its CircuitPython MCUs, then proceeded to installing Python Spyder for a scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.
 
-Install the native Ubuntu *screen* console application for standard USB-tty communications:
+- Install the native Ubuntu *screen* serial console application for standard USB-tty communications:
 
 		sudo apt install screen
 
-As an alternative console, install native Ubuntu *tio* application for auto-resetting USB-tty communications:
+- As an alternative console, install the native Ubuntu *tio* application for auto-resetting USB-tty communications:
 
 		sudo apt install tio
 
-Test *screen* application for communications and CircuitPython access with a USB-connected M4F MCU:
+- Test the *screen* console for communications and CircuitPython access with a USB-**connected** M4F MCU:
 
 		ls /dev/ttyACM0
 
