@@ -16,7 +16,7 @@ For *'good old' basic programming methods*, Python and CircuitPython can certain
 
 So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Conda Miniforge3 and Spyder for an aarch64 conda environment manager and scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
 
-#### From the top:
+### From the top:
 
 - Install the native Ubuntu *screen* serial console application for standard USB-tty communications:
 
@@ -44,7 +44,7 @@ Beyond interactively programming with standard Python, CircuitPython gives direc
 
 Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the Jetson Linux filesystem and files manager.
 
-##### Installing Miniforge with Conda and Jupyter; Spyder IDE
+### Installing Miniforge with Conda and Jupyter; Spyder IDE
 
 On x86-64 workstations hosting the NVIDIA SDK, the Anaconda Python environment manager is easily intalled, providing the Navigator GUI for a standard suite of applications including Jupyter Notebook and Spyder.  However, aarch64 systems like Jetsons must use more lightweight conda Python enviroments like Miniforge, mamba, and Mambaforge to support dependencies and applications including Jupyter Notebook and the Spyder.
 
