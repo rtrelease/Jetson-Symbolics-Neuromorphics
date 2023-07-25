@@ -46,7 +46,7 @@ Externally edited main.py programs are written to the MCU's RAM, which appears a
 
 ### Installing Miniforge with Conda and Jupyter; Spyder IDE
 
-On x86-64 workstations hosting the NVIDIA SDK, the Anaconda Python environment manager is easily intalled, providing the Navigator GUI for a standard suite of applications including Jupyter Notebook and Spyder.  However, aarch64 systems like Jetsons must use more lightweight conda Python enviroments like Miniforge, mamba, and Mambaforge to support dependencies and applications including Jupyter Notebook and the Spyder.
+On x86-64 workstations hosting the NVIDIA SDK, the Anaconda Python environment manager is easily installed, providing the Navigator GUI for a standard suite of applications including Jupyter Notebook and Spyder.  However, aarch64 systems like Jetsons must use more lightweight conda Python enviroments like Miniforge, mamba, and Mambaforge to support dependencies and applications including Jupyter Notebook and the Spyder.
 
 Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021/11/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano-faster/) for installing Miniforge3, conda, and Jupyter on a Jetson Nano aarch64 Python environment.  This main setup process works quite well on AGX Orin as well as Xavier NX, and I'll synopsize it below:
 
