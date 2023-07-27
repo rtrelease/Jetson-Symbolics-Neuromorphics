@@ -10,7 +10,7 @@ The Arduino IDE on AGX Orin communicated directly with microcontrollers via USB 
 
 In fact, the ARM Cortex M series MCUs used in our work shipped with CircuitPython installed for board programming, which could be reversibly 'overwritten' for using Arduino IDE C sketches.
 
-However, given the extensive use of well-integrated Python in NVIDIA's Jetson machine learning and computer vision development resource frameworks, it now seemed very worthwhile to evolve new Python - CircuitPython programs to run on the AGX Orin-connected MCUs.
+However, given the extensive use of well-integrated Python in NVIDIA's Jetson machine learning and computer vision development resource frameworks, it now seemed very worthwhile to evolve new Python - CircuitPython (CP) programs to run on the AGX Orin-connected MCUs.
 
 For *'good old' basic programming methods*, Python and CircuitPython can certainly be coded with a plain text editor and tested with a serial console/terminal connected to the target MCU board.  
 
@@ -18,7 +18,7 @@ So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and 
 
 Although we also installed Spyder for scientific grade IDE compatible with the rest of the Jupyter scientific computing environment (scipy, numpy, mathplotlib, etc), it proved too specialized for convenient use with CircuitPython. 
 
-After studying Adafruit's IDE recommendations for Linux-based host systems, [thonny](https://thonny.org/) turned out to the best one to install on ARM64 Jetsons.
+After studying Adafruit's IDE recommendations for Linux-based host systems, [thonny](https://thonny.org/) turned out to the best one to install on ARM64 Jetsons with its simplified learning-oriented design and easy MCU/CP.
 
 ### From the top: Basic serial console for interactive CircuitPython MCU coding
 
