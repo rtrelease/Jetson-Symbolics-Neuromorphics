@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-### Extending the Jetson Python environment for programming and data acquisition with CircuitPython and ARM microcontrollers
+### Extending the Jetson Python environment for programming, control and data acquisition with CircuitPython and ARM microcontrollers
 
 Previous AI Lab Notes covered using AGX Orin with USB-interfaced AVR (Arduino) and ARM Cortex M [microcontroller boards for edge-based modeling, neuromorphic simulation,](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and process control applications.
 
