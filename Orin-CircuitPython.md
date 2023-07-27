@@ -60,5 +60,5 @@ Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021
 ...
 [Installing Spyder with conda](https://docs.spyder-ide.org/current/installation.html#install-conda)
 
-###### Right: Thonny editing the Trinket M0 default demo main.py program code, while the console dialog shows that the MCU board hasn't been connected and autosensed yet.  Thonny saves the prior MCU connection address. Left: Localhost Jupyter Notebook Jetson cameratest .ipnyb page.
+###### Right: Thonny editing the Trinket M0 default demo main.py program code, while the console dialog shows that the MCU board hasn't been connected and autosensed yet.  Thonny saves the prior MCU connection address. Left: Jupyter Notebook Jetson camera test .ipnyb page loaded from localhost.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/73927b34-f661-4495-bc85-d068cac08db9)
