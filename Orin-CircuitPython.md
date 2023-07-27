@@ -6,7 +6,7 @@ Previous AI Lab Notes covered using AGX Orin with USB-interfaced AVR (Arduino) a
 
 Initial efforts focused on [integrating the legacy Java-based Arduino IDE](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) with the aarch64 Ubuntu-based Linux for Jetson (L4J) operating system environment.  
 
-The Arduino IDE on AGX Orin communicated directly with microcontrollers via USB using serial TTY protocol on **/dev/ttyACM0**, and C based program "sketches" could be debugged, loaded directly into MCU RAM and run. Program process output was directed to the IDE's built-in serial console. IDE processes were simple, convenient, and reliable!
+The Arduino IDE on AGX Orin communicated directly with microcontrollers via USB using serial TTY protocol on **/dev/ttyACM0**, and C based program "sketches" could be debugged, compiled, loaded directly into MCU RAM and run. Program process output was directed to the IDE's built-in serial console. IDE processes were simple, convenient, and reliable!
 
 In fact, the ARM Cortex M series MCUs used in our work shipped with CircuitPython installed for board programming, which could be reversibly 'overwritten' for using Arduino IDE C sketches.
 
@@ -14,9 +14,13 @@ However, given the extensive use of well-integrated Python in NVIDIA's Jetson ma
 
 For *'good old' basic programming methods*, Python and CircuitPython can certainly be coded with a plain text editor and tested with a serial console/terminal connected to the target MCU board.  
 
-So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Conda Miniforge3 and Spyder for an aarch64 conda environment manager and scientific grade IDE compatible with the rest of the Jupyter Notebook (scipy, numpy etc) environment.*
+So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards.  *Then we proceeded to install Python Conda Miniforge3 for an aarch64 conda environment manager.  
 
-### From the top:
+Although we also installed Spyder for scientific grade IDE compatible with the rest of the Jupyter scientific computing environment (scipy, numpy, mathplotlib, etc), it proved too specialized for convenient use with CircuitPython. 
+
+After studying Adafruit's IDE recommendations for Linux-based host systems, thonny turned out to the best one to install on ARM64 Jetsons.
+
+### From the top: Basic serial console for interactive CircuitPython MCU coding
 
 - Install the native Ubuntu *screen* serial console application for standard USB-tty communications:
 
