@@ -18,7 +18,7 @@ So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and 
 
 Although we also installed Spyder for scientific grade IDE compatible with the rest of the Jupyter scientific computing environment (scipy, numpy, mathplotlib, etc), it proved too specialized for convenient use with CircuitPython. 
 
-After studying Adafruit's IDE recommendations for Linux-based host systems, thonny turned out to the best one to install on ARM64 Jetsons.
+After studying Adafruit's IDE recommendations for Linux-based host systems, [thonny](https://thonny.org/) turned out to the best one to install on ARM64 Jetsons.
 
 ### From the top: Basic serial console for interactive CircuitPython MCU coding
 
