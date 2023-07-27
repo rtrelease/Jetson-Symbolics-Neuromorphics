@@ -20,7 +20,7 @@ Although we also installed Spyder for scientific grade IDE compatible with the r
 
 After studying Adafruit's IDE recommendations for Linux-based host systems, [thonny](https://thonny.org/) turned out to the best one to install on ARM64 Jetsons with its simplified learning-oriented design and easy MCU/CP.
 
-#### From the top: Basic USB serial console for interactive CircuitPython MCU coding
+#### Installs from the top: Basic USB serial console for interactive CircuitPython MCU coding
 
 - Install the native Ubuntu *screen* serial console application for standard USB-tty communications:
 
