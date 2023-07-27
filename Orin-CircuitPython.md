@@ -20,7 +20,7 @@ Although we also installed Spyder for scientific grade IDE compatible with the r
 
 After studying Adafruit's IDE recommendations for Linux-based host systems, [thonny](https://thonny.org/) turned out to the best one to install on ARM64 Jetsons with its simplified learning-oriented design and easy MCU/CP.
 
-### From the top: Basic USB serial console for interactive CircuitPython MCU coding
+#### From the top: Basic USB serial console for interactive CircuitPython MCU coding
 
 - Install the native Ubuntu *screen* serial console application for standard USB-tty communications:
 
@@ -48,7 +48,7 @@ Beyond interactively programming with standard Python, CircuitPython gives direc
 
 Externally edited main.py programs are written to the MCU's RAM, which appears as a CIRCUITPY volume on the Jetson Linux filesystem and files manager.
 
-### Installing Miniforge with Conda and Jupyter
+#### Installing Miniforge with Conda and Jupyter
 
 On x86-64 workstations hosting the NVIDIA SDK, the *Anaconda* Python environment manager is easily installed, providing the Navigator GUI for a standard suite of applications including Jupyter Notebook and Spyder.  However, ARM64 systems like Jetsons must use more lightweight *conda* Python enviroments like Miniforge, mamba, and Mambaforge to support dependencies and applications including Jupyter Notebook and the Spyder.
 
