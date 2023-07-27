@@ -42,7 +42,7 @@ After studying [Adafruit's IDE recommendations](https://learn.adafruit.com/welco
 		screen /dev/ttyACM0 115200
   On startup, the console screen is blank.  Pressing *Return* will halt any resident CircuitPython program running at MCU powerup, then display the microcontroller's version information and the familiar CircuitPython REPL interpreter prompt **>>>** .  
 
-Standard Python code can then be interactively executed on the MCU's CircuitPython interpreter, as seen below:
+###### Standard Python code can then be interactively executed on the MCU's CircuitPython interpreter, as seen below:
 ![Orin-M4Express-ttyACM0-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/eb6c09e1-3e39-486a-83ae-b3218458583b)
 
 Beyond interactively programming with standard Python, CircuitPython gives direct access to the range of analog and digital I/O pins on the specific MCU board, including available ADC, DAC, SPI, I2C, MOSI/MISO/SCK, and timers.
@@ -60,5 +60,5 @@ Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021
 ...
 [Installing Spyder with conda](https://docs.spyder-ide.org/current/installation.html#install-conda)
 
-Right: Thonny editing the Trinket M0 default demo main.py program code, while the console dialog shows that the MCU board hasn't been connected and autosensed yet.  Thonny saves the prior MCU connection address. Left: Localhost Jupyter Notebook Jetson cameratest .ipnyb page.
+###### Right: Thonny editing the Trinket M0 default demo main.py program code, while the console dialog shows that the MCU board hasn't been connected and autosensed yet.  Thonny saves the prior MCU connection address. Left: Localhost Jupyter Notebook Jetson cameratest .ipnyb page.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/73927b34-f661-4495-bc85-d068cac08db9)
