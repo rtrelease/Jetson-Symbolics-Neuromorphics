@@ -14,9 +14,9 @@ However, given the extensive use of well-integrated Python in NVIDIA's Jetson ma
 
 For *'good old' basic programming methods*, Python and CircuitPython can certainly be coded with a plain text editor and tested with a serial console/terminal connected to the target MCU board.  
 
-So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards. *Then we proceeded to install Python Conda Miniforge3 for an aarch64 conda environment manager.  
+So on the AGX Orin Developer Kit, we first followed [Adafruit's basic setup and testing recommendations](https://learn.adafruit.com/welcome-to-circuitpython/advanced-serial-console-on-linux) for Linux on its CircuitPython ARM Cortex M-series MCU boards. *Then we proceeded to an edge installation of Python Conda Miniforge3 for an aarch64 conda environment manager.*  
 
-Although we also installed Spyder for scientific grade IDE compatible with the rest of the Jupyter scientific computing environment (scipy, numpy, mathplotlib, etc), it proved too specialized for convenient use with CircuitPython. 
+Although we also installed Spyder for scientific grade IDE compatible with the rest of the Jupyter scientific computing environment (scipy, numpy, mathplotlib, etc), it proved too specialized for convenient use with CircuitPython. However, this edge environment also paved the way for using using Jupyter Notebook pages with Circuit Python MCU boards.
 
 After studying [Adafruit's IDE recommendations](https://learn.adafruit.com/welcome-to-circuitpython/recommended-editors) for Linux-based host systems, [thonny](https://thonny.org/) turned out to the best one to install on ARM64 Jetsons, with its simplified learning-oriented design and easy MCU/CP serial communications features. Thonny will be considered further at the end, after particulars of serial console, Miniforge, Conda, and Jupyter installations.
 
