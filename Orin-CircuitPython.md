@@ -40,7 +40,7 @@ After studying [Adafruit's IDE recommendations](https://learn.adafruit.com/welco
 - Start the *screen* console with the MCU's serial line name and baud rate:
 
 		screen /dev/ttyACM0 115200
-  On startup, the console screen is blank.  Pressing *Return* will halt any resident CircuitPython program running at MCU powerup, then display the microcontroller's version information and the familiar CircuitPython REPL interpreter prompt **>>>** .  
+  On startup, the console screen is blank.  Pressing *Control-c* will interrupt any resident CircuitPython program running at MCU powerup, then display the microcontroller's version information and the familiar CircuitPython REPL interpreter prompt **>>>** .  
 
 ###### Standard Python code can then be interactively executed on the MCU's CircuitPython interpreter, as seen below:
 ![Orin-M4Express-ttyACM0-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/eb6c09e1-3e39-486a-83ae-b3218458583b)
