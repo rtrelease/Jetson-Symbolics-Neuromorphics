@@ -9,3 +9,6 @@ please create an image of a Jetson Xavier NX computer vision system running an I
 
 **Being there.** Edge Computer Vision 2023
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/33759cf2-db07-449b-8041-3a090d552328)
+
+**Been there, done that:** Mid-'90s brain imaging raytrace on Amiga with Silver
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/9927a171-5a4f-4798-93c5-341343915f3c)
