@@ -23,8 +23,8 @@
  17. [**Hybrid Controller - Analog synaptic programming interface design**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
  18. *Extending the Jetson Python environment for programming, control and data acquisition with CircuitPython and ARM microcontrollers*
  19. **Parse this: Reifying *neuromorpho-symbolic AI***
- 20. ***Machine Learning and Computer Vision Analysis of Neuron Dendrograms***
- 21. **Polymorphic Neural Systems:** Integrating multiple structural paradigms for new autonomous machines
+ 20. *Machine Learning and Computer Vision Analysis of Neuron Dendrograms*
+ 21. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  22.  [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  23. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  24. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
