@@ -8,7 +8,7 @@
  2. [Making symbolic AI programming (and other things) *'go-faster'* on Jetsons with *GraalVM* and grCUDA](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI%20Lab%20Notes2a.md)
  3. [Bringing up the AI Lab symbolic software suite on Jetson AGX Orin: To Graal and *beyond*](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinInstall2Graal.md)
  4. [Research Review](https://github.com/rtrelease/Jetson-Symbolics/blob/main/NS-SOTA-2021.md) -- [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) IOS Press, 2021
- 5. [**Gedanken Experiment 1:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) **Ontologies** for semantic linking with deep neural network identifications of neuroanatomical structures in brain magnetic resonance images
+ 5. [***Gedankenexperiment 1:***](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) **Ontologies** for semantic linking with deep neural network identifications of neuroanatomical structures in brain magnetic resonance images
  6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding a new OSS build chain for *neurosymbolic fusion*
  7. *Tools for integrating* ***symbolic reasoning*** *within* **Python-based DNN build chains**
  8. **Beyond artificial 'neural networks':** Adding [**neuromorphic computing**](https://arxiv.org/pdf/2105.05956.pdf) capabilities
