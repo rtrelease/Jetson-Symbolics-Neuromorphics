@@ -10,5 +10,5 @@
 
 
 <p align="center">
-<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6a5617d1-ce6b-4b43-9eda-38804a3338a3" width=30% height=30% />
+<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6a5617d1-ce6b-4b43-9eda-38804a3338a3" width=20% height=20% />
 </p>
