@@ -39,3 +39,4 @@
 [Canonical neocortex microcircuit](https://academic.oup.com/book/24640)           
 ![EdgeLab1s](https://user-images.githubusercontent.com/71346897/198853015-1dd3763c-1a5b-4120-a26f-c5e07234a858.png)
 [Mr Potato Head's AI library](https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md)
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/ef5ac31e-0dff-4a80-9266-9d14bdb81790)
