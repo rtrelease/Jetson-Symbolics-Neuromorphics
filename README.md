@@ -39,7 +39,8 @@
 [Canonical neocortex microcircuit](https://academic.oup.com/book/24640)           
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/71346897/198853015-1dd3763c-1a5b-4120-a26f-c5e07234a858.png" /> <a href="https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md">Mr Potato Head's AI library</a>
+<img src="https://user-images.githubusercontent.com/71346897/198853015-1dd3763c-1a5b-4120-a26f-c5e07234a858.png" /> <br>
+ <a href="https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md">Mr Potato Head's AI library</a>
 </p>
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/ef5ac31e-0dff-4a80-9266-9d14bdb81790" width=30% height=30% />
