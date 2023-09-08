@@ -37,8 +37,11 @@
 ![image](https://user-images.githubusercontent.com/71346897/190292083-afe25486-1989-405e-b332-a76527964701.png)
 ![image](https://user-images.githubusercontent.com/71346897/189025287-12f64115-7108-43a8-b5db-c03ffbf62075.jpeg)           
 [Canonical neocortex microcircuit](https://academic.oup.com/book/24640)           
-![EdgeLab1s](https://user-images.githubusercontent.com/71346897/198853015-1dd3763c-1a5b-4120-a26f-c5e07234a858.png)
-[Mr Potato Head's AI library](https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/71346897/198853015-1dd3763c-1a5b-4120-a26f-c5e07234a858.png" />
+
+<a href="https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md" Mr Potato Head's AI library
 
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/ef5ac31e-0dff-4a80-9266-9d14bdb81790" width=30% height=30% />
