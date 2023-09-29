@@ -14,4 +14,4 @@ please create an image of a Jetson Xavier NX computer vision system running an I
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/33759cf2-db07-449b-8041-3a090d552328)
 
 **Toward analog neurons:** Patch 'em and rack 'em
-![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/3890a5be-bff7-4b4b-ad28-9c991112b94d)
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/5ca709c7-187b-403f-bf56-e863aaddebbe)
