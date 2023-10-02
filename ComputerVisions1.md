@@ -13,5 +13,5 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **Been there, doing this:** Edge computer vision systems for learning AI basics in 2023
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/33759cf2-db07-449b-8041-3a090d552328)
 
-**Toward analog neurons:** Patch 'em and rack 'em
+**Toward analog neurons:** Rack 'em and patch 'em
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/5ca709c7-187b-403f-bf56-e863aaddebbe)
