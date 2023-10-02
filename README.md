@@ -22,16 +22,16 @@
  16. **Functional characteristics of local modules in microcontroller-based neocortical microcircuit models:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
  17. [**Hybrid Controller - Analog synaptic programming interface design**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
  18. *Extending the Jetson Python environment for programming, control and data acquisition with CircuitPython and ARM microcontrollers*
- 19. **Parse this: Reifying *neuromorpho-symbolic AI***
- 20. *Machine Learning and Computer Vision Analysis of Neuron Dendrograms*
- 21. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
- 22. [***Tools for teaching AI basic principles, computer vision, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binary resources for teachers and students
- 23. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full), neuromorphic modeling, analog data acquisition, and signal processing**
- 24. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 19. [***Tools for teaching AI basic principles, computer vision, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binary resources for teachers and students
+ 20. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full), neuromorphic modeling, analog data acquisition, and signal processing**
+ 21. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 22. **Parse this: Reifying *neuromorpho-symbolic AI***
+ 23. *Machine Learning and Computer Vision Analysis of Neuron Dendrograms*
+ 24. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  25. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  26. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  27. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
- 28.  **LXXII and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
+ 28. **LXXII and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
