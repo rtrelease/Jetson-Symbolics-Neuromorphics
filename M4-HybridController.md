@@ -5,3 +5,6 @@ Synaptic programming interface prototype for basic hybrid controller
 
 Mega adapter mods for M4 GC hybrid controller 1: Analog spike input synapses for cortical microcircuit model
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6cf33323-9f5a-443f-8d32-137fdd07df03)
+
+**Racking hybrid and synaptic programming controllers:** Neocortical Microcircuit Model Phase 0
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/b4ed6389-82e9-49d5-b89c-a326b4e7ec76)
