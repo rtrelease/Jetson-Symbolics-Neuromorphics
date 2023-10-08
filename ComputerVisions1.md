@@ -16,5 +16,5 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **Toward analog neurons:** Rack 'em and patch 'em
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/5ca709c7-187b-403f-bf56-e863aaddebbe)
 
-**Racking hybrid and synaptic programming controllers:** Phase 0
+**Racking hybrid and synaptic programming controllers:** Neocortical Microcircuit Model Phase 0
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/b4ed6389-82e9-49d5-b89c-a326b4e7ec76)
