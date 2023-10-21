@@ -19,6 +19,6 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **Racking hybrid and synaptic programming controllers:** Neocortical Microcircuit Model Phase 0
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/b4ed6389-82e9-49d5-b89c-a326b4e7ec76)
 
-**a JetBot and MacBook Divertissement...**
+**A JetBot and MacBook Testing Divertissement...**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/a3e9d01f-8a4d-4b76-8c1c-821269e5bf05)
 
