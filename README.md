@@ -49,7 +49,6 @@
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/ef5ac31e-0dff-4a80-9266-9d14bdb81790" width=30% height=30% />
 </p>
-
 <p align="center">
-<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1b97ea9-e9b0-42ad-b356-ef5fe0b6a754" width=20% height=20% />
+<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/470f88ff-ba25-496a-8c44-6ad506dcf47e" width=20% height=20% />
 </p>
