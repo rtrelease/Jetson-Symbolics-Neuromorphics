@@ -22,5 +22,5 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **A JetBot and MacBook testing divertissement...**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/a3e9d01f-8a4d-4b76-8c1c-821269e5bf05)
 
-**Jetson Generative AI Lab debut: Siamese cat sitting on a table next to a bowl of fruit**
+**[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) debut on AGX Orin 64: *Stabile Diffusion* > "Mondrian painting of Siamese cat sitting on a table next to a bowl of fruit"**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/3ed34264-fdc3-49b9-8396-e4012545da64)
