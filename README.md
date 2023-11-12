@@ -24,7 +24,7 @@
  18. *Extending the Jetson Python environment for programming, control and data acquisition with CircuitPython and ARM microcontrollers*
  19. [***Edge lab tools for teaching AI basics, computer vision, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
  20. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
- 21. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut]() on AGX Orin 64: *Stable Diffusion* >**
+ 21. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md) on AGX Orin 64: *Stable Diffusion* >**
  22. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  23. **Parse this: Reifying *neuromorpho-symbolic AI***
  24. *Machine Learning and Computer Vision Analysis of Neuron Dendrograms*
