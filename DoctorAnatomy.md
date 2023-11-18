@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### Chats with Doctor Anatomy - Core anatomical knowledge in open source large language models
+#### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in open source large language models***
 
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
