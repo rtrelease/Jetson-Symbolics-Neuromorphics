@@ -11,7 +11,7 @@ So a practical major theme of these AI Lab Notes has been addressing some curren
 The more philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations is probably best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
 My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real biological brain functions.
 
-No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT ***eppur si muove***, they work and do some remarkable computing tasks!
+No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks!
 
 On to the current series of *anatomical reasoning* experiments with new Open Source large language models (LLMs) provided in the great new NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called Doctor Anatomy to answer questions about breadth and depth of anatomical knowledge contained in LlaMa 2.
 
