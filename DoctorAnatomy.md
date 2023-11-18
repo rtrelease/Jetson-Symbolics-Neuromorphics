@@ -3,6 +3,7 @@
 #### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in open source large language models***
 
 [Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked publications covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
+
 Having worked through prior decades of symbolic AI, with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inference decisions, there were some moments of cognitive dissonance to seeing DNN output process newly defined as *inferences*
 
 
