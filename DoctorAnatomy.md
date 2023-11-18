@@ -9,7 +9,11 @@ Having been a research university developer through prior decades of *symbolic* 
 So a major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI, including explainability of inferences, with hybrid neuro-symbolic programming.
 
 The more philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations is probably best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
-My task as a neuroscientist building and using AI tools has simply involved accomodation, adaptation, and redefinition, familiar real brain function.
+My task as a neuroscientist building and using AI tools has simply involved accomodation, adaptation, and redefinition, familiar real brain functions.
+
+No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT ***eppur si muove***, they work and do some remarkable computing tasks!
+
+
 
 Platform: AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; 
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
