@@ -11,7 +11,7 @@ So a major theme of these AI Lab Notes has been addressing some currently percei
 The more philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations is probably best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
 My task as a neuroscientist building and using AI tools has simply involved accomodation, adaptation, and redefinition, familiar real brain function.
 
-Platform: AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1)
+Platform: AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; 
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
 
