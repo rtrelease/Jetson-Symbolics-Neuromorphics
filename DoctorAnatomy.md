@@ -13,7 +13,7 @@ My tasks as a neuroscientist building and using AI tools have simply involved ac
 
 No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks!
 
-On to the current series of *anatomical reasoning* experiments with new Open Source large language models (LLMs) provided in the great new NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called Doctor Anatomy to answer questions about breadth and depth of anatomical knowledge contained in LlaMa 2.
+**On to the current series of *anatomical reasoning* experiments** with new Open Source large language models (LLMs) provided in the great new NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called Doctor Anatomy to answer questions about breadth and depth of anatomical knowledge contained in LlaMa 2.
 
 **Platform:** AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
