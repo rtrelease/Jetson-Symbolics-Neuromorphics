@@ -9,7 +9,7 @@ Having been a research university developer through prior decades of *symbolic* 
 So a major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI, including explainability of inferences, with hybrid neuro-symbolic programming.
 
 The more philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations is probably best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
-My tasks as a neuroscientist building and using AI tools has simply involved accomodation, adaptation, and redefinition, familiar real brain functions.
+My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real biological brain functions.
 
 No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT ***eppur si muove***, they work and do some remarkable computing tasks!
 
