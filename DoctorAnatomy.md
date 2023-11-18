@@ -2,7 +2,7 @@
 
 #### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in open source large language models***
 
-Platform: AGX Orin 64GB, booting 1 TB NVME SSD with JetPack 5.1.2 (L4T r35.4.1)
+Platform: AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
 
