@@ -6,6 +6,8 @@
 
 Having been a university research developer through prior decades of symbolic AI -- with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some recent moments of cognitive dissonance on seeing DNN output processes newly defined as *inferences*.
 
+So a major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI, including explainability of inferences, with hybrid neuro-symbolic programming.
+
 
 Platform: AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
