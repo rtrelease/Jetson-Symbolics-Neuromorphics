@@ -6,7 +6,7 @@
 
 Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly defined as *inferences*.
 
-So a major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI, including explainability of inferences, with hybrid neuro-symbolic programming.
+So a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
 
 The more philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations is probably best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
 My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real biological brain functions.
