@@ -43,4 +43,4 @@ As demonstrated in the Protege entity ontology graph, the left optic nerve is it
 
 
 
-To be continued...
+[To be continued...](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md)
