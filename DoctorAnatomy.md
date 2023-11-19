@@ -23,6 +23,6 @@ Besides, neuromorphic modeling can also address more rigorous biological neuron 
 Localhost web UI with LLM server terminal monitor
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/cdc902bc-77af-499b-85e7-b84e452780ec)
 
-iPad wifi access to AGX Orin chat sevive
+iPad wifi access to AGX Orin chat service
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/44dc0501-48d7-4951-b8cc-9810cf3dbf6f)
 
