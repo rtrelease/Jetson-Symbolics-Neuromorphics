@@ -4,7 +4,7 @@
 
 [Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked [publications](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) have covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
 
-Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly defined as *inferences*.
+Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
 
 So a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
 
