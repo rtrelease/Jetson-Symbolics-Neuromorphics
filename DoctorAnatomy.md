@@ -21,7 +21,7 @@ In this study, we investigate the quality of anatomical information contained in
 
 ##### Materials and Methods
 
-**The current series of *anatomical reasoning* experiments** uses new Open Source large language models (LLMs) provided in the comprehensive NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
+**The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
 
 **Platform:** AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
