@@ -15,7 +15,9 @@ My tasks as a neuroscientist building and using AI tools have simply involved ac
 
 Thus, a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
 
-Beyond that, neuromorphic modeling also addresses more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts...
+Beyond that, programmatic neuromorphic modeling also addresses more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts.
+
+In this study, we investigate the quality of anatomical information contained in and accessed by the Open Source large language model LLaMA 2.
 
 ##### Materials and Methods
 
