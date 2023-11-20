@@ -2,24 +2,24 @@
 
 #### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in open source large language models***
 
-##### Context
+##### Current Context
 
 [Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked [publications](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) have covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
 
 Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
 
-Nonetheless, a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
-
-The more philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations is probably best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
-My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real human biological brain functions. 
-
 No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
 
-Besides, neuromorphic modeling can also address more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts...
+The philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations are best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
+My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real human biological brain functions. 
+
+Thus, a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
+
+Beyond that, neuromorphic modeling also addresses more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts...
 
 ##### Materials and Methods
 
-**The current series of *anatomical reasoning* experiments** uses new Open Source large language models (LLMs) provided in the comprehensive new NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called Doctor Anatomy to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
+**The current series of *anatomical reasoning* experiments** uses new Open Source large language models (LLMs) provided in the comprehensive NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
 
 **Platform:** AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
