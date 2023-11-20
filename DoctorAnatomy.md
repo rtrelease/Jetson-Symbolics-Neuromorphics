@@ -13,7 +13,7 @@ My tasks as a neuroscientist building and using AI tools have simply involved ac
 
 No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
 
-Besides, neuromorphic modeling can also address more rigorous biological neuron network designs, since human brain cognitive mechanisms also naturally support thinking with apparently conflicting concepts...
+Besides, neuromorphic modeling can also address more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts...
 
 **On to the current series of *anatomical reasoning* experiments** with new Open Source large language models (LLMs) provided in the great new NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called Doctor Anatomy to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
 
