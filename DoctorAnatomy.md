@@ -26,7 +26,7 @@ In this study, we investigate the quality of anatomical information contained in
 **Platform:** AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
-Localhost web UI with LLM server terminal monitor
+Localhost web UI (l) with LLM server terminal monitor
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/cdc902bc-77af-499b-85e7-b84e452780ec)
 
 iPad wifi access to AGX Orin chat service
