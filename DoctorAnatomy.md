@@ -2,6 +2,8 @@
 
 #### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in open source large language models***
 
+##### Context
+
 [Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked [publications](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) have covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
 
 Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
@@ -14,6 +16,8 @@ My tasks as a neuroscientist building and using AI tools have simply involved ac
 No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
 
 Besides, neuromorphic modeling can also address more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts...
+
+##### Materials and Methods
 
 **On to the current series of *anatomical reasoning* experiments** with new Open Source large language models (LLMs) provided in the great new NVIDIA Jetson Generative AI Lab containers.  In this instance, we are creating a chatbot character called Doctor Anatomy to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
 
