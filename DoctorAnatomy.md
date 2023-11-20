@@ -8,9 +8,10 @@
 
 Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on expert knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
 
-No, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
+And no, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
 
 The philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations are best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
+
 My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real human biological brain functions. 
 
 Thus, a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
@@ -19,7 +20,8 @@ Beyond that, programmatic neuromorphic modeling also addresses more rigorous bio
 
 *In this study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface*.  
 
-Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption 
+Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there is reasonable concern about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
+.
 
 ##### Materials and Methods
 
