@@ -17,11 +17,15 @@ Thus, a practical major theme of these AI Lab Notes has been addressing some cur
 
 Beyond that, programmatic neuromorphic modeling also addresses more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts.
 
-In this study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface.
+*In this study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface*.  
+
+Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption 
 
 ##### Materials and Methods
 
 **The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  In this instance, we are creating a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
+
+
 
 **Platform:** AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF)
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
