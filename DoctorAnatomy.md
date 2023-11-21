@@ -33,7 +33,8 @@ Chatbots (e.g., ChatGPT) have been popularly adopted for educational application
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
 Localhost web UI (l) with LLM server terminal monitor
-![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/cdc902bc-77af-499b-85e7-b84e452780ec)
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
+
 
 iPad wifi access to AGX Orin chat service
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/44dc0501-48d7-4951-b8cc-9810cf3dbf6f)
