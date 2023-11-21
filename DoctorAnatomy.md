@@ -21,7 +21,6 @@ Beyond that, programmatic neuromorphic modeling also addresses more rigorous bio
 *In the currently reported study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface*.  In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), an experienced medical school anatomist asks questions of the chatbot, much like a individual "practical exam", to assess breadth, depth, accuracy, and appropriateness of the *inferred* anatomical knowledge communicated.
 
 Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there is reasonable concern about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
-.
 
 ##### Materials and Methods
 
