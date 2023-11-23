@@ -35,14 +35,14 @@ In essence, to return to the earlier neuro-symbolic reasoning principles, this a
 
 **Platform:** AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2 (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) ; 
 
-*Figure 1.* Some fair responses to question on cardiac anatomy
+***Figure 1.*** Some fair responses to question on cardiac anatomy on the initial Jetson localhost session.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
-*Figure 2.* Localhost LLama-2-7B-Chat web UI on FireFox (l) and the Stanford Protege ontology application (r) running The Foundational Model of Anatomy (FMA) ontology concurrently on the AGX Orin host
+***Figure 2.*** Localhost LLama-2-7B-Chat web UI on FireFox (l) and the Stanford Protege ontology application (r) running The Foundational Model of Anatomy (FMA) ontology concurrently on the AGX Orin host
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
-*Figure e.* In another iPad wifi session, the chatbot prevaricates on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
+***Figure e.*** In another iPad wifi session, the chatbot prevaricates on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
 In progress,to be continued.
