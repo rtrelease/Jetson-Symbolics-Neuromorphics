@@ -29,7 +29,7 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 
 #### Materials and Methods
 
-**The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  For th3 first trials, we created a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
+**The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  For the first trials, we created a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
 
 
 
