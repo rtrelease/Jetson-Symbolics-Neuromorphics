@@ -45,4 +45,4 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 ***Figure 3.*** In another iPad wifi session, the chatbot prevaricates further on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
-In progress,to be continued.
+In progress, to be continued.
