@@ -38,7 +38,7 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 ***Figure 1.*** Some fair responses to questions on cardiac anatomy and innervation in the initial Jetson localhost session.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
-***Figure 2.*** Localhost LLama-2-7B-Chat web UI on FireFox (l) and the Stanford Protege ontology application (r) running The Foundational Model of Anatomy (FMA) ontology concurrently on the AGX Orin host
+***Figure 2.*** Localhost LLama-2-7B-Chat web UI on FireFox (l) and the Stanford Protege ontology application (r) accessing The Foundational Model of Anatomy (FMA) ontology concurrently on the AGX Orin host
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
