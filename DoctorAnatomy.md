@@ -19,7 +19,7 @@ Beyond that, programmatic neuromorphic modeling also studies more functionally r
 
 *In the currently reported study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web-accessed "chatbot" user interface*.  
 
-Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there is reasonable concern about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
+Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there are basic questions about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
 
 [This month's Communications of the ACM](https://m-cacm.acm.org/magazines/2023/12/278146-thus-spake-chatgpt/fulltext) has a particularly timely opinion column on explanatory reasoning shortcomings demonstrated by ChatGPT, by Subhabrata Dutta and Tanmoy Chakraborty.  They illustrate a problematic conversation exploring technical aspects of fractals, with the chatbot in the role of generating explanations for a non-technical user.
 
