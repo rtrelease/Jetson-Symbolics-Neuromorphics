@@ -23,7 +23,7 @@ Chatbots (e.g., ChatGPT) have been popularly adopted for educational application
 
 [This month's Communications of the ACM](https://m-cacm.acm.org/magazines/2023/12/278146-thus-spake-chatgpt/fulltext) has a particularly timely opinion column on explanatory reasoning shortcomings demonstrated by ChatGPT, by Subhabrata Dutta and Tanmoy Chakraborty.  They illustrate a conversation exploring technical aspects of fractals, with the chatbot in the role of generating explanationss for a non-technical user.
 
-In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), this AI Lab Note examines a similar chatbot explanatory function relative to medical student instruction.   an experienced medical school anatomist asks questions of the chatbot, much like a individual "practical exam", to assess breadth, depth, accuracy, and appropriateness of the *inferred* anatomical knowledge communicated.
+In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), this AI Lab Note examines a similar chatbot explanatory function relative to medical student instruction.   In this exercise, an experienced medical school anatomist asks questions of the chatbot, much like a individual "practical exam", to assess breadth, depth, accuracy, and appropriateness of the *inferred* anatomical knowledge communicated.
 
 ##### Materials and Methods
 
