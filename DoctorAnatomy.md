@@ -18,12 +18,13 @@ Thus, a practical major theme of these AI Lab Notes has been addressing some cur
 
 Beyond that, programmatic neuromorphic modeling also addresses more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts.
 
-*In the currently reported study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface*.  In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), an experienced medical school anatomist asks questions of the chatbot, much like a individual "practical exam", to assess breadth, depth, accuracy, and appropriateness of the *inferred* anatomical knowledge communicated.
+*In the currently reported study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface*.  
 
 Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there is reasonable concern about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
 
-[This month's Communications of the ACM](https://m-cacm.acm.org/magazines/2023/12/278146-thus-spake-chatgpt/fulltext) has a particularly timely opinion column on explanatory reasoning shortcomings demonstrated by ChatGPT, by Subhabrata Dutta and Tanmoy Chakraborty...
+[This month's Communications of the ACM](https://m-cacm.acm.org/magazines/2023/12/278146-thus-spake-chatgpt/fulltext) has a particularly timely opinion column on explanatory reasoning shortcomings demonstrated by ChatGPT, by Subhabrata Dutta and Tanmoy Chakraborty.  They illustrate a conversation exploring technical aspects of fractals, with the chatbot in the role of generating explanationss for a non-technical user.
 
+In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), this AI Lab Note examines a similar chatbot explanatory function relative to medical student instruction.   an experienced medical school anatomist asks questions of the chatbot, much like a individual "practical exam", to assess breadth, depth, accuracy, and appropriateness of the *inferred* anatomical knowledge communicated.
 
 ##### Materials and Methods
 
