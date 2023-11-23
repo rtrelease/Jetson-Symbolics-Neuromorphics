@@ -12,7 +12,7 @@ And no, current DNNs aren't really "neural" or fundamentally inspired by deep kn
 
 So the philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations are best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
 
-My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real human biological brain functions. 
+My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, redefinition, and repurposing of new information, familiar real human biological brain functions. 
 
 Thus, a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
 Beyond that, programmatic neuromorphic modeling also addresses more functionally rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts.
