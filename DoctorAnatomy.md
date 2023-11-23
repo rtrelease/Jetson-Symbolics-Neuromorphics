@@ -38,6 +38,6 @@ Localhost LLama-2-7B-Chat web UI (l) and Protege app (r) running The Foundationa
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
-iPad wifi access to AGX Orin chat service
-![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/086fef1e-847c-41a6-a34f-546a084a14cc)
+In another iPad wifi session, the chatbot prevaricates on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
