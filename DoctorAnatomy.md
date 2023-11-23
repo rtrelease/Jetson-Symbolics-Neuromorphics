@@ -22,6 +22,8 @@ Beyond that, programmatic neuromorphic modeling also addresses more rigorous bio
 
 Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there is reasonable concern about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
 
+[This month's Communications of the ACM](https://m-cacm.acm.org/magazines/2023/12/278146-thus-spake-chatgpt/fulltext) has a particularly timely excellent piece on educational uses for ChatGPT by Subhabrata Dutta and Tanmoy Chakraborty.
+
 ##### Materials and Methods
 
 **The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  In this instance, we are created a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
