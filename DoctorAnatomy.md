@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in anopen source large language model***
+#### ***Chats with*** **Doctor Anatomy -** ***Core anatomical knowledge in an open source large language model***
 
 ##### Current Context
 
