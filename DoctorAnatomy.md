@@ -15,7 +15,6 @@ The philological aspects of reconciling AI legacy symbolic and DNN/ML inferencin
 My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real human biological brain functions. 
 
 Thus, a practical major theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neuro-symbolic programming.
-
 Beyond that, programmatic neuromorphic modeling also addresses more rigorous biological neuron network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts.
 
 *In the currently reported study, we investigate the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web accessed "chatbot" user interface*.  
