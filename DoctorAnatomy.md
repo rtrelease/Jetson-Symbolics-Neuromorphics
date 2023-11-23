@@ -41,3 +41,4 @@ Localhost LLama-2-7B-Chat web UI on FireFox (l) and the Stanford Protege ontolog
 In another iPad wifi session, the chatbot prevaricates on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
+In progress,to be continued.
