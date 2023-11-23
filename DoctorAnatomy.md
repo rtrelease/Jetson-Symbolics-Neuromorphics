@@ -27,7 +27,7 @@ In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wile
 
 In essence, to return to the earlier neural versus symbolic reasoning dichotomy, this asks if the LLM inferences are consistently valid.
 
-##### Materials and Methods
+#### Materials and Methods
 
 **The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  In this instance, we are created a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
 
