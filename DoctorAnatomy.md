@@ -42,7 +42,7 @@ In essence, to return to the earlier neuro-symbolic reasoning principles, this a
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
-***Figure e.*** In another iPad wifi session, the chatbot prevaricates on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
+***Figure 3.*** In another iPad wifi session, the chatbot prevaricates on who developed The Foundational Model of Anatomy and denies the role of principal investigator and contributor Cornelius Rosse.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
 In progress,to be continued.
