@@ -33,12 +33,12 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 
 
 
-**Platform:** NVIDIA Jetson AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2, Linux (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) ; 
+**Platform:** NVIDIA Jetson AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2, Linux (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) 
 
 ***Figure 1.*** Some fair responses to questions on cardiac anatomy and innervation in the initial Jetson localhost session.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
-***Figure 2.*** Localhost LLama-2-7B-Chat web UI on FireFox (l) and the Stanford Protege ontology application (r) accessing The Foundational Model of Anatomy (FMA) ontology concurrently on the AGX Orin host
+***Figure 2.*** Localhost *LLama-2-7B-Chat* **web UI** on FireFox (l) and the Stanford Protege ontology application (r) accessing The Foundational Model of Anatomy (FMA) ontology concurrently on the AGX Orin host
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
