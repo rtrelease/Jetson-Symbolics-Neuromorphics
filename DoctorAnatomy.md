@@ -10,7 +10,7 @@ Having been a research university developer through prior decades of *symbolic* 
 
 And no, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
 
-The philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations are best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
+So the philological aspects of reconciling AI legacy symbolic and DNN/ML inferencing connotations are best left to historians and authors of [artificial intelligence textbooks](http://aima.cs.berkeley.edu/index.html).
 
 My tasks as a neuroscientist building and using AI tools have simply involved accomodation, adaptation, and redefinition of new information, familiar real human biological brain functions. 
 
