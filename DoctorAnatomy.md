@@ -25,7 +25,7 @@ Chatbots (e.g., ChatGPT) have been popularly adopted for educational application
 
 In the continuing context of [prior work](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095), this AI Lab Note examines a similar chatbot explanatory function relative to its usefulness for medical student instruction.   In this exercise, an experienced medical school anatomist asks questions of the chatbot, much like a individual "practical exam", to assess breadth, depth, accuracy, and appropriateness of the *inferred* anatomical knowledge communicated.  
 
-In essence, to return to the earlier neuro-symbolic reasoning principles, this asks if the LLM inferences are consistently valid.
+In essence, to return to the earlier neural versus symbolic reasoning dichotomy, this asks if the LLM inferences are consistently valid.
 
 ##### Materials and Methods
 
