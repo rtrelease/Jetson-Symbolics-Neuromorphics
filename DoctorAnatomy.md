@@ -39,6 +39,5 @@ Localhost LLama-2-7B-Chat web UI (l) and Protege app (r) running The Foundationa
 
 
 iPad wifi access to AGX Orin chat service
-![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/ed96d02f-4e24-4ba4-8e0d-3af48c36f04c)
-
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/086fef1e-847c-41a6-a34f-546a084a14cc)
 
