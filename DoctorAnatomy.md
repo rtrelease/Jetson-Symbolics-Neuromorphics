@@ -45,4 +45,7 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 ***Figure 3.*** In another later iPad wifi session, the chatbot prevaricates further on who developed The Foundational Model of Anatomy and obfuscates the proper role of principal investigator and leading contributor Cornelius Rosse.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
+
+***Figure 3.*** In yet another later AGX Orin localhost session, the chatbot prevaricates more on FMA and Conelius Rosse's roles, while Protege displays the FMA editor and creator metadata 
+
 In progress, to be continued.
