@@ -8,6 +8,8 @@
 **B\*Spoke AI Systems:** Jetson Xavier NX DevKit workstation running the NV ImageNet application using the default Googlenet CNN model
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/52205d8e-4200-400a-adce-a5c280f8c1ce)
 
+**B\*Spoke AI Systems:** WaveShare JetBot
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/25ca7fcf-f1c4-4d67-b8cb-fa326a938e1a)
 
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6a5617d1-ce6b-4b43-9eda-38804a3338a3" width=20% height=20% />
