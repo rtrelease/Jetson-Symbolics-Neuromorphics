@@ -10,5 +10,5 @@ Neuron A patch spontaneously bursting
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/65011d96-17b7-4cce-a2d4-0e553188ad9c)
 
 
-Patching 2 of 4 neurons for a microcircuit
+Patching 2 of 4 neurons for a microcircuit; hybrid controller mounted between A and B
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/60371965-8e2c-4700-8720-4af4908a18c2)
