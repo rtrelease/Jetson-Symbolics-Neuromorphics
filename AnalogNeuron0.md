@@ -10,7 +10,7 @@ Neuron A patch spontaneously bursting
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/65011d96-17b7-4cce-a2d4-0e553188ad9c)
 
 
-Two of four basic neurons patchedfor a canonical microcircuit; hybrid controller mounted between A and B
+Two of four basic neurons patched for a canonical microcircuit; Mega hybrid microcontroller mounted between A and B
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/60371965-8e2c-4700-8720-4af4908a18c2)
 
 from Open THAT, [First Steps](https://the-analog-thing.org/THAT_First_Steps.pdf)
