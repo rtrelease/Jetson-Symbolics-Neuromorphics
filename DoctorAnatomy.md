@@ -29,11 +29,11 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 
 #### Materials and Methods
 
-**The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  For the first trials, we created a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LlaMa 2 Chat model.
+**The current series of *anatomical reasoning* experiments** uses new Open Source LLMs provided in the comprehensive [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/index.html) containers.  For the first trials, we created a chatbot character called **Doctor Anatomy** to answer questions about breadth and depth of anatomical knowledge contained in a LLaMa 2 Chat model.
 
 
 
-**Platform:** NVIDIA Jetson AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2, Linux (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [Llama-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) 
+**Platform:** NVIDIA Jetson AGX Orin 64GB, booting 1 TB NVMe SSD with JetPack 5.1.2, Linux (L4T r35.4.1); [NVIDIA Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_text-generation.html) text-generation-webui container; [LLaMa-2-7B-Chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF) 
 
 ***Figure 1.*** Some fair responses to questions on cardiac anatomy and innervation in the initial Jetson Chatbot (localhost) session.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
