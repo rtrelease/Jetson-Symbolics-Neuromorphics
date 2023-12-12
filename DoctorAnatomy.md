@@ -49,4 +49,4 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 ***Figure 4.*** In yet another later AGX Orin localhost session, the chatbot prevaricates more on FMA and Conelius Rosse's roles, while Protege displays the FMA editor and creator metadata 
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/65992b63-e099-4ba1-b4af-cb8b1dfbc47e)
 
-In progress, to be continued.
+*In progress,* to be continued.
