@@ -6,8 +6,19 @@ First Hindmarsh-Rose neuron patch with THAT analog computer powered by Voltaic S
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/422f572a-214d-43d0-a079-96b206a6e420)
 
 
-Neuron A patch spontaneously bursting
+Neuron A setup patch spontaneously bursting
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/65011d96-17b7-4cce-a2d4-0e553188ad9c)
+
+Neuron B setup patch spontaneously bursting
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/677a1224-b79b-40da-8ef2-5982bc6c17f2)
+
+
+Neuron C setup patch spontaneously bursting
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/46d52327-9e4b-44ef-afbb-b7851edd8c45)
+
+
+Neuron D setup patch spontaneously bursting
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/a480734f-be4d-4bd5-adb8-1c1b9a77b8de)
 
 
 Two of four basic neurons patched for a canonical microcircuit; Mega hybrid microcontroller mounted between A and B
