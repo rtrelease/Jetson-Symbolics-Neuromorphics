@@ -20,7 +20,7 @@ Neuron C setup patch spontaneously bursting
 Neuron D setup patch spontaneously bursting
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/a480734f-be4d-4bd5-adb8-1c1b9a77b8de)
 
-Neurons A,B,C, and D setup patches spontaneously and simultaneously bursting
+Neurons A,B,C, and D setup patches spontaneously and concurrently bursting
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/84c57bc3-0ad8-4c2f-ba13-548e67a8c078)
 
 
