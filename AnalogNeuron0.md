@@ -20,6 +20,9 @@ Neuron C setup patch spontaneously bursting
 Neuron D setup patch spontaneously bursting
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/a480734f-be4d-4bd5-adb8-1c1b9a77b8de)
 
+Neurons A,B,C, and D setup patches spontaneously and simultaneously bursting
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/84c57bc3-0ad8-4c2f-ba13-548e67a8c078)
+
 
 Two of four basic neurons patched for a canonical microcircuit; Mega hybrid microcontroller mounted between A and B
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/60371965-8e2c-4700-8720-4af4908a18c2)
