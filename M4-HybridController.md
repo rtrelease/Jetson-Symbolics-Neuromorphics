@@ -9,5 +9,5 @@ Mega adapter mods for M4 GC hybrid controller 1: Analog spike input synapses for
 **Racking hybrid and synaptic programming controllers:** Neocortical Microcircuit Model Phase 0
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/b4ed6389-82e9-49d5-b89c-a326b4e7ec76)
 
-**Basic neocortical microcircuit synaptic patch with Neuron A new integrator inputs**
+**Basic neocortical microcircuit synaptic patch with new Neuron A integrator inputs**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/2c2d7c6b-9aea-4c2a-9c04-47e7c7ff8874)
