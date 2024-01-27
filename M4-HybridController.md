@@ -11,3 +11,6 @@ Mega adapter mods for M4 GC hybrid controller 1: Analog spike input synapses for
 
 **Basic neocortical microcircuit synaptic patch with new Neuron A integrator inputs**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/2c2d7c6b-9aea-4c2a-9c04-47e7c7ff8874)
+
+**All A - D axonal outputs patched to synaptic input diode arrays (black protoboard, left)**
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/266b05d9-ce06-4e41-80e1-218070d8907f)
