@@ -21,7 +21,7 @@
  15. [**ARM Cortex M0+ analog spiking neocortical microcircuit modeling with M4F hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
  16. **Functional characteristics of local modules in microcontroller-based neocortical microcircuit models:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
  17. [**Hybrid Controller - Analog synaptic programming interface design**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
- 18. *Extending the Jetson Python environment for programming, control and data acquisition with CircuitPython and ARM microcontrollers*
+ 18. *Extending the Jetson Python environment for programming, control and data acquisition with Jupyter NoteBooks, CircuitPython and ARM microcontrollers*
  19. [***Edge lab tools for teaching AI basics, computer vision, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
  20. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
  21. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
