@@ -11,6 +11,8 @@
 **B\*Spoke AI Systems:** JetBot with B02 Jetson Nano and WaveShare chassis
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/25ca7fcf-f1c4-4d67-b8cb-fa326a938e1a)
 
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/26860f25-9fac-44c3-bff2-a477ae88f313)
+
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6a5617d1-ce6b-4b43-9eda-38804a3338a3" width=20% height=20% />
 </p>
