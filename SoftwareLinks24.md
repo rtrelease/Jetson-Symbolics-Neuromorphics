@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### **2024 Compendium of references and compatible open source software links and  for the Jetson AGS Orin**
+#### **2024 Compendium of references and compatible open source software links for the Jetson AGS Orin**
 
 **Essential References**
 - [Artificial Intelligence - A Modern Approach](http://aima.cs.berkeley.edu/index.html)
