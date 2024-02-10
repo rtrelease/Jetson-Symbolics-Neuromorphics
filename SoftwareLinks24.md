@@ -13,6 +13,7 @@
 
  
 **Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Orin base software**
+
  - *OpenJDK* -  sudo apt install default-jdk 
 
  - *Protege* Ontology Editor Desktop - platform independent download site: https://protege.stanford.edu/software.php
@@ -27,5 +28,8 @@
 
 
 **Cellular Automata**
+
+ - *Golly* - Game of Life automata app: sudo apt-get -y install golly
+
 
 **Automata Networks**
