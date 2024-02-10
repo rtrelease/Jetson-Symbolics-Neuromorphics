@@ -12,7 +12,7 @@
 
  - OpenJDK -  sudo apt install default-jdk 
 
- - Protege - 
+ - Protege - download site: 
 
  - Arduino IDE -
 
