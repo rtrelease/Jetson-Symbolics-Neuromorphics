@@ -19,7 +19,7 @@
  
  - *Jupyter* - *pip* base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
- - *CircuitPython* - base kernel library install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
+ - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
 
 
