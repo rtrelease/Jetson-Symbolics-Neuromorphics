@@ -18,7 +18,7 @@
 
  - *Protege* Ontology Editor Desktop - platform independent download site: https://protege.stanford.edu/software.php
 
- - *CLIPS* - compilable 6.41 binaries (following Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/
+ - *CLIPS* - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/
    
 
  - *Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
