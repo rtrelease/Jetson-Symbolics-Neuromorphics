@@ -33,6 +33,6 @@
 
 **Scientific Mathematics Programming Language**
 
- - *GNU Octave* - sudo apt install octave
+ - *GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:               sudo apt install octave
 
 
