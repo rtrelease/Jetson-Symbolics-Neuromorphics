@@ -31,4 +31,8 @@
 
  - *Golly* - Game of Life automata app: sudo apt-get -y install golly
 
+**Scientific Mathematics Programming Language**
+
+ - *GNU Octave* - sudo apt install octave
+
 
