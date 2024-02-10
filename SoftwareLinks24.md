@@ -18,6 +18,8 @@
 
  - *Protege* Ontology Editor Desktop - platform independent download site: https://protege.stanford.edu/software.php
 
+ - *CLIPS* - 
+
  - *Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
  - *Jupyter* - *pip* base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
