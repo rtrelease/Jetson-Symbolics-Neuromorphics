@@ -10,17 +10,16 @@
 - [Compendium of Neurosymbolic AI,](https://ebooks.iospress.nl/volume/compendium-of-neurosymbolic-artificial-intelligence) IOS Press, 2023.
 
  
-**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Orin base software**
+**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and *MCU I/O extensions of AGX Orin base software**
+ - *OpenJDK* -  sudo apt install default-jdk 
 
- - OpenJDK -  sudo apt install default-jdk 
+ - *Protege* - download site: https://protege.stanford.edu/software.php
 
- - Protege - download site: https://protege.stanford.edu/software.php
+ - *Arduino IDE* -
 
- - Arduino IDE -
+ - *CircuitPython* - base library install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
- - CircuitPython -
-
- - Jupyter base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
+ - *Jupyter* - *pip* base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
  - -
 
