@@ -1,7 +1,7 @@
 2024 Compendium of compatible open source software links and references for the Jetson AGS Orin
 
 **References**
-- [evolving AI methods](http://aima.cs.berkeley.edu/index.html),
+- [Essentials of Modern Artificial Intelligence](http://aima.cs.berkeley.edu/index.html),
 
 
  
