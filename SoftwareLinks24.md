@@ -17,7 +17,7 @@
 
  - *Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
 
- - *CircuitPython* - base library install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
+ - *CircuitPython* - base kernal library install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
  - *Jupyter* - *pip* base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
