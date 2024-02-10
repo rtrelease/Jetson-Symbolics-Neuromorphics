@@ -9,7 +9,13 @@
 
  
 **Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Orin base software**
+
  - OpenJDK -  sudo apt install default-jdk 
 
  - Protege - 
 
+ - Arduino IDE -
+
+ - CircuitPython -
+
+ - 
