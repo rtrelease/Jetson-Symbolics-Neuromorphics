@@ -7,7 +7,7 @@
 
 - [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) IOS Press, 2021.
 
-- [Compendium of Neurosymbolic AI,](https://ebooks.iospress.nl/volume/compendium-of-neurosymbolic-artificial-intelligence), IOS Press, 2023.
+- [Compendium of Neurosymbolic AI](https://ebooks.iospress.nl/volume/compendium-of-neurosymbolic-artificial-intelligence), IOS Press, 2023.
   
 - [Cellular Neural Networks](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1), Springer, 2003.
 
