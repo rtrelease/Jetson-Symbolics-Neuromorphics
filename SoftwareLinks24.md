@@ -12,10 +12,14 @@
 
  - OpenJDK -  sudo apt install default-jdk 
 
- - Protege - download site: 
+ - Protege - download site: https://protege.stanford.edu/software.php
 
  - Arduino IDE -
 
  - CircuitPython -
 
- - 
+ - Jupyter base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
+
+ - -
+
+ - -
