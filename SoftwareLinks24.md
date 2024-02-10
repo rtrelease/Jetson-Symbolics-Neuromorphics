@@ -24,12 +24,8 @@
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
-
-
-
 **Cellular Automata**
 
  - *Golly* - Game of Life automata app: sudo apt-get -y install golly
 
 
-**Automata Networks**
