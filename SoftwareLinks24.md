@@ -14,7 +14,7 @@
  
 **Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Orin base software**
 
- - *OpenJDK* -  *sudo apt install default-jdk*
+ - *OpenJDK* Java Base -  *sudo apt install default-jdk*
 
  - *Protege* Ontology Editor Desktop - platform independent download site: https://protege.stanford.edu/software.php
 
