@@ -14,7 +14,7 @@
  
 **Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Orin base software**
 
- - *OpenJDK* -  sudo apt install default-jdk 
+ - *OpenJDK* -  *sudo apt install default-jdk*
 
  - *Protege* Ontology Editor Desktop - platform independent download site: https://protege.stanford.edu/software.php
 
@@ -29,10 +29,10 @@
 
 **Cellular Automata**
 
- - *Golly* - Game of Life automata app: sudo apt-get -y install golly
+ - *Golly* - Game of Life automata app: *sudo apt-get -y install golly*
 
-**Scientific Mathematics Programming Language**
+**Scientific Programming Language** - MatLab compatible
 
- - *GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:               sudo apt install octave
+ - *GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:    *sudo apt install octave*
 
 
