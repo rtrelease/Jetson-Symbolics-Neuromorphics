@@ -6,8 +6,8 @@ A single 'generic' 150 mm 2020 'Euro V Rail' (20 mm) is bracketed to the top rai
 
 The 'NATO' standard rail 1/4" + 3/8" threaded quick release clamps and 'adjustable friction power articulating magic arm' with 1/4" thread are from Small Rig.
 
-
-##### - *Left:* AGX Orin "Doer" works on Circuit Python programming for Adafruit MCUs, with Circuit Playground Express (CPX) running cyan LED scanner code; - *Center:* AGX Orin "Thinker" rests with webcam; - *Right:* Doer screen showing GEDIT code.py for LED animation control and the USB mounted CPX folder window. 
+~ ~ ~
+##### - *Left:* AGX Orin "Doer" works on Circuit Python programming for Adafruit MCUs, with Circuit Playground Express (CPX) running cyan LED scanner code; - *Center:* AGX Orin "Thinker" rests with webcam; - *Right:* Doer screen showing GEDIT working on code.py for LED animation control and the USB mounted CPX microdrive folder window. 
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/750dd15e-d671-41a7-afeb-0b4bc8fe4258)
 
 ==>[AGX Xavier Dev Kit A/V Exoskeleton](https://github.com/rtrelease/Jetson-Symbolics/blob/main/NS-SOTA-2021.md)
