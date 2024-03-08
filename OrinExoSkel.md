@@ -6,5 +6,8 @@ A single 'generic' 150 mm 2020 'Euro V Rail' (20 mm) is bracketed to the top rai
 
 The 'NATO' standard rail 1/4" + 3/8" threaded quick release clamps and 'adjustable friction power articulating magic arm' with 1/4" thread are from Small Rig.
 
-![image](https://user-images.githubusercontent.com/71346897/199114648-1add2491-efd3-4e05-8f1f-0130d5086735.jpeg)
+
+##### Left: AGX Orin "Doer" works on M0/M4 Circuit Python programming 
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/750dd15e-d671-41a7-afeb-0b4bc8fe4258)
+
 ==>[AGX Xavier Dev Kit A/V Exoskeleton](https://github.com/rtrelease/Jetson-Symbolics/blob/main/NS-SOTA-2021.md)
