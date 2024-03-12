@@ -2,7 +2,7 @@
 
 ### Extending the Jetson Python environment for programming, control and data acquisition with CircuitPython and ARM microcontrollers
 
-Previous AI Lab Notes covered using AGX Orin with USB-interfaced AVR (Arduino) and ARM Cortex M [microcontroller boards for edge-based modeling, neuromorphic simulation,](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and process control applications.
+Previous AI Lab Notes covered using AGX Orin with USB-interfaced AVR (Arduino) and ARM Cortex M [microcontroller boards for edge-based modeling, neuromorphic simulation,](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md), data acquisition and process control applications.
 
 Initial efforts focused on [integrating the latest legacy Arduino IDE Java app](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) with the aarch64 Ubuntu-based Linux for Jetson (L4J) operating system environment.  
 
