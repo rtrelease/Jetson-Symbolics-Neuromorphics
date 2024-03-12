@@ -64,7 +64,6 @@ Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/73927b34-f661-4495-bc85-d068cac08db9)
 
 
-
 #### A simplified GEdit and *screen* serial console CircuitPython MCU working setup
 
 After considering the Thonny and the range of other editors/IDEs, I ended up going with 'hacker-friendly' approach of using a Jetson platform standard editor, GEdit, and the *screen* serial console.
@@ -72,7 +71,7 @@ After considering the Thonny and the range of other editors/IDEs, I ended up goi
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/407afd85-7c0d-4ccb-81f3-04a96f1af9d7)
 
 
-###### Circuit Playground Express running the Scanner subroutine in a modified Bike Scanner *code.py*.
+###### Circuit Playground Express running the *cylonic* Scanner subroutine in a modified Bike Scanner *code.py*.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/bbe3c711-bbe0-4b94-af3a-f5c4d6c3d8d7)
 
 
