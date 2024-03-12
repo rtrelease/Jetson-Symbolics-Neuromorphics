@@ -66,7 +66,7 @@ Sahil Ramani has provided a very useful [guide](https://www.sahilramani.com/2021
 
 #### A simplified GEdit and *screen* serial console CircuitPython MCU working setup
 
-After considering the Thonny and the range of other editors/IDEs, I ended up going with the 'hacker-friendly' approach of using a Jetson platform standard editor, GEdit, and the *screen* serial console.
+After considering Thonny and the range of other editors/IDEs, I ended up going with the 'hacker-friendly' approach of using a Jetson platform standard editor, GEdit, and the *screen* serial console.
 ###### Circuit Playground Express (M0+) in CircuitPython REPL mode with all LEDs on #00FFFFFF white
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/407afd85-7c0d-4ccb-81f3-04a96f1af9d7)
 
