@@ -71,7 +71,7 @@ After considering Thonny and the range of other editors/IDEs, I ended up going w
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/407afd85-7c0d-4ccb-81f3-04a96f1af9d7)
 
 
-###### Circuit Playground Express running the *cylonic* Scanner subroutine in a modified Bike Scanner *code.py*.
+###### Circuit Playground Express running the *cylonic* Scanner subroutine in a modified Bike Light *code.py*.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/bbe3c711-bbe0-4b94-af3a-f5c4d6c3d8d7)
 
 
