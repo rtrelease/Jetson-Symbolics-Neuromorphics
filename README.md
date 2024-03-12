@@ -21,14 +21,15 @@
  15. [**ARM Cortex M0+ analog spiking neocortical microcircuit modeling with M4F hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
  16. **Functional characteristics of local modules in microcontroller-based neocortical microcircuit models:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
  17. [Hybrid Controller - Analog synaptic programming interface design](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
- 18. [**2024 Compendium of references and compatible open source software links for the Jetson AGX Orin**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/SoftwareLinks24.md)
- 19. [***Edge lab tools for teaching AI basics, computer vision, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
- 20. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
- 21. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
- 22. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
- 23. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
- 24. **Parse this: Reifying *neuromorpho-symbolic AI***
- 25. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
+ 18. [**Integration of Circuit Python microcontrollers into the Jetson AGX Orin lab computing development environment**]
+ 19. [**2024 Compendium of references and compatible open source software links for the Jetson AGX Orin**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/SoftwareLinks24.md)
+ 20. [***Edge lab tools for teaching AI basics, computer vision, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
+ 21. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
+ 22. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
+ 23. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
+ 24. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 25. **Parse this: Reifying *neuromorpho-symbolic AI***
+ 26. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  27. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  28. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
  29. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
