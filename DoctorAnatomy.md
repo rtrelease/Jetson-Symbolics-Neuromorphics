@@ -6,7 +6,7 @@
 
 [Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked [publications](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) have covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
 
-Having been a research university developer through prior decades of *symbolic* AI -- with their emphases on expert knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly (re)defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
+Having been a research university neuroscientist and developer through prior decades of *symbolic* AI -- with their emphases on expert knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly (re)defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
 
 And no, current DNNs aren't really "neural" or fundamentally inspired by deep knowledge of human brain functional anatomy, BUT [***eppur si muove***](https://en.m.wikipedia.org/wiki/And_yet_it_moves), they work and do some remarkable computing tasks! 
 
