@@ -38,7 +38,7 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 ***Figure 1.*** Some fair responses to questions on cardiac anatomy and innervation in the initial Jetson Chatbot (localhost) session.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/90e79657-820c-465f-be94-d26098840e51)
 
-***Figure 2.*** Localhost *LLama-2-7B-Chat* **web UI** on FireFox (l) and the Stanford Protege ontology application (r) accessing The Foundational Model of Anatomy (FMA.owl) ontology concurrently on the AGX Orin host
+***Figure 2.*** Localhost *LLama-2-7B-Chat* **web UI** on FireFox (l) and the Stanford Protege ontology application (r) accessing The Foundational Model of Anatomy (FMA.owl) ontology concurrently on the AGX Orin host.  Doctor Anatomy wrongly attributes FMA creation to the American Association of Anatomists and misstates the proper functional organization.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
@@ -48,5 +48,9 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 
 ***Figure 4.*** In yet another later AGX Orin localhost session, the chatbot prevaricates more on FMA and Cornelius Rosse's roles, while Protege displays the FMA editor and creator metadata 
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/65992b63-e099-4ba1-b4af-cb8b1dfbc47e)
+
+...
+
+*Fair disclosure*: The author has been a career member of the American Association of Anatomists, worked extensively with original MySQL and current OWL versions of FMA, and personally interacted with Cornelius Rosse and UWash Structural Informatics Group team members over more than two decades.
 
 *In progress,* to be continued.
