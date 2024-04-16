@@ -39,6 +39,9 @@
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
 <p align="center">
+<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/adb2cb1b-8dde-44e5-940c-9be4f9cba2ac" width=40% height=40% />
+</p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/71346897/190292083-afe25486-1989-405e-b332-a76527964701.png" />  
 <img src="https://user-images.githubusercontent.com/71346897/189025287-12f64115-7108-43a8-b5db-c03ffbf62075.jpeg" /> 
 </p>
