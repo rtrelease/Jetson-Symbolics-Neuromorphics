@@ -8,7 +8,7 @@ Initial efforts focused on [integrating the latest legacy Arduino IDE Java app](
 
 The Arduino IDE on AGX Orin communicated directly with microcontrollers via USB using serial TTY protocol on **/dev/ttyACM0**, and C based program "sketches" could be debugged, compiled, loaded directly into MCU RAM and run. Program process output was directed to the IDE's built-in serial console. IDE processes were simple, convenient, and reliable!
 
-In fact, the ARM Cortex M series MCUs used in our work shipped with CircuitPython (CP) installed for board programming, which could be reversibly 'overwritten' for using Arduino IDE C sketches.
+In fact, the ARM Cortex M series MCUs used in our work also shipped with CircuitPython (CP) installed for board programming, which could be reversibly 'overwritten' for using Arduino IDE C sketches.
 
 However, given the extensive use of well-integrated Python in NVIDIA's Jetson machine learning and computer vision development resource frameworks, it now seemed very worthwhile to evolve new Python - CircuitPython programs to run on the AGX Orin-connected MCUs.
 
