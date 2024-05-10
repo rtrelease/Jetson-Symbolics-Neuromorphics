@@ -28,6 +28,9 @@
 ##### =---> MO+ cortical microcircuits prototype analog 'neurons', compact Series 3: Before synaptic patching
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/165d44a6-abe2-4330-aadd-e40b0c3333d8)
 
+##### =---> Integrated neuromorphic neocortical microcircuit simulator with functional MO+ analog 'neurons' and M4 hybrid controller providing 'thalamic input' pulse trains
+![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/8ca68cfb-155e-4528-a586-5be7a06cf792)
+
 
 
 ##### Gratitude to *Lady Ada*, whose excellent Adafruit hardware designs and dedicated production team have made this all possible!
