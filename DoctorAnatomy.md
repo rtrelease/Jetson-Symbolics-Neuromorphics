@@ -42,7 +42,7 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/c1c02ff9-6f30-41f5-b4be-a279a273764e)
 
 
-***Figure 3.*** In another later iPad wifi session, the chatbot prevaricates further on who developed The Foundational Model of Anatomy and obfuscates the proper role of principal investigator and leading contributor Cornelius Rosse.
+***Figure 3.*** In another later iPad wifi session, the chatbot prevaricates further on who developed the Foundational Model of Anatomy and obfuscates the proper role of principal investigator and leading contributor Cornelius Rosse.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/021c93c8-74c2-488d-8e33-adf68bb33eea)
 
 
