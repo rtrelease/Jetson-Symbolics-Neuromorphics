@@ -10,30 +10,30 @@
  4. [Research Reviews](https://github.com/rtrelease/Jetson-Symbolics/blob/main/NS-SOTA-2021.md) -- [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) IOS Press, 2021.  [Compendium of Neurosymbolic AI,](https://ebooks.iospress.nl/volume/compendium-of-neurosymbolic-artificial-intelligence) IOS Press, 2023.
  5. [***Gedankenexperiment 1:***](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Onto1.md) **Ontologies** for semantic linking with deep neural network identifications of neuroanatomical structures in brain magnetic resonance images
  6. **[Integrating](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Monai0.md) [MONAI](https://monai.io/index.html) [imaging:](https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/brats_segmentation_3d.ipynb)** Adding a new OSS build chain for *neurosymbolic fusion*
- 8. **Beyond artificial 'neural networks':** Adding [**neuromorphic computing**](https://arxiv.org/pdf/2105.05956.pdf) capabilities
- 9. [Biological neurons](https://neuroml-db.org/gallery) as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html): Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models 
- 10. **[Controlling dynamic *neuronal* modeling hardware:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)** Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling - [*Autumn-Winter 2023 updates*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AnalogNeuron0.md)
- 11.  [**2022 Holidays break reading and homework**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
- 12. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
- 13. [**Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/GameOfLife.md) 
- 15. [**ARM Cortex M0+ analog spiking neocortical microcircuit modeling with M4F hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
- 16. **Functional characteristics of local modules in microcontroller-based neocortical microcircuit models:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
- 17. [Hybrid Controller - Analog synaptic programming interface design](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
- 18. [**Integration of Circuit Python microcontrollers into the Jetson AGX Orin lab computing development environment**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Orin-CircuitPython.md)
- 19. [*2024 Compendium of references and compatible open source software links for the Jetson AGX Orin*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/SoftwareLinks24.md)
- 20. [***Edge lab tools for teaching AI/CV basics, physical computing, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
- 21. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
- 22. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
- 23. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
- 24. *Reevaluating Python-based DNN and neuromorphic simulations with* [*Nengo*](https://github.com/nengo/nengo)
- 25. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
- 28. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
- 29. **Parse this: Reifying *neuromorpho-symbolic AI***
- 30. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
- 31. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
- 32. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 33. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
- 34. **LXXIII and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
+ 7. **Beyond artificial 'neural networks':** Adding [**neuromorphic computing**](https://arxiv.org/pdf/2105.05956.pdf) capabilities
+ 8. [Biological neurons](https://neuroml-db.org/gallery) as networked [analog computers](https://www.degruyter.com/document/doi/10.1515/9783110787740/html): Thinking analog for new realtime hybrid [neuromorphic processing](https://the-analog-thing.org/docs/dirhtml/rst/applications/hindmash_rose_neuron/spiking_neuron/) models 
+ 9. **[Controlling dynamic *neuronal* modeling hardware:](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino.md)** Gearing up for Arduino microcontrollers and all [**THAT**](https://the-analog-thing.org/wiki/) analog modeling - [*Autumn-Winter 2023 updates*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AnalogNeuron0.md)
+ 10.  [**2022 Holidays break reading and homework**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/2022HolidayReading.md) - - Analog and hybrid computing, controllers, and the Grand Central Express to Jupyter (NeuroSim Notebooks)
+ 11. [**Sorting the IDEs**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Arduino2.md) of MCUs, from *AVRs* to *ARMs*
+ 12. [**Cellular automata, Turing machines, and the *Game of Life* with Jetson CLIPS**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/GameOfLife.md) 
+ 13. [**ARM Cortex M0+ analog spiking neocortical microcircuit modeling with M4F hybrid controller**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/M4_Controller-CorticalMicrocircuitLayout.md) and AGX Orin DK simulation programming
+ 14. **Functional characteristics of local modules in microcontroller-based neocortical microcircuit models:**  [Cellular neural networks theory revisited](https://link.springer.com/chapter/10.1007/978-94-017-0261-4_1)
+ 15. [Hybrid Controller - Analog synaptic programming interface design](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
+ 16. [**Integration of Circuit Python microcontrollers into the Jetson AGX Orin lab computing development environment**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Orin-CircuitPython.md)
+ 17. [*2024 Compendium of references and compatible open source software links for the Jetson AGX Orin*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/SoftwareLinks24.md)
+ 18. [***Edge lab tools for teaching AI/CV basics, physical computing, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
+ 19. **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
+ 20. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
+ 21. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
+ 22. *Reevaluating Python-based DNN and neuromorphic simulations with* [*Nengo*](https://github.com/nengo/nengo)
+ 23. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
+ 24. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 25. **Parse this: Reifying *neuromorpho-symbolic AI***
+ 26. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
+ 27. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
+ 28. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
+ 29. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling Tools
+ 30. **LXXIII and counting**: Neurosymbolic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
