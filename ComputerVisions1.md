@@ -25,6 +25,6 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container debut on AGX Orin 64: *Stable Diffusion* >** *"Mondrian painting of Siamese cat sitting on a table next to a bowl of fruit"*
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/3ed34264-fdc3-49b9-8396-e4012545da64)
 
-**Analog-hybrid generative audio production system circa 2017
+**Analog-hybrid generative audio production system circa 2017**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/1af1fcb4-e99f-4406-89a1-e860be3085ec)
 
