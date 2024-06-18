@@ -6,7 +6,7 @@ As previously noted, Adafruit has recommended using the open source Python Mu Ed
 
 The various Mu installation instructions emphasized Windows, Mac, and standard Linux (amd64) host platforms, but no specifics about ARM64/aarch64 platforms.
 
-Online Mu documentation listed several different Linux alternatives, including GitHub source Python3 compilation, pip3 dedicated enviroment and apt installs.
+Online Mu documentation listed several different Linux alternatives, including GitHub source Python3 compilation, pip3 dedicated environment and apt installs.
 
 As with prior projects, I tried a vanilla Ubuntu 20.04 apt install on my Xeon RTX workstation, but it proved to be very unstable.  The other alternatives were considered, but none proved satisfactory.
 
