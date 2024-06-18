@@ -21,7 +21,7 @@ on the AGX Orin.  It simply worked and was stabile!
 
 The Mu Editor IDE supports standard Python code and highlighted code-checking, as well as CircuitPython serial communications, REPL access, and data plotting extensions.  
 
-After setting the editor for CircuitPython, it was very easy to cut and paste online code for a [Circuit Playground Express LED plethymograph pulse detector project](https://cdn-learn.adafruit.com/downloads/pdf/make-it-pulse.pdf).
+After setting the Editor for CircuitPython, it was very easy to cut and paste online code for a [Circuit Playground Express LED plethymograph pulse detector project](https://cdn-learn.adafruit.com/downloads/pdf/make-it-pulse.pdf).
 The code-checking even conveniently caught some inadvertent source cut-and-paste UniCode translation errors.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
