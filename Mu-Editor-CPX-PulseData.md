@@ -4,7 +4,7 @@
 
 As previously noted, Adafruit has recommended using the open source Python Mu Editor with its CircuitPython enabled MCU boards, like the Grand Central M4 Express, Metro M4 Express, and Circuit Playground Express (M0+).  
 
-The various Mu installation instructions emphasize Windows, Mac, and standard Linux (amd64) host platforms, but no specifics about ARM64/aarch64 platforms.
+The various Mu installation instructions emphasized Windows, Mac, and standard Linux (amd64) host platforms, but no specifics about ARM64/aarch64 platforms.
 
 Online Mu documentation listed several different Linux alternatives, including GitHub source Python3 compilation, pip3 dedicated enviroment and apt installs.
 
