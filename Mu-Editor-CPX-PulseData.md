@@ -25,4 +25,4 @@ After setting the editor for CircuitPython, it was very easy to cut and paste on
 The code-checking even conveniently caught some inadvertent source cut-and-paste UniCode translation errors.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
-After many weeks working on Jetson + CircuitPython ARM32 microcontroller development, it only took a few hours to produce a practical application showing the AGX Orin's capabilies for controlling additional USB-based laboratory data acquisition and control subsystems.
+So after many weeks working on Jetson + CircuitPython ARM32 microcontroller development, it only took a few more hours to produce a practical application showing the AGX Orin's capabilities for controlling additional USB-based laboratory data acquisition and control subsystems.
