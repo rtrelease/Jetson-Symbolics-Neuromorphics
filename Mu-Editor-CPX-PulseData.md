@@ -8,7 +8,7 @@ The various Mu installation instructions emphasized Windows, Mac, and standard L
 
 Online Mu documentation listed several different Linux alternatives, including GitHub source Python3 compilation, pip3 dedicated environment and apt installs.
 
-As with prior projects, I tried a vanilla Ubuntu 20.04 apt install on my Xeon RTX workstation, but it proved to be very unstable.  The other alternatives were considered, but none proved satisfactory.
+As with prior projects, I tried a vanilla Ubuntu 20.04 apt install on my Xeon RTX workstation, but it proved to be very unstabile.  The other alternatives were considered, but none proved satisfactory.
 
 In further investigating the [Mu-Editor GitHub site](https://github.com/mu-editor/mu/releases), it was finally noted that a Debian standard *Mu Editor x86-64 appimage* was made available in response to user requests.  This turned out to provide a very stabile Mu Editor installation on the Ubuntu 20.04 Xeon RTX workstation.
 
