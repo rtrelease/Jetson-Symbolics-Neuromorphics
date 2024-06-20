@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-### Mu Editor installation update and finger plethysmograph pulse rate data acquisition with an ARM M0+ CircuitPlayground Express
+### Mu Editor installation update and finger plethysmograph pulse rate data acquisition with an ARM M0+ Circuit Playground Express
 
 As previously noted, Adafruit has recommended using the open source Python Mu Editor with its CircuitPython enabled MCU boards, like the Grand Central M4 Express, Metro M4 Express, and Circuit Playground Express (M0+).  
 
