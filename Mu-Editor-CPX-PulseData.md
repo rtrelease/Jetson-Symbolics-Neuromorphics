@@ -24,7 +24,7 @@ The Mu Editor IDE supports standard Python code and highlighted code-checking, a
 After setting the Editor Mode for CircuitPython, it was very easy to cut and paste online code for a USB connected [Circuit Playground Express LED finger plethysmograph pulse detector project](https://cdn-learn.adafruit.com/downloads/pdf/make-it-pulse.pdf).
 The Mu code-checking even conveniently caught some inadvertent source cut-and-paste UniCode translation errors.
 
-Having used plethysmography many times during my behavioral neurophysiology research, I was very impressed with the stability of the basic Circuit Playground light sensor and LED signal design, CircuitPython processing and display with Mu Editor.
+Having used plethysmography many times during my behavioral neurophysiology research, I was very impressed with the stability of the basic Circuit Playground light sensor and LED signal design, the CircuitPython processing and display with Mu Editor.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
 So after many weeks working on Jetson + CircuitPython ARM32 microcontroller development, it only took a few more hours to produce a practical application showing the AGX Orin's capabilities for controlling additional USB-based laboratory data acquisition and control subsystems.
