@@ -27,4 +27,4 @@ The Mu code-checking even conveniently caught some inadvertent source cut-and-pa
 Having used plethysmography many times during my behavioral neurophysiology research, I was very impressed with the stability of the basic Circuit Playground light sensor and LED signal design, the CircuitPython processing and display with Mu Editor.
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
-So after many weeks working on Jetson + CircuitPython ARM32 microcontroller development, it only took a few more hours to produce a practical application showing the AGX Orin's capabilities for controlling additional USB-based laboratory physiological data acquisition and control subsystems.
+So after many weeks working on Jetson + CircuitPython ARM32 microcontroller development, it only took a few more hours to produce a practical application showing the AGX Orin's capabilities for controlling additional USB-based laboratory physiological data acquisition subsystems.
