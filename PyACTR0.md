@@ -2,6 +2,8 @@
 
 #### ***Cognitive modeling on Jetson with ACT-R***
 
+[*Cognitive modeling on Jetson with ACT-R* - Springer Open PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf)
+
 ![image](https://github.com/user-attachments/assets/d023b0a4-c845-4d44-8c43-3658decda22c)
 
 Download *Cognitive Modeling* book zip archive at https://github.com/abrsvn/pyactr-book 
