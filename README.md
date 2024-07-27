@@ -23,7 +23,7 @@
  17. [*2024 Compendium of references and compatible open source software links for the Jetson AGX Orin*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/SoftwareLinks24.md)
  18. [***Edge lab tools for teaching AI/CV basics, physical computing, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
  19. ***Jetson RBTX: Lab microcontroller and robotic data systems development***
- 20. **[Cognitive modeling with ACT-R](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf) - Python resources for neurosymbolics**
+ 20. **[Cognitive modeling with ACT-R](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf) - [Python resources for neurosymbolics](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/PyACTR0.md)**
  21.  **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
  22. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
  23. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
