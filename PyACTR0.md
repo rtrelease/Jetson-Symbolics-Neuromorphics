@@ -1,8 +1,12 @@
-Cognitive modeling on Jetson with ACT-R
+## <u>AI Lab Notes</u>
+
+#### ***Cognitive modeling on Jetson with ACT-R***
 
 ![image](https://github.com/user-attachments/assets/d023b0a4-c845-4d44-8c43-3658decda22c)
 
-Download *Cognitive Modeling* book zip archive at https://github.com/abrsvn/pyactr-book unzip to ~home directory.  cd pyactr-book-master and launch jupyter lab
+Download *Cognitive Modeling* book zip archive at https://github.com/abrsvn/pyactr-book 
+unzip to ~home directory.  
+cd pyactr-book-master and launch jupyter lab
 
 ![image](https://github.com/user-attachments/assets/9dc00856-c62f-4e96-be8e-85f0fbed6b8d)
 
