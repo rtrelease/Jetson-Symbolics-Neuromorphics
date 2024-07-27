@@ -3,7 +3,7 @@
 #### ***Cognitive modeling on Jetson with ACT-R - Python resources***
 
 
-[*Computational Cognitive Modeling and Linguistics* - Springer Open PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf)
+[*Computational Cognitive Modeling and Linguistic Theory* - Springer Open PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf)
 
 Pip3 install pyactr:
 ![image](https://github.com/user-attachments/assets/d023b0a4-c845-4d44-8c43-3658decda22c)
