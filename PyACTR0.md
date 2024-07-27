@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### ***Cognitive modeling on Jetson with ACT-R***
+#### ***Cognitive modeling on Jetson with ACT-R - Python resources***
 
 [*Cognitive modeling on Jetson with ACT-R* - Springer Open PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf)
 
