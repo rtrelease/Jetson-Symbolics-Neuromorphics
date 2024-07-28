@@ -19,3 +19,7 @@ Executing pyactr code modules from Jupyter Lab pages:
 
 Local execution of Stable Diffusion and pyactr sessions via separate ports on AGX Orin 64G:
 ![image](https://github.com/user-attachments/assets/510073cb-a57b-47cf-a96d-e3f20d84650b)
+
+Local execution of LLaMa2 7B chatbot and pyactr sessions via separate ports on AGX Orin 64G:
+![image](https://github.com/user-attachments/assets/ed715cf6-5317-4e7e-aad0-b4850e4d1eef)
+
