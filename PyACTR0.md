@@ -16,3 +16,4 @@ cd pyactr-book-master and launch jupyter lab .
 
 ![image](https://github.com/user-attachments/assets/7ac46464-fe8e-449d-9ee1-b62a4b9b28e3)
 
+![image](https://github.com/user-attachments/assets/510073cb-a57b-47cf-a96d-e3f20d84650b)
