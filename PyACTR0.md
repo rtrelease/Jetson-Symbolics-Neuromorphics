@@ -17,5 +17,5 @@ cd pyactr-book-master and launch jupyter lab.
 Executing pyactr code modules from Jupyter Lab pages:
 ![image](https://github.com/user-attachments/assets/7ac46464-fe8e-449d-9ee1-b62a4b9b28e3)
 
-Local execution of Stable Diffusion and pyactr code sessions via separate ports on AGX Orin 64G:
+Local execution of Stable Diffusion and pyactr sessions via separate ports on AGX Orin 64G:
 ![image](https://github.com/user-attachments/assets/510073cb-a57b-47cf-a96d-e3f20d84650b)
