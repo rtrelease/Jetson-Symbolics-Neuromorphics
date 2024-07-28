@@ -8,7 +8,7 @@
 Pip3 install pyactr:
 ![image](https://github.com/user-attachments/assets/d023b0a4-c845-4d44-8c43-3658decda22c)
 
-Get *Cognitive Modeling* book zip archive at https://github.com/abrsvn/pyactr-book.
+Get the *Cognitive Modeling* book zip archive at https://github.com/abrsvn/pyactr-book.
 Clone or unzip to ~home directory.  
 cd pyactr-book-master and launch jupyter lab.
 
