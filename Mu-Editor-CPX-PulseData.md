@@ -28,3 +28,6 @@ Having used plethysmography many times during my behavioral neurophysiology rese
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
 So after many weeks working on Jetson + CircuitPython ARM32 microcontroller development, it only took a few more hours to produce a practical application showing the AGX Orin's capabilities for controlling additional USB-based laboratory physiological data acquisition subsystems.
+
+Moving on to BLE heart rate monitoring on Adafruit Clue nrf52840 (M4) microcontroller:
+![image](https://github.com/user-attachments/assets/f170a46a-bfcd-49a8-bfff-f32ea9be90cc)
