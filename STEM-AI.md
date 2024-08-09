@@ -15,6 +15,9 @@
 
 **6 ARM microcontrollers + Jetson AGX Orin:** Supporting Circuit Python programming for robotics, interactive IO and display processing ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/dffa6b09-f290-4707-97e9-138c72b05be8)
 
+![image](https://github.com/user-attachments/assets/9402d259-c99a-4d34-89cc-6c115ada0b9e)
+
+
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6a5617d1-ce6b-4b43-9eda-38804a3338a3" width=20% height=20% />
 </p>
