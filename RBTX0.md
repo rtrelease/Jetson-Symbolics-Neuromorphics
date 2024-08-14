@@ -16,7 +16,7 @@ The first set of instruments recorded live heart rate and pulse data to continue
 Orin recording and plotting of fingertip plethymography data from basic CPB LED+sensor
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
-Adafruit Clue (nrf52840) recording from Scoshe BLE heart rate monitor band
+Adafruit Clue (nrf52840) recording from Scoshe BLE wireless heart rate monitor band
 ![image](https://github.com/user-attachments/assets/3ddc7a50-f78d-4304-9a2f-ce9941ac9323)
 
 
