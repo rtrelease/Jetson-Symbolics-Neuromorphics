@@ -2,18 +2,18 @@
 
 #### ***Jetson RBTX: Intelligent lab microcontroller and robotic data systems development***
 
-Jetson systems themselves include multiple sub-processors and provisions for additional external microprocessors including via CANBUS.  
+Jetson systems themselves include multiple sub-processors and provisions for using additional external microprocessors, including via CANBUS.  
 
-Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduino-compatible ARM 32 microcontrollers for hybrid device proces control and neuromorphic simulators.
+Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduino-compatible ARM Cortex M 32 bit microcontrollers for hybrid device proces control and neuromorphic simulators.
 
-Newer Bluetooth Low Energy (BLE) compatible MCUs were put to work as mobile robot controllers and then as data acquisition sub-systems for physiological recording. 
+Newer Bluetooth Low Energy (BLE) compatible MCUs have been put to work as mobile robot controllers and then as data acquisition sub-systems for physiological recording. 
 
 Left, Adafruit CircuitPlayground Bluefruit (CPB; Nordic nrf52840 M4) and SD logger
 ![image](https://github.com/user-attachments/assets/1dbb6414-f6ad-43e0-a9c1-d8fb5c1c0a96)
 
 The first set of instruments recorded live heart rate and pulse data to continue prior behavioral neurophysiology research on heart rate and rhythm control.
 
-Orin recording and plotting of fingertip plethymography data from standard CPB LED
+Orin recording and plotting of fingertip plethymography data from basis CPB LED+sensor
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
 
