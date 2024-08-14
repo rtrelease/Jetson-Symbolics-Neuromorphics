@@ -4,7 +4,7 @@
 
 Jetson systems themselves include multiple sub-processors and provisions for additional external microprocessors including via CANBUS.  
 
-Previous Lab Notes have covered the use of Orin-programmed connected and hosted Arduino-compatible ARM microcontrollers for hybrid device proces control and neuromorphic simulators.
+Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduino-compatible ARM microcontrollers for hybrid device proces control and neuromorphic simulators.
 
 
 
