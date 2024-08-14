@@ -4,7 +4,7 @@
 
 Jetson systems themselves include multiple sub-processors and provisions for using additional external microprocessors, including via CANBUS.  
 
-Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduino-compatible ARM Cortex M 32 bit microcontrollers for hybrid device proces control and neuromorphic simulators.
+Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduino-compatible ARM Cortex M 32 bit microcontrollers for hybrid device proces control and neuromorphic simulators. CircuitPython has become the primary programming language.
 
 Newer Bluetooth Low Energy (BLE) compatible MCUs have been put to work as mobile robot controllers and then as data acquisition sub-systems for physiological recording. 
 
