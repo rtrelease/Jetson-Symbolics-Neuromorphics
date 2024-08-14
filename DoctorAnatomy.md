@@ -4,7 +4,7 @@
 
 ##### Current Context
 
-[Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked [publications](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) have covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
+[Earlier AI Lab Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Onto1.md) and linked [publications](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) covered legacy symbolic programming approaches to anatomical reasoning prior to the rise of deep neural networks (DNNs).  
 
 Having been a research university neuroscientist and developer through prior decades of *symbolic* AI -- with their emphases on expert knowledge bases, ontologies, logical inference engines, and explanability of inferential logic -- there were some more recent moments of cognitive dissonance on seeing DNN output processes newly (re)defined as [*inferences*](https://research.ibm.com/blog/AI-inference-explained).
 
