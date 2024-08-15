@@ -8,7 +8,7 @@ Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduin
 
 Newer Bluetooth Low Energy (BLE) compatible multi-sensor MCUs have been put to work as mobile robot controllers and then as data acquisition sub-systems for physiological recording. 
 
-Left, Adafruit CircuitPlayground Bluefruit (CPB; Nordic nrf52840 M4) on Crickit robotic drivers board; right, standalone SD logger for CPB
+Left, Adafruit CircuitPlayground Bluefruit (CPB; Nordic nrf52840 M4) on Crickit robotic drivers board; right, standalone SD logger on CPB
 ![image](https://github.com/user-attachments/assets/1dbb6414-f6ad-43e0-a9c1-d8fb5c1c0a96)
 
 The first set of instruments recorded live pulse and heart rate data for continuing prior behavioral neurophysiology research on heart rate and rhythm control.
