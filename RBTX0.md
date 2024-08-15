@@ -21,3 +21,5 @@ Adafruit Clue (nrf52840) recording from Scoshe BLE wireless heart rate monitor b
 
 Clue with Crickit, CPB with SD logger, and Feather Bluefruit Sensor MCU with LCD panel displaying scans of all built-in sensors common to these nrf52840 boards
 ![image](https://github.com/user-attachments/assets/eec72879-aad0-4d5b-964b-f24d917cf5af)
+
+With light, color, proximetry, temperature, 3-axis accelerometry, gyroscopic, sound,  and magnetic sensing, and motor control outputs these MCU boards fit well into the 'silicon brainstem' metaphor for robotics designs.
