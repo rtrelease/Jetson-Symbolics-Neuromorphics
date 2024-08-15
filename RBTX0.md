@@ -11,7 +11,7 @@ Newer Bluetooth Low Energy (BLE) compatible multi-sensor MCUs have been put to w
 Left, Adafruit CircuitPlayground Bluefruit (CPB; Nordic nrf52840 M4) on Crickit robotic drivers board; right, SD logger for CPB
 ![image](https://github.com/user-attachments/assets/1dbb6414-f6ad-43e0-a9c1-d8fb5c1c0a96)
 
-The first set of instruments recorded live pulse and heart rate data to continue prior behavioral neurophysiology research on heart rate and rhythm control.
+The first set of instruments recorded live pulse and heart rate data for continuing prior behavioral neurophysiology research on heart rate and rhythm control.
 
 Orin recording and plotting of fingertip plethymography data from basic CPB LED+sensor
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
