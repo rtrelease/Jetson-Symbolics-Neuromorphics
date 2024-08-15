@@ -6,7 +6,7 @@ Jetson systems themselves incorporate multiple sub-processors and provisions for
 
 Previous Lab Notes have covered the use of Orin-programmed and USB-hosted Arduino-compatible ARM Cortex M series 32 bit microcontrollers for hybrid device process control and neuromorphic simulators. CircuitPython has become their primary programming language.
 
-Newer Bluetooth Low Energy (BLE) compatible multi-sensor MCUs have been put to work as mobile robot controllers and then as data acquisition sub-systems for physiological recording. 
+Newer Bluetooth Low Energy (BLE) compatible multi-sensor MCUs have also been put to work as mobile robot controllers and then as data acquisition sub-systems for physiological recording. 
 
 Left, Adafruit CircuitPlayground Bluefruit (CPB; Nordic nrf52840 M4) on Crickit robotic drivers board; right, standalone SD logger on CPB
 ![image](https://github.com/user-attachments/assets/1dbb6414-f6ad-43e0-a9c1-d8fb5c1c0a96)
