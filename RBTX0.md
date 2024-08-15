@@ -13,7 +13,7 @@ Left, Adafruit CircuitPlayground Bluefruit (CPB; Nordic nrf52840 M4) on Crickit 
 
 The first set of instruments recorded live pulse and heart rate data for continuing prior behavioral neurophysiology research on heart rate and rhythm control.
 
-Orin recording and plotting of fingertip plethymography data from basic CPB LED+sensor
+Orin recording and plotting of fingertip *plethymography* data from basic CPB LED+sensor
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/d1efbbcb-2319-44e4-9c71-8907daa23c82)
 
 Adafruit Clue (nrf52840) recording from Scoshe BLE wireless heart rate monitor band
