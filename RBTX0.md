@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### ***Jetson RBTX: Intelligent lab microcontroller and robotic data systems development***
+#### ***Jetson RBTX: Intelligent lab microcontrollers and robotic data systems development***
 
 Jetson systems themselves incorporate multiple sub-processors and provisions for using additional external microprocessors, including a CAN bus controller.
 
