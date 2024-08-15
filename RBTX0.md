@@ -19,5 +19,5 @@ Orin recording and plotting of fingertip *plethymography* data from basic CPB LE
 Adafruit Clue (nrf52840) recording from Scoshe BLE wireless heart rate monitor band
 ![image](https://github.com/user-attachments/assets/3ddc7a50-f78d-4304-9a2f-ce9941ac9323)
 
-Clue, CPB, and Feather Blufruit Sensor with LCD panel displaying scans of all built-in sensors common to these nrf52840 boards
+Clue, CPB, and Feather Blufruit Sensor MCU with LCD panel displaying scans of all built-in sensors common to these nrf52840 boards
 ![image](https://github.com/user-attachments/assets/eec72879-aad0-4d5b-964b-f24d917cf5af)
