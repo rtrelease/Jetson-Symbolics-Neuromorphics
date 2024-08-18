@@ -12,6 +12,8 @@ As with prior projects, I tried a vanilla Ubuntu 20.04 apt install on my Xeon RT
 
 In further investigating the [Mu-Editor GitHub site](https://github.com/mu-editor/mu/releases), it was finally noted that a Debian standard *Mu Editor x86-64 appimage* was made available in response to user requests.  This turned out to provide a very stabile Mu Editor installation on the workstation.
 
+[Mu Editor developer documentation](https://mu.readthedocs.io/_/downloads/en/latest/pdf/)
+
 After all this, it seemed possible that an *ARM64 Ubuntu Mu-Editor apt archive* might have been set up, so I tried a simple 
 
 		sudo apt install mu-editor
