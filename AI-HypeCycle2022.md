@@ -6,4 +6,5 @@
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/62c268ef-0326-499e-82e7-fcc7ba83f342)
 [Gartner source](https://www.gartner.com/en/articles/4-emerging-technologies-you-need-to-know-about)
 
-![image](https://github.com/user-attachments/assets/2b22fa15-2643-4072-88ab-04ca76306080)
+![image](https://github.com/user-attachments/assets/07df8106-0fef-44ff-ac99-6e344426c79c)
+
