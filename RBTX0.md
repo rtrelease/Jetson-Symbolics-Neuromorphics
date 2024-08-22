@@ -19,7 +19,17 @@ Orin recording and plotting of fingertip *plethymography* data from basic CPB LE
 Adafruit Clue (nrf52840) recording from Scoshe BLE wireless heart rate monitor band
 ![image](https://github.com/user-attachments/assets/3ddc7a50-f78d-4304-9a2f-ce9941ac9323)
 
-Clue with Crickit, CPB with SD logger, and Feather Bluefruit Sensor MCU with LCD panel displaying scans of all built-in sensors common to these nrf52840 boards
+Clue with Crickit, CPB with SD logger, and Feather Bluefruit Sense MCU with TFT panel displaying scans of all built-in sensors common to these nrf52840 boards
 ![image](https://github.com/user-attachments/assets/eec72879-aad0-4d5b-964b-f24d917cf5af)
 
 With light, color, proximity, temperature, humidity, 3-axis accelerometry, gyroscopic, sound,  barometric pressure, altimetry and magnetic sensing, and motor control outputs, these MCU boards fit well into the 'silicon brainstem' metaphor for robotics designs.
+
+
+Feather Bluefruit Sense with 3.5" TFT Feather Wing interrupting sensor scan program to run CircuitPython REPL, with USB connection to Xeon workstation
+![image](https://github.com/user-attachments/assets/118db4b2-3700-4471-b921-f27358ad2074)
+
+
+Running Dave Astels' CircuitPython *def* function code example using Mu Editor serial connection with Feather Sense
+![image](https://github.com/user-attachments/assets/1dc109ba-8c69-4c25-af16-e476cc8c37a7)
+
+
