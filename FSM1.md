@@ -2,11 +2,10 @@
 
 ### **Finite-State Machine Automata and Neuromorphic Neural Networks**
 
-[An earlier AI Lab note](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GameOfLife.md) took a quick look at cellular automata and running them on Jetson AGX Orin.  
+[An earlier AI Lab note](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GameOfLife.md) took a quick look at [cellular automata](https://plato.stanford.edu/entries/cellular-automata/) and running them on Jetson AGX Orin.  
 
-Because of their deep history in computer sciences and significance to robot and autonomous machine development, we now revisit computational automata in greater detail, especially finite-state machines.
+Because of their deep history in computer sciences and significance to robot and autonomous machine development, we now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines.
 
-https://plato.stanford.edu/entries/cellular-automata/
 
 https://en.m.wikipedia.org/wiki/Automaton
 
