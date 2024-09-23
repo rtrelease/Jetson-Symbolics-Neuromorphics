@@ -2,6 +2,8 @@
 
 ### **Finite-State Machine Automata and Neuromorphic Neural Networks**
 
+https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GameOfLife.md
+
 https://plato.stanford.edu/entries/cellular-automata/
 
 https://en.m.wikipedia.org/wiki/Automaton
