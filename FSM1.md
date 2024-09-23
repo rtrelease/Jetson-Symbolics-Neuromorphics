@@ -3,6 +3,7 @@
 ### **Finite-State Machine Automata and Neuromorphic Neural Networks**
 
 https://plato.stanford.edu/entries/cellular-automata/
+https://en.m.wikipedia.org/wiki/Automata_theory
 
 https://en.m.wikipedia.org/wiki/Finite-state_machine
 
