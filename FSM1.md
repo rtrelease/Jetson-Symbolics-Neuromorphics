@@ -4,6 +4,8 @@
 
 https://plato.stanford.edu/entries/cellular-automata/
 
+https://en.m.wikipedia.org/wiki/Automaton
+
 https://en.m.wikipedia.org/wiki/Automata_theory
 
 https://plato.stanford.edu/entries/church-turing/
