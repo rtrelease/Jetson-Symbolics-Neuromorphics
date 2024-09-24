@@ -4,7 +4,7 @@
 
 [An earlier AI Lab note](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GameOfLife.md) took a quick look at [cellular automata](https://plato.stanford.edu/entries/cellular-automata/) and running them on Jetson AGX Orin.  
 
-We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines because of their deep history in computer sciences and significance to robot and autonomous machine development.
+We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines, because of their deep history in computer sciences and significance to robot and autonomous machine development.
 
 
 https://en.m.wikipedia.org/wiki/Automaton
