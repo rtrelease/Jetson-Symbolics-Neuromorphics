@@ -15,6 +15,14 @@ https://plato.stanford.edu/entries/church-turing/
 
 https://en.m.wikipedia.org/wiki/Finite-state_machine
 
-
-
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
+.
+
+#### Python State Machines on Jetson AGX Orin DK
+
+https://pypi.org/project/python-statemachine/
+
+![image](https://github.com/user-attachments/assets/4f97ce3a-1abe-452b-a8e3-876096116625)
+
+
+
