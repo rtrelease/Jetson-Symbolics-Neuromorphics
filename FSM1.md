@@ -6,9 +6,6 @@
 
 We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines, because of their deep history in computer sciences and significance to robot and autonomous machine development.
 
-
-https://en.m.wikipedia.org/wiki/Automata_theory
-
 https://plato.stanford.edu/entries/church-turing/
 
 https://en.m.wikipedia.org/wiki/Finite-state_machine
