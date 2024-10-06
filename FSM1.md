@@ -22,4 +22,4 @@ https://pypi.org/project/python-statemachine/
 
 #### CircuitPython Finite-State Machines on ARM MCUs and neuromorphic neurons
 
-
+https://cdn-learn.adafruit.com/downloads/pdf/circuitpython-101-state-machines.pdf
