@@ -20,4 +20,6 @@ https://pypi.org/project/python-statemachine/
 ![image](https://github.com/user-attachments/assets/4f97ce3a-1abe-452b-a8e3-876096116625)
 
 
+#### CircuitPython Finite-State Machines on ARM MCUs and neuromorphic neurons
+
 
