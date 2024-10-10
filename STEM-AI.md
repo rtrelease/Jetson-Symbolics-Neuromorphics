@@ -17,6 +17,8 @@
 
 ![image](https://github.com/user-attachments/assets/9402d259-c99a-4d34-89cc-6c115ada0b9e)
 
+![image](https://github.com/user-attachments/assets/c4c8b168-54bd-407c-984f-7ae40805037e)
+
 
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/6a5617d1-ce6b-4b43-9eda-38804a3338a3" width=20% height=20% />
