@@ -33,7 +33,7 @@
    
 **Finite-State Machines**
 
- - https://pypi.org/project/python-statemachine/ : *sudo apt-get -y install python-statemachine*
+ - Python State-machine library pip install: https://pypi.org/project/python-statemachine/ : *sudo pip install python-statemachine*
 
 **Scientific Programming Language** - MatLab compatible
 
