@@ -30,6 +30,10 @@
 **Cellular Automata**
 
  - *Golly* - Game of Life automata app: *sudo apt-get -y install golly*
+   
+**Finite-State Machines**
+
+ - https://pypi.org/project/python-statemachine/ : *sudo apt-get -y install python-statemachine*
 
 **Scientific Programming Language** - MatLab compatible
 
