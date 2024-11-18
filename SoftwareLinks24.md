@@ -39,4 +39,5 @@
 
  - *GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:    *sudo apt install octave*
 
-
+**Large-scale biological neuron network modeling including spiking neurons**
+ - *Nengo* pip install nengo
