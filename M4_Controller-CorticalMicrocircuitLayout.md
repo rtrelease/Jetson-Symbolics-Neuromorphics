@@ -31,6 +31,7 @@
 ##### =---> Integrated neuromorphic neocortical microcircuit simulator with functional MO+ CircuitPython analog 'neurons' and M4 hybrid controller providing 'thalamic input' spike trains
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/8ca68cfb-155e-4528-a586-5be7a06cf792)
 
-
+##### =---> Four module sixteen neuron neocortical microcircuit simulator prototype
+![image](https://github.com/user-attachments/assets/b2d2a272-ee9e-4de6-a967-2fc44c1ba826)
 
 ##### Gratitude to *Lady Ada*, whose excellent Adafruit hardware designs and dedicated production team have made this all possible!
