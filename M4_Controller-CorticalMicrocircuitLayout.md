@@ -34,4 +34,8 @@
 ##### =---> Four module sixteen neuron neocortical microcircuit simulator prototype
 ![image](https://github.com/user-attachments/assets/b2d2a272-ee9e-4de6-a967-2fc44c1ba826)
 
+##### =---> Layer/series of four neocortical.
+![CorticalMicrocircuit0-LayerSeries](https://github.com/user-attachments/assets/0bacbab5-18d8-483e-b652-a7b7a0a4d4a0)
+
+
 ##### Gratitude to *Lady Ada*, whose excellent Adafruit hardware designs and dedicated production team have made this all possible!
