@@ -10,6 +10,13 @@ https://plato.stanford.edu/entries/church-turing/
 
 https://en.m.wikipedia.org/wiki/Finite-state_machine
 
+https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton
+
+https://en.m.wikipedia.org/wiki/Nondeterministic_finite_automaton
+
+https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton
+
+
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
 .
 
