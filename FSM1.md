@@ -4,17 +4,16 @@
 
 [An earlier AI Lab Note](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GameOfLife.md) took a quick look at [cellular automata](https://plato.stanford.edu/entries/cellular-automata/) and running them on Jetson AGX Orin using CLIPS and Golly.  
 
-We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines, because of their deep history in computer sciences and significance to robot and autonomous machine development.
+We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines (FSMs), because of their deep history in computer sciences and significance to robot and autonomous machine development.
+
+A [finite-state automaton](https://en.m.wikipedia.org/wiki/Finite-state_machine) is a theoretical computational model defining an abstract machine that can be in only one of a finite number of functional states at a time.  *Inputs* to the machine evoke defined *transitions* from one state to another.
+
+FSMs can be differentiated into different basic types based on design and functional behaviors.  Two of these are [deterministic](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) and [non-deterministic](https://en.m.wikipedia.org/wiki/Nondeterministic_finite_automaton) finite state automata, which can define equivalent alternative machines.
+
+In a different approach for quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) are quantum analogs of a Markov decision process 
 
 https://plato.stanford.edu/entries/church-turing/
 
-https://en.m.wikipedia.org/wiki/Finite-state_machine
-
-https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton
-
-https://en.m.wikipedia.org/wiki/Nondeterministic_finite_automaton
-
-https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton
 
 
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
