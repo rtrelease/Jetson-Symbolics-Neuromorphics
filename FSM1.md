@@ -14,14 +14,13 @@ In a different approach for modeling quantum computing, [quantum finite automata
 
 Computational automata can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  Automated mathematical problem solving capability is greatest in Turing Machines, and this hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/).
 
-
-
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
-.
 
 #### Python Finite-State Machines on Jetson AGX Orin DK
 
-https://pypi.org/project/python-statemachine/
+State machines can be created in several popular general purpose programming languages, and most relevant to the AI Lab projects is Python.  
+
+[Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive library of FSM-specific objects and functions for Python 3.6+ systems.
 
 ![image](https://github.com/user-attachments/assets/2d8d5e87-7576-4252-8e6c-e321c3454e13)
 
