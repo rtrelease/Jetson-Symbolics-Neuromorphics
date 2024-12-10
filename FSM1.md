@@ -4,7 +4,7 @@
 
 [An earlier AI Lab Note](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GameOfLife.md) took a quick look at [cellular automata](https://plato.stanford.edu/entries/cellular-automata/) and running them on Jetson AGX Orin using CLIPS and Golly.  
 
-We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines (FSMs), because of their deep history in computer sciences and significance to robot and autonomous machine development.
+We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines (FSMs), because of their deep mathematical history in computer sciences and significance to robot and autonomous machine development.
 
 A [finite-state automaton](https://en.m.wikipedia.org/wiki/Finite-state_machine) is a theoretical mathematical computational model defining an abstract machine that can be in only one of a finite number of functional states at a time.  *Inputs* to the machine evoke defined *transitions* from one state to another.
 
