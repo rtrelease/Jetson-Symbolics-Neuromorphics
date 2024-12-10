@@ -12,7 +12,7 @@ FSMs can be differentiated into fundamental types based on design and functional
 
 In a different approach for modeling quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) can use quantum analogs of Markov decision processes for probabilistic triggering of state transitions.
 
-Computational automata can be ranked by their mathematic problem-solving capacity (or "computability") as depicted below.  Automated mathematical problem solving capability is greatest in Turing Machines, and this hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/).
+Computational automata can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  Automated mathematical problem solving capability is greatest in Turing Machines, and this hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/).
 
 
 
