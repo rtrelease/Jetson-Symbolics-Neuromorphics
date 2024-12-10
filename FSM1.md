@@ -6,11 +6,11 @@
 
 We now revisit [computational automata](https://en.m.wikipedia.org/wiki/Automata_theory) in greater detail, especially finite-state machines (FSMs), because of their deep history in computer sciences and significance to robot and autonomous machine development.
 
-A [finite-state automaton](https://en.m.wikipedia.org/wiki/Finite-state_machine) is a theoretical computational model defining an abstract machine that can be in only one of a finite number of functional states at a time.  *Inputs* to the machine evoke defined *transitions* from one state to another.
+A [finite-state automaton](https://en.m.wikipedia.org/wiki/Finite-state_machine) is a theoretical mathematical computational model defining an abstract machine that can be in only one of a finite number of functional states at a time.  *Inputs* to the machine evoke defined *transitions* from one state to another.
 
 FSMs can be differentiated into different basic types based on design and functional behaviors.  Two of these are [deterministic](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) and [non-deterministic](https://en.m.wikipedia.org/wiki/Nondeterministic_finite_automaton) finite state automata, which can define equivalent alternative machines.
 
-In a different approach for quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) are quantum analogs of a Markov decision process for probabilistic triggering of state transitions modeling quantum computing.
+In a different approach for modeling quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) are quantum analogs of a Markov decision process for probabilistic triggering of state transitions.
 
 https://plato.stanford.edu/entries/church-turing/
 
