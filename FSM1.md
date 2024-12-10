@@ -10,9 +10,9 @@ A [finite-state automaton](https://en.m.wikipedia.org/wiki/Finite-state_machine)
 
 FSMs can be differentiated into fundamental types based on design and functional behaviors. Two of these are [deterministic](https://en.m.wikipedia.org/wiki/Deterministic_finite_automaton) and [non-deterministic](https://en.m.wikipedia.org/wiki/Nondeterministic_finite_automaton) finite state automata, which can define equivalent alternative machines.
 
-In a different approach for modeling quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) are quantum analogs of a Markov decision process for probabilistic triggering of state transitions.
+In a different approach for modeling quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) can use quantum analogs of Markov decision processes for probabilistic triggering of state transitions.
 
-Computational automata can be ranked by their mathematic problem-solving capacity
+Computational automata can be ranked by their mathematic problem-solving capacity as depicted below.  Mathematical problem solving capability is greatest in Universal Turing Machines.
 https://plato.stanford.edu/entries/church-turing/
 
 
