@@ -23,7 +23,7 @@ Computational automata can be ranked by their overlapping mathematical problem-s
 
 https://pypi.org/project/python-statemachine/
 
-![image](https://github.com/user-attachments/assets/48d071af-47ae-4e48-a465-5d8a2ce39ec3)
+![image](https://github.com/user-attachments/assets/2d8d5e87-7576-4252-8e6c-e321c3454e13)
 
 
 #### CircuitPython Finite-State Machines on ARM MCUs and neuromorphic neurons
