@@ -20,7 +20,7 @@ Computational automata can be ranked by their overlapping mathematical problem-s
 
 State machines can be created in several popular general purpose programming languages, and most relevant to the AI Lab projects is Python.  
 
-[Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive library of FSM-specific objects and functions for Python 3.6+ systems.
+[Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive library of FSM-specific classes, objects, and functions for Python 3.6+ systems.  Object-oriented methods are most suited for building efficient states and transitions for such autonomous machines.
 
 ![image](https://github.com/user-attachments/assets/2d8d5e87-7576-4252-8e6c-e321c3454e13)
 
