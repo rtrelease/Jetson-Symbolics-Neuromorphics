@@ -29,7 +29,7 @@ State machines can be created in several popular general purpose programming lan
 
 For current AI Lab spiking neurons projects using multiple ARM32 microcontrollers, FSM code is replacing more conventional loops and IO handler functions for autonomous neuromorphic simulations. These MCUs are programmed in CircuitPython using basic builtin IO classes, objects, and functions for states and transition.
 
-CircuitPython developer **adafruit** has provided a helpful comparative learning guide to programming FSMs](https://cdn-learn.adafruit.com/downloads/pdf/circuitpython-101-state-machines.pdf) for a NY-style New Year's Eve dropping ball countdown display controller. 
+CircuitPython developer **adafruit** has provided a helpful comparative [learning guide to programming FSMs](https://cdn-learn.adafruit.com/downloads/pdf/circuitpython-101-state-machines.pdf) for a NY-style New Year's Eve dropping ball countdown display controller. 
 
 Other common PC Python examples for FSM code development focus on autonomous machine controllers for [traffic lights](https://python-statemachine.readthedocs.io/en/latest/readme.html) and [transit turnstiles](https://github.com/cmaugg/pystatemachine).
 
