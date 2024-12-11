@@ -27,7 +27,7 @@ State machines can be created in several popular general purpose programming lan
 
 #### CircuitPython Finite-State Machines on ARM MCUs and neuromorphic neurons
 
-For current AI Lab spiking neurons projects using multiple ARM32 microcontrollers, FSM code is replacing more conventional loops and IO handler functions for autonomous neuromorphic simulations. These MCUs are programmed in CircuitPython using basic builtin IO classes, objects, and functions for states and transition.
+For current AI Lab spiking neurons projects using multiple ARM32 microcontrollers, FSM code is replacing more conventionally programmed loops and IO handler functions for autonomous neuromorphic simulations. These MCUs are programmed in CircuitPython using basic builtin IO classes, objects, and functions for states and transition.
 
 CircuitPython developer **adafruit** has provided a helpful comparative [learning guide to programming FSMs](https://cdn-learn.adafruit.com/downloads/pdf/circuitpython-101-state-machines.pdf) for a NY-style New Year's Eve dropping ball countdown display controller. 
 
