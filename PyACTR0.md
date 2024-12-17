@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### ***Cognitive modeling with ACT-R - Python resources for neurosymbolics on Jetson***
+#### ***Cognitive modeling with ACT-R - More Python resources for neurosymbolics on Jetson***
 
 
 [*Computational Cognitive Modeling and Linguistic Theory* - Springer Open PDF](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf)
