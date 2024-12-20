@@ -39,4 +39,6 @@ https://link.springer.com/chapter/10.1007/978-3-540-27835-1_18
 
 https://page-one.springer.com/pdf/preview/10.1007/978-3-540-27835-1_18
 
+https://www.dlsi.ua.es/~mlf/nnafmc/pbook.pdf
+
 https://www.dlsi.ua.es/~mlf/docum/perezortiz22b.pdf
