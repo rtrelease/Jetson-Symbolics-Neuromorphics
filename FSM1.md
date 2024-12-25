@@ -22,7 +22,7 @@ Automated mathematical problem solving capability is greatest in universal Turin
 
 State machines can be created in several popular general purpose programming languages, and most relevant to the AI Lab projects is Python.  
 
-[Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive *pip*-accessible library of FSM-specific classes, objects, and functions for Python 3.6+ systems.  Object-oriented methods are most suited for building efficient states and transitions for such autonomous machines.
+[Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive *pip*-accessible library of FSM-specific classes, objects, and functions for Python 3.6+ systems.  Object-oriented methods are most suited for building efficient state and transition functions for such autonomous machines.
 
 ![image](https://github.com/user-attachments/assets/2d8d5e87-7576-4252-8e6c-e321c3454e13)
 
