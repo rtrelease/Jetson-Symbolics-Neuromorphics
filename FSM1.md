@@ -42,3 +42,6 @@ https://page-one.springer.com/pdf/preview/10.1007/978-3-540-27835-1_18
 https://www.dlsi.ua.es/~mlf/nnafmc/pbook.pdf
 
 https://www.dlsi.ua.es/~mlf/docum/perezortiz22b.pdf
+
+Bursting neurons
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
