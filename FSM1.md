@@ -20,7 +20,7 @@ Automated mathematical problem solving capability is greatest in universal Turin
 
 #### Python Finite-State Machines on Jetson AGX Orin DK
 
-State machines can be created in several popular general purpose programming languages, and most relevant to the AI ongoing Lab projects is Python.  
+State machine models can be created in several popular general purpose programming languages, and Python is most relevant to the ongoing AI Lab projects.  
 
 [Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive *pip*-accessible library of FSM-specific classes, objects, and functions for Python 3.6+ systems.  Object-oriented methods are most suited for building efficient state and transition functions for such autonomous machines.
 
