@@ -16,7 +16,7 @@ Computational automata can be ranked by their overlapping mathematical problem-s
 
 Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of serial program-executing digital computers derived from Alan Turing's  mathematical and computational theories.
 
-From the outset of Turing's formulations, language processing was a central focus of machine inputs processing, historically in decrypting Nazi Enigma Code in the Second World War.
+From the outset of Turing's formulations, language processing was a central focus of machine input character processing, historically involed in decrypting Nazi Enigma Code in the Second World War.  
 
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
 
