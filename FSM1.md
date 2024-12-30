@@ -14,9 +14,9 @@ In a different approach for modeling quantum computing, [quantum finite automata
 
 Computational automata can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
 
-Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of serial program-executing digital computers derived from [Alan Turing](https://en.m.wikipedia.org/wiki/Alan_Turing)'s  mathematical and computational theories.
+Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of serial program-executing digital computers derived from [Alan Turing](https://en.m.wikipedia.org/wiki/Alan_Turing)'s mathematical and computational theories.
 
-From the outset of Turing's formulations, language processing was a central focus of machine input character processing, historically involed in decrypting Nazi Enigma Code in the Second World War.  
+From the outset of Turing's formulations and proofs, language processing was a central focus of machine input character processing, historically involved in decrypting Nazi Enigma communications code during the Second World War.  Using FSM models in natural language processing long preceded the contemorary rise of DNN-based large language models.
 
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
 
@@ -35,7 +35,7 @@ For current AI Lab spiking neuron modeling projects using multiple ARM32 microco
 
 CircuitPython developer **adafruit** has provided a helpful comparative [learning guide to programming FSMs](https://cdn-learn.adafruit.com/downloads/pdf/circuitpython-101-state-machines.pdf) for a NY-style New Year's Eve dropping ball countdown display controller. Other common PC Python examples for FSM code development have focused on autonomous machine controllers for [traffic lights](https://python-statemachine.readthedocs.io/en/latest/readme.html) and [transit turnstiles](https://github.com/cmaugg/pystatemachine).
 
-Notably, MCUs can play a significant role in hosting 
+Notably, MCUs can play a significant role in hosting FSMs.
 
 #### Finite-State Machines and Artficial Neural Networks
 
