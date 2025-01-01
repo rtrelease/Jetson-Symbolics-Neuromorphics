@@ -24,7 +24,7 @@ Finite-state models can be instantiated in dynamically operational hardware syst
 
 #### Python Finite-State Machines on Jetson AGX Orin DK
 
-State machine models can be created in several popular general purpose programming languages, and Python is most relevant to the ongoing AI Lab projects.  
+State machine models can be created in several popular general purpose programming languages (e.g. C++, Java), and Python is most relevant to the ongoing AI Lab projects.  
 
 [Python-statemachine](https://pypi.org/project/python-statemachine/) provides a comprehensive *pip*-accessible library of FSM-specific classes, objects, and functions for Python 3.6+ systems.  Object-oriented methods are most suited for building efficient state and transition functions for such autonomous machines.
 
