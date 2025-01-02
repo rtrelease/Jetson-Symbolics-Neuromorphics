@@ -20,7 +20,7 @@ From the outset of Turing's formulations and proofs, language translation was a 
 
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
 
-Finite-state models can be instantiated in dynamically operational hardware systems built with discrete electronics modules, field programmable gate arrays, or with micromputers.
+Finite-state models can be reified in dynamically operational hardware systems built with discrete electronics modules, field programmable gate arrays, or with micromputers.
 
 #### Python Finite-State Machines on Jetson AGX Orin DK
 
