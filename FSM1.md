@@ -44,6 +44,8 @@ https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.idea
 
 https://archive.org/details/trent_0116301269779/page/n4/mode/1up
 
+https://archive.org/details/computationfinit0000mins/page/n4/mode/1up
+
 https://link.springer.com/chapter/10.1007/978-3-540-27835-1_18
 
 https://page-one.springer.com/pdf/preview/10.1007/978-3-540-27835-1_18
