@@ -40,6 +40,8 @@ CircuitPython developer **adafruit** has provided a helpful comparative [learnin
 
 #### Finite-State Machines and Artficial Neural Networks
 
+https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf
+
 https://archive.org/details/trent_0116301269779/page/n4/mode/1up
 
 https://link.springer.com/chapter/10.1007/978-3-540-27835-1_18
