@@ -40,6 +40,8 @@ CircuitPython developer **adafruit** has provided a helpful comparative [learnin
 
 #### Finite-State Machines and Artficial Neural Networks
 
+Finite-state machine models were closely linked to the development of aetificial neural nets theory early in the history of digital computing and scholarly articial intelligence research.
+
 https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf
 
 https://archive.org/details/trent_0116301269779/page/n4/mode/1up
