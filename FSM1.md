@@ -42,7 +42,7 @@ CircuitPython developer **adafruit** has provided a helpful comparative [learnin
 
 Finite-state machine models were closely linked to the development of aetificial neural nets theory early in the history of digital computing and scholarly articial intelligence research.
 
-In their seminal 1947 work on logic in artificial neural networks, [McCulloch & Pitts](https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf) presented a finite state model of on/off neurons linked by thresholded synapses linked somewhat comparable with biological neurons.
+In their seminal 1943 work on logic in artificial neural networks, [McCulloch & Pitts](https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf) presented a finite state model of on/off neurons linked by thresholded synapses linked somewhat comparable with biological neurons.
 
 https://archive.org/details/trent_0116301269779/page/n4/mode/1up
 
