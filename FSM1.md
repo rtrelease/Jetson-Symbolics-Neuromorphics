@@ -56,6 +56,8 @@ https://www.dlsi.ua.es/~mlf/nnafmc/pbook.pdf
 
 https://www.dlsi.ua.es/~mlf/docum/perezortiz22b.pdf
 
+![image](https://github.com/user-attachments/assets/0835a890-a208-4af3-b374-e620492fdd15)
+
 Bursting neurons
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
