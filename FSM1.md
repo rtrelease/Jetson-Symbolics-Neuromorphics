@@ -44,7 +44,7 @@ Finite-state machine models were closely linked to the development of aetificial
 
 In their seminal 1943 work on logic in artificial neural networks, [McCulloch & Pitts](https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf) presented a finite state model of on/off neurons linked by thresholded synapses linked somewhat comparable with those of biological neurons.
 
-Marvin Minsky's foundational 1967 book [Computation: Finite and Infinite Machines](https://archive.org/details/computationfinit0000mins/page/n4/mode/1up) carried McCulloch and Pitts figurative neuronal networks into a larger layered model that paved the way for contemporary deep neural networks.
+Marvin Minsky's foundational 1967 book [Computation: Finite and Infinite Machines](https://archive.org/details/computationfinit0000mins/page/n4/mode/1up) extended McCulloch and Pitts figurative neuronal networks into a larger layered model that paved the way for contemporary deep neural networks.
 
 ![image](https://github.com/user-attachments/assets/634543b3-9253-41a0-9324-da2c5341b26c)
 
