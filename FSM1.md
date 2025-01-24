@@ -46,8 +46,18 @@ In their seminal 1943 work on logic in artificial neural networks, [McCulloch & 
 
 Marvin Minsky's foundational 1967 book [Computation: Finite and Infinite Machines](https://archive.org/details/computationfinit0000mins/page/n4/mode/1up) extended McCulloch and Pitts figurative neuronal networks into a larger layered model that paved the way for contemporary deep neural networks.
 
+#### Beyond On/off Neuron Models: To Resting, Spiking, Bursting, Transducing, and Multi-State Dynamics
+Review of bursting neuron mechanisms and types:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
+
+
+
 http://www.izhikevich.org/publications/spikes.htm
 ![image](https://github.com/user-attachments/assets/634543b3-9253-41a0-9324-da2c5341b26c)
+
+
+
+![image](https://github.com/user-attachments/assets/e4e41245-6b2c-46d6-8023-b93109928175)
 
 https://archive.org/details/trent_0116301269779/page/n4/mode/1up
 
@@ -59,8 +69,3 @@ https://www.dlsi.ua.es/~mlf/nnafmc/pbook.pdf
 
 https://www.dlsi.ua.es/~mlf/docum/perezortiz22b.pdf
 
-![image](https://github.com/user-attachments/assets/e4e41245-6b2c-46d6-8023-b93109928175)
-
-Bursting neurons
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
