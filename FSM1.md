@@ -46,7 +46,9 @@ In their seminal 1943 work on logic in artificial neural networks, [McCulloch & 
 
 Marvin Minsky's foundational 1967 textbook [Computation: Finite and Infinite Machines](https://archive.org/details/computationfinit0000mins/page/n4/mode/1up) extended McCulloch and Pitts figurative artifical neuronal networks into larger layered models that could perform logical and mathematical functions.
 
-Remarkably, Minsky noted at the outset of of this work (and during years of MIT EE lectures it formalized) that his binary (on/off) FSM 'neurons' were *not* intended to represent biological nerve cell behaviors.  The focus was rather on demonstrating mathematical proofs that networks of such artificial neurons could perform numerical and logical computations.
+Remarkably, Minsky noted at the outset of of this work (and during years of MIT EE lectures it formalized) that his abstract binary (on/off) FSM 'neurons' were *not* intended to represent biological nerve cell behaviors.  The focus was rather on demonstrating mathematical proofs that networks of such artificial neurons could perform numerical and logical computations.
+
+Such artificial neural networks were thus represented by interconnected binary FSMs with off and on states, simply represented as depited below.
 
 
 #### Beyond On/off Neuron Models: To Resting, Spiking, Bursting, Transducing, and Multi-State Dynamics
