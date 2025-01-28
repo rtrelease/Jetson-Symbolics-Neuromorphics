@@ -12,9 +12,9 @@ FSMs can be differentiated into fundamental types based on design and functional
 
 In a different approach for modeling quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) can use quantum analogs of Markov decision processes for probabilistic triggering of state transitions.
 
-Isolated automata can function alone, and multiple FSMs can interact in networks, as will be reviewed furtherin this note.
+Isolated automata can function alone, and multiple FSMs can interact in networks, as will be considered further in this Lab Note.
 
-Computational automata can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
+Computational automata as a whole can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
 
 Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of stored program executing digital computers evolved from [Alan Turing](https://en.m.wikipedia.org/wiki/Alan_Turing)'s mathematical and computational theories.
 
