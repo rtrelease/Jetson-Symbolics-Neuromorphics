@@ -40,7 +40,7 @@ For current AI Lab spiking neuron modeling projects using clusters of ARM32 micr
 CircuitPython developer **adafruit** has provided a helpful comparative [learning guide to programming FSMs](https://cdn-learn.adafruit.com/downloads/pdf/circuitpython-101-state-machines.pdf) for a NY-style New Year's Eve dropping ball countdown display controller. Other common PC Python examples for FSM code development have focused on autonomous machine controllers for [traffic lights](https://python-statemachine.readthedocs.io/en/latest/readme.html) and [transit turnstiles](https://github.com/cmaugg/pystatemachine).
 
 
-#### Finite-State Machines and Artficial Neural Networks
+#### Finite-State Machines and Artificial Neural Networks
 
 Finite-state machine models were closely linked to the development of artificial neural nets theories early in the history of digital computing and scholarly artificial intelligence research.
 
