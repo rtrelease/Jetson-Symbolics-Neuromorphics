@@ -12,7 +12,7 @@ FSMs can be differentiated into fundamental types based on design and functional
 
 In a different approach for modeling quantum computing, [quantum finite automata](https://en.m.wikipedia.org/w/index.php?title=Quantum_finite_automaton) can use quantum analogs of Markov decision processes for probabilistic triggering of state transitions.
 
-Isolated automata can function alone, and multiple FSMs can interact in networks, as will be discussed further, below.
+Isolated automata can function alone, and multiple FSMs can interact in networks, as will be reviewed furtherin this note.
 
 Computational automata can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
 
