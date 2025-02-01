@@ -57,6 +57,8 @@ Such artificial neural networks were thus represented by interconnected binary F
 
 In the eight decades since McCulloch and Pitts, the neuroscience knowledge about neuronal biology, functional brain anatomy, and cognitive behaviors has increased vastly.
 
++++
+
 Review of bursting neuron mechanisms and types:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
 
