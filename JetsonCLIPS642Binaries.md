@@ -2,7 +2,7 @@
 
 #### Updates 2025 - Latest Jetson CLIPS Binaries: Special thanks to creator, Gary Riley
 
-- [CLIPS/6.4.2 Source Code - clips_core_source_642.zip](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.2/clips_core_source_642.zip/download)
+- [CLIPS 6.4.2 Source Code - clips_core_source_642.zip](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.2/clips_core_source_642.zip/download)
 
  - CLIPS 6.4.2 ARM Ubuntu native CLI binary compiled on AGX Orin DK with JetPack 5.1 system
  
