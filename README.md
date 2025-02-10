@@ -1,7 +1,6 @@
 # Jetson-Symbolics + Neuromorphics
 ### Integrating Symbolic AI Programming and Neuromorphic Modeling with NVIDIA Jetson and GPU-based Deep Neural Network Systems for Edge Research Laboratories
 
-
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 **AI Lab Notes**
  - *Updates 2025* - [Latest Jetson CLIPS Binaries](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonCLIPS642Binaries.md)
