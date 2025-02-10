@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### Updates 2025 - Latest Jetson CLIPS Binaries
+#### Updates 2025 - Latest Jetson CLIPS Binaries: Special thanks to Gary Riley
 
 - [CLIPS/6.4.2 Source Code - clips_core_source_642.zip](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.2/clips_core_source_642.zip/download)
 
