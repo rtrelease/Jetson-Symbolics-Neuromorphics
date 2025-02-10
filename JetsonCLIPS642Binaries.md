@@ -11,3 +11,4 @@
 
  - CLIPS 6.4.2 ARM Ubuntu Java Native Image (JNI) binaries for CLIPS IDE
     - https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/CLIPSJNI-642.zip
+  ![Screenshot from 2025-02-10 13-07-48](https://github.com/user-attachments/assets/deb3eb30-96bb-4769-8c22-db2d3e9cccee)
