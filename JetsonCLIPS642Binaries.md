@@ -8,3 +8,4 @@
 
 
  - CLIPS 6.4.2. native ARM Ubuntu Java Native Image (JNI) binaries for CLIPS IDE
+    - 
