@@ -56,7 +56,7 @@ Such artificial neural networks were represented by interconnected binary FSMs w
 
 #### Beyond On/off Neuron Models: To Resting, Spiking, Bursting, Transducing, and Multi-State Dynamics
 
-In the eight decades since McCulloch and Pitts, the neuroscience knowledge about neuronal biology, functional brain anatomy, and cognitive behaviors has increased vastly.
+In the eight decades since McCulloch and Pitts, the neuroscience knowledge about neuronal biology, functional brain anatomy, and cognitive behaviors increased vastly.
 
 +++
 
