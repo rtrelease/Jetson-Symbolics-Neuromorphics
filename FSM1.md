@@ -47,7 +47,7 @@ Finite-state machine models were closely linked to the development of artificial
 
 In their seminal 1943 work on logic processing capabilities in artificial neural networks, [McCulloch & Pitts](https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf) presented a finite state model of on/off neurons linked by thresholded synapses somewhat comparable with those of biological neurons.
 
-Marvin Minsky's foundational 1967 text [Computation: Finite and Infinite Machines](https://archive.org/details/computationfinit0000mins/page/n4/mode/1up) extended McCulloch and Pitts figurative artifical neuronal networks into larger layered structured models that could perform logical and mathematical functions.
+Marvin Minsky's foundational 1967 text [Computation: Finite and Infinite Machines](https://archive.org/details/computationfinit0000mins/page/n4/mode/1up) extended McCulloch and Pitts figurative artifical neuronal networks into larger layered structured models that could perform numerous logical and mathematical functions.
 
 Remarkably, Minsky noted at the outset of of this seminal work (and during years of MIT EE lectures it formalized) that his abstract binary (on/off) FSM 'neurons' were *not* intended to represent biological nerve cell behaviors.  The focus was rather on demonstrating mathematical proofs that networks of such artificial neurons could perform numerical and logical computations.
 
