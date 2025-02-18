@@ -84,3 +84,4 @@ https://www.dlsi.ua.es/~mlf/nnafmc/pbook.pdf
 
 https://www.dlsi.ua.es/~mlf/docum/perezortiz22b.pdf
 
+In media res...
