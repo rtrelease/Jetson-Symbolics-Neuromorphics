@@ -70,7 +70,7 @@ http://www.izhikevich.org/publications/spikes.htm
 
 #### Modeling Different Neuron Types with Non-binary FSMs: Spiking through Bursting Behaviors
 
-Rather than proceeding with binary state FSMs for building out operational artifical *neuronal networks* based on canonical microcircuit models, trinary state neurons made a good fit for encompassing known resting, spiking, and bursting behaviors.
+Rather than proceeding with binary state FSMs for building out operational artifical *neuronal networks* based on canonical microcircuit models, trinary state neurons made a good focus for encompassing known resting, spiking, and bursting behaviors.
 
 ![image](https://github.com/user-attachments/assets/e4e41245-6b2c-46d6-8023-b93109928175)
 
