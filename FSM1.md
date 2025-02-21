@@ -68,9 +68,9 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
 http://www.izhikevich.org/publications/spikes.htm
 ![image](https://github.com/user-attachments/assets/634543b3-9253-41a0-9324-da2c5341b26c)
 
-#### Modeling Different Neuron Types with Non-binary FSMs: Spiking through Bursting Behaviors
+#### Modeling Different CNS Neuron Types with Non-binary FSMs: Spiking through Bursting Behaviors
 
-Rather than proceeding with binary state FSMs for building out operational artifical *neuronal networks* based on canonical microcircuit models, trinary state neurons made a good focus for encompassing known resting, spiking, and bursting behaviors.
+so rather than proceeding with binary state FSMs for building out operational artifical *neuronal networks* based on canonical microcircuit models, trinary state neurons made a good focus for encompassing known resting, spiking, and bursting behaviors.
 
 ![image](https://github.com/user-attachments/assets/e4e41245-6b2c-46d6-8023-b93109928175)
 
