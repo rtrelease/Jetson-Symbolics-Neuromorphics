@@ -16,7 +16,7 @@ Isolated automata can function alone, and multiple FSMs can interact in networks
 
 Computational automata as a whole can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
 
-Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of stored program executing digital computers evolved from [Alan Turing](https://en.m.wikipedia.org/wiki/Alan_Turing)'s computational theories and mathematical proofs.
+Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of stored-program sequential-executing digital computers evolved from [Alan Turing](https://en.m.wikipedia.org/wiki/Alan_Turing)'s computational theories and mathematical proofs.
 
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
  => [Wikimedia Commons image](https://en.m.wikipedia.org/wiki/File:Automata_theory.svg)
