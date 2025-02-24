@@ -21,7 +21,7 @@ Automated mathematical problem solving capability is greatest in universal Turin
 ![image](https://github.com/user-attachments/assets/273a2cca-b6d2-4bb0-82e4-8b11eca86b43)
  => [Wikimedia Commons image](https://en.m.wikipedia.org/wiki/File:Automata_theory.svg)
 
-From the inception of Turing's formulations and proofs, language translation was a central focus for machine input character processing, historically employed in decrypting Nazi Enigma communications code during the Second World War.  So using FSM models in natural language front-end processing long preceded the contemporary rise of deep neural network-based large language models.
+From the inception of Turing's formulations and proofs, language translation was a central focus for machine-based input character processing, historically employed in decrypting Nazi Enigma communications code during the Second World War.  So using FSM models in natural language front-end processing long preceded the contemporary rise of deep neural network-based large language models.
 
 Finite-state models can be *reified* in dynamically operational hardware systems built with mechanical parts, discrete electronics modules, field programmable gate arrays, or with micromputers.
 
