@@ -18,11 +18,10 @@
 
  - *Protege* Desktop Ontology Editor - platform independent download site: https://protege.stanford.edu/software.php
 
-- *owlready2 - Python library for integrating OWL Ontologies:
+- *owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/  *sudo pip install owlready2*
 
  - *CLIPS* symbolic programing language - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/
    
-
  - *Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
  - *Jupyter* - *pip* base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
