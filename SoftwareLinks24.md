@@ -18,6 +18,8 @@
 
  - *Protege* Desktop Ontology Editor - platform independent download site: https://protege.stanford.edu/software.php
 
+- *owlready2 - Python library for integrating OWL Ontologies:
+
  - *CLIPS* symbolic programing language - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/
    
 
