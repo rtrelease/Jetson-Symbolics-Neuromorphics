@@ -29,7 +29,11 @@
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
+**CircuitPython Editor/IDE with serial communications and plotter**
+ - Mu Editor -  - 		sudo apt install mu-editor
+ - 
 **Cellular Automata**
+
 
  - *Golly* - Game of Life automata app: *sudo apt-get -y install golly*
    
