@@ -32,8 +32,8 @@
 **CircuitPython Editor/IDE with serial communications and plotter**
  - Mu Editor -  - 		sudo apt install mu-editor
 
-**Cellular Automata**
 
+**Cellular Automata**
 
  - *Golly* - Game of Life automata app: *sudo apt-get -y install golly*
    
