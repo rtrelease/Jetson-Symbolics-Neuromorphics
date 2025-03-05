@@ -31,7 +31,7 @@
 
 **CircuitPython Editor/IDE with serial communications and plotter**
  - Mu Editor -  - 		sudo apt install mu-editor
- - 
+
 **Cellular Automata**
 
 
