@@ -76,6 +76,8 @@ So rather than proceeding with binary state FSMs for building out operational ar
 
 ![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
+![image](https://github.com/user-attachments/assets/a07101be-5be4-4457-9a0d-e8468f9b1e4d)
+
 https://archive.org/details/trent_0116301269779/page/n4/mode/1up
 
 https://link.springer.com/chapter/10.1007/978-3-540-27835-1_18
