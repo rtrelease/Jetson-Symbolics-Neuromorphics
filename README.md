@@ -61,14 +61,15 @@
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/65299f34-a1dc-448c-bbc6-77efcbcf0b55" width=30% height=30% />
 </p>
 <p align="center">
-<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/470f88ff-ba25-496a-8c44-6ad506dcf47e" width=15% height=15% />
+<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/008a2dc0-0206-49ec-99fa-8699f7a66b9a" width=30% height=30% />
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/28508454-fdd6-4370-a5fb-5d8363a11aca" width=30% height=30% />
+<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/470f88ff-ba25-496a-8c44-6ad506dcf47e" width=10% height=10% />
 </p>
 <p align="center">
-<img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/008a2dc0-0206-49ec-99fa-8699f7a66b9a" width=10% height=10% />2
+<img src="https://github.com/user-attachments/assets/28508454-fdd6-4370-a5fb-5d8363a11aca" width=20% height=20% />
 </p>
+
 <p align="center">
 <a href="https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md">Mr Potato Head's AI library</a>
 </p>
