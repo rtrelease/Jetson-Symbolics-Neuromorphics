@@ -67,7 +67,7 @@
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/470f88ff-ba25-496a-8c44-6ad506dcf47e" width=10% height=10% />
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/28508454-fdd6-4370-a5fb-5d8363a11aca" width=20% height=20% />
+<img src="https://github.com/user-attachments/assets/0215d19c-a511-4aca-bb8f-ef00bcc4782f" width=20% height=20% />
 </p>
 
 <p align="center">
