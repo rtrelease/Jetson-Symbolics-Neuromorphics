@@ -33,7 +33,7 @@
  28. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
  30. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
  31. **Owlready2 revisited:** *Python methods for neurosymbolic ontology integration*
- 33. [NVIDIA Project DIGITS announced](https://www.nvidia.com/en-us/project-digits/): PetaOps range modeling for the edge desktop?
+ 33. [NVIDIA Project DIGITS announced as DGX Spark](https://www.nvidia.com/en-us/project-digits/): PetaOps range modeling for the edge desktop.
  34. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  35. **Parse this: Reifying *neuromorpho-symbolic AI***
  36. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
