@@ -53,7 +53,7 @@ Remarkably, Minsky noted at the outset of this seminal work (and during years of
 
 Such artificial neural networks were represented by interconnected binary FSM model neurons with off and on states, as depicted below.
 ![image](https://github.com/user-attachments/assets/50f29390-f531-409b-862f-a9b3d38373b2)
-
+https://archive.org/details/computationfinit0000mins/page/56/mode/1up?view=theater
 ...
 
 #### Beyond On/off Neuron Models: To Resting, Spiking, Bursting, Transducing, and Multi-State Dynamics
