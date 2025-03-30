@@ -51,7 +51,7 @@ Marvin Minsky's foundational 1967 text [Computation: Finite and Infinite Machine
 
 Remarkably, Minsky noted at the outset of this seminal work (and during years of MIT EE lectures it formalized) that his abstract binary (on/off) FSM 'neurons' were *not* intended to represent biological nerve cell behaviors.  The focus was rather on demonstrating mathematical proofs that networks of such artificial neurons could perform numerical and logical computations.
 
-Such artificial neural networks were represented by interconnected binary FSM model neurons with off and on states, as depicted below.
+These artificial neural networks were represented by interconnected binary FSM model neurons with off and on states, as depicted below.
 ![image](https://github.com/user-attachments/assets/50f29390-f531-409b-862f-a9b3d38373b2)
 https://archive.org/details/computationfinit0000mins/page/56/mode/1up?view=theater
 ...
