@@ -8,5 +8,5 @@ Earlier [Notes](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob
 
 Developer Jean-Baptiste Lamy, a French medical informaticist, published a major scientific [article](http://www.lesfleursdunormal.fr/_downloads/article_owlready_aim_2017.pdf) about using it with Gene Ontology and studying cancer drug interactions.
 
-Using this as a starting point for a new Owlready2 installation on an AGX Orin (JP 5.1.2), the following image shows a few lines of Python in a simple Jupyter Notebook accessing a local subset of the Gene Ontology *(go)*.  To the left, Protege displays an expanded entity-based view of go-basic.owl.
+Considering this as a starting point for a new Owlready2 installation on an AGX Orin (JP 5.1.2), the following image shows a few lines of Python in a simple Jupyter Notebook accessing a local subset of the Gene Ontology *(go)*.  To the left, Protege displays an expanded entity-based view of go-basic.owl.
 ![image](https://github.com/user-attachments/assets/6c88de59-2991-419f-abc8-972eaf3ab679)
