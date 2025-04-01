@@ -12,7 +12,7 @@ Considering this as a starting point for a new Owlready2 installation on an AGX 
 ![image](https://github.com/user-attachments/assets/6c88de59-2991-419f-abc8-972eaf3ab679)
 
 
-Back to Foundational Model of Anatomy for anatomical reasoning:
+Back to the Foundational Model of Anatomy (FMA) for anatomical reasoning:
 ![image](https://github.com/user-attachments/assets/f2a75187-faff-4633-ae09-269364e30dfd)
 
 In media res...
