@@ -11,6 +11,8 @@ Developer Jean-Baptiste Lamy, a French medical informaticist, published a major 
 Considering this as a starting point for a new Owlready2 installation on an AGX Orin (JP 5.1.2), the following image shows a few lines of Python in a simple Jupyter Notebook accessing a local subset of the Gene Ontology *(go)*.  To the left, Protege displays an expanded entity-based IDE view of go-basic.owl.
 ![image](https://github.com/user-attachments/assets/6c88de59-2991-419f-abc8-972eaf3ab679)
 
+
+Back to Foundational Model of Anatomy for anatomical reasoning:
 ![image](https://github.com/user-attachments/assets/f2a75187-faff-4633-ae09-269364e30dfd)
 
 In media res...
