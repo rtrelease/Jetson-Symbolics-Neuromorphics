@@ -14,7 +14,7 @@ In a different approach for modeling quantum computing, [quantum finite automata
 
 Isolated automata can function alone, and multiple FSMs can interact in networks, as will be considered later in this Lab Note.
 
-Computational automata as a whole can be ranked by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
+Computational automata can be ranked collectively by their overlapping mathematical problem-solving capacities (or "computability") as depicted below.  
 
 Automated mathematical problem solving capability is greatest in universal Turing Machines.  This hierarchy was first codified in the [Church-Turing thesis](https://plato.stanford.edu/entries/church-turing/), decades before the development of stored-program sequential-executing digital computers evolved from [Alan Turing](https://en.m.wikipedia.org/wiki/Alan_Turing)'s computational theories and mathematical proofs.
 
