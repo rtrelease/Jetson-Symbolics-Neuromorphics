@@ -6,7 +6,7 @@ Trelease, R.B.  Rainbow FORTH:  Adding an instrumentation-oriented
 Trelease, R.B.  Analyzing human sleep disorders: LSI-11 in the hospital 
 	laboratory.  The DEC Professional 4(9):48-55, 1985.
 
-Trelease, R.B.  A Z8 Solution:  Data acquisition via the Rainbow RS-232 
+Trelease, R.B.  A Z8 solution:  Data acquisition via the Rainbow RS-232 
 	communications port. The  DEC Professional 4(12):120-128, 1985.
 
 Trelease, R.B.  Three introductions to artificial intelligence.  VAX Professional 
@@ -14,7 +14,7 @@ Trelease, R.B.  Three introductions to artificial intelligence.  VAX Professio
 
 Trelease, R.B.  What's an expert system?  The DEC Professional 5(3):48, 1986.
 
-Trelease, R.B.  Rainbow Clock Boards.  The DEC Professional 5(6):66-68, 
+Trelease, R.B.  Rainbow clock boards.  The DEC Professional 5(6):66-68, 
 	1986.
 
 Trelease, R.B.  New books on AI.  The DEC Professional 6(3):120-125, 1987.
