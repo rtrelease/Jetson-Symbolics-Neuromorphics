@@ -59,11 +59,11 @@ https://archive.org/details/computationfinit0000mins/page/56/mode/1up?view=theat
 #### Beyond On/off Neuron Models: To Resting, Spiking, Bursting, Transducing, and Multi-State Dynamics
 
 In the eight decades since McCulloch and Pitts, neuroscienctific knowledge about neuronal biology, functional brain anatomy, and cognitive behaviors increased vastly.
-
+...
 +++
 Sheperd and Grllner's most recent cumulative [review](https://academic.oup.com/book/24640) of mammalian central nervous system local neuronal network connectivity is a good place to start for current canonical network models comparable with Minky's. 
 
-We chose Martin's more simplified canonical neocortical microcircuit from [their 2010 chapter](https://academic.oup.com/book/25071/chapter-abstract/189202559?redirectedFrom=fulltext)
+We chose Douglas and Martin's more simplified canonical neocortical microcircuit from [their earlier chapter](https://academic.oup.com/book/25071/chapter-abstract/189202559?redirectedFrom=fulltext) for our Python programmed MCU physical computing model of spiking neurons.
 
 ![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
