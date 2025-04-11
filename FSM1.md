@@ -61,6 +61,7 @@ https://archive.org/details/computationfinit0000mins/page/56/mode/1up?view=theat
 In the eight decades since McCulloch and Pitts, neuroscienctific knowledge about neuronal biology, functional brain anatomy, and cognitive behaviors increased vastly.
 
 +++
+![image](https://user-images.githubusercontent.com/71346897/213343140-41049d4a-09e4-4563-a68f-a6e6db5b944f.png)
 
 Review of bursting neuron mechanisms and types:
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8502892/pdf/fncel-15-741292.pdf
