@@ -1,4 +1,4 @@
-### Legacy Computing Technology Publications
+### Legacy Computing Technology and Artificial Intelligence Publications
 
 Trelease, R.B.  Rainbow FORTH:  Adding an instrumentation-oriented 
 	language.  The DEC Professional 4(7):80-90, 1985.
