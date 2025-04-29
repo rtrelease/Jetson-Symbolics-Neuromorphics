@@ -3,7 +3,7 @@
 #### **2024 Compendium of selected references and compatible open source software links for neurosymbolic development and neuromorphic modeling on the Jetson AGX Orin**
 
 **Essential References**
-- [Artificial Intelligence - A Modern Approach](http://aima.cs.berkeley.edu/index.html)
+- [Artificial Intelligence - A Modern Approach](http://aima.cs.berkeley.edu/index.html) ~  [Python](https://github.com/aimacode/aima-python) and [Java](https://github.com/aimacode/aima-java) code Examples.
 
 - [Neuro-Symbolic Artificial Intelligence: The State of the Art,](https://ebooks.iospress.nl/ISBN/978-1-64368-245-7) IOS Press, 2021.
 
