@@ -35,7 +35,7 @@
  30. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
  31. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
  32. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
- 33.   [NVIDIA Project DIGITS introduced as DGX Spark](https://www.nvidia.com/en-us/project-digits/): [*PetaOps range modeling for the edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web)
+ 33.   [NVIDIA Project DIGITS introduced as DGX Spark](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the [edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web)
  34. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  35. **Parse this: Reifying *neuromorpho-symbolic AI***
  36. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
