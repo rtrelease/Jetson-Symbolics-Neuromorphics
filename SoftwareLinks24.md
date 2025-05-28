@@ -29,6 +29,8 @@
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
+**Image Processing**
+ - *ImageJ*- 
 **CircuitPython Editor/IDE with serial communications and plotter**
  - *Mu Editor* - [Mu Editor Documentation](https://mu.readthedocs.io/_/downloads/en/latest/pdf/) - *sudo apt install mu-editor*
 
