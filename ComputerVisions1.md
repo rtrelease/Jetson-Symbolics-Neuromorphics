@@ -28,4 +28,5 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **Analog-hybrid generative audio production system circa 2017**
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/1af1fcb4-e99f-4406-89a1-e860be3085ec)
 
+**When CV CNNs hallucinate:**
 ![image](https://github.com/user-attachments/assets/74dbe0de-7268-4ccd-97cd-b0bc47766732)
