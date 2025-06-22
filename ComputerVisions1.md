@@ -30,3 +30,6 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 
 **When CV CNNs hallucinate,** or *Down to the Black Hole @ 222 FPS*
 ![image](https://github.com/user-attachments/assets/74dbe0de-7268-4ccd-97cd-b0bc47766732)
+
+![image](https://github.com/user-attachments/assets/39cfe20e-8be9-4e7d-9475-16d0a0cfb76d)
+
