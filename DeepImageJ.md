@@ -7,5 +7,5 @@
 ![image](https://github.com/user-attachments/assets/851c0d53-8635-4cc2-bb01-7feb1e6cafad)
 
 #### Gotcha Time
-Although DeepImageJ plugins install under ImageJ running in a JetPack 5.1 L4T environment, a functional installation requires higher versions of Torch and ONNX than those integrated by default (at risk of breaking your NV environment).
+Although DeepImageJ plugins install under ImageJ running in a JetPack 5.1 L4T environment, a functional installation requires higher versions of TensorFlow, PyTorc, and ONNX than those integrated by default (at risk of breaking your NV environment).
 Therefore, a JetPack 6.1+ installation should be required for using the DeepImageJ plugin to load and run available models.
