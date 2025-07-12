@@ -74,7 +74,7 @@
 <img src="https://github.com/user-attachments/assets/0215d19c-a511-4aca-bb8f-ef00bcc4782f" width=30% height=50% />
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/26ddc56f-ad44-4fed-b42a-14261f7641fd" width=30% height=50% />
+<img src="https://github.com/user-attachments/assets/26ddc56f-ad44-4fed-b42a-14261f7641fd" width=30% height=60% />
 </p>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29a8d82b-7b92-4cfe-bcaf-c3d3ecb36b70" width=30% height=30% />
