@@ -29,8 +29,7 @@
  24. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
  25. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
  26. *Reevaluating Python-based DNN and neuromorphic simulations with* [*Nengo*](https://github.com/nengo/nengo)
- 27. *Yale **Neuron**:
- 28.  -* Building neuromorphic simulations with Python on AGX Orin DK
+ 27. *Yale **Neuron** -* Building neuromorphic simulations with Python on AGX Orin DK
  29. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
  30. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
  31. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
