@@ -17,7 +17,7 @@ My tasks as a neuroscientist building and using AI tools have simply involved ac
 Thus, a practical major sub-theme of these AI Lab Notes has been addressing some currently perceived shortcomings of DNN-based AI applications, including explainability of inferences, with hybrid neural-symbolic programming.
 Beyond that, programmatic neuromorphic modeling also studies more functionally rigorous biological *neuronal* network designs, since human brain cognitive mechanisms naturally support thinking with apparently conflicting concepts.
 
-*The currently study investigates the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web-accessed "chatbot" user interface*.  
+*The current study investigates the quality of anatomical information contained in and accessed by a major Open Source DNN-based large language model, operating with a web-accessed "chatbot" user interface*.  
 
 Chatbots (e.g., ChatGPT) have been popularly adopted for educational applications like essay writing, raising many reasonable concerns and issues for students, teachers, and administrators.  From an adoption perspective, in the context of adult self-directed learning, there are basic questions about the accuracy, validity and biases of information communicated by potential 'AI tutors'.
 
