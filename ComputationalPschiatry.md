@@ -17,3 +17,4 @@ From a personal perspective, it only seems a matter of time before FDA-tested an
 So implementing edge computational psychiatry tools for the Jetson and the upcoming DGX Spark seems a worthwhile effort.
 
 
+##### In media res...
