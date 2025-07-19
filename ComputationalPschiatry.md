@@ -6,7 +6,7 @@ Psychiatry has had a long history of involvement in artificial intelligence rese
 
 For me this interest drove my early research interest in *expert sysyems* in the mid-1980s, starting during my NIMH sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
-Zoom to 2025, computational psychiatry is a well established and diverse Research discipline, with its own academic [research journal](https://cpsyjournal.org).
+Zoom to 2025, computational psychiatry is a well established and diverse Research discipline, with its own academic [research journal](https://cpsyjournal.org). The early psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer.
 
 A [python version of ELIZA](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
 
