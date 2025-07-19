@@ -10,6 +10,8 @@ For me this interest drove my early research interest in *expert sysyems* in the
 
 Zoom to 2025, computational psychiatry is a well established and diverse Research discipline, with its own academic [research journal](https://cpsyjournal.org). The early psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer.
 
+A quick review of Journal papers reveal the current great breadth and depth of current "cpsy" research and clinical applications. 
+
 A [python version of ELIZA](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
 
 From a personal perspective, it only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
