@@ -7,3 +7,5 @@ Psychiatry has had a long history of involvement in artificial intelligence rese
 For me this interest drove my early research interest in *expert sysyems* in the mid-1980s, starting during my NIMH sponsored Fellowship in Psychiatry and Biobehavioral Medicine.
 
 Zoom to 2025, computational psychiatry is a well established Research discipline, with its own academic [journal](https://cpsyjournal.org).
+
+A version of ELIZA has been code in python https://github.com/wadetb/eliza
