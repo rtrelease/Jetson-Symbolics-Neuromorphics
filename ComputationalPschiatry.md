@@ -4,7 +4,7 @@
 
 Psychiatry has had a long history of involvement in artificial intelligence research, most notably noticably in the development circa 1966 of the original therapeutic chatbot called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA).
 
-For me this interest drove my early research interest in *expert sysyems* in the mid-1980s, starting during my NIMH sponsored Fellowship in Psychiatry and Biobehavioral Medicine.
+For me this interest drove my early research interest in *expert sysyems* in the mid-1980s, starting during my NIMH sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
 Zoom to 2025, computational psychiatry is a well established and diverse Research discipline, with its own academic [research journal](https://cpsyjournal.org).
 
