@@ -2,7 +2,7 @@
 
 https://en.m.wikipedia.org/wiki/ELIZA
 
-![Wiki Image](https://en.m.wikipedia.org/wiki/ELIZA#/media/File%3AELIZA_conversation.png)
+![Wiki Image](https://)
 
 
 Zoom to 2025, computational psychiatry is a well established discipline, with academic journals 
