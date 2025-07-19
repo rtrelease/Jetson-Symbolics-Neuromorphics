@@ -1,7 +1,7 @@
 #### ELIZA's Grandchildren: Computational Psychiatry on the Edge in 2025
 
 <img width="751" height="487" alt="image" src="https://github.com/user-attachments/assets/b8ed214e-4929-4e5d-9ab1-9514990c97bb" />
-
+[Wiki Credits](https://commons.m.wikimedia.org/wiki/File:ELIZA_conversation.png#mw-jump-to-license)
 
 
 Psychiatry has had a long history of involvement in artificial intelligence research, most notably in the development circa 1966 of the original clinical chatbot called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA).
