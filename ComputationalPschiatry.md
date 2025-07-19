@@ -12,11 +12,11 @@ Zoom to 2025, computational psychiatry is a well established and diverse Researc
 
 A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" research and clinical applications. 
 
-A [python version of ELIZA](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
-
 From a personal perspective, it only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
 
 So implementing edge computational psychiatry tools for the Jetson and the upcoming DGX Spark seems a worthwhile effort.
+
+A [python version of ELIZA](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
 
 
 ##### In media res...
