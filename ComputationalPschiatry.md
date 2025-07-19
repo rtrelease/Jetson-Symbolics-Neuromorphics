@@ -5,7 +5,8 @@
 <img width="751" height="487" alt="image" src="https://github.com/user-attachments/assets/b8ed214e-4929-4e5d-9ab1-9514990c97bb" />
 
 
+Psychiatry has had a long history of involvement in artificial intelligence research, most notably noticably in the development circa 1966 of the original therapeutic chatbot called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA).
 
-https://en.m.wikipedia.org/wiki/ELIZA
+
 
 Zoom to 2025, computational psychiatry is a well established discipline, with academic journals 
