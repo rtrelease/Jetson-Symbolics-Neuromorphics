@@ -8,4 +8,4 @@ For me this interest drove my early research interest in *expert sysyems* in the
 
 Zoom to 2025, computational psychiatry is a well established Research discipline, with its own academic [journal](https://cpsyjournal.org).
 
-A version of ELIZA has been code in python https://github.com/wadetb/eliza
+A [python version of ELIZA](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
