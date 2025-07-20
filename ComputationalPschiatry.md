@@ -17,7 +17,7 @@ From a personal perspective, it only seems a matter of time before FDA-tested an
 
 So implementing edge computational psychiatry tools for the Jetson and the upcoming DGX Spark seems a worthwhile effort.
 
-A [python version of ELIZA](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
+A [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is available for an appreciation of the original application.
 
 
 ##### In media res...
