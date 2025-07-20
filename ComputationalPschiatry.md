@@ -5,7 +5,7 @@
 [Wiki Credits](https://commons.m.wikimedia.org/wiki/File:ELIZA_conversation.png#mw-jump-to-license)
 
 
-Psychiatry has had a long history of involvement in artificial intelligence research, most notably in the development circa [1966](https://dl.acm.org/doi/10.1145/365153.365168) of the original clinical *chatterbot* (now chatbot) called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA). Author [Joseph Weizenbaum](https://en.m.wikipedia.org/wiki/Joseph_Weizenbaum) was then at MIT working on early list-processing MAD-SLip *natural language* research funded by the Advance Research Projects Agency and the U.S. Navy.
+Psychiatry has had a long history of involvement in artificial intelligence research, most notably in the development circa [1966](https://dl.acm.org/doi/10.1145/365153.365168) of the original clinical *chatterbot* (now chatbot) called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA). Author [Joseph Weizenbaum](https://en.m.wikipedia.org/wiki/Joseph_Weizenbaum) was then at MIT working on early list-processing program (MAD-Slip) *natural language* research funded by the Advance Research Projects Agency and the U.S. Navy.
 
 Such work drove my early research interest in *expert systems* in the mid-1980s, starting during my NIMH sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
