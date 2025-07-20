@@ -37,7 +37,7 @@
  33. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
  34. [**DeepImageJ**](https://deepimagej.github.io) and connecting [image processing with deep learning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepImageJ.md)
  35. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web)
- 36. **ELIZA's Grandchildren:** [Computational Psychiatry on the Edge in 2025](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalPschiatry.md)
+ 36. **ELIZA's Grandchildren:** [Computational Psychiatry on the Edge in 2025](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalPsychiatry.md)
  37. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  38. **Parse this: Reifying *neuromorpho-symbolic AI***
  39. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
