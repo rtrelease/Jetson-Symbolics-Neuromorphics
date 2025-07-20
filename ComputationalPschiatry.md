@@ -11,9 +11,9 @@ Such work drove my early research interest in *expert systems* in the mid-1980s,
 
 Zoom to 2025, computational psychiatry is a well established and diverse Research discipline, with its own academic [research journal](https://cpsyjournal.org). The early psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer.
 
-A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" research and clinical applications. A comprehensive professional review of the field is available at [Nature Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01743-z.pdf).
+A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" research and clinical applications. A comprehensive professional review of the conceptual field is available at [Nature Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01743-z.pdf).
 
-From a personal perspective, it only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
+From a personal perspective, it now only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
 
 So implementing edge computational psychiatry tools for the Jetson and the upcoming DGX Spark seems a worthwhile effort.
 
