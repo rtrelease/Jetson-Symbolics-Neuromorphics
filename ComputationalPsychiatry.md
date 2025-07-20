@@ -9,7 +9,7 @@ Psychiatry has had a long history of involvement in artificial intelligence rese
 
 Such work stimulated my early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
-Zoom to 2025, computational psychiatry is an established, diverse Research discipline after more than a decade, with its own academic [research journal](https://cpsyjournal.org). The  psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer.
+Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline after more than a decade, with its own academic [journal](https://cpsyjournal.org). The  psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer.
 
 A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" research and clinical applications. A comprehensive professional review of the conceptual field is available at [Nature Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01743-z.pdf).
 
