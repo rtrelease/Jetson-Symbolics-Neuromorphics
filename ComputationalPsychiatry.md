@@ -13,7 +13,7 @@ Zoom to 2025, *computational psychiatry* is an established, diverse research sub
 
 A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" research and clinical applications. A comprehensive professional review of the conceptual field is available at [Nature Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01743-z.pdf).
 
-From a personal perspective, it now only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
+As previously noted, it is now the era of generative AI, when the public is widely exposed to LLM-based chatbots and other network-based 'intelligent' services.  From a personal perspective, it now only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
 
 So implementing edge computational psychiatry tools and applications for the Jetson and the upcoming DGX Spark is a worthwhile effort.
 
