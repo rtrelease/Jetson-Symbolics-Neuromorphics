@@ -11,7 +11,7 @@ Most notably, the development of a psychoanalytic conversation model circa [1966
 
 This ELIZA chatterbot had a simple relationship to the Turing Test and its "Imitation Game", wherein the human-like conversations it emulated were based on questions asked during a client-centered [Rogerian psychoanalysis](https://en.m.wikipedia.org/wiki/Person-centered_therapy) session.
 
-Such work stimulated my early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
+Such work also stimulated my early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
 Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline after more than a decade since inception, with its own academic [journal](https://cpsyjournal.org). This former psychiatry post-doc is now an emeritus professor and NVIDIA Jetson edge applications and hardware integration developer working on computational neuroscience projects.
 
