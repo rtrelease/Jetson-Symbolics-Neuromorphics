@@ -19,7 +19,7 @@ It is now the era of generative AI, when the public is widely exposed to LLM-bas
 
 So implementing edge computational psychiatry tools and applications for the Jetson and the upcoming DGX Spark is a worthwhile effort.
 
-A [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is available for experimenting with basic symbolic chatterbot behavior, seen running on an AGX Orin DK.
+A [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is available for experimenting with basic symbolic chatterbot behavior, seen here running on an AGX Orin DK.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76c5cb33-7525-455c-aa02-f5695e4b9255" />
 
 
