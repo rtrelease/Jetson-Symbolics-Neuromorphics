@@ -7,7 +7,7 @@
 
 Psychiatry has had a long history of involvement in artificial intelligence research, playing an early role in foundational neural network theory with [McCulloch & Pitts, 1943](https://home.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf) from the Psychiatry Department of the University of Illinois School of Medicine.
 
-most notably in the development circa [1966](https://dl.acm.org/doi/10.1145/365153.365168) of the original clinical *chatterbot* (now *chatbot*) called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA). Author [Joseph Weizenbaum](https://en.m.wikipedia.org/wiki/Joseph_Weizenbaum) was then at MIT working with an early mainframe list-processing language (MAD-Slip) on *natural language* research funded by the Advanced Research Projects Agency and the U.S. Navy.
+Most notably, the development of a psychoanalytic conversation model circa [1966] (https://dl.acm.org/doi/10.1145/365153.365168) produced the original clinical *chatterbot* (now *chatbot*) called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA). Author [Joseph Weizenbaum](https://en.m.wikipedia.org/wiki/Joseph_Weizenbaum) was then at MIT working with an early mainframe list-processing language (MAD-Slip) on *natural language* research funded by the Advanced Research Projects Agency and the U.S. Navy.
 
 Such work stimulated an early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
