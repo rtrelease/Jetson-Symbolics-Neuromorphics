@@ -11,7 +11,7 @@ Most notably, the development of a psychoanalytic conversation model circa [1966
 
 Such work stimulated an early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
-Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline after more than a decade since inception, with its own academic [journal](https://cpsyjournal.org). The former psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer working on computational neuroscience projects.
+Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline after more than a decade since inception, with its own academic [journal](https://cpsyjournal.org). This former psychiatry post-doc is now an emeritus professor and NVIDA Jetson AGX edge applications and hardware integration developer working on computational neuroscience projects.
 
 A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" research and clinical applications. A comprehensive professional review of the conceptual field is available at [Nature Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01743-z.pdf).
 
