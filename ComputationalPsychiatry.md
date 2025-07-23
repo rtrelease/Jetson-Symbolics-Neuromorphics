@@ -9,6 +9,8 @@ Psychiatry has had a long history of involvement in artificial intelligence rese
 
 Most notably, the development of a psychoanalytic conversation model circa [1966](https://dl.acm.org/doi/10.1145/365153.365168) produced the original clinical *chatterbot* (now *chatbot*) called [ELIZA](https://en.m.wikipedia.org/wiki/ELIZA). Author [Joseph Weizenbaum](https://en.m.wikipedia.org/wiki/Joseph_Weizenbaum) was then at MIT working with an early mainframe list-processing language (MAD-Slip) on *natural language* research funded by the Advanced Research Projects Agency and the U.S. Navy.
 
+This ELIZA chatterbot had a simple relationship to the Turing Test and its "Imitation Game" wherein the human-like conversations it emulated were based on questions asked during a Rogerian psychoanalysis session.
+
 Such work stimulated my early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
 Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline after more than a decade since inception, with its own academic [journal](https://cpsyjournal.org). This former psychiatry post-doc is now an emeritus professor and NVIDIA Jetson edge applications and hardware integration developer working on computational neuroscience projects.
