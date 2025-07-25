@@ -25,7 +25,7 @@ A [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is availa
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76c5cb33-7525-455c-aa02-f5695e4b9255" />
 
 
-For a first experiment with modeling ELIZA-like psychoanalitic behavior in a LLaMa 2-13B GPTQ model with essentially base chat and character settings including the name ELIZA.  The following iPad screens show a LLama session running via *web*ui.
+For a first experiment with modeling ELIZA-like psychoanalitic behavior in a LLaMa 2-13B GPTQ model with essentially base chat and character settings including the name ELIZA.  The following iPad screens show an AGX Orin DK LLama session running via *web*ui.
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/e538fea7-2200-4be3-852b-691a6ac95e30" />
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/1d7fa8fd-dc9e-4e3b-9b26-d5de5dd20d0c" />
