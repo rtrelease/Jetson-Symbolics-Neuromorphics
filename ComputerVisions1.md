@@ -7,7 +7,10 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 **Anatomy Computing: Ontogenetics builds what engineers can still only imagine** (blender mix).
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/1dea49a6-e39e-4bb1-b2a9-5af97c75434c)
 
-**Been there, done that:** Mid-'90s, brain imaging ray trace with Amiga Turbo Silver
+**Been there, done that 0:** Late-'70s, My first laboratory computer was a PDP-12 that ran FFTs on EEG
+![image](https://github.com/user-attachments/assets/9ac72d84-778c-43c6-a702-58e930878632)
+
+**Been there, done that 1:** Mid-'90s, brain imaging ray trace with Amiga Turbo Silver
 ![image](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/9927a171-5a4f-4798-93c5-341343915f3c)
 
 **Been there, doing this:** Edge computer vision systems for learning AI basics in 2023
