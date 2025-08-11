@@ -9,4 +9,4 @@
 ![image](https://github.com/user-attachments/assets/07df8106-0fef-44ff-ac99-6e344426c79c)
 
 
-
+https://emt.gartnerweb.com/ngw/globalassets/en/newsroom/images/graphs/et-hc-2025-press-release.jpg
