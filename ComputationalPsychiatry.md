@@ -19,6 +19,8 @@ A quick review of Journal papers reveals the current great breadth and depth of 
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10711623/pdf/fpsyt-14-1230587.pdf
 
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F6EAA0EC544F100A1E7BCEA82BFB6DE6/9781108485074c20_664-702.pdf/neurocomputational_models_of_cognitive_control.pdf
+
 https://doi.org/10.1038/s41593-018-0210-5
 
 It is now the era of generative AI, when the public is widely exposed to LLM-based chatbots and other network-based 'intelligent' advisory services.  From a personal perspective, it now only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
