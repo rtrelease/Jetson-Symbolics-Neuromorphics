@@ -39,7 +39,7 @@
  35. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web)
  36. [**AGX Thor Developer Kit release specifications**](https://nvdam.widen.net/s/p9z68r5znh/robotics-and-edge-ai-datasheet-jetson-thor-devkit-nvidia-us-web)
  37. **ELIZA's Grandchildren** and Computational Psychiatry on the Edge in 2025
- 38. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - Comparing model operational capabilities for specific tasks
+ 38. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - Comparing models operational capabilities for specific tasks
  39. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  40. **Parse this: Reifying *neuromorpho-symbolic AI***
  41. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
