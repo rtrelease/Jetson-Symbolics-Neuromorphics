@@ -10,3 +10,6 @@
 
 #### Meta LLama3-ChatQA 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/249706cc-7dc7-4255-9338-afb71326480c" />
+
+### MedLLaMa 2
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/cc5e5783-8e29-47bc-8bf4-cfac20c31963" />
