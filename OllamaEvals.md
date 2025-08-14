@@ -7,3 +7,6 @@
 **==> what GPT-OSS "thought" about before responding:**
 ![image](https://github.com/user-attachments/assets/57ac2aff-6afb-4830-b898-770529800f51)
 
+
+#### Meta LLama3-ChatQA 
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/249706cc-7dc7-4255-9338-afb71326480c" />
