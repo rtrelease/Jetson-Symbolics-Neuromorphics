@@ -29,7 +29,7 @@ However, much professional concern has been raised by clinical psychiatrists and
 
 A recent very publically accessible summary of professional cancerns was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
 
-Other informative concern have been expressed by 
+Other informative concern have been expressed in [Stanford Review](https://news.stanford.edu/stories/2025/06/ai-mental-health-care-tools-dangers-risks) and
 
 So implementing edge computational psychiatry tools and applications for the Jetson and the upcoming DGX Spark is a worthwhile effort.
 
