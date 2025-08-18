@@ -23,7 +23,11 @@ https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F6EAA0EC
 
 https://doi.org/10.1038/s41593-018-0210-5
 
-It is now the era of generative AI, when the public is widely exposed to LLM-based chatbots and other network-based 'intelligent' advisory services.  From a personal perspective, it now only seems a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
+It is now the era of generative AI, when the public is widely exposed to LLM-based chatbots and other network-based 'intelligent' advisory services.  From a naive perspective, it may only seem a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
+
+However, much professional concern has been raised by clinical psychiatrists and psychologists about using chatbots for formal therapy and commercial chatbots exacerbating behavioral illness.
+
+A recent very publically accessible summary of professional cancerns was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
 
 So implementing edge computational psychiatry tools and applications for the Jetson and the upcoming DGX Spark is a worthwhile effort.
 
