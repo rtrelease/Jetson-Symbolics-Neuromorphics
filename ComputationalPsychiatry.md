@@ -13,7 +13,7 @@ The ELIZA chatterbot had a simple relationship to the Turing Test and its "Imita
 
 Such work also stimulated my early research interest in *AI* in the mid-1980s, starting during my NIMH-sponsored postdoctoral Fellowship in Psychiatry and Biobehavioral Medicine.
 
-Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline after more than a decade since inception, with its own academic [journal](https://cpsyjournal.org). This former psychiatry post-doc is now an emeritus professor and NVIDIA Jetson edge applications and hardware integration developer working on computational neuroscience projects.
+Zoom to 2025, *computational psychiatry* is an established, diverse research sub-discipline more than a decade since its inception, with its own academic [journal](https://cpsyjournal.org). This former psychiatry post-doc is now an emeritus professor and NVIDIA Jetson edge applications and hardware integration developer working on computational neuroscience projects.
 
 A quick review of Journal papers reveals the current great breadth and depth of current "cpsy" basic research and clinical applications. A comprehensive professional review of the conceptual field is available at [Nature Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01743-z.pdf).
 
@@ -28,6 +28,8 @@ It is now the era of generative AI, when the public is widely exposed to LLM-bas
 However, much professional concern has been raised by clinical psychiatrists and psychologists about using chatbots for formal therapy and commercial chatbots exacerbating behavioral illness.
 
 A recent very publically accessible summary of professional cancerns was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
+
+Other informative concern have been expressed by 
 
 So implementing edge computational psychiatry tools and applications for the Jetson and the upcoming DGX Spark is a worthwhile effort.
 
