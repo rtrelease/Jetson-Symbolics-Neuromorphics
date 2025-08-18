@@ -33,7 +33,7 @@ Other informative concerns have been raised by behavioral clinicians for [Stanfo
 
 So implementing edge AI tools for behavioral health clinical use is a problematic task best left for commercial medical software teams.   But using HPC and AI as edge lab research tools for cognitve and behavioral modeling remains a worthwhile effort for the AGX Jetsons and the upcoming DGX Spark.
 
-Returning to consider the original basic chattterbot behaviors on the Jetsons, 
+Returning to consider original basic chattterbot behaviors,
 a [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is available for experimenting with basic symbolic chatterbot behavior, seen here running on an AGX Orin DK.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76c5cb33-7525-455c-aa02-f5695e4b9255" />
 
