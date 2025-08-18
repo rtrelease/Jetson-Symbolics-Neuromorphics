@@ -27,11 +27,11 @@ It is now the era of generative AI, when the public is widely exposed to LLM-bas
 
 However, much professional concern has been raised by clinical psychiatrists and psychologists about using chatbots for formal therapy and commercial chatbots exacerbating behavioral illness.
 
-A recent very accessible summary of professional cancerns was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
+For example, a recent very accessible summary of such professional concerns was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
 
-Other informative concerns have been by behavioral clinicians for [Stanford Review](https://news.stanford.edu/stories/2025/06/ai-mental-health-care-tools-dangers-risks) and [Futurism](https://futurism.com/psychiatrist-warns-ai-psychosis).
+Other informative concerns have been raised by behavioral clinicians for [Stanford Review](https://news.stanford.edu/stories/2025/06/ai-mental-health-care-tools-dangers-risks) and [Futurism](https://futurism.com/psychiatrist-warns-ai-psychosis).
 
-So implementing edge computational psychiatry tools and applications for the Jetson and the upcoming DGX Spark is a worthwhile effort.
+So implementing edge AI tools for clinical use is a problematic task best left for commercial medical software teams.   Using computational psychiatry tools for cognitve modeling and and applications is a worthwhile effort for the AGX Jetsons and the upcoming DGX Spark.
 
 A [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is available for experimenting with basic symbolic chatterbot behavior, seen here running on an AGX Orin DK.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76c5cb33-7525-455c-aa02-f5695e4b9255" />
