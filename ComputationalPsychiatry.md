@@ -27,7 +27,7 @@ It is now the era of generative AI, when the public is widely exposed to LLM-bas
 
 However, much professional concern has been raised by clinical psychiatrists and psychologists about using chatbots for formal therapy and commercial chatbots exacerbating behavioral illness.
 
-For example, a recent very accessible summary of such professional concerns was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
+For example, a recent very accessible summary of such professional reservations was written by a practicing psychiatric therapist for [Psychology Today](https://www.psychologytoday.com/us/blog/urban-survival/202505/can-ai-be-your-therapist-new-research-reveals-major-risks).
 
 Other informative concerns have been raised by behavioral clinicians for [Stanford Review](https://news.stanford.edu/stories/2025/06/ai-mental-health-care-tools-dangers-risks) and [Futurism](https://futurism.com/psychiatrist-warns-ai-psychosis).
 
