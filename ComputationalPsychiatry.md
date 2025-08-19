@@ -23,7 +23,7 @@ https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F6EAA0EC
 
 https://doi.org/10.1038/s41593-018-0210-5
 
-It is now the era of generative AI, when the public is widely exposed to LLM-based chatbots and other network-based 'intelligent' advisory services.  From a naive perspective, it may only seem a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
+It is now the era of generative AI, when the public is widely exposed to LLM-based chatbots and other 'intelligent' network-based creative services.  From a naive perspective, it may only seem a matter of time before FDA-tested and approved commercial online computational psychiatry applications are accepted for "billable clinical consultations" by major healthcare systems and provider management.
 
 However, much professional concern has been raised by clinical psychiatrists and psychologists about using chatbots for formal therapy and commercial chatbots exacerbating behavioral illness.
 
