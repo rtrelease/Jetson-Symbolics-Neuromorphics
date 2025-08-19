@@ -31,7 +31,7 @@ For example, a recent very accessible summary of such professional reservations 
 
 Other informative concerns have been raised by behavioral clinicians for [Stanford Review](https://news.stanford.edu/stories/2025/06/ai-mental-health-care-tools-dangers-risks) and [Futurism](https://futurism.com/psychiatrist-warns-ai-psychosis).
 
-So implementing edge AI tools for behavioral health clinical approval and use is a formidable task best left for commercial medical software teams.   But using HPC and AI as edge lab research tools for cognitve and behavioral modeling remains a worthwhile effort for the AGX Jetsons and the upcoming DGX Spark.
+So implementing edge AI tools for FDA-approved behavioral health clinical applications is a formidable task best left for commercial medical software teams.   But using HPC and AI as edge lab research tools for cognitve and behavioral modeling remains a worthwhile effort for the AGX Jetsons and the upcoming DGX Spark.
 
 Returning to consider original basic chattterbot behaviors,
 a [python revival of lost ELIZA code](https://github.com/wadetb/eliza) is available for experimenting, as seen below running on an AGX Orin DK.
