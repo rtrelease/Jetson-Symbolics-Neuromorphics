@@ -1,2 +1,13 @@
 
 ![Screenshots from 2022-03-25 20-28-19](https://user-images.githubusercontent.com/71346897/170128984-4a60f656-8cde-483d-8c8d-beadd2889da4.png)
+
+
+
+
+
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/deb377c2-c06c-4dd8-8733-be6501501329" />
+
+
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/fe5fa34c-99c2-4404-9344-e07a3b75899b" />
+
+
