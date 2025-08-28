@@ -2,7 +2,7 @@
 
 #### **2.  Making symbolic AI programming (and other things) *go-faster* on Jetsons** with *GraalVM*, its LLVM, polyglot languages resources, and GPUs
 
-The previous [AI Lab Notes](https://www.seeedstudio.com/blog/2022/04/10/ai-lab-notes-adding-symbolic-ai-programming-to-nvidia-jetson-powered-deep-neural-network-development-systems/) covered adding *open source* symbolic programming tools to the Jetson Xavier NX L4T/Ubuntu Linux for developing new *neural-symbolic* edge applications with NVIDIA's excellent GPU-based deep neural networks resources environments.   Prime emphasis was placed on inter-operating well with NV's powerful Python deep learning resources, including Jupyter Notebooks.
+The previous [AI Lab Note](https://www.seeedstudio.com/blog/2022/04/10/ai-lab-notes-adding-symbolic-ai-programming-to-nvidia-jetson-powered-deep-neural-network-development-systems/) covered adding *open source* symbolic programming tools to the Jetson Xavier NX L4T/Ubuntu Linux for developing new *neural-symbolic* edge applications with NVIDIA's excellent GPU-based deep neural networks resources environments.   Prime emphasis was placed on inter-operating well with NV's powerful Python deep learning resources, including Jupyter Notebooks.
 
 We showed the latest **[CLIPS](https://sourceforge.net/projects/clipsrules/files/CLIPS/6.40/)** (C Language Interpretive Production System) ARM64 binaries running symbolic *qualitative process models* on the Jetson Xavier NX.  Their Java Native Interface (JNI) .jars execute through the Ubuntu/L4T default aarch64 *OpenJDK 11 virtual machine* (VM).  
 
