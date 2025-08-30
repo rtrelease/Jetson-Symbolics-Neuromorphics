@@ -4,7 +4,7 @@ This Note will serve as a preface for the collected **AI Lab Notes**, as well as
 
 With the greatest of respect, the perspectives presented in this Repository do not represent those of a professional engineer, quant, or physicist, but those of an emeritus neuroscientist who trained on analyzing EEG and other physiological data on the first generation of laboratory instrumentation computer (Digital Equipment Corporation PDP-12) in the late 1970s.
 
-Forward-looking at the time, my biomedical research Doctoral program had supported computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scholarly scientific journals, and FORTH was the chosen language for talking directly with analog instrumentation and other peripherals.
+Forward-looking at the time, my biomedical research Doctoral program had supported computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scholarly scientific journals, and FORTH was the chosen language for talking directly with analog instrumentation and other lab peripherals.
 
 By the 1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11s and their first-generation IC-based LSI-11 successors. While doing research for an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming.
 
