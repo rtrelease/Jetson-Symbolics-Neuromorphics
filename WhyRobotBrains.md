@@ -6,6 +6,6 @@ With the greatest of respect, the perspectives presented in this Repository do n
 
 Forward-looking at the time, my biomedical research Doctoral program had supported computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scholarly scientific journals, and FORTH was the chosen language for talking directly with analog instrumentation and other peripherals.
 
-By the mid-1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11s and their first-generation IC-based LSI-11 successors. While doing research for an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming.
+By the 1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11s and their first-generation IC-based LSI-11 successors. While doing research for an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming.
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
