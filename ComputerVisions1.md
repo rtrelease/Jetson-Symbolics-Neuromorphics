@@ -1,4 +1,4 @@
-#### Edge Computer Visions 1: 
+#### Edge Computer Visions 1: Emergent infinity tunnels and other physical computing phenomena
 
 **==> MoZArt,**
 
