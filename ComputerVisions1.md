@@ -1,4 +1,4 @@
-#### Edge Computer Visions 1
+#### Edge Computer Visions 1: 
 
 **==> MoZArt,**
 
