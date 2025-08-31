@@ -2,9 +2,11 @@
 
 *This Note will serve as a preface for the collected* **AI Lab Notes**, *as well as a commentary on the current NVIDIA Jetson state-of-the-art for physical computing, AI, and robotics.*
 
+**Backstory**
+
 With the greatest of respect, the perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist, but those of an emeritus neuroscientist who trained on analyzing EEG and other physiological data on the first generation of laboratory instrumentation computer (Digital Equipment Corporation PDP-12) *in the late 1970s.*
 
-Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publication, and FORTH was the chosen language for talking directly with new analog instrumentation and other lab peripherals.
+Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publication, and FORTH became the chosen language for talking directly with new analog instrumentation and other lab peripherals.
 
 By the 1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing research for an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming on early personal computers.
 
