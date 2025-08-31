@@ -8,7 +8,9 @@ With the greatest of respect, the perspectives presented in this Repository do n
 
 Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publications, and FORTH became the chosen language for talking directly with new analog instrumentation and other lab peripherals.
 
-By the 1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing follow-on research for an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming on early personal computers.
+By the 1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing follow-on research in an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming on early personal computers.
+
+Since AI research encompassed understanding cognitive functions and computation with early primitive model 'neurons', it seemed a valuable complement to deep understanding of biological brains and behaviors.
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
