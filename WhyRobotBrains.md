@@ -4,7 +4,7 @@
 
 **Backstory**
 
-With the greatest of respect, the perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist, but those of an emeritus neuroscientist who trained on analyzing EEG and other physiological data on the first generation of laboratory instrumentation computer (Digital Equipment Corporation PDP-12) *in the late 1970s.*
+With the greatest of respect, the perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist, but those of an emeritus neuroscientist who trained on analyzing EEG and other physiological data on the first generation of laboratory instrumentation computers (Digital Equipment Corporation PDP-12) *in the late 1970s.*
 
 Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publication, and FORTH became the chosen language for talking directly with new analog instrumentation and other lab peripherals.
 
