@@ -1,6 +1,6 @@
 ### Why *Robot Brains*?  Reflections on the Science of Artificial Intelligence within Global Commercial Bubbles
 
-*This Note will serve as a preface for the collected* **AI Lab Notes**, *as well as a commentary on the current NVIDIA Jetson state-of-the-art for physical computing, AI, and robotics.*
+*This Note will serve as a preface for the collected* **AI Lab Notes**, *as well as a commentary on the current NVIDIA Jetson state-of-the-art for physical computing, AI, and robotics for Edge laboratories.*
 
 **Backstory**
 
