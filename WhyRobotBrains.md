@@ -14,7 +14,9 @@ Since contemporary AI research encompassed understanding cognitive functions and
 
 Embedded in symbolic programming at the outset, it was great to ingest the volumes of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released.  The scholars of the PDP group clearly pointed the way forward from multi-layered perceptrons toward the present hyperfunctional networks.
 
-After getting a faculty appointment with major teaching responsibilities in functional anatomy and neurosciences, my symbolic programming research progressed into qualitative process theory (QPT) and modeling. I finally started studying artificial neural networks after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolbox and NVIDIA GPUs.
+After getting a medical school faculty appointment with major teaching responsibilities in functional anatomy and neurosciences, my symbolic programming research progressed into qualitative process theory (QPT) and modeling. 
+
+I finally started studying artificial neural networks after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolbox and NVIDIA GPUs.
 
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
