@@ -6,11 +6,11 @@
 
 With the greatest of respect: The perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist, but those of an emeritus neuroscientist who first trained on analyzing EEG and other physiological data on the first generation of laboratory instrumentation computers (Digital Equipment Corporation PDP-12) *in the late 1970s.*
 
-Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publications, and FORTH was the chosen language for processing data from from new analog instrumentation and other lab peripherals.
+Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publications, and FORTH was then the chosen language for directly processing data from from new analog instrumentation and other lab peripherals.
 
-By the 1980s, our behavioral neurophysiology lab had evolved into using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing follow-on research in an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming on early personal computers.
+By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing follow-on research in an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming on early personal computers.
 
-Since contemporary AI research encompassed understanding cognitive functions and computation with early primitive model 'neurons', it seemed a valuable asset that could be amplified with deep understanding of biological brains and behaviors.
+Since contemporary AI research encompassed understanding cognitive functions and computation with early primitive model 'neurons', it seemed a valuable asset that could be amplified with deep understanding of biological brains and behaviors.  For an academic scientist, and new foundational textbook was Stuart and Norvig's Artificial Intelligence A Modern Approach.
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
