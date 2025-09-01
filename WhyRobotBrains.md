@@ -10,7 +10,7 @@ Forward-looking at the time, my biomedical research Doctoral program had support
 
 By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing follow-on research in an NIMH postdoctoral fellowship, I also started studying artificial intelligence and symbolic programming on early personal computers.
 
-Since contemporary AI research encompassed understanding cognitive functions and computation with early primitive model 'neurons', it seemed a valuable asset that could be amplified with deep understanding of biological brains and behaviors. Stuart and Norvig's <ins>Artificial Intelligence: A Modern Approach</ins> became a new foundational textbook for an academic neuroscientist.
+Since contemporary AI research encompassed understanding cognitive functions and computation with early primitive model 'neurons', it seemed a valuable scientific asset that could be enhanced with deep understanding of biological brains and behaviors. Stuart and Norvig's <ins>Artificial Intelligence: A Modern Approach</ins> became a new foundational textbook for an academic neuroscientist.
 
 At the outset, 'joining up' during the expert system wave of symbolic programming and progressing into qualitative process theory (QPT) and modeling, I finally started studying artificial neural networks after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolbox and NVIDIA GPUs.
 
