@@ -12,9 +12,9 @@ By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP
 
 Since contemporary AI research encompassed understanding cognitive functions and  computation with early primitive model 'neurons', it seemed a valuable scientific asset that could be enhanced with deep understanding of biological brains and behaviors. Stuart and Norvig's [Artificial Intelligence: A Modern Approach](https://en.m.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) became a new foundational textbook for an academic neuroscientist.
 
-Embedded in symbolic programming at the outset, it was great ingest new copies of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released.  Their writers clearly pointed the way forward from multi-layered perceptrons
+Embedded in symbolic programming at the outset, it was great to ingest the volumes of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released.  The scholars of the PDP group clearly pointed the way forward from multi-layered perceptrons toward the present hyperfunctional networks.
 
-At the outset, 'joining up' with AI research during the expert system wave of symbolic programming and progressing into qualitative process theory (QPT) and modeling, I finally started studying artificial neural networks after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolbox and NVIDIA GPUs.
+After getting a faculty appointment with major teaching responsibilities in functional anatomy and neurosciences, my symbolic programming research progressed into qualitative process theory (QPT) and modeling. I finally started studying artificial neural networks after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolbox and NVIDIA GPUs.
 
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
