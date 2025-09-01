@@ -12,7 +12,7 @@ By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP
 
 Since contemporary AI research encompassed understanding cognitive functions and  computation with early primitive model 'neurons', it seemed a valuable scientific asset that could be enhanced with deep understanding of biological brains and behaviors. Stuart and Norvig's [Artificial Intelligence: A Modern Approach](https://en.m.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) became a new foundational textbook for an academic neuroscientist.
 
-Embedded in symbolic programming at the outset, it was great to ingest the volumes of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released.  The scholars of the PDP group clearly pointed the way forward from multi-layered perceptrons toward the present hyperfunctional networks.
+Embedded in symbolic programming at the outset, it was especially great to ingest the volumes of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released.  The scholars of the PDP group clearly pointed the way forward from multi-layered perceptrons toward the present hyperfunctional networks.
 
 After getting a medical school faculty appointment with major teaching responsibilities in functional anatomy and neurosciences, my symbolic programming research progressed into qualitative process theory (QPT) and modeling. 
 
