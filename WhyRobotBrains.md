@@ -11,7 +11,6 @@ Forward-looking at the time, my biomedical research Doctoral program had support
 By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP-11 minicomputers and their first-generation IC-based LSI-11 successors. While doing follow-on research in an NIMH postdoctoral fellowship, I started studying artificial intelligence and symbolic programming on early personal computers.
 
 Since contemporary AI research encompassed understanding cognitive functions and computation with early primitive model 'neurons', it seemed a valuable asset that could be amplified with deep understanding of biological brains and behaviors.  For an academic scientist, and new foundational textbook was Stuart and Norvig's Artificial Intelligence A Modern Approach.
-
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
