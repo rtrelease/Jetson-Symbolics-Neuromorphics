@@ -18,11 +18,13 @@ After getting a medical school faculty appointment with major teaching responsib
 
 I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and early server-based NVIDIA GPUs.
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
-A
+
 **On to Robot Brains**
 
-Some time before chosing to retire from increasingly burdensome teaching responsibilities in favor of research, NVIDIA Jetsons appeared on my 'neuro-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and Xavier NXes after I went emeritus and focused primarily on research.
+Some time before chosing to retire from increasingly burdensome teaching in favor of research, NVIDIA Jetsons appeared on my 'neuro-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
 
+As my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most fortunate because the global COVID-19 pandemic started shortly after going emeritus, and University  facilities were shut down for nearly three years.
 
+The collected AI Lab Notes present structured views of the all the development that occurred in this Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
