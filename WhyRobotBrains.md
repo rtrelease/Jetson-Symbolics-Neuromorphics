@@ -14,7 +14,7 @@ Since contemporaneous AI research encompassed understanding cognitive functions 
 
 Embedded in symbolic programming at the outset, it was especially great to ingest the volumes of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released. Rumelhart, Hinton, McClelland and the scholars of the PDP group clearly pointed the connectionist way forward from multi-layered perceptrons toward the present hyperfunctional deep neural networks.
 
-My symbolic programming research progressed into [qualitative process theory](https://archive.org/details/readingsinqualit0000unse) (QPT) and modeling after getting a medical school faculty appointment with major teaching responsibilities in functional anatomy and neurosciences. 
+My symbolic programming research progressed into [qualitative process theory](https://archive.org/details/readingsinqualit0000unse) (QPT) and modeling immune and gene regulation processes after getting a medical school faculty appointment with major teaching responsibilities in functional anatomy and neurosciences. 
 
 I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and server-based NVIDIA GPUs.
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
