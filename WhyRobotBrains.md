@@ -21,6 +21,7 @@ I finally started studying artificial neural networks in action after the turn o
 
 **On to Robot Brains**
 
+Some time before chosing to retire from increasingly burdensome teaching responsibilities in favor of research, NVIDIA Jetsons appeared on my 'neuro-hacker radar'.
 
 
 
