@@ -4,7 +4,7 @@
 
 **Backstory**
 
-With the greatest of respect: The perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist. These are the Lab Notes of an emeritus neuroscientist who first trained on analyzing EEG and other physiological data on the first generation of laboratory instrumentation computers (Digital Equipment Corporation PDP-12) *in the late 1970s.*
+With the greatest of respect: The perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist. These are the Lab Notes of an emeritus neuroscientist who first trained on digitizing and analyzing EEG and other physiological data on the first generation of laboratory instrumentation computers (Digital Equipment Corporation PDP-12) *in the late 1970s.*
 
 Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language degree requirements. We had to produce our own data acquisition and analysis programs for research and scientific journal publications, and FORTH was then the chosen language for directly processing data from from new analog instrumentation and other lab peripherals.
 
@@ -21,9 +21,9 @@ I finally started studying artificial neural networks in action after the turn o
 
 **On to Robot Brains**
 
-Some time before chosing to retire from increasingly burdensome teaching in favor of doing research, NVIDIA Jetsons appeared on my 'neuro-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
+Some time before chosing to retire from increasingly burdensome teaching in favor of doing research, NVIDIA Jetsons appeared on my 'neurosci-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
 
-Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the capacity for realtime handling of multiple sensors, controlling outputs, and cognitive modeling.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
+Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the capacity and lots of GPIO for realtime handling of multiple sensors, controlling outputs, and cognitive modeling.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
 
 As my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most fortunate because the global COVID-19 pandemic started shortly after emeritus conferral, and University  facilities were shut down for nearly three years.
 
