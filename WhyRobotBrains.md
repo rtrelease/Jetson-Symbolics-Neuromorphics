@@ -23,7 +23,7 @@ I finally started studying artificial neural networks in action after the turn o
 
 Some time before chosing to retire from increasingly burdensome teaching in favor of doing research, NVIDIA Jetsons appeared on my 'neuro-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
 
-Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the capacity for realtime handling of multiple sensors, controlling outputs, and cognitive modeling.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donation to a high school robotics teaching lab.
+Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the capacity for realtime handling of multiple sensors, controlling outputs, and cognitive modeling.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
 
 As my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most fortunate because the global COVID-19 pandemic started shortly after emeritus conferral, and University  facilities were shut down for nearly three years.
 
