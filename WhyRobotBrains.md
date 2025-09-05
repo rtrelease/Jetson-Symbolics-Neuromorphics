@@ -30,3 +30,10 @@ As my emeritus appointment approached, a lot of planning went into setting up an
 The collected AI Lab Notes present structured views of the all the development that occurred in this Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
+
+
+![image](https://github.com/user-attachments/assets/7ec31302-092a-4c03-8811-f00d2d91d8e4)
+
+
+
+
