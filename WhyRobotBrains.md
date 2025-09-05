@@ -33,7 +33,6 @@ The collected AI Lab Notes present structured views of the all the development t
 
 
 ##### Thor has landed! Time to reorganize the lab!
-
 ![image](https://github.com/user-attachments/assets/7ec31302-092a-4c03-8811-f00d2d91d8e4)
 
 
