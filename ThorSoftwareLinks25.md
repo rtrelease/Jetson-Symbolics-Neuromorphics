@@ -2,7 +2,7 @@
 
 #### AGX Thor Symbolics + Neomorphics Software Installations
 
-**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Orin base software**
+**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Thor, JetPack 7 base software**
 
  - *OpenJDK* Java Base -  *sudo apt install default-jdk*  **= Java 21**
 
@@ -20,7 +20,7 @@
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
 **Scientific Image Processing**
- - *ImageJ* - [Legacy application from the NIH/NSF](https://imagej.net/) - Use platform independent jar with existing JDK installation and/or GraalVM -  *sudo apt install imagej*
+ - *ImageJ* - [Legacy application from the NIH/NSF](https://imagej.net/) - Use platform independent jar with existing JDK installation and/or GraalVM, or -  *sudo apt install imagej*
 
 
 **CircuitPython Editor/IDE with serial communications and plotter**
