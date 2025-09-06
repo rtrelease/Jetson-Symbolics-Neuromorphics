@@ -20,7 +20,7 @@
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
 **Scientific Image Processing**
- - *ImageJ* - [Legacy application from the NIH/NSF](https://imagej.net/) - Use platform independent jar with existing JDK installation and/or GraalVM
+ - *ImageJ* - [Legacy application from the NIH/NSF](https://imagej.net/) - Use platform independent jar with existing JDK installation and/or GraalVM -  *sudo apt install imagej*
 
 
 **CircuitPython Editor/IDE with serial communications and plotter**
