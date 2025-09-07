@@ -25,6 +25,8 @@ Some time before chosing to retire from burdensome teaching in favor of doing re
 
 Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the integrated GPUs, speed, capacity, and lots of GPIO for realtime handling of multiple sensors, controlling outputs, and modeling cognitive functions.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
 
+Adding to those robot modality aspects, there was the capacity for complex behavioral modeling, spatialization of objects, and neuromorphic modeling.
+
 As my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most fortunate because the global COVID-19 pandemic started shortly after emeritus conferral, and University  research facilities were shut down for nearly three years.
 
 The collected AI Lab Notes present structured views of the all the development that occurred in this Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.
