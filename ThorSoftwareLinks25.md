@@ -15,7 +15,7 @@
    
  - *Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
- - *Jupyter* - *pip* base system install: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
+ - *Jupyter* - part of JetPack 7 BSP .  Otherwise *pip* base system and conda installs;
 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
