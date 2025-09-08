@@ -6,8 +6,10 @@
 
  - +*OpenJDK* Java Base -  *sudo apt install default-jdk*  **= Java 21**
 
- - *Protege* Desktop Ontology Editor - platform independent download site: https://protege.stanford.edu/software.php
-   - requires JAVA_HOME setting, eg: *export JAVA_HOME=usr/lib/jvm/java-11-openjdk-arm64*
+ - +*Protege* Desktop Ontology Editor - platform independent download site: https://protege.stanford.edu/software.php
+   - **requires JAVA_HOME setting:**
+   - *export JAVA_HOME=usr/lib/jvm/java-21-openjdk-arm64*
+   - *export PATH=$PATH:$JAVA_HOME/bin*
 
 - *owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *sudo pip install owlready2*
 
