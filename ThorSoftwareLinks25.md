@@ -42,3 +42,4 @@
 **Large-scale biological neuron network modeling including spiking neurons**
  - *Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *sudo pip install nengo*
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7348185-10ce-4232-910d-b1bef089c9fa" />
