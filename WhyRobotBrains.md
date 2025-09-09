@@ -37,7 +37,11 @@ The collected AI Lab Notes present structured views of the all the development t
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
+
+**==> Testing AGX Thor JDK 21 performance: ImageJ and MRI, CLIPS IDE and gene model**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0521714f-969a-4520-88a9-be79e940e20f" />
+
+
 **==> Testing AGX Thor JDK 21 performance: ImageJ and MRI, Protege and FMA onto**
 ![image](https://github.com/user-attachments/assets/8d9413f0-5fea-402d-be07-ca53b6cd8ef3)
-
 
