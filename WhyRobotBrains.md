@@ -25,6 +25,8 @@ Some time before chosing to retire from burdensome teaching in favor of doing re
 
 Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the integrated GPUs, speed, capacity, and lots of GPIO for realtime handling of multiple sensors, controlling outputs, and modeling cognitive functions.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
 
+On the research side, computer vision networks were initially the most practically useful AI applications for a neuroscientist, with auto-segmentation and object identification in biomedical imaging ranging from microscopic histology through magnetic resonance (MR) and computed tomography of brain and body.
+
 Adding to those robot modality aspects, there was the capacity for complex behavioral modeling, spatialization of objects, and neuromorphic modeling.  For the neuroscientist, the ability to model a real-time functioning modular sensorimotor  system was particularly attractive, given multi-agent approaches to developing novel silicon nervous systems based on standardized Jetson operating software resources.
 
 As my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most fortunate because the global COVID-19 pandemic started shortly after emeritus conferral, and University  research facilities were shut down for nearly three years.
