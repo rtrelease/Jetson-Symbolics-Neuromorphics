@@ -15,7 +15,7 @@
 
  - +*CLIPS* symbolic programing language - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/ - CLIPSJNI launch: java -Djava.library.path= -jar CLIPSIDE.jar
    
- - *Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
+ - +*Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
  - *Jupyter* - part of JetPack 7 BSP .  Otherwise *pip* base system and conda installs;
 
