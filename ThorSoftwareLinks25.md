@@ -2,7 +2,7 @@
 
 #### AGX Thor Symbolics + Neomorphics Software Installations
 
-**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions of AGX Thor, JetPack 7 base software**
+**Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions for AGX Thor, JetPack 7 base software**
 
  - +*OpenJDK* Java Base -  *sudo apt install default-jdk*  **= Java 21**
 
