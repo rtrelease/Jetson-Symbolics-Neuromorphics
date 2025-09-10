@@ -32,7 +32,7 @@
 
 **Cellular Automata**
 
- - +*Golly* - Game of Life automata app: *sudo apt install golly*
+ - +*Golly* - [Game of Life automata](https://golly.sourceforge.io) app: *sudo apt install golly*
    
 **Finite-State Machines**
 
