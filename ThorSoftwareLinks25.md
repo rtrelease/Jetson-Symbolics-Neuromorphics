@@ -26,7 +26,8 @@
 
 
 **CircuitPython Editor/IDE with serial communications and plotter**
- - *Mu Editor* - [Mu Editor Documentation](https://mu.readthedocs.io/_/downloads/en/latest/pdf/) - *sudo apt install mu-editor*
+ - *Mu Editor* - sundowned by developer
+ - *Thonny* - basic Python editor compatible with CP - install from Jetson software app
 
 
 **Cellular Automata**
