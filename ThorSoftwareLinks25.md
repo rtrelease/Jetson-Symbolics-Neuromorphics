@@ -27,7 +27,7 @@
 
 **CircuitPython Editor/IDE with serial communications and plotter**
  - *Mu Editor* - sundowned by developer
- - +*Thonny* - [basic Python editor compatible with CP](https://thonny.org) - install version 4.0.1 from Jetson/Ubuntu Software app
+ - *Thonny* - [basic Python editor compatible with CP](https://thonny.org) - install version 4.0.1 from Jetson/Ubuntu Software app ***freezes on open new document***
 
 
 **Cellular Automata**
