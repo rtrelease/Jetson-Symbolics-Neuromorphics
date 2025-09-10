@@ -1,6 +1,6 @@
 ## <u>AI Lab Notes</u>
 
-#### AGX Thor Symbolics + Neomorphics Software Installations
+#### AGX Thor Symbolics + Neomorphics Software Installations - *testing in process*
 
 **Foundational Installations for symbolic, neurosymbolic, neuromorphic computing, and MCU I/O extensions for AGX Thor, JetPack 7 base software**
 
