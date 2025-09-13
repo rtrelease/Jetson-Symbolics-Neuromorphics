@@ -12,7 +12,7 @@ By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP
 
 Since contemporaneous AI research encompassed modeling cognitive functions and  computation with early primitive model 'neurons', this new study track seemed a valuable scientific asset that could be developmentally enhanced with deep understanding of biological brains and behaviors. So Russell and Norvig's [Artificial Intelligence: A Modern Approach](https://en.m.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) ultimately became a new foundational textbook for this academic neuroscientist.
 
-Caught up in the *expert system* wave of symbolic AI programming at the outset, the mid-range aim was to become a knowledge engineer as well as a multi-domain expert.
+Caught up in the *expert system* wave of symbolic AI programming at the outset, the mid-range aim was to become a knowledge engineer, as well as a multi-domain expert.
 
 Nonetheless, for a neuroscientist, it was a tremendous charge to absorb the volumes of [Parallel Distributed Processing](https://direct.mit.edu/books/monograph/4424/Parallel-Distributed-Processing-Volume) when they were first released. Rumelhart, Hinton, Sejnowski, McClelland and the PDP group clearly pointed the connectionist way forward from multi-layered perceptrons toward the current hyperfunctional deep neural networks and machine learning.
 
