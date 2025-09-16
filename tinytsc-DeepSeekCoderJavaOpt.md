@@ -1,4 +1,4 @@
-## TinyTSC Engine Java modules optimization and P
+## TinyTSC Engine Java modules optimization and Python translation: Session output from DeepSeek Coder v2 via Ollama on AGX Orin 64, via an iPad browser
 
 ### USER
 Can you describe and analyze this code file?
