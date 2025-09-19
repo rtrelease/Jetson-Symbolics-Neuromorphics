@@ -85,6 +85,9 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29a8d82b-7b92-4cfe-bcaf-c3d3ecb36b70" width=30% height=30% />
 </p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0254d023-15fb-4436-8733-cc448537a3b3" width=40% height=40% />
+</p>
 
 <p align="center">
 <a href="https://github.com/rtrelease/Jetson-Symbolics/blob/main/PotatoHeadAILibrary.md">Mr Potato Head's AI library</a>
