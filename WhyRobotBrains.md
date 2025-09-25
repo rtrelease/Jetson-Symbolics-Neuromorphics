@@ -49,6 +49,6 @@ The collected AI Lab Notes present structured views of the all the development t
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0521714f-969a-4520-88a9-be79e940e20f" />
 
 
-**==> AGX Thor session: JDK 2 with ImageJ and MRI, Protege and FMA ontology**
+**==> AGX Thor session: JDK 21 running ImageJ with MRI stack, Protege with FMA ontology**
 ![image](https://github.com/user-attachments/assets/8d9413f0-5fea-402d-be07-ca53b6cd8ef3)
 
