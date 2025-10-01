@@ -42,7 +42,7 @@
  36. [**AGX Thor Developer Kit**](https://nvdam.widen.net/s/p9z68r5znh/robotics-and-edge-ai-datasheet-jetson-thor-devkit-nvidia-us-web) - **Thor has** [landed](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AGX_Thor0.md) - [AI Lab Software Installations](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorSoftwareLinks25.md) --> currently being tested
  38. **ELIZA's Grandchildren** and Computational Psychiatry on the Edge in 2025
  39. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md)' operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
- 40. ***Analyzing and Transforming Symbolic Modeling Code with Large Language Models:*** Optimizing Java to Python via DeepSeekCoder and Ollama
+ 40. ***Neurosymbolics 0 - Analyzing and Transforming Symbolic Modeling Code with Large Language Models:*** Optimizing Java to Python and Designing New Inference Engines
  41. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  43. **Parse this: Reifying *neuromorpho-symbolic AI***
  44. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
