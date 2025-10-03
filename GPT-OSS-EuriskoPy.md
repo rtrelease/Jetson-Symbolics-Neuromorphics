@@ -154,7 +154,7 @@ class InferenceEngine:
                         return True
 
             if not new_facts:
-                # Nothing new was added this iteration â we are stuck
+                # Nothing new was added this iteration - we are stuck
                 break
 
             # Reset for next iteration
@@ -169,7 +169,7 @@ class InferenceEngine:
         """
         Very naive hypothesis: create a rule that says the goal follows from
         *all* currently known facts.  This mimics Eurisko's *generate a rule
-        that would make the goal true* behaviour.
+        that would make the goal true* behaviour.
         """
         antecedents = tuple(self.kb.facts)  # current facts become antecedents
         hypothesis = Rule(antecedents, goal)
