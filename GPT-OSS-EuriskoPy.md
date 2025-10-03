@@ -520,7 +520,7 @@ Final probability of ('E',) = 0.616
 > **Interpretation**  
 > - `P(A)=0.9`, `P(B)=0.8`, `P(C)=0.6`.  
 > - `P(D)=0.9*0.8*0.95 = 0.684`.  
-> - `P(E)=0.684*0.6*0.9 â 0.616`.  
+> - `P(E)=0.684*0.6*0.9 = 0.616`.  
 > The engine stops after the first iteration because it can already derive `E`.  The hypothesis generation step is not needed in this example, but you will see it if you set `max_iter` higher and/or lower the initial rule weights.
 
 ---
@@ -537,7 +537,7 @@ Final probability of ('E',) = 0.616
 
 ---
 
-## 6. Takeâaway
+## 6. Take-away
 
 * **Probabilities are just numbers** that propagate through rules according to a chosen combination rule.  
 * The engine above keeps the *logic* of Eurisko (rule application, hypothesis generation) intact while adding a *numeric layer* that lets you reason under uncertainty.  
