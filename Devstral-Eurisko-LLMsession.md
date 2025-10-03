@@ -349,7 +349,7 @@ Create a script to test the integration, which includes:
 - Running Eurisko's inference engine with those facts.
 - Sending results back to Devstral.
 
-Hereâs an example of a full test script:
+Here's an example of a full test script:
 
 ```python
 import requests
