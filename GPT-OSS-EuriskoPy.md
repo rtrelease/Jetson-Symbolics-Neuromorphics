@@ -266,19 +266,19 @@ The skeleton above can be expanded in many ways to move closer to Eurisko:
 | Feature | Where to add it | Rough implementation idea |
 |---------|-----------------|---------------------------|
 | **Rule abstraction / generalization** | `generate_hypothesis` | Learn a rule with variables instead of concrete facts. |
-| **Metaâcognition** | Add a `MetaEngine` that monitors success/failure patterns and adjusts rule weights. |
+| **Meta-cognition** | Add a `MetaEngine` that monitors success/failure patterns and adjusts rule weights. |
 | **Hypothesis testing** | Store proposed rules in a separate pool and evaluate them by trying to prove unrelated facts. |
 | **Pattern mining** | Scan the KB for frequent antecedent combinations before proposing a rule. |
-| **User interaction** | When a rule fails, ask the user for a correction (like in Euriskoâs âlearning from the environmentâ). |
+| **User interaction** | When a rule fails, ask the user for a correction (like in Eurisko's *learning from the environment*). |
 | **Temporal/ probabilistic reasoning** | Replace boolean facts with probabilities and use Bayesian updating. |
 
 ---
 
 ## 5. Summary
 
-* The code above gives you a **minimal, runnable Euriskoâstyle inference engine**: facts, rules, forwardâchaining, hypothesis generation, and a learning loop.  
+* The code above gives you a **minimal, runnable Euriskoâstyle inference engine**: facts, rules, forward-chaining, hypothesis generation, and a learning loop.  
 * It is intentionally simple so that you can run it, see how the inference chain works, and then experiment by adding your own extensions.  
-* If you want a productionâready or academically accurate Eurisko implementation, you would need to dive into Lenatâs papers and incorporate far more sophisticated metaâlearning, pattern matching, and knowledgeâbase management.
+* If you want a production-ready or academically accurate Eurisko implementation, you would need to dive into Lenat's papers and incorporate far more sophisticated meta-learning, pattern matching, and knowledge-base management.
 
 Happy hacking!
 
@@ -307,7 +307,7 @@ The goal is to keep the code readable while showing the mechanics of **probabili
 
 ---
 
-## 1. What âbasic probabilistic reasoningâ means in this context
+## 1. What *basic probabilistic reasoning* means in this context
 
 | Item | How it is represented | How it is used |
 |------|-----------------------|----------------|
