@@ -1,3 +1,5 @@
+## GPT-OSS session output
+
 ### USER
 Can you create code for a Eurisko inference engine in Python?
 
