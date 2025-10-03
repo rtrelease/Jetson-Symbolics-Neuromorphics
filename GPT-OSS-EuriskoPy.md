@@ -312,7 +312,7 @@ The goal is to keep the code readable while showing the mechanics of **probabili
 | Item | How it is represented | How it is used |
 |------|-----------------------|----------------|
 | **Fact** | A literal (e.g. `("A",)`) + a float in `[0,1]` | Stores how sure we are that the fact is true. |
-| **Rule** | Antecedents + consequent + a *rule weight* (also in `[0,1]`) | The ruleâs weight reflects how reliable the implication is. |
+| **Rule** | Antecedents + consequent + a *rule weight* (also in `[0,1]`) | The rule's weight reflects how reliable the implication is. |
 | **Inference** | When all antecedents are known, the probability of the consequent is the *product* of antecedent probabilities times the rule weight. | This is the simplest âindependenceâ assumption. |
 
 > **Why the product?**  
@@ -320,7 +320,7 @@ The goal is to keep the code readable while showing the mechanics of **probabili
 > The rule weight then scales that joint probability to give the chance that the consequent follows.
 
 > **What if multiple rules derive the same fact?**  
-> We keep the *maximum* probability seen so far for a fact (the âbestâ derivation).  
+> We keep the *maximum* probability seen so far for a fact (the *best* derivation).  
 > (You could also sum or average â the choice depends on the problem domain.)
 
 ---
@@ -350,7 +350,7 @@ class Rule:
 ```python
 @dataclass
 class KnowledgeBase:
-    facts: Dict[Fact, float] = field(default_factory=dict)   # fact â probability
+    facts: Dict[Fact, float] = field(default_factory=dict)   # fact probability
     rules: Set[Rule] = field(default_factory=set)
 
     def add_fact(self, fact: Fact, prob: float = 1.0) -> None:
@@ -372,7 +372,7 @@ class KnowledgeBase:
 
 ```python
 class ProbInferenceEngine:
-    """Forwardâchaining engine that propagates probabilities."""
+    """Forward-chaining engine that propagates probabilities."""
 
     def __init__(self, kb: KnowledgeBase):
         self.kb = kb
@@ -411,7 +411,7 @@ class ProbInferenceEngine:
                     )
                     changed = True
                     if r.consequent == goal:
-                        # We are done â but keep running so that other rules
+                        # We are done - but keep running so that other rules
                         # might give an even higher probability later.
                         pass
 
@@ -462,7 +462,7 @@ class ProbInferenceEngine:
 
     # ------------------------------------------------------------------
     def trace(self) -> None:
-        """Prettyâprint the trace."""
+        """Pretty-print the trace."""
         print("\n".join(self.trace_log))
 ```
 
@@ -527,10 +527,10 @@ Final probability of ('E',) = 0.616
 
 | Feature | Where to add it | Quick sketch |
 |---------|-----------------|--------------|
-| **Dependent antecedents** | `ProbInferenceEngine.forward_chain` | Replace the product with a custom function (e.g., logâsumâexp for Bayesian networks). |
+| **Dependent antecedents** | `ProbInferenceEngine.forward_chain` | Replace the product with a custom function (e.g., log sum exp for Bayesian networks). |
 | **Conflict resolution** | When multiple rules produce the same consequent | Keep the *maximum* probability (as done) or combine them via `max(p1, p2)` or `p1 + p2 - p1*p2`. |
 | **Rule learning** | `generate_hypothesis` | Instead of using *all* facts, use a statistical model (e.g., naive Bayes) to pick antecedents that most strongly predict the goal. |
-| **Confidence thresholds** | `ProbInferenceEngine.forward_chain` | Discard derived facts whose probability falls below a userâdefined `alpha`. |
+| **Confidence thresholds** | `ProbInferenceEngine.forward_chain` | Discard derived facts whose probability falls below a user-defined `alpha`. |
 | **Bayesian updating** | After inference, update fact probabilities with evidence | `p_new = p_old * likelihood / evidence` (simple Bayesian rule). |
 
 ---
