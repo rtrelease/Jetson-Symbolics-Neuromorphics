@@ -428,8 +428,8 @@ class ProbInferenceEngine:
     def generate_hypothesis(self, goal: Fact, threshold: float = 0.5) -> Rule:
         """
         Very naive hypothesis: create a rule whose consequent is `goal`
-        and whose antecedents are all current facts *with probability â¥ threshold*.
-        The rule weight is set to 1.0 (perfect rule) â you could pick a lower
+        and whose antecedents are all current facts *with probability threshold*.
+        The rule weight is set to 1.0 (perfect rule) - you could pick a lower
         weight if you want to be more conservative.
         """
         antecedents = tuple(
@@ -446,7 +446,7 @@ class ProbInferenceEngine:
     def learn_and_prove(self, goal: Fact, max_iter: int = 5) -> float:
         """
         Attempt to prove the goal.  If we fail, create a hypothesis rule,
-        add it to the KB, and try again â up to `max_iter` times.
+        add it to the KB, and try again - up to `max_iter` times.
         Returns the final probability of the goal.
         """
         for it in range(1, max_iter + 1):
