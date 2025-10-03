@@ -384,7 +384,7 @@ class ProbInferenceEngine:
     def forward_chain(self, goal: Fact, epsilon: float = 1e-6) -> float:
         """
         Try to prove `goal`.  Returns the probability of the goal after
-        one full forwardâchaining pass (or the current probability if
+        one full forward-chaining pass (or the current probability if
         it was already known).  If the goal is impossible, returns 0.0.
         """
         if goal in self.kb.facts:
