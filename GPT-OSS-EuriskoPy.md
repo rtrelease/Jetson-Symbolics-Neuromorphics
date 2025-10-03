@@ -276,7 +276,7 @@ The skeleton above can be expanded in many ways to move closer to Eurisko:
 
 ## 5. Summary
 
-* The code above gives you a **minimal, runnable Euriskoâstyle inference engine**: facts, rules, forward-chaining, hypothesis generation, and a learning loop.  
+* The code above gives you a **minimal, runnable Eurisko-style inference engine**: facts, rules, forward-chaining, hypothesis generation, and a learning loop.  
 * It is intentionally simple so that you can run it, see how the inference chain works, and then experiment by adding your own extensions.  
 * If you want a production-ready or academically accurate Eurisko implementation, you would need to dive into Lenat's papers and incorporate far more sophisticated meta-learning, pattern matching, and knowledge-base management.
 
@@ -302,7 +302,7 @@ How could I add basic probabilistic reasoning to the facts and rules in this inf
 > 
 > Let's prepare answer.
 </details>
-Below is a **dropâin extension** of the toy Eurisko engine that lets you attach a probability (or *confidence*) to every fact and every rule.  
+Below is a **drop-in extension** of the toy Eurisko engine that lets you attach a probability (or *confidence*) to every fact and every rule.  
 The goal is to keep the code readable while showing the mechanics of **probabilistic forward chaining**.
 
 ---
