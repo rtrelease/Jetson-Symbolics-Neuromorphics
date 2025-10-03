@@ -168,8 +168,8 @@ class InferenceEngine:
     def generate_hypothesis(self, goal: Fact) -> Rule:
         """
         Very naive hypothesis: create a rule that says the goal follows from
-        *all* currently known facts.  This mimics Euriskoâs âgenerate a rule
-        that would make the goal trueâ behaviour.
+        *all* currently known facts.  This mimics Eurisko's *generate a rule
+        that would make the goal true* behaviour.
         """
         antecedents = tuple(self.kb.facts)  # current facts become antecedents
         hypothesis = Rule(antecedents, goal)
