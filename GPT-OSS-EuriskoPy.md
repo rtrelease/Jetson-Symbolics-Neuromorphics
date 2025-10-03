@@ -116,7 +116,7 @@ class KnowledgeBase:
 
 ```python
 class InferenceEngine:
-    """Forwardâchaining engine with a simple hypothesis generator."""
+    """Forward-chaining engine with a simple hypothesis generator."""
 
     def __init__(self, kb: KnowledgeBase):
         self.kb = kb
