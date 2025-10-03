@@ -315,7 +315,7 @@ The goal is to keep the code readable while showing the mechanics of **probabili
 |------|-----------------------|----------------|
 | **Fact** | A literal (e.g. `("A",)`) + a float in `[0,1]` | Stores how sure we are that the fact is true. |
 | **Rule** | Antecedents + consequent + a *rule weight* (also in `[0,1]`) | The rule's weight reflects how reliable the implication is. |
-| **Inference** | When all antecedents are known, the probability of the consequent is the *product* of antecedent probabilities times the rule weight. | This is the simplest âindependenceâ assumption. |
+| **Inference** | When all antecedents are known, the probability of the consequent is the *product* of antecedent probabilities times the rule weight. | This is the simplest/independence/assumption. |
 
 > **Why the product?**  
 > If the antecedents are independent events, the probability that *all* of them hold is the product of their individual probabilities.  
@@ -323,7 +323,7 @@ The goal is to keep the code readable while showing the mechanics of **probabili
 
 > **What if multiple rules derive the same fact?**  
 > We keep the *maximum* probability seen so far for a fact (the *best* derivation).  
-> (You could also sum or average â the choice depends on the problem domain.)
+> (You could also sum or average- the choice depends on the problem domain.)
 
 ---
 
