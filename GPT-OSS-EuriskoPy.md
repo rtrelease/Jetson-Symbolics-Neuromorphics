@@ -45,13 +45,13 @@ Can you create code for a Eurisko inference engine in Python?
 Below is a **toy version** of an Eurisko-style inference engine written in pure Python.  
 It implements the core ideas that made Eurisko famous:
 
-1. **Rule based inference** a knowledge base (facts + rules) and a forwardâchaining engine that keeps adding new facts until the goal is reached or no more progress can be made.  
+1. **Rule based inference** a knowledge base (facts + rules) and a forward-chaining engine that keeps adding new facts until the goal is reached or no more progress can be made.  
 2. **Hypothesis generation** if the engine can't prove the goal, it proposes a *new rule* whose consequent is the goal and whose antecedents are the facts that are currently true.  
-3. **Simple learning loop** the new rule is added to the knowledge base and the engine restarts, illustrating Euriskoâs âlearn a new rule when you canât prove a factâ strategy.  
+3. **Simple learning loop** the new rule is added to the knowledge base and the engine restarts, illustrating Eurisko's *learn a new rule when you can't prove a fact strategy*.  
 
 > **NOTE**  
-> The real Eurisko system was far more sophisticated (metaâcognitive processes, hypothesis testing, pattern learning, etc.).  
-> This code is a *minimal, selfâcontained example* that shows how the basic inference + learning loop can be coded in Python.  It is meant for educational purposes and to give you a starting point if you want to experiment with Euriskoâstyle AI.
+> The real Eurisko system was far more sophisticated (meta-cognitive processes, hypothesis testing, pattern learning, etc.).  
+> This code is a *minimal, self-contained example* that shows how the basic inference + learning loop can be coded in Python.  It is meant for educational purposes and to give you a starting point if you want to experiment with Eurisko-style AI.
 
 ---
 
