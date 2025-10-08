@@ -1,4 +1,4 @@
-## GPT-OSS Examples of pyke Knowledge Engine Rules
+## GPT-OSS Examples of pyke Knowledge Engine Rules 2
 
 ### USER
 Give me some examples of how to create knowledge base entities and rules for the pyke python knowledge engine described in the files.
