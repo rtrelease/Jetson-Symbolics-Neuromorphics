@@ -1,4 +1,4 @@
-## CHAT-GPT pyke Knowledge Engine Integration with LMM 3
+## CHAT-GPT pyke Knowledge Engine Integration with LLM 3
 
 ### USER
 Can you create a python extension for the pyke knowledge engine that will allow it to be used with GPT-OSS LLM?
