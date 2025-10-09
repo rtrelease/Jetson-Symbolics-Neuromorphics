@@ -1,3 +1,5 @@
+## GPT-OSS Reasoning with Owlready2 and LLMs
+
 ### USER
 Can you recommend python code for using owlready2 to reason about .owl ontologies with GPT-OSS?
 
