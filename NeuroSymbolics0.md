@@ -1,4 +1,4 @@
-## ***Neurosymbolics 0 -*** **Analyzing and Transforming Symbolic Applications with Large Language Models:*
+## ***Neurosymbolics 0 -***Analyzing and Transforming Symbolic Applications with Large Language Models:*
 ### Optimizing Code and Designing Inference Engines for LLMs
 
 | [Devstral + Eurisko](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Devstral-Eurisko-LLMsession.md) 
