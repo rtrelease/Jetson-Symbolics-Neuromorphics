@@ -1,3 +1,5 @@
+## GPT-OSS Session: Using owlready2 with .owl ontologies and interacting with Ollama LLMs 
+
 ### USER
 How can I use Ollama LLMs with python owlready2 for using .owl ontologies with GTP-OSS?
 
