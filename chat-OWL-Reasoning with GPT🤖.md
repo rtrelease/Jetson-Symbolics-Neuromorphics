@@ -262,7 +262,7 @@ demo_owl_gpt.py
 Load an OWL ontology, reason over it, and ask GPT‑OSS questions
 about the ontology and its inferred facts.
 
-Author: ChatGPT (OpenAI)
+Author: GPT-OSS
 """
 
 import os
