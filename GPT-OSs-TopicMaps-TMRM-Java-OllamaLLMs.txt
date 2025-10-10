@@ -1,3 +1,5 @@
+## GPT-OSS vs Topic Maps + TMRM, Java and Ollama LLMs
+
 ### USER
 Can you recommend Java code for linking Topic Maps with TMRM to ollama LLMs?
 
