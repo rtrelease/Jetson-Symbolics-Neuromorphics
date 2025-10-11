@@ -15,4 +15,6 @@
 
  - [GPT-OSS vs. pyke Python Knowledge Engine 3](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-%20Pyke%E2%80%91GPT-Integration.md)
 
+### Reasoning with Ontologies
+
  - [GPT-OSS Reasoning with OWL Ontologies and LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-OWL-Reasoning%20with%20GPT%F0%9F%A4%96.md)
