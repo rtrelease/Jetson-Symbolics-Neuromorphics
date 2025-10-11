@@ -2,7 +2,7 @@
 
 *This Note serves as a preface for the collected* **AI Lab Notes**, *as well as a commentary on the current NVIDIA Jetson state-of-the-art for physical computing, AI, and robotics for Edge laboratories.*
 
-**Backstory**
+#### Backstory
 
 With the greatest of respect: The perspectives presented in this Repository do not represent those of a professional engineer, data sci quant, or physicist. These are the Lab Notes of an emeritus neuroscientist who first trained in digitizing and analyzing EEG, ECG, and other physiological data on the first generation of laboratory instrumentation computers (Digital Equipment Corporation PDP-12) *in the late 1970s.*
 
