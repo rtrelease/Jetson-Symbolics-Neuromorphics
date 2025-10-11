@@ -45,8 +45,10 @@ There seems to be a land-rush of corporations using Chatbots apps to supplant hu
 
 Large sums of money and energy are being expended to develop new AI services and infrastructure, with absurd signing bonuses offered to data science grads who can 'code the real deal'.
 
-Beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence, the current connectionist AI wave seems more like a variation of the 'dotcom bubble' theme.  And if you need more critical specifics than pop-tech media pundits are shouting, check out what an Opan Source GPT model has to 
-say about the situation:
+Beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence, the current connectionist AI wave seems more like a variation of the 'dotcom bubble' theme.  
+
+**And if you need more critical specifics than pop-tech media pundits are shouting, check out what an Opan Source GPT model has to 
+say about the situation:**
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
 
