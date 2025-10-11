@@ -20,6 +20,7 @@ Nonetheless, for a neuroscientist, it was a tremendous charge to absorb the volu
 After getting a medical school faculty appointment with major teaching responsibilities in functional anatomy and neurosciences, my symbolic programming research progressed into [qualitative process theory](https://archive.org/details/readingsinqualit0000unse) (QPT) and modeling [immune](https://pubmed.ncbi.nlm.nih.gov/8955586/) and [gene regulation](https://pubmed.ncbi.nlm.nih.gov/10564845/) experiments. In the 1990s, the Air Force Office of Scientific Research sponsored some of my projects on multilevel biological processes modeling and wound healing. Working with [ontologies](https://pubmed.ncbi.nlm.nih.gov/16568425/) came later.
 
 I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and early server-based NVIDIA CUDA GPUs.
+
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
 #### On to Robot Brains
