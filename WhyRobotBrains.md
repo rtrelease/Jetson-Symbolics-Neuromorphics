@@ -38,17 +38,15 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 **Bubble, Bubble, AI Ferment and Trouble?**
 
-
 Over the last several years, the technophilic public's attention has been seized by competing commercial generative AI applications, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
 
-There seems to be a land-rush of corporations using Chatbots apps to supplant human employees in public-facing user support positions and others.
+There seems to be a land-rush of corporations to use online Chatbot apps to supplant human employees in public-facing user support positions and others.
 
 Large sums of money and energy are being expended to develop new AI services and infrastructure, with absurd signing bonuses offered to data science grads who can 'code the real deal'.
 
-Beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence, the current connectionist AI wave seems more like a variation of the 'dotcom bubble' theme.  
+But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence, the current connectionist AI wave seems more like a variation of the 'dotcom bubble' theme.  
 
-**And if you need more critical specifics than pop-tech media pundits are shouting, check out what an Opan Source GPT model has to 
-say about the situation:**
+**And if you need more critical specifics than pop-tech media pundits are shouting, check out what an Opan Source GPT model has to say about the situation:**
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
 
