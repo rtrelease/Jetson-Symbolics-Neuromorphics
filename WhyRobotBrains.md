@@ -22,7 +22,6 @@ After getting a medical school faculty appointment with major teaching responsib
 I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and early server-based NVIDIA CUDA GPUs.
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
-
 #### On to Robot Brains
 
 Some time before chosing to retire from heavy teaching in favor of doing research, NVIDIA Jetsons appeared on my 'neurosci-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
