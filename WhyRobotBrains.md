@@ -38,7 +38,7 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 **Bubble, Bubble, AI Ferment and Trouble?**
 
-Over the last several years, the technophilic public's attention has been seized by competing commercial generative AI applications, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
+Over the last several years, the technophilic public's attention has been seized by hyper-competing commercial generative AI applications, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
 
 There seems to be a land-rush of corporations to use online Chatbot apps to supplant human employees in public-facing user support positions and others.
 
