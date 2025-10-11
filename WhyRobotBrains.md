@@ -22,7 +22,7 @@ After getting a medical school faculty appointment with major teaching responsib
 I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and early server-based NVIDIA CUDA GPUs.
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
-**On to Robot Brains**
+#### On to Robot Brains
 
 Some time before chosing to retire from heavy teaching in favor of doing research, NVIDIA Jetsons appeared on my 'neurosci-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
 
@@ -36,7 +36,7 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 *The collected AI Lab Notes present structured views of the all the development that occurred in my Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.*
 
-**Bubble, Bubble, AI Ferment and Trouble?**
+#### Bubble, Bubble, AI Ferment and Trouble?
 
 Over the last several years, the technophilic public's attention has been seized by hyper-competing commercial generative AI applications, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
 
@@ -50,7 +50,7 @@ But beyond the historical decadal waves of interest in symbolic and connectionis
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
 
-## *Work in progress...*
+#### *Work in progress...*
 
 
 **==> Testing AGX Thor JDK 21 performance: ImageJ with head MRI stack, CLIPS IDE with gene regulation model**
