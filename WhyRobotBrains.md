@@ -34,7 +34,7 @@ Adding to those robot modality aspects, there was the high peformance computing 
 
 So as my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most timely because the global COVID-19 pandemic started shortly after emeritus conferral, and University research facilities were shut down for nearly three years.
 
-*The collected AI Lab Notes present structured views of the all the development that occurred in this Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.*
+*The collected AI Lab Notes present structured views of the all the development that occurred in my Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.*
 
 **Bubble, Bubble, AI Ferment and Trouble?**
 
