@@ -39,17 +39,20 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 #### Bubble, Bubble, AI Ferment and Trouble?
 
-Over the last several years, the technophilic public's attention has been seized by hyper-competing commercial generative AI applications, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
+Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial generative AI applications, based on deep artificial neural networks, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
 
 There seems to be a land-rush of corporations to use online Chatbot apps to supplant human employees in public-facing user support positions and others.
 
-Large sums of money and energy are being expended to develop new AI services and infrastructure, with absurd signing bonuses offered to data science grads who can 'code the real deal'.
+Large sums of money and energy are being expended to develop new AI services and infrastructure, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
 
-But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence, the current connectionist AI wave seems more like a variation of the 'dotcom bubble' theme.  
+But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave seems more like a variation of the 'dotcom bubble' theme.  
 
 **And if you need more concise critical specifics than some pop-tech media pundits are currently shouting, check out what an Open Source GPT model running on my AGX Orin has to say about the situation:**
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
+To provide a human perspective on the major facts, AI is starting to work hard for many public and private sector commerical organizations, and it will continue to grow and evolve.  One might expect a down-throttling *correction*, if not a *bursting bubble in AI businesses that continue to *burn* through investment capital without sufficient real product and services earnings *taking off* into growing profits.
+
+***Faites vos jeux:  Rien ne va plus!***
 
 #### *Work in progress...*
 
