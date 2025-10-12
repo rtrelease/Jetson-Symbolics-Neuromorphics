@@ -56,7 +56,7 @@ As for this old computational neuroscientist and hacker, *edge* AI resources wil
 
 ***Faites vos jeux:  Rien ne va plus!***
 
- = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
 ### *Work in progress...*
 
