@@ -56,6 +56,8 @@ As for this old computational neuroscientist and hacker, AI resources will conti
 
 ***Faites vos jeux:  Rien ne va plus!***
 
+ = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
 ### *Work in progress...*
 
 
