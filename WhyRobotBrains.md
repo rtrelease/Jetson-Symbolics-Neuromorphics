@@ -41,7 +41,7 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial generative AI applications, based on deep artificial neural networks, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
 
-There seems to be a land-rush of corporations to use online Chatbot apps to supplant human employees in public-facing user support positions and others.
+There seemed to be a *land-rush* of corporations to use online Chatbot apps to supplant human employees in public-facing user support positions and others.
 
 Large sums of money and energy are being expended to develop new AI services and infrastructure, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
 
