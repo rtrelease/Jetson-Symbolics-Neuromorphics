@@ -56,7 +56,7 @@ As for this old computational neuroscientist and hacker, AI resources will conti
 
 ***Faites vos jeux:  Rien ne va plus!***
 
-#### *Work in progress...*
+### *Work in progress...*
 
 
 **==> Testing AGX Thor JDK 21 performance: ImageJ with head MRI stack, CLIPS IDE with gene regulation model**
