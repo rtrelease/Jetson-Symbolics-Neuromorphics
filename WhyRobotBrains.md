@@ -52,7 +52,7 @@ But beyond the historical decadal waves of interest in symbolic and connectionis
 
 To provide a simple human perspective on the current major facts, AI applications have been starting to work hard for many public and private sector commerical organizations, and artificial intelligence research and development will continue to evolve.  One might expect a down-throttling *correction*, if not a *bursting bubble,* in *'AI businesses'* that continue to *burn* through investment capital without sufficient real product and services earnings *taking off* into growing profits.
 
-Ethical issues also abound for the growing commercial, military, and intelligence-gathering of widely deployed 'AIs', with *emerging* social media, pervasive surveillance, and political abuses raising other serious concerns.
+Ethical issues also abound for the growing commercial, military, and intelligence-gathering of widely deployed 'AIs', with *emerging* social media harms, pervasive surveillance, and growing political abuses raising other serious concerns.
 
 As for this old computational neuroscientist and hacker, *edge* AI resources will continue to be an evolving and growing part of ever-changing daily life.
 
