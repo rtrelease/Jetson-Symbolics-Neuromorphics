@@ -54,7 +54,7 @@ To provide a simple human perspective on the current major facts, AI application
 
 Ethical issues also abound for the growing commercial, military, and intelligence-gathering of widely deployed 'AIs', with *emerging* social media harms, pervasive surveillance, and growing political abuses raising other serious concerns.
 
-As for this old computational neuroscientist and hacker, *edge* AI resources will continue to be an evolving and growing part of ever-changing daily life.
+As for this old computational neuroscientist and hacker, *edge* AI resources development will continue to be a scholarly refuge, part of an ever-changing and chaotic daily life.
 
 ***Faites vos jeux:  Rien ne va plus!***
 
