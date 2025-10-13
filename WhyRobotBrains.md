@@ -39,11 +39,11 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 #### Bubble, Bubble, AI Ferment and Trouble?
 
-Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial *generative AI* applications, based on deep artificial neural networks, exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
+Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial *generative AI* applications, based on deep artificial neural networks, most recently exemplified by Open AI's Stable Fusion and Meta's ChatGPT.  
 
-There seemed to be a *land-rush* of corporations to use online Chatbot apps to supplant human employees in public-facing user support positions and others.
+There seemed to be a *land-rush* of corporations to use online hatbot apps to supplant human employees in public-facing user support positions and others.
 
-Large sums of money and energy are being expended to develop new AI services and infrastructure, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
+Large amounts of money, energy, land, and water are being expended to develop new AI services and *exascale* data center infrastructure, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
 
 But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave seems more like a mutation of the 'dotcom bubble' theme.
 
