@@ -7,7 +7,7 @@
 
  - [GTP-OSS + Py Eurisko -> LLM](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-PyEurisko—LLM-1-5.md)
 
- - [GPT-OSS-CLIPS-GeneRegSim-RetePy](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-%F0%9F%A7%AC%20Gene%20Transcription%20Rules%208.md)
+ - [GPT-OSS + CLIPS-GeneRegSim + PyRete](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-%F0%9F%A7%AC%20Gene%20Transcription%20Rules%208.md)
 
  - [GPT-OSS vs. pyke Python Knowledge Engine 1](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-PykeRule%20Engine.md)
 
