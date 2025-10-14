@@ -41,7 +41,7 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial *generative AI* applications, based on deep artificial neural networks, most recently exemplified by Stability AI's Stable Fusion and Open AI's ChatGPT.  
 
-There seemed to be a *land-rush* of corporations to use online hatbot apps to supplant human employees in public-facing user support positions and others.
+There seemed to be a *land-rush* of corporations to use online chatbot apps to supplant human employees in public-facing user support positions and others.
 
 Large amounts of money, energy, land, and water are being expended to develop new AI services and *exascale* data center infrastructure, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
 
