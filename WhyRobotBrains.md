@@ -50,7 +50,7 @@ But beyond the historical decadal waves of interest in symbolic and connectionis
 **And if you need more concise critical specifics than some pop-tech media pundits are currently shouting, check out what an Open Source GPT model running on my *workhorse* AGX Orin has to say about the situation:**
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
-To provide a simple human perspective on the current major facts, AI applications have been starting to work hard for many public and private sector commerical organizations, and artificial intelligence research and development will continue to evolve.  One might expect a down-throttling *correction*, if not a *bursting bubble,* in *'AI businesses'* that continue to *burn* through investment capital without sufficient real product and services earnings *taking off* into growing profits.
+To provide a simple human perspective on the current major facts, AI applications have been starting to work hard for many public and private sector commerical organizations, and artificial intelligence research and development will continue to evolve.  One might expect a down-throttling *correction*, if not a *bursting bubble,* in *'AI businesses'* that continue to *burn* through investment capital without sustainable real product and services earnings *taking off* into growing profits.
 
 Ethical issues also abound for the growing commercial, military, and intelligence-gathering of widely deployed 'AIs', with *emerging* social media harms, pervasive surveillance, and growing political abuses raising other serious concerns.
 
