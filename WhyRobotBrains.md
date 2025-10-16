@@ -41,9 +41,9 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial *generative AI* applications, based on deep artificial neural networks, most recently exemplified by Stability AI's Stable Fusion and Open AI's ChatGPT.  
 
-There seemed to be a *land-rush* of corporations to use online chatbot apps to supplant human employees in public-facing user support positions and others.
+There was a *land-rush* of corporations aiming to use online chatbot apps to supplant human employees in public-facing user support positions and others.
 
-Large amounts of money, energy, land, and water continue being expended to develop new AI services and *exascale* data center infrastructures, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
+Large amounts of money, energy, land, and water continue being expended to develop new AI services and *exascale* data center cloud infrastructures, with absurd signing bonuses offered to CS, math, and data science grads who can 'code the real deal'.
 
 But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave seems more like a mutation of the 'dotcom bubble' theme.
 
