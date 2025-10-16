@@ -55,6 +55,8 @@ To provide a simple human perspective on the current major facts, AI application
 Ethical issues also abound for the growing commercial, military, and intelligence-gathering and physical actions of widely deployed 'AIs', with *emerging* social media harms, pervasive surveillance, and growing political abuses raising other serious concerns.  Educators and schools continue to deal with students electing to use commercial chatbots for generating essays and other class work, let alone instances of
 abuse of generative *faux* videos and social media affecting individuals' well-being.
 
+*Sic transit...*
+
 As for this old computational neuroscientist and hacker, *edge* AI resources development will continue to be a scholarly refuge, part of an ever-changing and chaotic daily life.
 
 ***Faites vos jeux:  Rien ne va plus!***
