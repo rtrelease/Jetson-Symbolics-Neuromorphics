@@ -53,4 +53,4 @@ In essence, to return to the earlier neural versus symbolic reasoning dichotomy,
 
 *Fair disclosure*: The author has been a career member of the American Association of Anatomists, worked extensively with original MySQL and current OWL versions of FMA, and personally interacted with Cornelius Rosse and his UWash Structural Informatics Group members over more than two decades.
 
-*In progress,* to be continued.
+[*In progress,* to be continued.](https://github.com/rtrelease/Computational-Anatomy)
