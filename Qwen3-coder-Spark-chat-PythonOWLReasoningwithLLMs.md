@@ -1,4 +1,4 @@
-## Qwen3-coder (Spark) Python Owlready2 methods for using Snowmed-CT and large ontologies with Ollama LLMs
+## Qwen3-coder (Spark) Python Owlready2 methods for using SNOWMED-CT and large ontologies with Ollama LLMs
 
 ### USER
 Can you recommend python methods for using owlready2 and large ontologies like snomed.owl with ollama LLMs?
