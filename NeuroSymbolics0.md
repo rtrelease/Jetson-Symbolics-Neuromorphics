@@ -21,4 +21,4 @@
 
  - [GPT-OSS Reasoning with OWL Ontologies and Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-Local%20LLMs%2BOWL-Integration1.md)
 
- - [Qwen3-coder {Spark} Reasoning with SNOWMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
+ - [Qwen3-coder {Spark} Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
