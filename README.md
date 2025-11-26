@@ -35,7 +35,7 @@
  27. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
  28. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
  29. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
- 31. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
+ 30. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
  32. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
  33. [**DeepImageJ**](https://deepimagej.github.io) and connecting [scientific image processing with deep learning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepImageJ.md)
  34. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web) -- [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf) -- [**Spark-Symbolics + Neuromorphics**](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics)
