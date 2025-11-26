@@ -31,9 +31,9 @@
  23. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
  24. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
  25. *Reevaluating Python-based DNN and neuromorphic simulations with* [*Nengo*](https://github.com/nengo/nengo)
- 27. *Yale **Neuron** -* Building neuromorphic simulations with Python on AGX Orin DK
- 29. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
- 30. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
+ 26. *Yale **Neuron** -* Building neuromorphic simulations with Python on AGX Orin DK
+ 27. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
+ 28. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
  31. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
  32. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
  33. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
