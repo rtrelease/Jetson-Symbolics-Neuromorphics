@@ -36,22 +36,22 @@
  28. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
  29. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
  30. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
- 32. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
- 33. [**DeepImageJ**](https://deepimagej.github.io) and connecting [scientific image processing with deep learning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepImageJ.md)
- 34. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web) -- [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf) -- [**Spark-Symbolics + Neuromorphics**](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics)
- 35. [**AGX Thor Developer Kit**](https://nvdam.widen.net/s/p9z68r5znh/robotics-and-edge-ai-datasheet-jetson-thor-devkit-nvidia-us-web) - **Thor has** [landed](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AGX_Thor0.md) - [AI Lab Software Installations](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorSoftwareLinks25.md) --> currently being tested
- 36. **ELIZA's Grandchildren** and Computational Psychiatry on the Edge in 2025
- 37. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md)' operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
- 38. Assessing Ollama Functional Knowledge in the most Capable Coder LLMs
- 39. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models:**
- 40. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
- 41.  **Parse this: Reifying *neuromorpho-symbolic AI***
- 42. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
- 43. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
- 44. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 45. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling and Imaging Tools
- 46. **LXXIV and counting**: Neuromorphic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
- 49. **Ontogenesis:** Legacy computing technology and artificial intelligence [publications](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/LegacyPublications.md)
+ 31. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
+ 32. [**DeepImageJ**](https://deepimagej.github.io) and connecting [scientific image processing with deep learning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepImageJ.md)
+ 33. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web) -- [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf) -- [**Spark-Symbolics + Neuromorphics**](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics)
+ 34. [**AGX Thor Developer Kit**](https://nvdam.widen.net/s/p9z68r5znh/robotics-and-edge-ai-datasheet-jetson-thor-devkit-nvidia-us-web) - **Thor has** [landed](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AGX_Thor0.md) - [AI Lab Software Installations](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorSoftwareLinks25.md) --> currently being tested
+ 35. **ELIZA's Grandchildren** and Computational Psychiatry on the Edge in 2025
+ 36. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md)' operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
+ 37. Assessing Ollama Functional Knowledge in the most Capable Coder LLMs
+ 38. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models:**
+ 39. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 40.  **Parse this: Reifying *neuromorpho-symbolic AI***
+ 41. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
+ 42. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
+ 43. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
+ 44. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling and Imaging Tools
+ 45. **LXXIV and counting**: Neuromorphic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
+ 46. **Ontogenesis:** Legacy computing technology and artificial intelligence [publications](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/LegacyPublications.md)
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
