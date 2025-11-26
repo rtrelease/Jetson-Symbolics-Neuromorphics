@@ -44,8 +44,7 @@
  38. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md)' operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
  39. Assessing Ollama Knowledge in the most Capable Coder LLMs
  40. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models:**
- 41. 
- 42. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 41. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  43.  **Parse this: Reifying *neuromorpho-symbolic AI***
  44. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  45. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
