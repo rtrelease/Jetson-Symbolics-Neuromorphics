@@ -39,7 +39,7 @@ So as my emeritus appointment approached, a lot of planning went into setting up
 
 #### Bubble, Bubble, AI Ferment and Trouble?
 
-Over the last several years, the technophilic public's attention and academics have been seized by hyper-competing commercial *generative AI* applications, based on deep artificial neural networks, most recently exemplified by Stability AI's Stable Fusion and Open AI's ChatGPT.  
+Over the last several years, the technophilic public's attention and academic artificial intelligence research developers have been seized by hyper-competing commercial *generative AI* applications, based on deep artificial neural networks, most recently exemplified by Stability AI's Stable Fusion and Open AI's ChatGPT.  
 
 There was a *land-rush* of corporations aiming to use online chatbot apps to supplant human employees in public-facing user support positions and others.
 
