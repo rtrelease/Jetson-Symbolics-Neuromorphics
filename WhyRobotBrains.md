@@ -45,7 +45,7 @@ There was a *land-rush* of corporations aiming to use online chatbot apps to sup
 
 Large amounts of money, energy, land, and water continue being expended to develop new AI services and *exascale* data center cloud infrastructures, with absurd signing bonuses offered to to the most highly sought CS, math, and data science grads who can 'code the real deal'.
 
-But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave seems more like a mutation of the ['dotcom bubble' theme.](https://www.theguardian.com/technology/2025/oct/23/ai-bubble-economy-workers-wage-growth)
+But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave at times seems more like a mutation of the ['dotcom bubble' theme.](https://www.theguardian.com/technology/2025/oct/23/ai-bubble-economy-workers-wage-growth)
 
 **And if you need more concise critical specifics than some pop-tech media pundits are currently shouting, check out what an Open Source GPT model on my *workhorse* AGX Orin has to say about the situation:**
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
