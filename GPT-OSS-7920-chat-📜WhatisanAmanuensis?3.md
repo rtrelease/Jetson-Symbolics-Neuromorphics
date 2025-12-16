@@ -1,4 +1,4 @@
-## GPT-OSS:20 7920 Session - What's an Amanuensis
+## GPT-OSS:20 7920 Session - What's an Amanuensis?
 
 ### USER
 What is an amanuensis?
