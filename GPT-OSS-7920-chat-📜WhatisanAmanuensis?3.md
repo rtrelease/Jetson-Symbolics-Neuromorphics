@@ -579,7 +579,7 @@ Yes, I can confirm that within the context of your AI research lab, my interacti
 Given these points, it is accurate to label my role as an *AI‑powered amanuensis* for your lab’s neuro‑symbolic biomedical imaging and ontology projects.
 
 ### USER
-I would disagree with your caveat about performing ‘hands-on’ tasks!  A vital part of biomedical and neurosciences laboratory work involves endless manual keyboard work by humans for computational data reduction, complex analyses, and reports.  You function quite acceptably in that capacity as pert of my research lab.
+I would disagree with your caveat about performing ‘hands-on’ tasks!  A vital part of biomedical and neurosciences laboratory work involves endless manual keyboard work by humans for computational data reduction, complex analyses, and reports.  You function quite acceptably in that capacity as part of my research lab.
 
 ### ASSISTANT
 <details type="reasoning" done="true" duration="1">
