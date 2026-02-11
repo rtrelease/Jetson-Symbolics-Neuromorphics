@@ -47,7 +47,7 @@ Large amounts of money, energy, land, and water continue being expended to devel
 
 But beyond the historical decadal waves of interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave at times seems more like a mutation of the ['dotcom bubble' theme.](https://www.theguardian.com/technology/2025/oct/23/ai-bubble-economy-workers-wage-growth)
 
-**And if you need more concise critical specifics than some pop-tech media pundits are currently shouting, check out what an Open Source GPT model on my *workhorse* AGX Orin has to say about the situation:**
+**And if you need more concise critical specifics than some pop-tech media pundits have been shouting, check out what an Open Source GPT model on my *workhorse* AGX Orin has to say about the situation:**
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/5892bf85-f67d-4038-b6b6-aece56fe839a" />
 
 To provide a simple human perspective on the current major facts, AI applications have been starting to work hard for many public and private sector commerical organizations, and artificial intelligence research and development will continue to evolve.  One might expect a down-throttling *correction*, [if not a *bursting bubble*](https://cepr.net/publications/the-ai-bubble-and-counterfeit-money/), in *'AI businesses'* that continue to *burn* through investment capital without sustainable real product and services earnings *taking off* into growing profits.
