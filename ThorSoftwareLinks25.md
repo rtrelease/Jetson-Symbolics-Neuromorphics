@@ -48,3 +48,6 @@
  - *Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo: *sudo pip install nengo*
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7348185-10ce-4232-910d-b1bef089c9fa" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e50eb83d-2219-4233-9392-342a92f2e0ae" />
+
