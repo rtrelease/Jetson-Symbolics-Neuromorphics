@@ -19,6 +19,8 @@
  
  - +*Jupyter* - <ins>not</ins> part of JetPack 7 BSP - *sudo apt install jupyter-core*
 
+ - +Anaconda-navigator -> Python Management -- Anaconda Blog - Python on DGX Spark - ARM64 Full Anaconda
+ 
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
 **Scientific Image Processing**
