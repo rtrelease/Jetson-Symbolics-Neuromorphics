@@ -18,8 +18,8 @@
  - +*Arduino IDE 1.8.19 (ARM64)* - https://downloads.arduino.cc/arduino-1.8.19-linuxaarch64.tar.xz
  
  - +*Jupyter* - <ins>not</ins> part of JetPack 7 BSP - *sudo apt install jupyter-core*
-
- - +Anaconda-navigator -> Python Management -- Anaconda Blog - Python on DGX Spark - ARM64 Full Anaconda
+ 
+ - +*Anaconda-navigator* -> Python Management -- [Anaconda Blog - Python on DGX Spark](https://www.anaconda.com/blog/python-nvidia-dgx-spark-first-impressions) - [ARM64 Full Anaconda](https://repo.anaconda.com/archive/Anaconda3-2025.12-1-Linux-aarch64.sh)
  
  - *CircuitPython* - base Jupyter kernel library install from github: https://learn.adafruit.com/circuitpython-with-jupyter-notebooks/installing-on-mac-linux
 
