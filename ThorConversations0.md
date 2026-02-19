@@ -3,3 +3,5 @@
 ![image](https://github.com/user-attachments/assets/15a3d56f-843a-4389-a50b-c79a6930d79f)
 
 ### Gemma3 Session on Paul Tillich and The Courage To Be
+
+https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Gemma3-Thor-chat-Paul%20Tillich_%20Theology%20%26%20Philosophy%205.md
