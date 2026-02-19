@@ -45,14 +45,15 @@
  37. [**Assessing Ollama Functional Knowledge**](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) **in Its Most Capable Coder LLMs**
  38. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models:**
  39. [**What 7920's GPT-OSS has to say about being**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-7920-chat-📜WhatisanAmanuensis%3F3.md) **an AI Lab amanuensis**
- 40. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
- 41.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
- 42. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
- 43. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
- 44. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 45. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling and Imaging Tools
- 46. **LXXV and counting**: Neuromorphic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
- 47. **Ontogenesis:** Legacy computing technology and artificial intelligence [publications](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/LegacyPublications.md)
+ 40. **Conversations with Thor: Exploring Autonomous Machine Reasoning Capabilities**
+ 41. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
+ 42.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
+ 43. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
+ 44. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
+ 45. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
+ 46. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling and Imaging Tools
+ 47. **LXXV and counting**: Neuromorphic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
+ 48. **Ontogenesis:** Legacy computing technology and artificial intelligence [publications](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/LegacyPublications.md)
  
 *=---> [Anatomical reasoning](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.b.20095) and pose analysis, on the way to neurosymbolic applications*
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
