@@ -1,6 +1,8 @@
 ## Conversations with Thor: Exploring Autonomous Machine Inference and Reasoning Behaviors
 
-![image](https://github.com/user-attachments/assets/15a3d56f-843a-4389-a50b-c79a6930d79f)
+
+![image](https://github.com/user-attachments/assets/d0c94ef0-3bc4-4b3c-94e6-8c1ea8227dd6)
+
 
 ### Beyond Computational Psychiatry
 
