@@ -12,4 +12,6 @@
 
  - [Ollama Arena DSR1-Llava-GPT120 session on Paul Tillich... up to examples of anxiety and facing angst](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorArena-DSR1-Llava-GPT120-chat-Paul%20Tillich_%20Existential%20Theology%205.md)
 
+ - [Vicuna:30b session on Paul Tillich...](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Thor-vicuna30-chat-Paul%20Tillich_%20Theologian%20%26%20Philosopher%204.md)
+
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/2526ddd4-c6d6-4331-bf58-b0875fee82fc" />
