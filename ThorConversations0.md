@@ -14,4 +14,6 @@
 
  - [Vicuna:30b session on Paul Tillich...](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Thor-vicuna30-chat-Paul%20Tillich_%20Theologian%20%26%20Philosopher%204.md)
 
+ - [Qwen3:14b session on Paul Tillich...](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Thor-Qwen3-14-chat-%F0%9F%93%96%20Paul%20Tillich%20Theology%202.md)
+
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/2526ddd4-c6d6-4331-bf58-b0875fee82fc" />
