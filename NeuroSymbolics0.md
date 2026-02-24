@@ -23,6 +23,6 @@
 
  - [Qwen3-coder {Spark} Reasoning with SNOMED-CT and large ontologies with Ollama local LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Spark-chat-PythonOWLReasoningwithLLMs.md)
 
-### Cognitive Modeling with LLM Assistant
+### Cognitive Modeling with LLM Assistants
 
  - [GPT-OSS Building a Front-end for ACT-R Cognitive Modeling](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-ACT%E2%80%91R%26LlamaBridge.md)
