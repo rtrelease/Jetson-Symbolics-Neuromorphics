@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/d0c94ef0-3bc4-4b3c-94e6-8c1ea8227dd6)
 
 
-### Beyond Computational Psychiatry
+### Beyond Computational Psychiatry - Analysing Anxiety and Angst
 
 - [Gemma3:12b Session on Paul Tillich: Theology, Philosophy, and The Courage To Be](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Gemma3-Thor-chat-Paul%20Tillich_%20Theology%20%26%20Philosophy%205.md)
 
