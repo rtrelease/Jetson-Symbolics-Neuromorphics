@@ -25,4 +25,4 @@
 
 ### Cognitive Modeling with LLM Assistant
 
- - [GPT-OSS Building aFront-end for ACT-R Cognitive Modeling](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-ACT%E2%80%91R%26LlamaBridge.md)
+ - [GPT-OSS Building a Front-end for ACT-R Cognitive Modeling](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-chat-ACT%E2%80%91R%26LlamaBridge.md)
