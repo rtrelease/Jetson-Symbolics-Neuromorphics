@@ -18,6 +18,7 @@
 
 ### Computational Psychology and Neurosymbolic Development
 
- - [GPT-OSS:20 session on computational psychology and a 'cognitive adapter' for vusual LLMs]()
+ - [GPT-OSS:20 session on computational psychology and a 'cognitive adapter' for visual LLMs]()
+
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/2526ddd4-c6d6-4331-bf58-b0875fee82fc" />
