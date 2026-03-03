@@ -894,7 +894,7 @@ It turns raw logits into:
 This adapter can be **trained jointly**, **used for active learning**, **driven prompts**, and **explainability**—all while keeping the core vision‑LLM unchanged. The end product is a vision‑LLM that *does what a human would do* (decide, gauge certainty, request help), making the system safer, more transparent, and cheaper to maintain.
 
 ### USER
-Adapt and extend the cognitive adapter code to be run on an Nvidia Jetson AGX Orin Developer Kit 64 GB, using local Ollama server with Llama3.2-vision and Open WebUI.
+Adapt and extend the cognitive adapter code be  run on an Nvidia Jetson AGX Orin Developer Kit 64 GB, using local Ollama server with Llama3.2-vision and Open WebUI.
 
 ### ASSISTANT
 <details type="reasoning" done="true" duration="19">
