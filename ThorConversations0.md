@@ -18,7 +18,7 @@
 
 ### Computational Psychology and Neurosymbolic Development
 
- - [GPT-OSS:20 session on computational psychology and a 'cognitive adapter' for visual LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Computational%20Psychology%20Overview%20%F0%9F%A7%A0.md)
+ - [GPT-OSS:20b session on computational psychology and a 'cognitive adapter' for visual LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Computational%20Psychology%20Overview%20%F0%9F%A7%A0.md)
 
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/2526ddd4-c6d6-4331-bf58-b0875fee82fc" />
