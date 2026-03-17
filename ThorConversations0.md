@@ -3,6 +3,9 @@
 
 ![image](https://github.com/user-attachments/assets/d0c94ef0-3bc4-4b3c-94e6-8c1ea8227dd6)
 
+### Neuro-Symbolic Development
+
+ - [Qwen3-coder-next Session Current Overview of Neuro-symbolic Principles andMethods](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Qwen3-coder-next-Thor-chat-%F0%9F%A7%A0%20NeuroSymbolic-AI-Explained11.md)
 
 ### Beyond Computational Psychiatry - Analysing Anxiety and Angst
 
