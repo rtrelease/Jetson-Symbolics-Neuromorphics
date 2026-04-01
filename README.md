@@ -46,7 +46,7 @@
  38. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models:**
  39. [**What 7920's GPT-OSS has to say about being**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-7920-chat-📜WhatisanAmanuensis%3F3.md) **an AI Lab amanuensis**
  40. [**Conversations with Thor:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorConversations0.md) **Exploring Autonomous Machine Inference and Reasoning Behaviors**
- 41. [**Also Spracht Orin:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AlsoSprachtOrin.md) **Exploring Neuromorphic and Hybrid Computing Models**
+ 41. [**Also Sprach Orin:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AlsoSprachtOrin.md) **Exploring Neuromorphic and Hybrid Computing Models**
  42. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  43.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
  44. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
