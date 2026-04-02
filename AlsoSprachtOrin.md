@@ -1,4 +1,7 @@
 ## Also Sprach Orin
+
+![image](https://github.com/user-attachments/assets/b392ef6c-29c2-4010-8208-38c8a6c19235)
+
 ### Exploring Neuromorphic and Hybrid Computing Models
 
 - [Devstral-small2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Devstral-small2-Orin-chat-Clone%F0%9F%A7%A0NeuromorphicComputing-Explained13.md)
