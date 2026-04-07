@@ -42,7 +42,7 @@
  34. [**AGX Thor Developer Kit**](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/) - **Thor has** [landed](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AGX_Thor0.md) - [AI Lab Software Installations](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorSoftwareLinks25.md)
  35. **ELIZA's Grandchildren** and Computational Psychiatry on the Edge in 2025
  36. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md)' operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
- 37. [**Assessing Functional Knowledge**](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) **in Ollama's Most Capable Coder LLMs**
+ 37. [**Assessing Ollama Functional Knowledge**](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) **in Its Most Capable Coder LLMs**
  38. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models:**
  39. [**What 7920's GPT-OSS has to say about being**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-7920-chat-📜WhatisanAmanuensis%3F3.md) **an AI Lab amanuensis**
  40. [**Conversations with Thor:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorConversations0.md) **Exploring Autonomous Machine Inference and Reasoning Behaviors**
