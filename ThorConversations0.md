@@ -19,7 +19,7 @@
 
  - [Qwen3:14b session on Paul Tillich...](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Thor-Qwen3-14-chat-%F0%9F%93%96%20Paul%20Tillich%20Theology%202.md)
 
-### Computational Psychology and Neurosymbolic Development
+### Computational Psychology and Neuro-symbolic Development
 
  - [GPT-OSS:20b session on computational psychology and a 'cognitive adapter' for visual LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Computational%20Psychology%20Overview%20%F0%9F%A7%A0.md)
 
