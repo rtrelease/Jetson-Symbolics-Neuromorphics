@@ -11,7 +11,7 @@
    - *export JAVA_HOME=usr/lib/jvm/java-21-openjdk-arm64*
    - *export PATH=$PATH:$JAVA_HOME/bin*
 
-- *owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *sudo pip install owlready2*
+- +*owlready2* - Python library for integrating OWL Ontologies: https://pypi.org/project/owlready2/ - *sudo pip install owlready2*
 
  - +*CLIPS* symbolic programing language - compilable 6.41 binaries/source (follow Linux build instructions): https://sourceforge.net/projects/clipsrules/files/CLIPS/6.4.1/ - CLIPSJNI launch: *java -Djava.library.path= -jar CLIPSIDE.jar*
    
@@ -45,7 +45,7 @@
  - +*GNU Octave* - https://wiki.octave.org/Octave_for_Debian_systems:    *sudo apt install octave*
 
 **Large-scale biological neuron network modeling including spiking neurons**
- - *Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo *pip install nengo*
+ - +*Nengo* large scale brain modeling in Python - https://github.com/nengo/nengo *pip install nengo*
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7348185-10ce-4232-910d-b1bef089c9fa" />
 
