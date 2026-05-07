@@ -4,7 +4,7 @@
 
 ### Exploring Neuromorphic and Hybrid Computing Models
 
-- [Devstral-small2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Devstral-small2-Orin-chat-Clone%F0%9F%A7%A0NeuromorphicComputing-Explained13.md)
+- [Devstral-small-2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Devstral-small2-Orin-chat-Clone%F0%9F%A7%A0NeuromorphicComputing-Explained13.md)
 
 - [Qwen3-coder](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Qwen3-coder-Orin-chat-%F0%9F%A7%A0NeuromorphicComputing-Revolution5.md)
 
