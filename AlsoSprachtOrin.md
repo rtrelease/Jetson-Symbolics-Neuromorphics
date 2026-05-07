@@ -12,7 +12,7 @@
 
 ### LLM Sonification
 
- - [Nemotron3-Nano-Omni]()
+ - [Nemotron3-Nano-Omni](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-Orin-%F0%9F%94%8A%20Data%20to%20Sound3.md)
 
   ===========================================================
 
