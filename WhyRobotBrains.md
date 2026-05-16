@@ -29,7 +29,7 @@ Some time before chosing to retire from heavy teaching in favor of doing researc
 
 Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the integrated GPUs, speed, capacity, and lots of GPIO for realtime handling of multiple sensors, physiological recording, controlling outputs, and modeling cognitive functions.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
 
-On the research side, computer vision networks were initially the most practically useful AI applications for a neuroscientist, for tasks like auto-segmentation and object identification in biomedical imaging ranging from microscopic histology through magnetic resonance (MR) and computed tomography (CT) of brain and body.
+On the research side, computer vision networks were initially the most practically useful AI applications for a neuroscientist, for tasks like auto-segmentation and object identification in biomedical imaging ranging from microscopic histology through magnetic resonance imaging (MRI) and computed tomography (CT) of brain and body.
 
 Adding to the robot modality aspects, there was the high performance computing (HPC) capacity for complex behavioral modeling, spatialization of objects, and neuromorphic modeling.  For the neuroscientist, the ability to model a real-time functioning modular volitional and sensorimotor systems was particularly attractive, given multi-agent approaches to developing novel silicon nervous systems based on standardized Jetson operating software resources.
 
