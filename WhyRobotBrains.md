@@ -33,7 +33,7 @@ On the research side, computer vision networks were initially the most practical
 
 Adding to the robot modality aspects, there was the high performance computing (HPC) capacity for complex behavioral modeling, spatialization of objects, and neuromorphic modeling.  For the neuroscientist, the ability to model a real-time functioning modular volitional and sensorimotor systems was particularly attractive, given multi-agent approaches to developing novel silicon nervous systems based on standardized Jetson operating software resources.
 
-So as my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most timely because the global COVID-19 pandemic started shortly after emeritus conferral, and University research facilities were shut down for nearly three years.
+So as my emeritus appointment approached, a lot of planning went into setting up an edge AI development laboratory at home.  This turned out to be most timely because the global COVID-19 pandemic started shortly after my emeritus conferral, and University research facilities were shut down for nearly three years.
 
 *The collected AI Lab Notes present structured views of the all the research and development that took place in my Edge home lab during the years of Pandemic, quarantine, and subsequent University recovery.*
 
