@@ -52,7 +52,7 @@
  44. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  45. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  46. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
- 47. **The *Neuroscientist's Edge* HPC**: Workstation RTX GPUs, AGX Orin + Neurosymbolic and Neurobiological Modeling and Imaging Tools
+ 47. **The *Neuroscientist's Edge* HPC**: Workstation with RTX GPUs, AGX Orin, AGX Thor, DGX Spark + Neurosymbolic and Neurobiological Modeling and Imaging Tools
  48. **LXXV and counting**: Neuromorphic development as a [Diamond](https://en.wikipedia.org/wiki/Marian_Diamond)-[Scheibel](https://en.wikipedia.org/wiki/Arnold_Scheibel) gero-protective agent/process
  49. **Ontogenesis:** Legacy computing technology and artificial intelligence [publications](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/LegacyPublications.md)
  
