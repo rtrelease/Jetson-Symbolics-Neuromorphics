@@ -4,4 +4,7 @@
 
  - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4-7920-AI-AnthropomorphismExplained%F0%9F%A4%96%202.md)
 
- - [Nemotron 3:33b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron3-33-7920%F0%9F%A7%A0AI-AnthropomorphismExplained%202.md)
+
+ - [Nemotron 3:33b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-33-7920%F0%9F%A7%A0AI-AnthropomorphismExplained%202.md)
+
+ - [Nemotron 3:33b clone extension](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron3-33-7920%F0%9F%A7%A0AI-AnthropomorphismExplained%202.md)
