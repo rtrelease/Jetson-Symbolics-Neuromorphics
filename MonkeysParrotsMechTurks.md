@@ -6,7 +6,7 @@
 
  - [Gemma 4](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Gemma4-7920-AI%20Mimicry%20and%20Commercialization%20%F0%9F%A4%96.md)
 
-## “AI Needs You: How We Can Change AI's Future and Save Our Own” by Verity
+## “AI Needs You: How We Can Change AI's Future and Save Our Own” by Verity Harding
 
  - [AI Needs You… Publisher’s site](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you)
 
