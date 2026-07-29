@@ -10,4 +10,6 @@
 
  - [AI Needs You… Publisher’s site](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you)
 
+ - [AI Needs You… Library ebook site](https://share.libbyapp.com/title/10140154)
+
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/3a0691e0-13f4-4757-ae62-aafd4493aa72" />
