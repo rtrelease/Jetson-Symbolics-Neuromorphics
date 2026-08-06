@@ -13,3 +13,6 @@
  - [AI Needs You… Library ebook site](https://share.libbyapp.com/title/10140154)
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/3a0691e0-13f4-4757-ae62-aafd4493aa72" />
+
+
+## [Enshittification!](https://en.wikipedia.org/wiki/Enshittification)
