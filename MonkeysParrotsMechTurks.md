@@ -15,4 +15,4 @@
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/3a0691e0-13f4-4757-ae62-aafd4493aa72" />
 
 
-## Overcome [Enshittification!](https://en.wikipedia.org/wiki/Enshittification)
+## Transcend [Enshittification!](https://en.wikipedia.org/wiki/Enshittification)
