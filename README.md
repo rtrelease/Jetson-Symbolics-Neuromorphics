@@ -49,7 +49,7 @@
  41. [**Also Sprach Orin:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AlsoSprachtOrin.md) **Exploring Neuromorphic and Hybrid Computing Models**
  42. [**AI Anthropomorphism**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AI-anthropomorphism.md) - ***21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs***
  43. [**The Commercial Race for the Soul of Scholarly AI Research:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/MonkeysParrotsMechTurks.md) **Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks**
- 44. **D-N💩ify AI! Transcending Platform Decay with Open Source Software**
+ 44. **D-N💩ify AI!** [**Transcending Platform Decay with Open Source Software**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/D-N%F0%9F%92%A9ify-AI.md)
  45. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  46.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
  47. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
