@@ -4,4 +4,6 @@
 
  - [Qwen 3.6](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-7920-D-N%F0%9F%92%A9ify%202.md)
 
+ - [Ornith 3](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Ornith35-7920-%F0%9F%9B%A1%EF%B8%8FEscapingProprietary-AI-Decay%202.md)
+
  - [Nemotron3:33](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron3-33-7920-D-N%F0%9F%92%A9ify-AI%202.md)
