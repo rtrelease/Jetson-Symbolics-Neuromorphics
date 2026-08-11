@@ -1,5 +1,7 @@
 ### AI Anthropomorphism According to LLMs
 
+ - [Muse-glimmer:30b](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Muse-glimmer-7920-%F0%9F%A4%96UnderstandingAIAnthropomorphism3.md)
+
  - [Qwen 3.6](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-6-7920-%F0%9F%A4%96UnderstandingAIAnthropomorphism.md)
 
  - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4-7920-AI-AnthropomorphismExplained%F0%9F%A4%96%202.md)
