@@ -4,9 +4,9 @@
 
  - [Nemotron-3.5-lightning:30b](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron-3.5-lightning-7290-%F0%9F%A4%96AIAnthropomorphismGuide2.md)
 
- - [Qwen 3.6](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-6-7920-%F0%9F%A4%96UnderstandingAIAnthropomorphism.md)
+ - [Qwen 3.6:35b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-6-7920-%F0%9F%A4%96UnderstandingAIAnthropomorphism.md)
 
- - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4-7920-AI-AnthropomorphismExplained%F0%9F%A4%96%202.md)
+ - [Gemma 4:31b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4-7920-AI-AnthropomorphismExplained%F0%9F%A4%96%202.md)
 
 
  - [Nemotron 3:33b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-33-7920%F0%9F%A7%A0AI-AnthropomorphismExplained%202.md)
