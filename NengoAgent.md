@@ -6,3 +6,5 @@
  - [Muse-glimmer](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Muse-glimmer-7920-NengoAgentic%205.md)
 
  - [Qwen 3.6](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-7920-%F0%9F%A7%A0JetsonOrin%20NeuromorphicAgentGuide.md)
+
+ - [Gemma 4](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-gemma4-7920-HybridNeuromorphicComputingAgent%F0%9F%A7%A02.md)
