@@ -11,6 +11,6 @@
 
 ## ImageJ Biomedical Image Processing Agent
 
- - [Nemotron 3:33 ]( j
+ - [Nemotron 3:33 ]( )
 
 <img width=75% height=75% alt="image" src="https://github.com/user-attachments/assets/66ec50fc-e589-45e1-ac3b-d23309c1ce7c" />
