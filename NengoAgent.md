@@ -9,7 +9,7 @@
  - [Gemma 4](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-gemma4-7920-HybridNeuromorphicComputingAgent%F0%9F%A7%A02.md)
 
 
-## ImageJ Biomedical Image Processing Agent
+## ImageJ Biomedical Image Processing Agent Development
 
  - [Nemotron 3:33 ]( )
 
