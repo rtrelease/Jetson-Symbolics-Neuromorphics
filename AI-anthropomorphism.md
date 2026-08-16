@@ -13,6 +13,5 @@
 
  - [Nemotron 3:33b clone extension](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron3-33-7920%F0%9F%A7%A0AI-AnthropomorphismExplained%202.md)
 
-<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/ead15e07-3534-4676-ae6e-5fc6f51a7551" />
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/297f1354-459c-4cc1-9dfe-8325d2ca2dd3" />
