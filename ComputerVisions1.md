@@ -39,9 +39,9 @@ Please create an image of a Jetson Xavier NX computer vision system running an I
 ![image](https://github.com/user-attachments/assets/39cfe20e-8be9-4e7d-9475-16d0a0cfb76d)
 ![image](https://github.com/user-attachments/assets/d72529bf-350b-4b53-af8b-b01b4d5915be)
 
-**Probabilistic Parrots off conquering the Universe…
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2452b09a-ba02-4ccc-b7f2-2afd966545c1" />
-
 
 ***Caution -*** **Robot Brains Hackzone**
 ![image](https://github.com/user-attachments/assets/b1e3b081-b570-415b-a35b-30bb04fbd7ff)
+
+**Probabilistic Parrots off conquering the Universe…**
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2452b09a-ba02-4ccc-b7f2-2afd966545c1" />
