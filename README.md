@@ -51,7 +51,7 @@
  43. [**The Commercial Race for the Soul of Scholarly AI Research:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/MonkeysParrotsMechTurks.md) **Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks**
  44. **D-N💩ify AI!** [**Transcending Platform Decay with Open Source Software**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/D-N%F0%9F%92%A9ify-AI.md)
  45. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
- 46. [**Review: Neuroimaging of Smartphone (Ab)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
+ 46. **Review:** [**Neuroimaging of Smartphone (Ab)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
  47. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  48. **Parse this: Reifying *neuro-symbolic neuromorphic AI***
  49. **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
