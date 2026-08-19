@@ -23,11 +23,11 @@ I finally started studying artificial neural networks in action after the turn o
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
-#### On to Robot Brains
+#### On to “Robot Brains”
 
 Some time before chosing to retire from heavy teaching in favor of doing research, NVIDIA Jetsons appeared on my 'neurosci-hacker radar'.  An early Jetson Nano Developer Kit was bought, then an AGX Xavier and several Xavier NXes.
 
-Almost immediately, I started thinking of the compact Jetsons as ***robot brains*** because they had the integrated GPUs, speed, capacity, and lots of GPIO for realtime handling of multiple sensors, physiological recording, controlling outputs, and modeling cognitive functions.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
+Almost immediately, I started thinking of the compact Jetsons as ***”robot brains”*** because they had the integrated GPUs, speed, capacity, and lots of GPIO for realtime handling of multiple sensors, physiological recording, controlling outputs, and modeling cognitive functions.  In specific instances of this, I built JetBot robots and computer vision workstations for outreach donations to a high school robotics teaching lab.
 
 On the research side, computer vision networks were initially the most practically useful physical AI applications for a neuroscientist, for tasks like auto-segmentation and object identification in biomedical imaging ranging from microscopic histology through magnetic resonance imaging (MRI) and computed tomography (CT) of brain and body.
 
