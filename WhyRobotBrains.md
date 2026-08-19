@@ -1,4 +1,4 @@
-### Why Use *Robot Brains*?   Historical Reflections on the *Science* of Artificial Intelligence and Global Commercial Bubbles
+### Why Use *”Robot Brains”*?   Historical Reflections on the *Science* of Artificial Intelligence and Global Commercial Bubbles
 
 *This Note serves as a Preface for the collected* **AI Lab Notes**, *as well as a commentary on the current AI state-of-the-art and using NVIDIA Jetsons for practical **physical computing and robotics** for Edge laboratories.*
 
