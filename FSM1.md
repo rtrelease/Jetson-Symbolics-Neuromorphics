@@ -63,7 +63,7 @@ In the eight decades since McCulloch and Pitts, neuroscienctific knowledge about
 +++
 
 
-Sheperd and Grillner's most recent cumulative [review](https://academic.oup.com/book/24640) of mammalian central nervous system local neuronal network connectivity is a good place to start for current canonical network models comparable with Minsky's. 
+Shepherd and Grillner's most recent cumulative [review](https://academic.oup.com/book/24640) of mammalian central nervous system local neuronal network connectivity is a good place to start for current canonical network models comparable with Minsky's. 
 
 We chose Douglas and Martin's more simplified canonical neocortical microcircuit from [their earlier chapter](https://academic.oup.com/book/25071/chapter-abstract/189202559?redirectedFrom=fulltext) for our Python programmed MCU physical computing model of spiking neurons.
 
