@@ -66,6 +66,8 @@
 ![Screenshot from 2022-08-20 14-26-11](https://user-images.githubusercontent.com/71346897/185767485-fe8d63db-265b-4e14-b944-41e4bf9cac07.png)
 <p align="center">
 <img src="https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/assets/71346897/ed70594c-5c5f-43e4-9224-20126c854980" width=30% height=30% />
+<img src="https://github.com/user-attachments/assets/bf5cffc0-6ca1-46c1-a0d8-c093aab9a4e0" width=50% height=50% />
+
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/71346897/190292083-afe25486-1989-405e-b332-a76527964701.png" />  
