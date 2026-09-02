@@ -47,7 +47,7 @@
  39. [**What 7920's GPT-OSS has to say about being**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-7920-chat-📜WhatisanAmanuensis%3F3.md) **an AI Lab amanuensis**
  40. [**Conversations with Thor:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorConversations0.md) **Exploring Autonomous Machine Inference and Reasoning Behaviors**
  41. [**Also Sprach Orin:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AlsoSprachtOrin.md) **Exploring Neuromorphic and Hybrid Computing Models**
- 42. [**AI Anthropomorphism**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AI-anthropomorphism.md) - ***21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs***
+ 42. [**AI Anthropomorphism**](https://en.wikipedia.org/wiki/AI_anthropomorphism) - [***21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AI-anthropomorphism.md)
  43. [**The Commercial Race for the Soul of Scholarly AI Research:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/MonkeysParrotsMechTurks.md) **Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks**
  44. **D-N💩ify AI!** [**Transcending Platform Decay with Open Source Software**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/D-N%F0%9F%92%A9ify-AI.md)
  45. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
