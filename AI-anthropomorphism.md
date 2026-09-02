@@ -1,5 +1,6 @@
 ### AI Anthropomorphism According to LLMs
 
+
  - [Muse-glimmer:30b](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Muse-glimmer-7920-%F0%9F%A4%96UnderstandingAIAnthropomorphism3.md)
 
  - [Nemotron-3.5-lightning:30b](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron-3.5-lightning-7290-%F0%9F%A4%96AIAnthropomorphismGuide2.md)
