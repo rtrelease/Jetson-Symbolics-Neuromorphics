@@ -1,4 +1,4 @@
-## D-N💩ify-AI
+## D-N💩ify-AI - Transcending Platform Decay on the Edge with Open Source Software
 
  - [Gemma 4](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Gemma4-31-7920-D-N%F0%9F%92%A9ify-AI%202.md)
 
