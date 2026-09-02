@@ -4,7 +4,7 @@
        
 My turn in the great 2022 AGX Orin Developer Kit launch delivery queue came in early June, so initial hardware/OS setup had to precede new symbolic applications installations on the latest Ubuntu 20.04 ARM/aarch64 L4T operating system.
 
-The first big difference from prior AGX Xavier installations, when L4T and JetPack 4.# were installed via serial connection with a Xeon/Ubuntu workstation running NVIDIA SDK Manager:
+The first big difference from prior AGX Xavier installations, when L4T and JetPack 4.n were installed via serial connection with a Xeon/Ubuntu workstation running NVIDIA SDK Manager:
 
 *The basic Ubuntu/L4T operating system came preloaded on the Orin DK eMMC, and initial familiar OS configuration, networking and account setup only required keyboard, mouse, and DP-capable VESA monitor on first power-up.*
 
