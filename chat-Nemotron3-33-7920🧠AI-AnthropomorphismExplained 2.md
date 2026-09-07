@@ -8,6 +8,7 @@ What is AI anthropomorphism?
 > 
 > We should respond in a helpful manner.
 </details>
+
 **AI anthropomorphism** is the tendency to attribute human‑like qualities—such as thoughts, emotions, intentions, consciousness, or personality—to artificial intelligence systems, even though they are fundamentally non‑human computational models.
 
 ### Why it happens
