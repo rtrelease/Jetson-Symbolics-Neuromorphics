@@ -41,6 +41,7 @@ What is AI anthropomorphism?
 >     *   *Tone:* Informative, balanced, and objective.
 >     *   *Clarity Check:* Is the distinction between "simulated" and "actual" emotion clear? Yes, emphasize that AI *mimics*, not *feels*.
 </details>
+
 **AI anthropomorphism** is the tendency to attribute human characteristics, emotions, intentions, or consciousness to artificial intelligence systems.
 
 In simple terms, it is when we treat a piece of software as if it were a person. This happens when we describe an AI as "thinking," "feeling," "wanting," or "understanding," even though the AI is actually executing complex mathematical patterns and statistical probabilities.
