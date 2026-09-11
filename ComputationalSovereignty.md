@@ -6,4 +6,6 @@
 
  - https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-8-%F0%9F%96%A5%EF%B8%8FComputationalSovereigntyDefined2.md
 
- -
+ - https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Ornith1-5-7920-%F0%9F%96%A5%EF%B8%8FComputationalSovereigntyExplained3.md
+ - 
+ - 
