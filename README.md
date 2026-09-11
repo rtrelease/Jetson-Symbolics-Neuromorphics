@@ -50,7 +50,7 @@
  42. [**AI Anthropomorphism**](https://en.wikipedia.org/wiki/AI_anthropomorphism) - [***21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AI-anthropomorphism.md)
  43. [**The Commercial Race for the Soul of Scholarly AI Research:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/MonkeysParrotsMechTurks.md) **Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks**
  44. **D-N💩ify AI!** [**Transcending Platform Decay with Open Source Software**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/D-N%F0%9F%92%A9ify-AI.md)
- 45. [**Computational Sovereignty**]() **on the Edge** 
+ 45. [**Computational Sovereignty**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalSovereignty.md) **on the Edge** 
  46. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
  47. **Psychoradiology Review:** [**Neuroimaging of Smartphone (Over-)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
  48. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
