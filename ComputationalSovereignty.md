@@ -1,4 +1,4 @@
-### Computational Sovereignty on the Edge - LLM Definitions
+### Computational Sovereignty on the Edge - Agentic LLM Definitions
 
  - [Nemotron3.5-Lightning](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron3-5-Lightning-7920-%F0%9F%8C%8DGlobalComputationalSovereignty%203.md)
  
