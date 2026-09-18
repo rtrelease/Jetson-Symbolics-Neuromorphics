@@ -53,7 +53,7 @@
  45. [**Computational Sovereignty**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalSovereignty.md) **on the Edge** 
  46. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
  47. **Psychoradiology Review:** [**Neuroimaging of Smartphone (Over-)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
- 48. [**Joaquin Fuster’s theory of *cognits*,**](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.790691/full)functional brain networks for memory, perception and action
+ 48. Frontiers in Neurosciences: [**Joaquin Fuster’s theory of *cognits*,**](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.790691/full) functional brain networks for memory, perception and action
 49. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-
 50. Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  51. **Parse this: Reifying *neuro-symbolic neuromorphic AI***
