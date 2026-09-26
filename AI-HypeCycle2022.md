@@ -15,4 +15,5 @@
 
 [Gartner source 2026](https://www.gartner.com/en/documents/8319853)
 
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f630fc1-62de-46cb-b39f-ecfba3a62112" />
 
