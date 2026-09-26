@@ -13,6 +13,6 @@
 
 ![image](https://github.com/user-attachments/assets/1a3e0604-70f3-4623-9124-782883b3e900)
 
-[Gartner source 2026]()
+[Gartner source 2026](https://www.gartner.com/en/documents/8319853)
 
 <img width="985" height="586" alt="image" src="https://github.com/user-attachments/assets/8d237298-d45c-49b6-9169-a6d3acdae270" />
