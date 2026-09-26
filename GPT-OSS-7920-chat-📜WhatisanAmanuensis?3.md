@@ -196,6 +196,7 @@ Can you give examples of well-known modern amanuenses?
 > 
 > Let's answer: Provide known examples and explain.
 </details>
+
 Below is a short “case‑study” list of people who are well‑documented (or at least widely reported) to have served as **amanuenses** for famous contemporary authors, scholars, or public figures.  All of them performed the core task of the term: *taking the voice, the thoughts, or the dictations of the principal and putting them into written form*.
 
 | # | Person (amanuensis) | Principal | What they did | Why they’re notable |
