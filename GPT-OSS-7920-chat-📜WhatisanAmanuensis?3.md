@@ -12,6 +12,7 @@ What is an amanuensis?
 > 
 > Ok.
 </details>
+
 **Amanuensis** (pronounced *uh-muh-NEW-uhns*) is a person who writes or types what another person dictates or wishes to record.  Historically the term referred to a scribe or copyist, but in modern usage it often means a personal secretary, research assistant, or anyone who helps a writer, artist, or scholar produce written work.
 
 | Aspect | Details |
