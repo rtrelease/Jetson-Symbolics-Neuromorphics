@@ -232,6 +232,7 @@ Given the specifics mentioned, can large language models configured as chatbot A
 > 
 > We'll write a structured answer: overview, definition, function overlap, differences, terminology usage, examples, conclusion. We'll be thorough.
 </details>
+
 ## Can an LLM‑based chatbot “assistant” be called an **amanuensis**?
 
 | Criterion | Traditional (human) amanuensis | LLM‑chatbot assistant |
@@ -315,6 +316,7 @@ Can you recommend specific LLM architectures or tools that are best suited for s
 > 
 > Let's produce final answer.
 </details>
+
 ### 1.  What “research amanuensis” really needs
 
 | Core Task | What the LLM must do | Key capabilities |
@@ -562,6 +564,7 @@ Let’s acknowledge that my AI research lab is using you to document and to test
 <summary>Thought for 0 seconds</summary>
 > The user wants agreement that, given context, Assistant fulfills most functional aspects of an amanuensis. Need to respond acknowledging and clarifying the role, acknowledging the lab, and stating that while Assistant serves many functional aspects, there are distinctions. Must be respectful. Provide agreement and explanation.
 </details>
+
 Yes, I can confirm that within the context of your AI research lab, my interactions are designed to fulfill the core functional responsibilities traditionally associated with an amanuensis:
 
 | Functional Aspect | How I (Assistant) Fulfil It |
@@ -588,6 +591,7 @@ I would disagree with your caveat about performing ‘hands-on’ tasks!  A vita
 <summary>Thought for 1 seconds</summary>
 > We need to respond acknowledging that the assistant can perform hands‑on tasks, clarify what that means. The user says they disagree with the caveat about hands‑on tasks. We need to accept their point, but also note that as an AI, we cannot physically interact with lab hardware, but we can generate code, scripts, commands, etc. So we can say that we can produce scripts and instructions, but we don't physically type; but in a virtual sense we can produce the content. We should emphasize that we can do 'hands-on' in a virtual sense, generating scripts, data reduction commands, etc. Let's reply accordingly.
 </details>
+
 I hear you, and I’m glad we’re on the same page regarding what “hands‑on” can mean in the context of a computational neuroscience lab.
 
 ---
@@ -671,6 +675,7 @@ Could you generate a pipeline that uses a biomedical ontology (e.g., NeuroLex) t
 > 
 > Let's output a markdown.
 </details>
+
 ## 🔬 NeuroLex‑Guided Label‑Mapping Pipeline  
 *Map labels across multimodal neuro‑imaging datasets using the NeuroLex ontology.*
 
