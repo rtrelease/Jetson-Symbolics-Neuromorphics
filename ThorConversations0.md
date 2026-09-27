@@ -33,3 +33,6 @@
 ### Triumph of the Turing-Bayes Machines
 
  - [Nemotron 3.5 lightning](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron-3.5-Thor-%F0%9F%A4%96LLM-2026-Turing-Bayes%203.md)
+
+
+ - [Nemetron 3.5 lightning](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron-3.5-lightning-Thor-%F0%9F%93%89LLM-CommercialFoundations%202.md)
