@@ -29,6 +29,9 @@
 
  - [Qwen3.6 - LLM Architecture](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-Thor-%F0%9F%A7%A0LLMArchitectureAndAttentionHeads2.md)
 
+### Toward Sovereign Personal AI
+
+ - [Nemotron 3.5 lightning]()
 
 ### The Triumph of the Turing-Bayes Machines
 
