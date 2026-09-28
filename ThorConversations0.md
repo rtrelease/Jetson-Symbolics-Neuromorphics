@@ -31,7 +31,7 @@
 
 ### Toward Sovereign Personal AI
 
- - [Nemotron 3.5 lightning]()
+ - [Nemotron 3.5 lightning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron-3.5-lightning-Thor-%F0%9F%A4%96SovereignPersonalAI.md)
 
 ### The Triumph of the Turing-Bayes Machines
 
