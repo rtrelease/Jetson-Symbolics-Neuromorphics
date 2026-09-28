@@ -30,7 +30,7 @@
  - [Qwen3.6 - LLM Architecture](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-Thor-%F0%9F%A7%A0LLMArchitectureAndAttentionHeads2.md)
 
 
-### Triumph of the Turing-Bayes Machines
+### The Triumph of the Turing-Bayes Machines
 
  - [Nemotron 3.5 lightning](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron-3.5-Thor-%F0%9F%A4%96LLM-2026-Turing-Bayes%203.md)
 
