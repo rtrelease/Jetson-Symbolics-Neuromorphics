@@ -32,6 +32,7 @@ Who was Paul Tillich?
 > 
 > Ok, produce an answer. Let's produce a thorough but concise summary.
 </details>
+
 **Paul Tillich (1886 – 1965)** was a German‑American theologian, philosopher and one of the most influential Protestant thinkers of the twentieth century.  He is best known for developing what he called an “existential theology,” a way of articulating Christian faith that draws on existentialist philosophy, phenomenology and the cultural realities of the modern world.
 
 ---
