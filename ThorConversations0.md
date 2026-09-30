@@ -47,3 +47,5 @@
 
  - [MedGemma](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Medgemma-Thor-PeritonealDialysisExplained%F0%9F%A6%AD.md)
 
+<img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/b71947c5-41db-4a1e-aa6d-031855f34685" />
+
