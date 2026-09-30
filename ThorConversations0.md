@@ -43,4 +43,4 @@
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/734d6735-a66f-443c-9fd9-445e4c6860c3" />
 
- - [MedGemma](
+ - [MedGemma](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Medgemma-Thor-PeritonealDialysisExplained%F0%9F%A6%AD.md)
