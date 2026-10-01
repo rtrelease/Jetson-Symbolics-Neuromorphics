@@ -40,7 +40,7 @@
 
  - [Nemotron 3.5 lightning v2](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron-3.5-lightning-Thor-%F0%9F%93%89LLM-CommercialFoundations%202.md)
 
- - [Nemotron 3.5 lightning v3]()
+ - [Nemotron 3.5 lightning v3](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron-3.5-lightning-Thor-%F0%9F%93%89LLM-CommercialFoundations.md)
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/734d6735-a66f-443c-9fd9-445e4c6860c3" />
 
