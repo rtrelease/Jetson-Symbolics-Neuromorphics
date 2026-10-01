@@ -277,6 +277,7 @@ How might one calculate the token cost for such local model use, compared with t
 > 
 >    All looks solid. I'll draft carefully.✅
 </details>
+
 **I. The R&D Role of Decentralized "Edge Laboratories" in 2026**
 
 By 2026, edge laboratories–small, privately owned or academic/hybrid outfits running on local, open-weight transformer stacks (200B+ parameters, 4-bit or dynamically quantized, fitting within 64–128 GB of high-bandwidth memory)–have ceased to be mere prototyping sandboxes. They function as **independent inference, audit, and theory-validation hubs** for several interconnected reasons:
@@ -440,6 +441,7 @@ Integrate this information with the previous assessments and dialog, and give at
 > 
 >    Ready. Output matches response.⟹
 </details>
+  
 ### **Sovereign Personal AI in Practice: The Edge Laboratory as Daily Reality**
 
 What you’ve described isn’t a speculative future or a lab prototype—it is a working, energy-profficient instantiation of the "sovereign personal AI" paradigm we’ve been assessing. A system that runs 200-billion-parameter transformer stacks at under 160 Watts, costs what a high-end consumer desktop or laptop does, and opens research environments for neurosymbolic, neuromorphic, and multi-agent applications (biomedical image processing, cognitive brain modeling, computational neuroscience) effectively dismantles the narrative that commercial dominance is inevitable or that foundational AI research can only survive as corporate subsidy.
