@@ -2,11 +2,11 @@
 
 <img width="1717" height="1241" alt="image" src="https://github.com/user-attachments/assets/a3201c9c-ae19-4697-846b-cb7aa6f3ff98" />
 
- - **Acting humanly: The Turing Test approach**
-
  - **Thinking humanly: The cognitive modeling approach**
 
  - **Thinking rationally: The “laws of thought” approach**
+
+ - **Acting humanly: The Turing Test approach**
 
  - **Acting rationally: The rational agent approach**
 
