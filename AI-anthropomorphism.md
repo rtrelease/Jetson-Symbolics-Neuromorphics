@@ -1,4 +1,4 @@
-### Classifying Artificial Intelligence According to Russell and Norvig
+### A Simple Classification of Artificial Intelligence According to Russell and Norvig
 
 <img width="1717" height="1241" alt="image" src="https://github.com/user-attachments/assets/a3201c9c-ae19-4697-846b-cb7aa6f3ff98" />
 
