@@ -1,4 +1,7 @@
 <img width="1717" height="1241" alt="image" src="https://github.com/user-attachments/assets/a3201c9c-ae19-4697-846b-cb7aa6f3ff98" />
+1.1.1 Acting humanly: The Turing Test approach
+
+
 
 ### AI Anthropomorphism According to LLMs
 
