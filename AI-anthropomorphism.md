@@ -1,3 +1,5 @@
+<img width="3611" height="2635" alt="image" src="https://github.com/user-attachments/assets/d5191d4a-24a8-4183-b4e9-fcadb38d8ddc" />
+
 ### AI Anthropomorphism According to LLMs
 
  - [Muse-glimmer:30b](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Muse-glimmer-7920-%F0%9F%A4%96UnderstandingAIAnthropomorphism3.md)
