@@ -1,4 +1,4 @@
-<img width="3611" height="2635" alt="image" src="https://github.com/user-attachments/assets/d5191d4a-24a8-4183-b4e9-fcadb38d8ddc" />
+<img width="1717" height="1241" alt="image" src="https://github.com/user-attachments/assets/a3201c9c-ae19-4697-846b-cb7aa6f3ff98" />
 
 ### AI Anthropomorphism According to LLMs
 
