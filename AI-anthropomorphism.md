@@ -1,6 +1,8 @@
 <img width="1717" height="1241" alt="image" src="https://github.com/user-attachments/assets/a3201c9c-ae19-4697-846b-cb7aa6f3ff98" />
 1.1.1 Acting humanly: The Turing Test approach
-
+1.1.2 Thinking humanly: The cognitive modeling approach
+1.1.3 Thinking rationally: The “laws of thought” approach
+1.1.4 Acting rationally: The rational agent approach
 
 
 ### AI Anthropomorphism According to LLMs
