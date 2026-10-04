@@ -5,7 +5,7 @@
 **AI Lab Notes**
 
  - [**Why Use *”Robot Brains”*?**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/WhyRobotBrains.md) **Historical Reflections on the** *Science* **of Artificial Intelligence and Global Commercial Bubbles**
- - *Updates 2025* - [Latest Jetson CLIPS binaries](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonCLIPS642Binaries.md) - - - [GraalVM for Linux aarch64](https://www.graalvm.org/downloads/#) 
+
  1. [Adding symbolic AI programming to Jetson deep neural network development systems](https://github.com/rtrelease/Jetson-Symbolics/blob/main/Adding%20symbolic%20programming%20tools%20to%20Jetson.md)
  2. [Making symbolic AI programming (and other things) *'go-faster'* on Jetsons with *GraalVM* and grCUDA](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI%20Lab%20Notes2a.md)
  3. [Bringing up the AI Lab symbolic software suite on Jetson AGX Orin: To Graal and *beyond*](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinInstall2Graal.md)
@@ -23,39 +23,40 @@
  15. [Hybrid Controller - Analog synaptic programming interface design](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/M4-HybridController.md)
  16. [**Integrating Circuit Python microcontrollers with the Jetson AGX Orin lab computing development environment**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Orin-CircuitPython.md) - [*Mu Editor update and CPX pulse rate data acquisition*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/Mu-Editor-CPX-PulseData.md)
  17. [*2024 Compendium of references and compatible open source software links for the Jetson AGX Orin*](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/SoftwareLinks24.md)
- 18. [***Edge lab tools for teaching AI/CV basics, physical computing, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
- 19. ***Jetson RBTX:*** [Intelligent lab microcontrollers and robotic data systems development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/RBTX0.md)
- 20. **Expanding Jetson DAQ: Beyond CV with extra sensory data streams**
- 21. **[Cognitive modeling with ACT-R](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf) - [More Python resources for neurosymbolics on Jetson](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/PyACTR0.md)**
- 22.  **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
- 23. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
- 24. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
- 25. *Reevaluating Python-based DNN and neuromorphic simulations with* [*Nengo*](https://github.com/nengo/nengo)
- 26. *Yale **Neuron** -* Building neuromorphic simulations with Python on AGX Orin DK
- 27. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
- 28. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
- 29. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
- 30. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
- 31. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
- 32. [**DeepImageJ**](https://deepimagej.github.io) and connecting [scientific image processing with deep learning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepImageJ.md)
- 33. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web) -- [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf) -- [**Spark-Symbolics + Neuromorphics**](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics)
- 34. [**AGX Thor Developer Kit**](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/) - **Thor has** [landed](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AGX_Thor0.md) - [User Guide](https://docs.nvidia.com/jetson/agx-thor-devkit/user-guide/latest/index.html) - [AI Lab Software Installations](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorSoftwareLinks25.md)
- 35. [**ELIZA**](https://en.wikipedia.org/wiki/ELIZA_effect)**'s Grandchildren** and Computational Psychiatry on the Edge in 2026
- 36. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models'](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md) operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
- 37. [**Assessing Ollama Functional Knowledge**](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) **in Its Most Capable Coder LLMs**
- 38. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models**
- 39. [**What 7920's GPT-OSS has to say about being**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-7920-chat-📜WhatisanAmanuensis%3F3.md) **an AI Lab amanuensis**
- 40. [**Conversations with Thor:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorConversations0.md) **Exploring Autonomous Machine Inference and Reasoning Behaviors**
- 41. [**Also Sprach Orin:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AlsoSprachtOrin.md) **Exploring Neuromorphic and Hybrid Computing Models**
- 42. [**AI Anthropomorphism**](https://en.wikipedia.org/wiki/AI_anthropomorphism) - [***21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AI-anthropomorphism.md)
- 43. [**The Commercial Race for the Soul of Scholarly AI Research:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/MonkeysParrotsMechTurks.md) **Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks**
- 44. **D-N💩ify AI!** [**Transcending Platform Decay with Open Source Software**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/D-N%F0%9F%92%A9ify-AI.md)
- 45. [**Computational Sovereignty**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalSovereignty.md) **on the Edge** 
- 46. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
- 47. **Psychoradiology Review:** [**Neuroimaging of Smartphone (Over-)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
- 48. **Frontiers in Neural Circuits:** [**Joaquin Fuster’s theory of *cognits*,**](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.790691/full) dynamic functional brain networks for distributed memory, perception, and actions
- 49.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
- 50.  **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
+ 18. *Updates 2025* - [Latest Jetson CLIPS binaries](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonCLIPS642Binaries.md) - - - [GraalVM for Linux aarch64](https://www.graalvm.org/downloads/#) 
+ 19. [***Edge lab tools for teaching AI/CV basics, physical computing, and robotics in high school***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/STEM-AI.md) - Building workstations with easy real-time access to [Jetson-Inference](https://github.com/dusty-nv/jetson-inference/tree/master) DNN binaries for teachers and students
+ 20. ***Jetson RBTX:*** [Intelligent lab microcontrollers and robotic data systems development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/RBTX0.md)
+ 21. **Expanding Jetson DAQ: Beyond CV with extra sensory data streams**
+ 22. **[Cognitive modeling with ACT-R](https://link.springer.com/content/pdf/10.1007/978-3-030-31846-8.pdf) - [More Python resources for neurosymbolics on Jetson](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/PyACTR0.md)**
+ 23.  **MatLab revisited: From DNN building to [*DynaSym*](https://www.frontiersin.org/articles/10.3389/fninf.2018.00010/full) and [Octave](https://www.octave.org/), neuromorphic modeling, analog data acquisition, and signal processing**
+ 24. **[Jetson Generative AI Lab](https://www.jetson-ai-lab.com/tutorial_stable-diffusion.html) container [debut on AGX Orin 64](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/JetsonGenAILab.md): *Stable Diffusion, LLaVA, LLaMa2***
+ 25. [***Chats with*** **Doctor Anatomy**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DoctorAnatomy.md) ***- Core anatomical knowledge in an open source large language model***
+ 26. *Reevaluating Python-based DNN and neuromorphic simulations with* [*Nengo*](https://github.com/nengo/nengo)
+ 27. *Yale **Neuron** -* Building neuromorphic simulations with Python on AGX Orin DK
+ 28. **Application Note:** Analog/Hybrid Physical Computing Approaches to Neuromorphic Cortical Microcircuit Modeling
+ 29. [**Finite-State Machine Automata**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/FSM1.md) **and Neuromorphic Neural Networks**
+ 30. **Beyond Automata:** [**Intelligent agents**, network models,](https://en.m.wikipedia.org/wiki/Intelligent_agent) and the view from Python [***Mesa***](https://github.com/projectmesa/mesa)
+ 31. [**Owlready2 revisited:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/owlready2-onto.md) *Python methods for neurosymbolic ontology integration*
+ 32. **CLIPSPY revisited:** CLIPS symbolic programing and execution with Python
+ 33. [**DeepImageJ**](https://deepimagej.github.io) and connecting [scientific image processing with deep learning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/DeepImageJ.md)
+ 34. [NVIDIA Project DIGITS introduced as **DGX Spark**](https://www.nvidia.com/en-us/project-digits/): *PetaOps range modeling for the* [*edge desktop*](https://nvdam.widen.net/s/tlzm8smqjx/workstation-datasheet-dgx-spark-gtc25-spring-nvidia-us-3716899-web) -- [DGX Spark User Guide](https://docs.nvidia.com/dgx/dgx-spark/dgx-spark.pdf) -- [**Spark-Symbolics + Neuromorphics**](https://github.com/rtrelease/Spark-Symbolics-Neuromorphics)
+ 35. [**AGX Thor Developer Kit**](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-thor/) - **Thor has** [landed](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AGX_Thor0.md) - [User Guide](https://docs.nvidia.com/jetson/agx-thor-devkit/user-guide/latest/index.html) - [AI Lab Software Installations](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorSoftwareLinks25.md)
+ 36. [**ELIZA**](https://en.wikipedia.org/wiki/ELIZA_effect)**'s Grandchildren** and Computational Psychiatry on the Edge in 2026
+ 37. [**Ollama Server**](https://www.jetson-ai-lab.com/tutorial_ollama.html#ollama-server) runs most available open source LLMs on AGX Orin - [Comparing models'](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/OllamaEvals.md) operational capabilities for [***computational anatomy***](https://github.com/rtrelease/Computational-Anatomy/tree/main) tasks
+ 38. [**Assessing Ollama Functional Knowledge**](https://github.com/rtrelease/RapidEyeTechnology/blob/master/Ollama101.md) **in Its Most Capable Coder LLMs**
+ 39. [***Neurosymbolics 0 -***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NeuroSymbolics0.md) **Analyzing and Transforming Symbolic Applications with Large Language Models**
+ 40. [**What 7920's GPT-OSS has to say about being**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/GPT-OSS-7920-chat-📜WhatisanAmanuensis%3F3.md) **an AI Lab amanuensis**
+ 41. [**Conversations with Thor:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ThorConversations0.md) **Exploring Autonomous Machine Inference and Reasoning Behaviors**
+ 42. [**Also Sprach Orin:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AlsoSprachtOrin.md) **Exploring Neuromorphic and Hybrid Computing Models**
+ 43. [**AI Anthropomorphism**](https://en.wikipedia.org/wiki/AI_anthropomorphism) - [***21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs***](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/AI-anthropomorphism.md)
+ 44. [**The Commercial Race for the Soul of Scholarly AI Research:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/MonkeysParrotsMechTurks.md) **Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks**
+ 45. **D-N💩ify AI!** [**Transcending Platform Decay with Open Source Software**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/D-N%F0%9F%92%A9ify-AI.md)
+ 46. [**Computational Sovereignty**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalSovereignty.md) **on the Edge** 
+ 47. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
+ 48. **Psychoradiology Review:** [**Neuroimaging of Smartphone (Over-)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
+ 49. **Frontiers in Neural Circuits:** [**Joaquin Fuster’s theory of *cognits*,**](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.790691/full) dynamic functional brain networks for distributed memory, perception, and actions
+ 50.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
+ 51.  **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  54. [Neuromorphic and Hybrid Agent Development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NengoAgent.md)
  55. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  56. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
