@@ -48,6 +48,8 @@ https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma
 
 https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-33b-%F0%9F%A4%96CommercialTriumphOverFoundations.md
 
+https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Ornith1-5-Thor-%F0%9F%A4%96LLMs'DubiousCommercialTriumph.md
+
 
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/734d6735-a66f-443c-9fd9-445e4c6860c3" />
