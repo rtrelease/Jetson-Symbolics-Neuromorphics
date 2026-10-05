@@ -58,7 +58,7 @@
  50.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
  51.  **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  54. [Neuromorphic and Hybrid Agent Development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NengoAgent.md)
- 55. **Computational Intelligence - Attention is not Enough!**
+ 55. **Computational Intelligence - When Attention is not Enough!**
  56. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  58. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  59. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal edge research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
