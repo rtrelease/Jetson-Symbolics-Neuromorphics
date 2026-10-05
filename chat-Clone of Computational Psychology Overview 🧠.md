@@ -8,6 +8,7 @@ I want to ask about computing theory.  What is computational psychology?
 > 
 > We should answer comprehensively but concisely. Use bullet lists for clarity. Provide context. Let's craft.
 </details>
+
 **Computational Psychology**  
 — an interdisciplinary field that uses computational tools, theories, and models to understand, predict, and emulate human cognition, emotion, and behavior.
 
