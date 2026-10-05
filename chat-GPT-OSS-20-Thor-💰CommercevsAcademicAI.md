@@ -34,6 +34,7 @@ Integrate with these themes important perceptions about commerce overshadowing t
 > 
 > Ok.
 </details>
+
 **Large Language Models 2026: The Dubious Commercial Triumphs of the Turing‑Bayes Imitation Machines**
 
 In the summer of 2026, the world of artificial intelligence is saturated with a single moniker that has become shorthand for everything from AI‑generated news to courtroom‑ready arguments: the *Turing‑Bayes Imitation Machine* (TBIM).  The name fuses the legacy of Alan Turing’s pioneering dreams of machine‑learning with the Bayesian foundations that quietly underpinned the statistical models of the 1990s, hinting at a lineage that stretches back to the very first computers.  Yet the TBIM has come to represent a far more commercialized, and in many respects, distorted version of that lineage.  Its ubiquity masks the decades of academic ingenuity that paved the way, and in doing so, the TBIM has become a case study in how commerce can eclipse foundational research.
