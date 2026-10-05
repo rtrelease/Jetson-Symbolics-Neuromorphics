@@ -42,6 +42,7 @@ Integrate with these themes important perceptions about commerce overshadowing t
 > 
 > Let me write this as a substantive, well-argued commentary essay with a distinct voice. It should be critical but not merely negative - it should honor the academic work while critiquing the commercial framing.
 </details>
+
 # Large Language Models 2026: The Dubious Commercial Triumphs of the Turing-Bayes Imitation Machines
 
 ## A Commentary
