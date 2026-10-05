@@ -104,6 +104,7 @@ Integrate with these themes important perceptions about commerce overshadowing t
 > 
 > Let me write now.
 </details>
+
 # The Dubious Triumph: Turing's Ghost in the Machine of the Market
 
 ## I. An Imitation Machine at the Center of the Age
