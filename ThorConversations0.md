@@ -52,6 +52,8 @@ https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Ornit
 
 https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-8%20-Thor-%F0%9F%A4%96LLM-Commerce-Over-Research.md
 
+https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Mistral3-small-Thor-%E2%9A%96%EF%B8%8FAI-CommercevsAcademicLegacy.md
+
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/734d6735-a66f-443c-9fd9-445e4c6860c3" />
 
 ### MedGemma and Clinical Information - Peritoneal Dialysis
