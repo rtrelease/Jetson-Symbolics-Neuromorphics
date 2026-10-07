@@ -35,6 +35,7 @@ Edit and merge the uploaded text essays into a unified commentary essay.
 >     *   *Tokenization:* Explain the double meaning of "tokens" (speech vs. reward/token gestures) [2].
 >     *   *The Cycle:* Harm -> apology -> stabilization -> release [1].
 </details>
+
 **The Tokenization of Accountability: A Commentary on AI and Corporate Contrition**
 
 The current artificial intelligence revolution is marked by a profound dissonance: a wide gap between the polished rhetoric of transformation and the cold reality of extraction [1]. At the center of this tension lies the "myth of the apologetic AI" and the performative nature of corporate responsibility in the tech industry.
