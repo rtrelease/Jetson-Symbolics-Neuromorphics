@@ -14,3 +14,5 @@
  - [Mistral-small-3.1](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Mistral-small-3-1-Thor-InsincereApologiesinTech.md)
 
  - [Nemotron-3.5-lightning #2 Edit/Merge](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron-3.5-lightning-Thor-%F0%9F%AA%99%20Tokenized%20AI%20Accountability.md)
+
+ - [Gemma 4 #2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4-Thor-AIandCorporateAccountability%F0%9F%A4%96.md)
