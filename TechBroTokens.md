@@ -8,4 +8,5 @@
  - [Qwen 3.8 #2](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-8-Thor-TechIndustry's%20PerformativeApologies%F0%9F%8E%AD.md)
 
  - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4-Thor-TechIndustry'sPerformativeApologies%F0%9F%8E%AD.md)
- - 
+
+ - [Nemotron-3.5-lightning](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron-3.5-lightning-Thor-%F0%9F%AA%99TokenEconomyCEOs.md)
