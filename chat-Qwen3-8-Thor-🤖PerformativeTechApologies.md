@@ -29,6 +29,7 @@ Edit and integrate the uploaded text essays into a unified commentary essay with
 > 
 > Let me make sure the essay flows well and doesn't just repeat ideas. I'll need to merge overlapping concepts (both talk about performative apologies, both mention the cycle) while preserving the distinct angles each source offers.
 </details>
+
 # Tokens for Tech Bros: When the Machines Learned to Apologize But the Humans Didn't
 
 There is a particular kind of irony in the modern AI moment. We have spent billions of parameters and countless compute cycles building machines whose entire purpose is fluent human speech—including the speech of contrition. Ask a large language model for an apology and it will provide one promptly, warmly, almost cheerfully: "I'm sorry if my previous response was unhelpful," or "I apologize for any confusion." The machine has absorbed the entire etiquette of regret from the corpus of human text and regurgitates it flawlessly [1]. Meanwhile, the human beings who run the companies behind these systems cannot be coaxed into issuing a genuine apology if their lives depended on it—and we know, empirically, that their lives do not have to depend on it [1].
