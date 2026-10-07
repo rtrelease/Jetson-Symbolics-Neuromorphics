@@ -42,6 +42,7 @@ Edit and merge the uploaded text essays into a unified commentary essay with the
 > 
 > Let me write this as a polished, unified essay.
 </details>
+
 # Tokens for Tech Bros: When Empathy Is the First Casualty of the AI Boom
 
 There is a particular brand of silence that follows a tech company's public relations disaster. It is not the quiet of reflection, nor the hush of genuine contrition. It is the calculated pause of a corporation that has already assessed its legal exposure, refreshed its investor deck, and moved on to the next quarter's revenue targets. The growing dissonance at the heart of the artificial intelligence revolution is best captured in the gap between the rhetoric of transformation and the reality of extraction [1].
