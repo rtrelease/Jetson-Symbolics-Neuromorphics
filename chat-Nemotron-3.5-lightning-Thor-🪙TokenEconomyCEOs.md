@@ -59,6 +59,7 @@ Tokens for Tech Bros: Sociopathic CEOs and LLMs Don’t Really Apologize When Th
 > 
 >    All good. I'll draft.⟹
 </details>
+
 **Tokens for Tech Bros: When Empathy Is the First Casualty of the AI Boom**
 
 There is a particular brand of silence that follows a tech company’s public relations disaster. It isn’t the quiet of reflection, nor the hush of genuine contrition. It is the calculated pause of a corporation that has already calculated its legal exposure, refreshed its investor deck, and moved on to the next quarter’s revenue targets. The title “Tokens for Tech Bros: Sociopathic CEOs and LLMs Don’t Really Apologize When Their Commercial Product Sales Are The Ultimate Objectives” encapsulates a growing dissonance at the heart of the artificial intelligence revolution: the gap between the rhetoric of transformation and the reality of extraction.
