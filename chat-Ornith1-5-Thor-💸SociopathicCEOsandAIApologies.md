@@ -65,6 +65,7 @@ Tokens for Tech Bros: Sociopathic CEOs and LLMs Don’t Really Apologize When Th
 > 
 > Let me write it now.
 </details>
+
 # Tokens for Tech Bros: When the Machines Learned to Apologize But the Humans Didn't
 
 There is a particular kind of irony in the modern AI moment. We have spent billions of parameters and countless compute cycles building machines whose entire purpose is to fluent human speech—including the speech of contrition. Ask an LLM for an apology and it will provide one promptly, warmly, almost cheerfully: "I'm sorry if my previous response was unhelpful," or "I apologize for any confusion." The machine has absorbed the entire etiquette of regret from the corpus of our text and regurgitates it flawlessly. Meanwhile, the human beings who run the companies behind these systems cannot be coaxed into issuing a genuine apology if their lives depended on it—and we know, empirically, that their lives do not have to depend on it.
