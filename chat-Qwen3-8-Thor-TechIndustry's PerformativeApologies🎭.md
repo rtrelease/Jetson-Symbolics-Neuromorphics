@@ -27,6 +27,7 @@ Tokens for Tech Bros: Sociopathic CEOs and LLMs Don’t Really Apologize When Th
 > 
 > Let me write this as a proper essay with a clear voice.
 </details>
+
 # Tokens for Tech Bros
 
 There is a particular cadence to the modern corporate apology. You can hear it before you read a single word. It is the cadence of a man in a quarter-zip sweater standing behind a podium that was designed to make him look contemplative, tilting his chin down precisely fifteen degrees, and saying, in a register carefully calibrated between "I am a person" and "I am a balance sheet," something like: *"We hear you. We're listening. And we're going to do better."*
