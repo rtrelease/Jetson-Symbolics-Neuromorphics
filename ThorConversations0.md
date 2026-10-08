@@ -44,19 +44,6 @@
 
  - [Nemotron 3.5 lightning v3](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron-3.5-lightning-Thor-%F0%9F%93%89LLM-CommercialFoundations.md)
 
-### Tokens for Tech Bros
-
- - [GPT-OSS:20b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-GPT-OSS-20-Thor-%F0%9F%92%B0CommercevsAcademicAI.md)
-
- - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4%20-The-AI-Imitation-Machine%F0%9F%A4%96.md)
-
- - [Nemotron3:33b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-33b-%F0%9F%A4%96CommercialTriumphOverFoundations.md)
-
- - [Ornith 1.5](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Ornith1-5-Thor-%F0%9F%A4%96LLMs'DubiousCommercialTriumph.md)
-
- - [Qwen 3.8](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-8%20-Thor-%F0%9F%A4%96LLM-Commerce-Over-Research.md)
-
- - [Mistral3-small-next](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Mistral3-small-Thor-%E2%9A%96%EF%B8%8FAI-CommercevsAcademicLegacy.md)
 
 <img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/734d6735-a66f-443c-9fd9-445e4c6860c3" />
 
