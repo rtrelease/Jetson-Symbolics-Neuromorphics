@@ -44,6 +44,8 @@
 
  - [Nemotron 3.5 lightning v3](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron-3.5-lightning-Thor-%F0%9F%93%89LLM-CommercialFoundations.md)
 
+### Tokens for Tech Bros
+
  - [GPT-OSS:20b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-GPT-OSS-20-Thor-%F0%9F%92%B0CommercevsAcademicAI.md)
 
  - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4%20-The-AI-Imitation-Machine%F0%9F%A4%96.md)
