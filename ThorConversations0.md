@@ -23,7 +23,9 @@
 
  - [GPT-OSS:20b session on computational psychology and a 'cognitive adapter' for visual LLMs](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Computational%20Psychology%20Overview%20%F0%9F%A7%A0.md)
 
-<img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/2e635c3e-2ee5-41f0-aad4-772c373f359e" />
+
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/4a1f3e17-902a-4032-afce-b02c293543d6" />
+
 
 ### LLMs 101
 
