@@ -10,8 +10,8 @@ Forward-looking at the time, my biomedical research Doctoral program had support
 
 By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP-11 minicomputers and their first-generation LSI IC-based LSI-11 successors. While doing follow-on research in my NIMH postdoctoral fellowship, I also started studying artificial intelligence and symbolic programming on early personal computers.
 
-Since contemporaneous AI research encompassed modeling cognitive functions and  computation with early primitive model 'neurons', this new study track seemed a valuable scientific asset that could be developmentally enhanced with deep understanding of biological brains and behaviors. Then Russell and Norvig's [Artificial Intelligence: A Modern Approach,](https://en.m.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) [(Third Edition,](https://dn721902.ca.archive.org/0/items/ai-russell-norvig/AI_Russell_Norvig.pdf) 
-[Fourth Edition)](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf)
+Since contemporaneous AI research encompassed modeling cognitive functions and  computation with early primitive model 'neurons', this new study track seemed a valuable scientific asset that could be developmentally enhanced with deep understanding of biological brains and behaviors. Then Russell and Norvig's [Artificial Intelligence: A Modern Approach,](https://en.m.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) [(3ed.,](https://dn721902.ca.archive.org/0/items/ai-russell-norvig/AI_Russell_Norvig.pdf) 
+[4 ed.)](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf)
 ultimately became a new foundational textbook for this academic neuroscientist.
 
 Caught up in the *expert system* wave of symbolic AI programming at the outset, the mid-range aim was to become a knowledge engineer, as well as a multi-domain science expert.
