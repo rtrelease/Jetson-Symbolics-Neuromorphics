@@ -21,3 +21,4 @@
 
  - [Qwen 3.8 #4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Qwen3-8-Thor-%F0%9F%A4%96%20AI%20ApologyTokens.md)
 
+<img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/e26fcb4c-71d6-4e06-ae73-84309e22cdb0" />
