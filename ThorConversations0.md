@@ -44,11 +44,11 @@
 
  - [Nemotron 3.5 lightning v3](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Clone%20of%20Nemotron-3.5-lightning-Thor-%F0%9F%93%89LLM-CommercialFoundations.md)
 
-https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-GPT-OSS-20-Thor-%F0%9F%92%B0CommercevsAcademicAI.md
+ - [GPT-OSS:20b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-GPT-OSS-20-Thor-%F0%9F%92%B0CommercevsAcademicAI.md)
 
-https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4%20-The-AI-Imitation-Machine%F0%9F%A4%96.md
+ - [Gemma 4](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Gemma4%20-The-AI-Imitation-Machine%F0%9F%A4%96.md)
 
-https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-33b-%F0%9F%A4%96CommercialTriumphOverFoundations.md
+ - [Nemotron3:33b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Nemotron3-33b-%F0%9F%A4%96CommercialTriumphOverFoundations.md)
 
 https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Ornith1-5-Thor-%F0%9F%A4%96LLMs'DubiousCommercialTriumph.md
 
