@@ -23,4 +23,4 @@
 
 <img width="1488" height="2266" alt="image" src="https://github.com/user-attachments/assets/e26fcb4c-71d6-4e06-ae73-84309e22cdb0" />
 
-https://www.theguardian.com/lifeandstyle/picture/2026/oct/09/mark-zuckerberg-is-leading-us-a-merry-dance-the-stephen-collins-cartoon
+[Zuck pivots...](https://www.theguardian.com/lifeandstyle/picture/2026/oct/09/mark-zuckerberg-is-leading-us-a-merry-dance-the-stephen-collins-cartoon)
