@@ -1,6 +1,6 @@
 ## 21st Century Social Engineering for Leveraging the Turing Test and Commercial Faith in LLMs
 
-### Simple Categorization of Artificial Intelligence According to Russell and Norvig
+### Simple Categorization of Artificial Intelligence According to Russell and Norvig, [3e](https://dn721902.ca.archive.org/0/items/ai-russell-norvig/AI_Russell_Norvig.pdf)
 <img width="1717" height="1241" alt="image" src="https://github.com/user-attachments/assets/a3201c9c-ae19-4697-846b-cb7aa6f3ff98" />
 
  - **Thinking humanly: The cognitive modeling approach**
