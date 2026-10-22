@@ -13,4 +13,4 @@
 
 ### Reversing the AI Centaur
 
-[More Doctorow - Surviving AI](https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence)
+[More Doctorow - Surviving AI](https://rec.ericnotabot.com/books/2026/reverse-centaurs-guide-to-life-after-ai.pdf)
