@@ -4,3 +4,4 @@
 
 
  - [Talkie Toaster vs Bonsai-2:27b](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/chat-Bonsai2-27b-7920-%F0%9F%93%B7VintageSpeakerImageDescription%20.md)
+
