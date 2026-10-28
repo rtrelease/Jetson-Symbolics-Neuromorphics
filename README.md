@@ -60,7 +60,7 @@
  54. [Neuromorphic and Hybrid Agent Development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NengoAgent.md)
  55. **Computational Intelligence -** ***When Attention is not Enough!***
  56. [**Tokens for Tech Bros:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TechBroTokens.md) **Sociopathic CEOs and LLMs Don’t Really Apologize When Their Commercial Product Sales Are The Ultimate Objectives.**
- 57. [**Talkie Toaster vs Bonsai-2:27b LLM**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TalkieToaster.md) - a future rip from Red Dwarf
+ 57. [**Talkie Toaster vs Bonsai-2:27b vLLM**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TalkieToaster.md) - a future rip from Red Dwarf
  58. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  59. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
  60. **Toward a silicon [amanuensis](https://en.wikipedia.org/wiki/Amanuensis)**? [Reflections](https://github.com/rtrelease/Jetson-Symbolics/blob/main/AI-HypeCycle2022.md) on personal edge research lab HPC+AI in the Age of Big Data Sciences and Teams in *The Cloud*
