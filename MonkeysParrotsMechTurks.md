@@ -1,7 +1,5 @@
 ## The Commercial Race for the Soul of Scholarly AI Research: Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks
 
-### Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks Versus Academic AI Research
-
  - [Qwen 3.6](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-7920-MonkeysParrotsTurks.md)
 
  - [Gemma 4](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Gemma4-7920-AI%20Mimicry%20and%20Commercialization%20%F0%9F%A4%96.md)
