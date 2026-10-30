@@ -46,6 +46,8 @@ Create an image of a Jetson Xavier NX computer vision system running an ImageNet
 **Probabilistic Parrots off conquering the Universe…**
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2452b09a-ba02-4ccc-b7f2-2afd966545c1" />
 
-**Halloween Eve @ AI Lab**
+**Halloween Eve @ AI Lab…**
 <img width="3755" height="2289" alt="image" src="https://github.com/user-attachments/assets/264e509b-8e38-41d7-b0fd-c107369edf98" />
+**testing Medgemma-27B for analytic computational psychiatry**
+<img width="744" height="1133" alt="image" src="https://github.com/user-attachments/assets/2ad87369-1bd6-4e07-b205-96055adc04fd" />
 
