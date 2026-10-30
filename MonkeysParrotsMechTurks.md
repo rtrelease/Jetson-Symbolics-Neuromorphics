@@ -1,4 +1,6 @@
-## Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks Versus Academic AI Research
+## The Commercial Race for the Soul of Scholarly AI Research: Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks
+
+### Infinite Monkeys, Probabilistic Parrots, and Mechanical Turks Versus Academic AI Research
 
  - [Qwen 3.6](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Qwen3-6-7920-MonkeysParrotsTurks.md)
 
@@ -6,7 +8,7 @@
    
  - [Nemotron 3](https://github.com/rtrelease/RapidEyeTechnology/blob/master/chat-Nemotron3-33-7920-ParrotsMonkeysTurks.md)
 
-## “AI Needs You: How We Can Change AI's Future and Save Our Own” by Verity Harding
+### “AI Needs You: How We Can Change AI's Future and Save Our Own” by Verity Harding
 
  - [AI Needs You… Publisher’s site](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you)
 
