@@ -54,7 +54,7 @@
  46. [**Computational Sovereignty**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputationalSovereignty.md) **on the Edge** 
  47. **August 2026 AI and Agents Special Issue with Cerf Editorial,** [**Communications of the ACM**](https://mags.acm.org/communications/library/item/august_2026/)
  48. **Psychoradiology Review:** [**Neuroimaging of Smartphone (Over-)Use**](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkad001/7022348?login=false)
- 49. **Frontiers in Neural Circuits:** [**Joaquin Fuster’s theory of *cognits*,**](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.790691/full) dynamic functional brain networks for distributed memory, perception, and actions
+ 49. **Frontiers in Neural Circuits:** [**Joaquin Fuster’s theory of *cognits*,**](https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2021.790691/full) dynamic functional primate brain networks for distributed memory, perception, and actions
  50.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
  51.  **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  54. [Neuromorphic and Hybrid Agent Development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NengoAgent.md)
