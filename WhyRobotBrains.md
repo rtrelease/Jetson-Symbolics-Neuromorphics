@@ -47,7 +47,7 @@ Over the last several years, the technophilic public's attention and academic ar
 
 There was a *land-rush* of corporations aiming to use online chatbot apps to supplant human employees in public-facing user support positions and others.
 
-Large amounts of money, energy, land, and water continue being expended to develop new AI services and *exascale* data center cloud infrastructures, with absurd signing bonuses offered to the most highly sought CS, math, and data science grads who could 'code the real deal'.
+Large amounts of money, energy, land, and water continue being expended to develop new AI services and *exascale* data center cloud infrastructures, with absurd early signing bonuses offered to the most highly sought CS, math, and data science grads who could 'code the real deal'.
 
 But beyond the historical decadal waves of alternating interest in symbolic and connectionist artificial intelligence research and development, the current connectionist AI wave at times seems more like a mutation of the ['dotcom bubble' theme.](https://www.theguardian.com/technology/2025/oct/23/ai-bubble-economy-workers-wage-growth)
 
