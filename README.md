@@ -58,7 +58,7 @@
  50.  **Parse this: Reifying *neuro-symbolic neuromorphic AI***
  51.  **<ins>Polymorphic Neural Systems</ins>:** Integrating multiple structural paradigms for new autonomous machines
  54. [Neuromorphic and Hybrid Agent Development](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/NengoAgent.md)
- 55. **Computational Intelligence -** ***When Attention is not Enough!***
+ 55. **Computational Intelligence -** ***Why Attention is not Enough!***
  56. [**Tokens for Tech Bros:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TechBroTokens.md) **Sociopathic CEOs and LLMs Don’t Really Apologize When Their Commercial Product Sales Are The Ultimate Objectives.**
  57. [**Talkie Toaster vs Bonsai-2:27b vLLM**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TalkieToaster.md) - a retro future *rip*ple from Red Dwarf
  58. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
