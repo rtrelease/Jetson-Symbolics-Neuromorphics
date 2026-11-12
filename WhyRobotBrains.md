@@ -57,7 +57,7 @@ But beyond the historical decadal waves of alternating interest in symbolic and 
 To provide a simple human perspective on the current major facts, for better or worse, AI applications have been starting to work hard for many public and private sector commerical organizations, and artificial intelligence research and development will continue to evolve.  One might expect a down-throttling *correction*, [if not a *bursting bubble*](https://cepr.net/publications/the-ai-bubble-and-counterfeit-money/), in *'AI businesses'* that continue to *burn* through investment capital without generating sustainable real products and services earnings *taking off* into growing profits.
 
 Ethical issues also abound for the growing commercial, military, and intelligence-gathering and physical actions of widely deployed 'AIs', with *emerging* social media harms, pervasive surveillance, and growing political abuses raising other serious concerns.  Educators and schools continue to deal with students electing to use commercial chatbots for generating essays and other class work, let alone instances of
-abuse of generative *faux* videos and social media affecting individuals' well-being.
+abuse of generative *faux* videos and predatory social media affecting individuals' well-being.
 
 *Sic transit...*
 
