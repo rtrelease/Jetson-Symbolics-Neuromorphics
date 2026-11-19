@@ -61,7 +61,7 @@
  55. [**Artifactual Intelligence -**](https://hdsr.mitpress.mit.edu/pub/ja8iock0/release/2) ***Why Attention is not Enough!***
  56. [**Tokens for Tech Bros:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TechBroTokens.md) **Sociopathic CEOs and LLMs Don’t Really Apologize When Their Commercial Product Sales Are The Ultimate Objectives.**
  57. [**Talkie Toaster vs Bonsai-2:27b vLLM**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/TalkieToaster.md) - a retro future *rip*ple from Red Dwarf
- 58. [**AI Goes Mainstream**](https://ai100.stanford.edu/sites/g/files/sbiybj36086/files/media/file/ai100_report_2026.pdf) - Stanford One Hundred Year Study on Artificial Intelligence 2026 Report
+ 58. [**AI Goes Mainstream**](https://ai100.stanford.edu/sites/g/files/sbiybj36086/files/media/file/ai100_report_2026.pdf) - Stanford One Hundred Year Study on Artificial Intelligence, 2026 Report
  59. **Multimodal Agents on the Physical Edge -** Thor Does Sound and Vision
  60. [**Edge Computer Visions 1:**](https://github.com/rtrelease/Jetson-Symbolics-Neuromorphics/blob/main/ComputerVisions1.md) Emergent infinity tunnels and other physical computing phenomena
  61. [**AGX Orin Dev Kit A/V Exoskeleton:**](https://github.com/rtrelease/Jetson-Symbolics/blob/main/OrinExoSkel.md) Supporting sound and vision
