@@ -23,7 +23,7 @@ After getting a medical school faculty appointment with major teaching responsib
 
 All this would currently be considered ‘good old-fashioned’ artificial intelligence (GOFAI), intercalated with a heavy teaching schedule, other academic research projects, and building and managing our first medical school websites and online learning development team. The scope of the resulting [professional publications](https://pubmed.ncbi.nlm.nih.gov/?term=Trelease+RB) can be seen on the National Library of Medicine’s PubMed service.
 
-I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and early server-based NVIDIA Quadro CUDA GPUs.
+I finally started studying artificial neural networks in action after the turn of the new millennium.  First came MatLab experiments with their Neural Networks and Machine Learning Toolboxes and early server-based Nvidia Quadro CUDA GPUs.
 
 ![OrinModAI1](https://user-images.githubusercontent.com/71346897/173706883-8b9418da-0ce3-4aed-a1ad-c10251d9fb43.png)
 
