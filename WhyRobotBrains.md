@@ -61,7 +61,7 @@ abuse of generative *faux* videos and predatory social media affecting individua
 
 *Sic transit...*
 
-As for this old computational neuroscientist and hacker, *edge* AI resources development will continue to be a scholarly refuge, part of an ever-changing and chaotic daily life.
+As for this old computational neuroscientist and hacker, *edge* artificial intelligence resources research and development will continue to be a scholarly refuge, part of an ever-changing and chaotic daily life.
 
 ***Faites vos jeux:  Rien ne va plus!***
 
