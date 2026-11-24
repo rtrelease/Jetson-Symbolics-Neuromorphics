@@ -8,7 +8,7 @@ With the greatest of respect: The perspectives of this Repository do not represe
 
 Forward-looking at the time, my biomedical research Doctoral program had supported productive computer programming as fulfilling one of its legacy scholarly language degree requirements. We had to develop our own data acquisition and analysis programs for research and scientific journal publications, and FORTH was then the chosen language for directly processing data from new analog instrumentation and other lab peripherals.
 
-One of the outcomes of this early research established characteristic patterns of heart rate variation associated with waking and sleep states, which became the bases for sleep-state staging like that currently performed by smartwatches and exercise bands fifty years later.
+One of the outcomes of this early research established characteristic patterns of heart rate variation associated with waking and sleep states, which became the bases for sleep-state staging like that currently performed by smartwatches and exercise bands, fifty years later.
 
 By the 1980s, our behavioral neurophysiology lab had evolved to using 16 bit PDP-11 minicomputers and their first-generation LSI IC-based LSI-11 successors. While doing follow-on research in my NIMH postdoctoral fellowship, I also started studying artificial intelligence and symbolic programming on early personal computers.
 
